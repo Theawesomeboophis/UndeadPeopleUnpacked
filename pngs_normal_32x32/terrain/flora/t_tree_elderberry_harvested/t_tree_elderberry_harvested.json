@@ -1,0 +1,10 @@
+{
+  "id": "t_tree_elderberry_harvested",
+  "fg": [
+    "t_tree_elderberry_harvested"
+  ],
+  "bg": [
+    "t_dirt"
+  ],
+  "rotates": false
+}

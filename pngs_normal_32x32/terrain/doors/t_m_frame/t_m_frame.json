@@ -1,0 +1,12 @@
+{
+  "id": "t_m_frame",
+  "fg": [
+    "t_m_frame"
+  ],
+  "bg": [
+    "t_pavement_bg_dp",
+    "t_missile_exploded",
+    "t_flat_roof"
+  ],
+  "rotates": false
+}

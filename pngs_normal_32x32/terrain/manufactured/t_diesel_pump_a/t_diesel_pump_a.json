@@ -1,0 +1,11 @@
+{
+  "id": "t_diesel_pump_a",
+  "fg": [
+    "t_diesel_pump_a"
+  ],
+  "bg": [
+    "t_pavement_bg_dp",
+    "t_missile_exploded",
+    "t_flat_roof"
+  ]
+}

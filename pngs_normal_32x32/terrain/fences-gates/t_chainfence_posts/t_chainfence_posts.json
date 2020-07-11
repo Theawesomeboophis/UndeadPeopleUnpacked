@@ -1,0 +1,10 @@
+{
+  "id": "t_chainfence_posts",
+  "fg": [
+    "t_chainfence_posts"
+  ],
+  "bg": [
+    "t_dirt"
+  ],
+  "rotates": false
+}

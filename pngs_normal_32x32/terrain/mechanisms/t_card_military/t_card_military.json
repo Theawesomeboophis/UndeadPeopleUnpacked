@@ -1,0 +1,14 @@
+{
+  "id": "t_card_military",
+  "fg": [
+    "t_card_military"
+  ],
+  "bg": [
+    "t_emergency_light_flicker",
+    "t_emergency_light",
+    "t_skylight",
+    "t_sidewalk_bg_dp",
+    "t_sidewalk"
+  ],
+  "rotates": false
+}

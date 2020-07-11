@@ -1,0 +1,99 @@
+{
+  "id": "t_guardrail_bg_dp",
+  "fg": [
+    "t_guardrail_bg_dp"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_guardrail_bg_dp_center"
+      ],
+      "bg": [
+        "t_emergency_light_flicker",
+        "t_emergency_light",
+        "t_skylight",
+        "t_sidewalk_bg_dp",
+        "t_sidewalk"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_guardrail_bg_dp_corner_1",
+        "t_guardrail_bg_dp_corner_2",
+        "t_guardrail_bg_dp_corner_3",
+        "t_guardrail_bg_dp_corner_4"
+      ],
+      "bg": [
+        "t_emergency_light_flicker",
+        "t_emergency_light",
+        "t_skylight",
+        "t_sidewalk_bg_dp",
+        "t_sidewalk"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_guardrail_bg_dp_t_connection_1",
+        "t_guardrail_bg_dp_t_connection_2",
+        "t_guardrail_bg_dp_t_connection_3",
+        "t_guardrail_bg_dp_t_connection_4"
+      ],
+      "bg": [
+        "t_emergency_light_flicker",
+        "t_emergency_light",
+        "t_skylight",
+        "t_sidewalk_bg_dp",
+        "t_sidewalk"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_guardrail_bg_dp_edge_1",
+        "t_guardrail_bg_dp_edge_2"
+      ],
+      "bg": [
+        "t_emergency_light_flicker",
+        "t_emergency_light",
+        "t_skylight",
+        "t_sidewalk_bg_dp",
+        "t_sidewalk"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_guardrail_bg_dp_end_piece_1",
+        "t_guardrail_bg_dp_end_piece_2",
+        "t_guardrail_bg_dp_end_piece_3",
+        "t_guardrail_bg_dp_end_piece_4"
+      ],
+      "bg": [
+        "t_emergency_light_flicker",
+        "t_emergency_light",
+        "t_skylight",
+        "t_sidewalk_bg_dp",
+        "t_sidewalk"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_guardrail_bg_dp_unconnected"
+      ],
+      "bg": [
+        "t_emergency_light_flicker",
+        "t_emergency_light",
+        "t_skylight",
+        "t_sidewalk_bg_dp",
+        "t_sidewalk"
+      ]
+    }
+  ]
+}

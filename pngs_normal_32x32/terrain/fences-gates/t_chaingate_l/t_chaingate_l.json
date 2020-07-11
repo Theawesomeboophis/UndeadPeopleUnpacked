@@ -1,0 +1,12 @@
+{
+  "id": "t_chaingate_l",
+  "fg": [
+    "t_chaingate_l"
+  ],
+  "bg": [
+    "t_pavement_bg_dp",
+    "t_missile_exploded",
+    "t_flat_roof"
+  ],
+  "rotates": false
+}

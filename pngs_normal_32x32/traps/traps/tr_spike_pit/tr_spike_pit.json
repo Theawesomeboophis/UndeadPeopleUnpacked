@@ -1,0 +1,10 @@
+{
+  "id": "tr_spike_pit",
+  "fg": [
+    "tr_spike_pit"
+  ],
+  "bg": [
+    "t_dirt"
+  ],
+  "rotates": false
+}

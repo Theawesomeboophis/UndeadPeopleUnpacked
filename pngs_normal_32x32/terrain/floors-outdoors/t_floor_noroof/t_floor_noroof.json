@@ -1,0 +1,98 @@
+{
+  "id": "t_floor_noroof",
+  "fg": [
+    "t_floor_noroof"
+  ],
+  "bg": [
+    "t_grass_golf_season_winter",
+    "t_grass_dead_season_winter",
+    "t_sand_season_winter",
+    "t_moss_season_winter"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_floor_noroof_center"
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_floor_noroof_corner_1",
+        "t_floor_noroof_corner_2",
+        "t_floor_noroof_corner_3",
+        "t_floor_noroof_corner_4"
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_floor_noroof_t_connection_1",
+        "t_floor_noroof_t_connection_2",
+        "t_floor_noroof_t_connection_3",
+        "t_floor_noroof_t_connection_4"
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_floor_noroof_edge_1",
+        "t_floor_noroof_edge_2"
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_floor_noroof_end_piece_1",
+        "t_floor_noroof_end_piece_2",
+        "t_floor_noroof_end_piece_3",
+        "t_floor_noroof_end_piece_4"
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_floor_noroof_unconnected"
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    }
+  ]
+}

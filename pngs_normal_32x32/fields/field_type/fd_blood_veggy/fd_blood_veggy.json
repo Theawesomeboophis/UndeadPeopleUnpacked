@@ -1,0 +1,105 @@
+{
+  "id": "fd_blood_veggy",
+  "fg": [
+    "fd_blood_veggy"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "fd_blood_veggy_center"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_blood_veggy_corner_1",
+        "fd_blood_veggy_corner_2",
+        "fd_blood_veggy_corner_3",
+        "fd_blood_veggy_corner_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_blood_veggy_t_connection_1",
+        "fd_blood_veggy_t_connection_2",
+        "fd_blood_veggy_t_connection_3",
+        "fd_blood_veggy_t_connection_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_blood_veggy_edge_1",
+        "fd_blood_veggy_edge_2"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_blood_veggy_end_piece_1",
+        "fd_blood_veggy_end_piece_2",
+        "fd_blood_veggy_end_piece_3",
+        "fd_blood_veggy_end_piece_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_blood_veggy_unconnected"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    }
+  ]
+}

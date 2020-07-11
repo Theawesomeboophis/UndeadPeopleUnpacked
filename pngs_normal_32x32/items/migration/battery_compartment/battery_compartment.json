@@ -1,0 +1,8 @@
+{
+  "id": "battery_compartment",
+  "fg": [
+    "battery_compartment"
+  ],
+  "bg": [],
+  "rotates": false
+}

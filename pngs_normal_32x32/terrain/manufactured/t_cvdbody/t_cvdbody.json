@@ -1,0 +1,65 @@
+{
+  "id": "t_cvdbody",
+  "fg": [
+    "t_cvdbody"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "t_cvdbody_corner"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_cvdbody_t_connection"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_cvdbody_end_piece"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_cvdbody_unconnected"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_cvdbody_edge"
+      ],
+      "bg": []
+    },
+    {
+      "id": "center",
+      "fg": [
+        "t_cvdbody_center"
+      ],
+      "bg": []
+    }
+  ]
+}

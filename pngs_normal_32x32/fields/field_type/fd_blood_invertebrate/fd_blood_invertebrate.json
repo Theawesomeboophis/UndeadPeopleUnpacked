@@ -1,0 +1,105 @@
+{
+  "id": "fd_blood_invertebrate",
+  "fg": [
+    "fd_blood_invertebrate"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "fd_blood_invertebrate_center"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_blood_invertebrate_corner_1",
+        "fd_blood_invertebrate_corner_2",
+        "fd_blood_invertebrate_corner_3",
+        "fd_blood_invertebrate_corner_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_blood_invertebrate_t_connection_1",
+        "fd_blood_invertebrate_t_connection_2",
+        "fd_blood_invertebrate_t_connection_3",
+        "fd_blood_invertebrate_t_connection_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_blood_invertebrate_edge_1",
+        "fd_blood_invertebrate_edge_2"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_blood_invertebrate_end_piece_1",
+        "fd_blood_invertebrate_end_piece_2",
+        "fd_blood_invertebrate_end_piece_3",
+        "fd_blood_invertebrate_end_piece_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_blood_invertebrate_unconnected"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    }
+  ]
+}

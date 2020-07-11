@@ -1,0 +1,10 @@
+{
+  "id": "bone_plate",
+  "fg": [
+    "bone_plate"
+  ],
+  "bg": [
+    "alloy_sheet",
+    "vp_sheet_superalloy"
+  ]
+}

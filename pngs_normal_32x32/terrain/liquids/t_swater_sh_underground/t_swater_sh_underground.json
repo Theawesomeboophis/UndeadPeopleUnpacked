@@ -1,0 +1,231 @@
+{
+  "id": "t_swater_sh_underground",
+  "fg": [
+    "t_swater_sh_underground"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_center_9"
+        }
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_corner_9"
+        }
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_swater_sh_underground_t_connection_1",
+        "t_swater_sh_underground_t_connection_2",
+        "t_swater_sh_underground_t_connection_3",
+        "t_swater_sh_underground_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_edge_9"
+        }
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_end_piece_9"
+        }
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_swater_sh_underground_unconnected_9"
+        }
+      ],
+      "bg": []
+    }
+  ]
+}

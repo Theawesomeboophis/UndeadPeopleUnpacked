@@ -1,0 +1,10 @@
+{
+  "id": "t_wall_wattle_half",
+  "fg": [
+    "t_wall_wattle_half"
+  ],
+  "bg": [
+    "t_dirt"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "t_shrub_peanut_harvested",
+  "fg": [
+    "t_shrub_peanut_harvested"
+  ],
+  "bg": [
+    {
+      "weight": 40,
+      "sprite": "t_dirt"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_bg_dirt_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_bg_dirt_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_bg_dirt_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_bg_dirt_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_bg_dirt_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_bg_dirt_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_bg_dirt_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_bg_dirt_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_bg_dirt_9"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_bg_dirt_10"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_bg_dirt_11"
+    }
+  ],
+  "rotates": false
+}

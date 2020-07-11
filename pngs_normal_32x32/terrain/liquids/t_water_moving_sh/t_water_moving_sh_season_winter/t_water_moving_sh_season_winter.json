@@ -1,0 +1,266 @@
+{
+  "id": "t_water_moving_sh_season_winter",
+  "fg": [
+    "t_water_moving_sh_season_winter"
+  ],
+  "bg": [
+    "t_grass_golf_season_winter",
+    "t_grass_dead_season_winter",
+    "t_sand_season_winter",
+    "t_moss_season_winter"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_center_9"
+        }
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_corner_9"
+        }
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_water_moving_sh_season_winter_t_connection_1",
+        "t_water_moving_sh_season_winter_t_connection_2",
+        "t_water_moving_sh_season_winter_t_connection_3",
+        "t_water_moving_sh_season_winter_t_connection_4"
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_edge_9"
+        }
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_end_piece_9"
+        }
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_season_winter_unconnected_9"
+        }
+      ],
+      "bg": [
+        "t_grass_golf_season_winter",
+        "t_grass_dead_season_winter",
+        "t_sand_season_winter",
+        "t_moss_season_winter"
+      ]
+    }
+  ]
+}

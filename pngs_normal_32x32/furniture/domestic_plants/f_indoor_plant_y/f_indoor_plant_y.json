@@ -1,0 +1,11 @@
+{
+  "id": "f_indoor_plant_y",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "f_indoor_plant_y"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

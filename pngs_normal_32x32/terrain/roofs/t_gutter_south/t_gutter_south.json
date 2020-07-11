@@ -1,0 +1,87 @@
+{
+  "id": "t_gutter_south",
+  "fg": [
+    "t_gutter_south"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_gutter_south_center"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_gutter_south_corner_1",
+        "t_gutter_south_corner_2",
+        "t_gutter_south_corner_3",
+        "t_gutter_south_corner_4"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_gutter_south_t_connection_1",
+        "t_gutter_south_t_connection_2",
+        "t_gutter_south_t_connection_3",
+        "t_gutter_south_t_connection_4"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_gutter_south_edge_1",
+        "t_gutter_south_edge_2"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_gutter_south_end_piece_1",
+        "t_gutter_south_end_piece_2",
+        "t_gutter_south_end_piece_3",
+        "t_gutter_south_end_piece_4"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_gutter_south_unconnected"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    }
+  ]
+}

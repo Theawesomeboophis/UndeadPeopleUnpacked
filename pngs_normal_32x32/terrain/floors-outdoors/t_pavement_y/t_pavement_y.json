@@ -1,0 +1,53 @@
+{
+  "id": "t_pavement_y",
+  "fg": [
+    "t_pavement_y"
+  ],
+  "bg": [
+    {
+      "weight": 1111,
+      "sprite": "t_pavement_bg_dp"
+    },
+    {
+      "weight": 1111,
+      "sprite": "t_missile_exploded"
+    },
+    {
+      "weight": 1111,
+      "sprite": "t_flat_roof"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement"
+    }
+  ],
+  "rotates": false
+}

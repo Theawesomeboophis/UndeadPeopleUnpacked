@@ -1,0 +1,13 @@
+{
+  "id": "t_shrub_grape_season_winter",
+  "fg": [
+    "t_shrub_grape_season_winter"
+  ],
+  "bg": [
+    "t_grass_golf_season_winter",
+    "t_grass_dead_season_winter",
+    "t_sand_season_winter",
+    "t_moss_season_winter"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "t_reinforced_door_glass_c",
+  "fg": [
+    "t_reinforced_door_glass_c"
+  ],
+  "bg": [
+    "t_pavement_bg_dp",
+    "t_missile_exploded",
+    "t_flat_roof"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_crossbuck_metal",
+  "fg": [
+    "t_crossbuck_metal"
+  ],
+  "bg": [
+    "t_dirt"
+  ],
+  "rotates": false
+}

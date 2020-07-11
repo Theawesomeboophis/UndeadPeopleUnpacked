@@ -1,0 +1,10 @@
+{
+  "id": "mon_dementia",
+  "fg": [
+    "mon_dementia"
+  ],
+  "bg": [
+    "bg_shadow"
+  ],
+  "rotates": false
+}

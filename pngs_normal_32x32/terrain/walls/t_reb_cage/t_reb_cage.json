@@ -1,0 +1,13 @@
+{
+  "id": "t_reb_cage",
+  "fg": [
+    "t_reb_cage"
+  ],
+  "bg": [
+    "t_emergency_light_flicker",
+    "t_emergency_light",
+    "t_skylight",
+    "t_sidewalk_bg_dp",
+    "t_sidewalk"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "t_chickenwire_gate_o",
+  "fg": [
+    "t_chickenwire_gate_o"
+  ],
+  "bg": [
+    "t_pavement_bg_dp",
+    "t_missile_exploded",
+    "t_flat_roof"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_region_shrub",
+  "fg": [
+    "t_region_shrub"
+  ],
+  "bg": [
+    "t_dirt"
+  ],
+  "rotates": false
+}

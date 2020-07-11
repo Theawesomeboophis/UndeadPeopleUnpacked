@@ -1,0 +1,10 @@
+{
+  "id": "t_rope_up",
+  "fg": [
+    "t_rope_up"
+  ],
+  "bg": [
+    "bg_big_pavement"
+  ],
+  "rotates": false
+}

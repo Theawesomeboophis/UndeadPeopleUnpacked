@@ -1,0 +1,15 @@
+{
+  "id": "fd_plasma",
+  "fg": [
+    "fd_plasma"
+  ],
+  "bg": [
+    "f_null",
+    "t_null",
+    "t_sliding_wall_o",
+    "explosion",
+    "explosion_medium",
+    "explosion_weak"
+  ],
+  "rotates": false
+}

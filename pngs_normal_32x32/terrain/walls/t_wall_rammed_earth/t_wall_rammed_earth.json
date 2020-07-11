@@ -1,0 +1,105 @@
+{
+  "id": "t_wall_rammed_earth",
+  "fg": [
+    "t_wall_rammed_earth"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_wall_rammed_earth_center"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_wall_rammed_earth_corner_1",
+        "t_wall_rammed_earth_corner_2",
+        "t_wall_rammed_earth_corner_3",
+        "t_wall_rammed_earth_corner_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_wall_rammed_earth_t_connection_1",
+        "t_wall_rammed_earth_t_connection_2",
+        "t_wall_rammed_earth_t_connection_3",
+        "t_wall_rammed_earth_t_connection_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_wall_rammed_earth_edge_1",
+        "t_wall_rammed_earth_edge_2"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_wall_rammed_earth_end_piece_1",
+        "t_wall_rammed_earth_end_piece_2",
+        "t_wall_rammed_earth_end_piece_3",
+        "t_wall_rammed_earth_end_piece_4"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_wall_rammed_earth_unconnected"
+      ],
+      "bg": [
+        "f_null",
+        "t_null",
+        "t_sliding_wall_o",
+        "explosion",
+        "explosion_medium",
+        "explosion_weak"
+      ]
+    }
+  ]
+}

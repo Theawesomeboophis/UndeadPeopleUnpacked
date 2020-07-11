@@ -1,0 +1,10 @@
+{
+  "id": "t_golf_hole",
+  "fg": [
+    "t_golf_hole"
+  ],
+  "bg": [
+    "t_dirt"
+  ],
+  "rotates": false
+}

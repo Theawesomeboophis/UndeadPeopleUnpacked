@@ -1,0 +1,39 @@
+{
+  "id": "t_missile",
+  "fg": [
+    "t_missile"
+  ],
+  "bg": [
+    "t_pavement_bg_dp",
+    "t_missile_exploded",
+    "t_flat_roof"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "t_missile_corner"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "center",
+      "fg": [
+        "t_missile_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_missile_t_connection"
+      ],
+      "bg": []
+    }
+  ]
+}

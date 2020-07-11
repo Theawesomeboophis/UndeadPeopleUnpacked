@@ -1,0 +1,91 @@
+{
+  "id": "t_wax",
+  "fg": [
+    "t_wax"
+  ],
+  "bg": [
+    "t_pavement_bg_dp",
+    "t_missile_exploded",
+    "t_flat_roof"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_wax_center"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_wax_corner_1",
+        "t_wax_corner_2",
+        "t_wax_corner_3",
+        "t_wax_corner_4"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_wax_t_connection_1",
+        "t_wax_t_connection_2",
+        "t_wax_t_connection_3",
+        "t_wax_t_connection_4"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_wax_edge_1",
+        "t_wax_edge_2"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_wax_end_piece_1",
+        "t_wax_end_piece_2",
+        "t_wax_end_piece_3",
+        "t_wax_end_piece_4"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_wax_unconnected"
+      ],
+      "bg": [
+        "t_pavement_bg_dp",
+        "t_missile_exploded",
+        "t_flat_roof"
+      ]
+    }
+  ]
+}
