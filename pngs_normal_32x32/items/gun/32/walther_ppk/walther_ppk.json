@@ -3,6 +3,8 @@
   "fg": [
     "walther_ppk"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

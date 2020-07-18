@@ -3,6 +3,8 @@
   "fg": [
     "wire_barbed"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

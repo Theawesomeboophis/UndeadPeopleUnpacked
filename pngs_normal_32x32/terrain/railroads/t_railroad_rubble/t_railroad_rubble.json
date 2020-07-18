@@ -3,6 +3,8 @@
   "fg": [
     "t_railroad_rubble"
   ],
-  "bg": [],
+  "bg": [
+    "bg_gravel_dirt"
+  ],
   "rotates": false
 }

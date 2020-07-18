@@ -3,5 +3,7 @@
   "fg": [
     "manual_fencing"
   ],
-  "bg": []
+  "bg": [
+    "bg_book_magazine"
+  ]
 }

@@ -3,6 +3,8 @@
   "fg": [
     "magnifying_glass"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

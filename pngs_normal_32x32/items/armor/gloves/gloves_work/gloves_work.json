@@ -3,5 +3,7 @@
   "fg": [
     "gloves_work"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

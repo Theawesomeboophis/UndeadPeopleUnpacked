@@ -3,5 +3,7 @@
   "fg": [
     "chainmail_vest"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

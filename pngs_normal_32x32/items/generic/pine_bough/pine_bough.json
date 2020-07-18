@@ -3,6 +3,8 @@
   "fg": [
     "pine_bough"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

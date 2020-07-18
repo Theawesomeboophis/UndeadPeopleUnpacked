@@ -3,5 +3,7 @@
   "fg": [
     "chem_aluminium_powder"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

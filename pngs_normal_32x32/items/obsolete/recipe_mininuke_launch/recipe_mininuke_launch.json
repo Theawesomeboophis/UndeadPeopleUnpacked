@@ -3,6 +3,8 @@
   "fg": [
     "recipe_mininuke_launch"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_magazine"
+  ],
   "rotates": false
 }

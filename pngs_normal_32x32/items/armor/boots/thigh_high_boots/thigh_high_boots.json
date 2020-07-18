@@ -3,5 +3,7 @@
   "fg": [
     "thigh_high_boots"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

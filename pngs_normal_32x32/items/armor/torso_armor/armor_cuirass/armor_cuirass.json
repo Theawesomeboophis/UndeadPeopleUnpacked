@@ -3,5 +3,7 @@
   "fg": [
     "armor_cuirass"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

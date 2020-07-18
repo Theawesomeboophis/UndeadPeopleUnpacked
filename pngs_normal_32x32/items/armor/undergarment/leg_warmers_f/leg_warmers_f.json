@@ -3,5 +3,7 @@
   "fg": [
     "leg_warmers_f"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

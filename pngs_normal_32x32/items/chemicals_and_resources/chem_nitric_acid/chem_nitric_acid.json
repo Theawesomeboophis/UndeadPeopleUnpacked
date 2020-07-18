@@ -12,84 +12,42 @@
       "fg": [
         "chem_nitric_acid_center"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "corner",
       "fg": [
         "chem_nitric_acid_corner"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "edge",
       "fg": [
         "chem_nitric_acid_edge"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "t_connection",
       "fg": [
         "chem_nitric_acid_t_connection"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "end_piece",
       "fg": [
         "chem_nitric_acid_end_piece"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "unconnected",
       "fg": [
         "chem_nitric_acid_unconnected"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     }
   ]
 }

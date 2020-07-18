@@ -3,5 +3,7 @@
   "fg": [
     "vambrace_larmor"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

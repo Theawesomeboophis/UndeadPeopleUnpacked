@@ -3,6 +3,8 @@
   "fg": [
     "textbook_armwest"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

@@ -3,6 +3,8 @@
   "fg": [
     "homemade_hotdogs"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

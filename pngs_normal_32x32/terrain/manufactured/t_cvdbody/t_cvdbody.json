@@ -13,9 +13,7 @@
         "t_cvdbody_corner"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -24,9 +22,7 @@
         "t_cvdbody_t_connection"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -35,9 +31,7 @@
         "t_cvdbody_end_piece"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {

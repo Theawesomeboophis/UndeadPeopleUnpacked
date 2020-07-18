@@ -3,6 +3,8 @@
   "fg": [
     "engine_block_small"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": true
 }

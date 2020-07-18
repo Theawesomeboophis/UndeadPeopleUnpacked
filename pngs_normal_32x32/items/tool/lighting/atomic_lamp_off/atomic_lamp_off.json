@@ -3,6 +3,8 @@
   "fg": [
     "atomic_lamp_off"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

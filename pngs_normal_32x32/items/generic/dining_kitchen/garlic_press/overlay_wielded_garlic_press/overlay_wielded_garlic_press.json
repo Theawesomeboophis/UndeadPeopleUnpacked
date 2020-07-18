@@ -3,5 +3,7 @@
   "fg": [
     "overlay_wielded_garlic_press"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

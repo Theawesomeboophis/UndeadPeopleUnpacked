@@ -3,5 +3,7 @@
   "fg": [
     "decoy_anarch"
   ],
-  "bg": []
+  "bg": [
+    "bg_book"
+  ]
 }

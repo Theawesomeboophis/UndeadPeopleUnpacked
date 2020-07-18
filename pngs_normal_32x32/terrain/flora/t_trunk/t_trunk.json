@@ -4,7 +4,7 @@
     "t_trunk"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false,
   "multitile": true,
@@ -15,7 +15,7 @@
         "t_trunk_center"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -27,7 +27,7 @@
         "t_trunk_corner_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -39,7 +39,7 @@
         "t_trunk_t_connection_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -49,7 +49,7 @@
         "t_trunk_edge_2"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -61,7 +61,7 @@
         "t_trunk_end_piece_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -101,7 +101,7 @@
         }
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     }
   ]

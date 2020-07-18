@@ -3,6 +3,8 @@
   "fg": [
     "recipe_chimera"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_magazine"
+  ],
   "rotates": false
 }

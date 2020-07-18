@@ -4,7 +4,7 @@
     "t_grass"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false,
   "multitile": true,
@@ -34,7 +34,7 @@
         }
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -46,7 +46,7 @@
         "t_grass_corner_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -58,7 +58,7 @@
         "t_grass_t_connection_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -68,7 +68,7 @@
         "t_grass_edge_2"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -80,7 +80,7 @@
         "t_grass_end_piece_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -89,7 +89,7 @@
         "t_grass_unconnected"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     }
   ]

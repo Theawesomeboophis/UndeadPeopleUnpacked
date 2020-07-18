@@ -3,5 +3,7 @@
   "fg": [
     "overlay_wielded_coffee_raw_kentucky"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -3,6 +3,8 @@
   "fg": [
     "computer_science"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

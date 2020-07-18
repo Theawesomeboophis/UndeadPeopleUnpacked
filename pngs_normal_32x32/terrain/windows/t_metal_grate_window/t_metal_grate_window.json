@@ -3,5 +3,7 @@
   "fg": [
     "t_metal_grate_window"
   ],
-  "bg": []
+  "bg": [
+    "bg_t_floor"
+  ]
 }

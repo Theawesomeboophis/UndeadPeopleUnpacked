@@ -3,6 +3,8 @@
   "fg": [
     "broken_turret_bmg"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
   "rotates": true
 }

@@ -3,6 +3,8 @@
   "fg": [
     "hat_hunting"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

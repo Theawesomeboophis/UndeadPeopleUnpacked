@@ -3,5 +3,7 @@
   "fg": [
     "textbook_fireman"
   ],
-  "bg": []
+  "bg": [
+    "bg_book"
+  ]
 }

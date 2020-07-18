@@ -3,6 +3,8 @@
   "fg": [
     "record_accounting"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_manual"
+  ],
   "rotates": false
 }

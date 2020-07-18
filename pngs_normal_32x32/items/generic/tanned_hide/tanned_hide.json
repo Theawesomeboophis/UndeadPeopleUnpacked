@@ -3,6 +3,8 @@
   "fg": [
     "tanned_hide"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

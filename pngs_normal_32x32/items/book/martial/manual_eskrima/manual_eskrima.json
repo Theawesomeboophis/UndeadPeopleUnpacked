@@ -3,5 +3,7 @@
   "fg": [
     "manual_eskrima"
   ],
-  "bg": []
+  "bg": [
+    "bg_book_magazine"
+  ]
 }

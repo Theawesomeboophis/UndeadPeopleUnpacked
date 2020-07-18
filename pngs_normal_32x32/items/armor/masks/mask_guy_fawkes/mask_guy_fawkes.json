@@ -3,5 +3,7 @@
   "fg": [
     "mask_guy_fawkes"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

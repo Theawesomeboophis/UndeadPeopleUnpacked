@@ -4,9 +4,7 @@
     "t_rock_wall_half"
   ],
   "bg": [
-    "t_pavement_bg_dp",
-    "t_missile_exploded",
-    "t_flat_roof"
+    "bg_pavement"
   ],
   "rotates": false,
   "multitile": true,
@@ -17,9 +15,7 @@
         "t_rock_wall_half_center"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -31,9 +27,7 @@
         "t_rock_wall_half_corner_4"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -45,9 +39,7 @@
         "t_rock_wall_half_t_connection_4"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -57,9 +49,7 @@
         "t_rock_wall_half_edge_2"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -71,9 +61,7 @@
         "t_rock_wall_half_end_piece_4"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -82,9 +70,7 @@
         "t_rock_wall_half_unconnected"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     }
   ]

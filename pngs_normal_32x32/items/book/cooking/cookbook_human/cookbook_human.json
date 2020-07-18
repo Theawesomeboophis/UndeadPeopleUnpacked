@@ -3,6 +3,8 @@
   "fg": [
     "cookbook_human"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_magazine"
+  ],
   "rotates": false
 }

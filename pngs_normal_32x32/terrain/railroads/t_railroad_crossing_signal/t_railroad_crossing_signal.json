@@ -4,7 +4,7 @@
     "t_railroad_crossing_signal"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

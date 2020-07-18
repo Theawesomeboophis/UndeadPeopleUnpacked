@@ -3,5 +3,7 @@
   "fg": [
     "duster_survivor"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

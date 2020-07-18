@@ -3,5 +3,7 @@
   "fg": [
     "mask_gas_xl"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

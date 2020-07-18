@@ -3,5 +3,7 @@
   "fg": [
     "hat_newsboy"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -3,5 +3,7 @@
   "fg": [
     "tunic_rag"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

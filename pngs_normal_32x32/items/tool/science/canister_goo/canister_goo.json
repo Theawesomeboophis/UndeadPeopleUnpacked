@@ -3,6 +3,8 @@
   "fg": [
     "canister_goo"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

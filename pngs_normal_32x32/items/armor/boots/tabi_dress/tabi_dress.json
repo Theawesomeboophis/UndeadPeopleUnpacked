@@ -3,5 +3,7 @@
   "fg": [
     "tabi_dress"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

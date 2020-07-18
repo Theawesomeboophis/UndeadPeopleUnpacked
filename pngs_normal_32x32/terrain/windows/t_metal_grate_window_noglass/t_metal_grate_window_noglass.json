@@ -3,6 +3,8 @@
   "fg": [
     "t_metal_grate_window_noglass"
   ],
-  "bg": [],
+  "bg": [
+    "bg_t_floor"
+  ],
   "rotates": false
 }

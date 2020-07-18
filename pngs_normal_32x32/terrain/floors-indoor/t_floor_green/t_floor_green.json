@@ -4,10 +4,7 @@
     "t_floor_green"
   ],
   "bg": [
-    "t_grass_golf_season_winter",
-    "t_grass_dead_season_winter",
-    "t_sand_season_winter",
-    "t_moss_season_winter"
+    "bg_snow"
   ],
   "rotates": true,
   "multitile": true,
@@ -18,7 +15,7 @@
         "t_floor_green_center"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -30,7 +27,7 @@
         "t_floor_green_corner_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -42,7 +39,7 @@
         "t_floor_green_t_connection_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -52,7 +49,7 @@
         "t_floor_green_edge_2"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -64,7 +61,7 @@
         "t_floor_green_end_piece_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -73,7 +70,7 @@
         "t_floor_green_unconnected"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     }
   ]

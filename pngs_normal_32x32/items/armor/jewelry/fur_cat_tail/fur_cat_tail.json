@@ -3,6 +3,8 @@
   "fg": [
     "fur_cat_tail"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

@@ -3,5 +3,7 @@
   "fg": [
     "dump_pouch"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

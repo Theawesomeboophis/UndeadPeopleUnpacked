@@ -3,5 +3,7 @@
   "fg": [
     "armguard_larmor"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

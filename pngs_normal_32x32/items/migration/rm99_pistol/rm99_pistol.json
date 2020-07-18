@@ -3,6 +3,8 @@
   "fg": [
     "rm99_pistol"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

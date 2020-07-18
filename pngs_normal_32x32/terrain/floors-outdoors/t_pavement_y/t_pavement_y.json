@@ -6,15 +6,7 @@
   "bg": [
     {
       "weight": 1111,
-      "sprite": "t_pavement_bg_dp"
-    },
-    {
-      "weight": 1111,
-      "sprite": "t_missile_exploded"
-    },
-    {
-      "weight": 1111,
-      "sprite": "t_flat_roof"
+      "sprite": "bg_pavement"
     },
     {
       "weight": 1,

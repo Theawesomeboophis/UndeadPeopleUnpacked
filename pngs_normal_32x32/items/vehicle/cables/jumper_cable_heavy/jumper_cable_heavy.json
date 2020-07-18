@@ -3,5 +3,7 @@
   "fg": [
     "jumper_cable_heavy"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

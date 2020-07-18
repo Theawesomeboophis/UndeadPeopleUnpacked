@@ -3,5 +3,7 @@
   "fg": [
     "judo_gi"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

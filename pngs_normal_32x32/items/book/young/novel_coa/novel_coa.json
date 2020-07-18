@@ -3,6 +3,8 @@
   "fg": [
     "novel_coa"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_manual"
+  ],
   "rotates": false
 }

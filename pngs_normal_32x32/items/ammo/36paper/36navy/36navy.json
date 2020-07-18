@@ -3,5 +3,7 @@
   "fg": [
     "36navy"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

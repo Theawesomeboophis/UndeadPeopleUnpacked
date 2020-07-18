@@ -3,6 +3,8 @@
   "fg": [
     "holybook_scientology"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

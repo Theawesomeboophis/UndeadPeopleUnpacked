@@ -12,7 +12,9 @@
       "fg": [
         "t_wall_glass_alarm_center"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_floor"
+      ]
     },
     {
       "id": "corner",
@@ -22,7 +24,9 @@
         "t_wall_glass_alarm_corner_3",
         "t_wall_glass_alarm_corner_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_floor"
+      ]
     },
     {
       "id": "t_connection",
@@ -32,7 +36,9 @@
         "t_wall_glass_alarm_t_connection_3",
         "t_wall_glass_alarm_t_connection_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_floor"
+      ]
     },
     {
       "id": "edge",
@@ -40,7 +46,9 @@
         "t_wall_glass_alarm_edge_1",
         "t_wall_glass_alarm_edge_2"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_floor"
+      ]
     },
     {
       "id": "end_piece",
@@ -50,14 +58,18 @@
         "t_wall_glass_alarm_end_piece_3",
         "t_wall_glass_alarm_end_piece_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_floor"
+      ]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_wall_glass_alarm_unconnected"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_floor"
+      ]
     }
   ]
 }

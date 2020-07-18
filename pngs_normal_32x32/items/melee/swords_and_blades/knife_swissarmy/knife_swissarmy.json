@@ -3,6 +3,8 @@
   "fg": [
     "knife_swissarmy"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

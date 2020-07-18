@@ -4,11 +4,7 @@
     "t_wall_metal"
   ],
   "bg": [
-    "t_emergency_light_flicker",
-    "t_emergency_light",
-    "t_skylight",
-    "t_sidewalk_bg_dp",
-    "t_sidewalk"
+    "bg_metal_block"
   ],
   "rotates": false,
   "multitile": true,
@@ -19,11 +15,7 @@
         "t_wall_metal_center"
       ],
       "bg": [
-        "t_emergency_light_flicker",
-        "t_emergency_light",
-        "t_skylight",
-        "t_sidewalk_bg_dp",
-        "t_sidewalk"
+        "bg_metal_block"
       ]
     },
     {
@@ -35,11 +27,7 @@
         "t_wall_metal_corner_4"
       ],
       "bg": [
-        "t_emergency_light_flicker",
-        "t_emergency_light",
-        "t_skylight",
-        "t_sidewalk_bg_dp",
-        "t_sidewalk"
+        "bg_metal_block"
       ]
     },
     {
@@ -51,11 +39,7 @@
         "t_wall_metal_t_connection_4"
       ],
       "bg": [
-        "t_emergency_light_flicker",
-        "t_emergency_light",
-        "t_skylight",
-        "t_sidewalk_bg_dp",
-        "t_sidewalk"
+        "bg_metal_block"
       ]
     },
     {
@@ -65,11 +49,7 @@
         "t_wall_metal_edge_2"
       ],
       "bg": [
-        "t_emergency_light_flicker",
-        "t_emergency_light",
-        "t_skylight",
-        "t_sidewalk_bg_dp",
-        "t_sidewalk"
+        "bg_metal_block"
       ]
     },
     {
@@ -81,11 +61,7 @@
         "t_wall_metal_end_piece_4"
       ],
       "bg": [
-        "t_emergency_light_flicker",
-        "t_emergency_light",
-        "t_skylight",
-        "t_sidewalk_bg_dp",
-        "t_sidewalk"
+        "bg_metal_block"
       ]
     },
     {
@@ -94,11 +70,7 @@
         "t_wall_metal_unconnected"
       ],
       "bg": [
-        "t_emergency_light_flicker",
-        "t_emergency_light",
-        "t_skylight",
-        "t_sidewalk_bg_dp",
-        "t_sidewalk"
+        "bg_metal_block"
       ]
     }
   ]

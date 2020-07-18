@@ -4,7 +4,7 @@
     "t_improvised_shelter"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

@@ -4,7 +4,7 @@
     "t_region_shrub"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

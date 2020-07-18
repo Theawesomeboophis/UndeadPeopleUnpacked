@@ -3,5 +3,7 @@
   "fg": [
     "hat_sombrero"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

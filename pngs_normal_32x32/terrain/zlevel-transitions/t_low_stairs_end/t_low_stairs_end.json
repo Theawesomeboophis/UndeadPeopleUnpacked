@@ -4,9 +4,7 @@
     "t_low_stairs_end"
   ],
   "bg": [
-    "t_pavement_bg_dp",
-    "t_missile_exploded",
-    "t_flat_roof"
+    "bg_pavement"
   ],
   "rotates": false
 }

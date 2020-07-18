@@ -3,5 +3,7 @@
   "fg": [
     "suitcase_m"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

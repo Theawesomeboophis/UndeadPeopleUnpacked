@@ -13,7 +13,8 @@
         "t_water_pool_shallow_center"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -25,7 +26,8 @@
         "t_water_pool_shallow_corner_4"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -37,7 +39,8 @@
         "t_water_pool_shallow_t_connection_4"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -47,7 +50,8 @@
         "t_water_pool_shallow_edge_2"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -59,7 +63,8 @@
         "t_water_pool_shallow_end_piece_4"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -68,7 +73,8 @@
         "t_water_pool_shallow_unconnected"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     }
   ]

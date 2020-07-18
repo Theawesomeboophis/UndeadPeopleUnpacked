@@ -3,6 +3,8 @@
   "fg": [
     "morningstar_fake"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

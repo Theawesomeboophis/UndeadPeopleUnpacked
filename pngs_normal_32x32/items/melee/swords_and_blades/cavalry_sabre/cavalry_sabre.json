@@ -3,6 +3,8 @@
   "fg": [
     "cavalry_sabre"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

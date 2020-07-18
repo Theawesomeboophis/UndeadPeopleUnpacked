@@ -4,7 +4,7 @@
     "t_wall_wattle_broken"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

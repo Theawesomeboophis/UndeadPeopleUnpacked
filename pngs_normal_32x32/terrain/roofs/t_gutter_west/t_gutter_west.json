@@ -13,9 +13,7 @@
         "t_gutter_west_center"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -27,9 +25,7 @@
         "t_gutter_west_corner_4"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -41,9 +37,7 @@
         "t_gutter_west_t_connection_4"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -53,9 +47,7 @@
         "t_gutter_west_edge_2"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -67,9 +59,7 @@
         "t_gutter_west_end_piece_4"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -78,9 +68,7 @@
         "t_gutter_west_unconnected"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     }
   ]

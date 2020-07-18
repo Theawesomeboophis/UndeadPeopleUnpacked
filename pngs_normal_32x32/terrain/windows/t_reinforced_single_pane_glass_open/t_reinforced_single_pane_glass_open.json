@@ -3,5 +3,7 @@
   "fg": [
     "t_reinforced_single_pane_glass_open"
   ],
-  "bg": []
+  "bg": [
+    "bg_t_floor"
+  ]
 }

@@ -4,7 +4,7 @@
     "t_sandmound"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

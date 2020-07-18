@@ -3,6 +3,8 @@
   "fg": [
     "light_emergency_red"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

@@ -3,6 +3,8 @@
   "fg": [
     "textbook_armschina"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

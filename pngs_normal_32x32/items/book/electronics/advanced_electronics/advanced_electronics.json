@@ -3,6 +3,8 @@
   "fg": [
     "advanced_electronics"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_manual"
+  ],
   "rotates": false
 }

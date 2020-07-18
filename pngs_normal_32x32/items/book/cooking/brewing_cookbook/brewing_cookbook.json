@@ -3,5 +3,7 @@
   "fg": [
     "brewing_cookbook"
   ],
-  "bg": []
+  "bg": [
+    "bg_book"
+  ]
 }

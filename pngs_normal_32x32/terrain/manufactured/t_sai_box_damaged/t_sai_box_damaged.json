@@ -3,6 +3,8 @@
   "fg": [
     "t_sai_box_damaged"
   ],
-  "bg": [],
+  "bg": [
+    "bg_cement_electro"
+  ],
   "rotates": false
 }

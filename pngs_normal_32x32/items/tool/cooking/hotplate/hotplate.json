@@ -3,6 +3,8 @@
   "fg": [
     "hotplate"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

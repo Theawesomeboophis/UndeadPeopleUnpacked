@@ -4,11 +4,7 @@
     "t_card_reader_broken"
   ],
   "bg": [
-    "t_emergency_light_flicker",
-    "t_emergency_light",
-    "t_skylight",
-    "t_sidewalk_bg_dp",
-    "t_sidewalk"
+    "bg_metal_block"
   ],
   "rotates": false
 }

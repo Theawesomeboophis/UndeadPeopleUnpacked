@@ -3,5 +3,7 @@
   "fg": [
     "manual_swordsmanship"
   ],
-  "bg": []
+  "bg": [
+    "bg_book_magazine"
+  ]
 }

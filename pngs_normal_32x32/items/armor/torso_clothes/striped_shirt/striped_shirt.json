@@ -3,5 +3,7 @@
   "fg": [
     "striped_shirt"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

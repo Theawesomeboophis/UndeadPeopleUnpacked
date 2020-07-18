@@ -3,6 +3,8 @@
   "fg": [
     "fire_drill_large"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

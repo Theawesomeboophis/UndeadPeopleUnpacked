@@ -3,5 +3,7 @@
   "fg": [
     "makeshift_knapsack"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -3,6 +3,8 @@
   "fg": [
     "wrapped_rad_badge"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

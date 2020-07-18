@@ -3,6 +3,8 @@
   "fg": [
     "potato_baked"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

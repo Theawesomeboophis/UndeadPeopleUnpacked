@@ -3,6 +3,8 @@
   "fg": [
     "textbook_weapwest"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

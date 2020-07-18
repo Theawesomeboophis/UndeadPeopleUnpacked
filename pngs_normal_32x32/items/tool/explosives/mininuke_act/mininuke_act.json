@@ -3,6 +3,8 @@
   "fg": [
     "mininuke_act"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

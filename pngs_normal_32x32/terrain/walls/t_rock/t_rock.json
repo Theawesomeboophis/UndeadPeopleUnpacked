@@ -55,7 +55,9 @@
           "sprite": "t_rock_center_11"
         }
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "corner",
@@ -65,7 +67,9 @@
         "t_rock_corner_3",
         "t_rock_corner_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "t_connection",
@@ -75,7 +79,9 @@
         "t_rock_t_connection_3",
         "t_rock_t_connection_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "edge",
@@ -83,7 +89,9 @@
         "t_rock_edge_1",
         "t_rock_edge_2"
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "end_piece",
@@ -93,14 +101,18 @@
         "t_rock_end_piece_3",
         "t_rock_end_piece_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_rock_unconnected"
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     }
   ]
 }

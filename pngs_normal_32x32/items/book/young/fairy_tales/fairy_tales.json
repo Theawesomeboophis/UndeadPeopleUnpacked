@@ -3,6 +3,8 @@
   "fg": [
     "fairy_tales"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

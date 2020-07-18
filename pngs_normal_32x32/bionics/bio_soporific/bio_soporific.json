@@ -1,0 +1,10 @@
+{
+  "id": "bio_soporific",
+  "fg": [
+    "bio_soporific"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

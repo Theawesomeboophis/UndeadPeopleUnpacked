@@ -4,7 +4,7 @@
     "t_privacy_fencegate_c"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": true,
   "multitile": true,
@@ -15,7 +15,7 @@
         "t_privacy_fencegate_c_center"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -27,7 +27,7 @@
         "t_privacy_fencegate_c_corner_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -39,7 +39,7 @@
         "t_privacy_fencegate_c_t_connection_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -49,7 +49,7 @@
         "t_privacy_fencegate_c_edge_2"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -61,7 +61,7 @@
         "t_privacy_fencegate_c_end_piece_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -70,7 +70,7 @@
         "t_privacy_fencegate_c_unconnected"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     }
   ]

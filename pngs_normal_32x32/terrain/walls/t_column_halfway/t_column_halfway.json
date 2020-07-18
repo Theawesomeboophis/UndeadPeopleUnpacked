@@ -3,6 +3,8 @@
   "fg": [
     "t_column_halfway"
   ],
-  "bg": [],
+  "bg": [
+    "bg_stone_floor"
+  ],
   "rotates": false
 }

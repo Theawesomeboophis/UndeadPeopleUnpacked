@@ -3,6 +3,8 @@
   "fg": [
     "survivor_runner_pack"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

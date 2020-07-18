@@ -3,6 +3,8 @@
   "fg": [
     "40x53mm_slug_m169"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

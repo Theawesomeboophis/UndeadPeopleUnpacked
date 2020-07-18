@@ -3,6 +3,8 @@
   "fg": [
     "software_train_data"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

@@ -3,6 +3,8 @@
   "fg": [
     "plastic_bowl_kids"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

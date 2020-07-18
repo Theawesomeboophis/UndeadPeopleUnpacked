@@ -3,6 +3,8 @@
   "fg": [
     "spiral_stone"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

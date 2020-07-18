@@ -3,5 +3,7 @@
   "fg": [
     "gambeson"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

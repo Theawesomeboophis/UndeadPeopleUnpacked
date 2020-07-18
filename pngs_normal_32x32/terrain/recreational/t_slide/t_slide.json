@@ -13,7 +13,7 @@
         "t_slide_center"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "t_slide_corner_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -37,7 +37,7 @@
         "t_slide_t_connection_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -47,7 +47,7 @@
         "t_slide_edge_2"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -59,7 +59,7 @@
         "t_slide_end_piece_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -68,7 +68,7 @@
         "t_slide_unconnected"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     }
   ]

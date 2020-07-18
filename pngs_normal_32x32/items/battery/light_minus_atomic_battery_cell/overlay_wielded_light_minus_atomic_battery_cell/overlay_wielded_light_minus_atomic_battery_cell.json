@@ -3,6 +3,8 @@
   "fg": [
     "overlay_wielded_light_minus_atomic_battery_cell"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

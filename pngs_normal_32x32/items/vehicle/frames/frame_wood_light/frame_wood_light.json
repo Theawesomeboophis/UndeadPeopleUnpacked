@@ -3,5 +3,7 @@
   "fg": [
     "frame_wood_light"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

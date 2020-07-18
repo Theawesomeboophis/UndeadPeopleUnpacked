@@ -3,5 +3,7 @@
   "fg": [
     "irradiated_potato"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

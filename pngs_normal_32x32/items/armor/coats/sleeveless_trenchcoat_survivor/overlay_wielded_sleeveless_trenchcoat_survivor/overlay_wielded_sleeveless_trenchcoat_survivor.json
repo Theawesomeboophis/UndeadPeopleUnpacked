@@ -3,5 +3,7 @@
   "fg": [
     "overlay_wielded_sleeveless_trenchcoat_survivor"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

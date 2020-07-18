@@ -3,5 +3,7 @@
   "fg": [
     "keikogi"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

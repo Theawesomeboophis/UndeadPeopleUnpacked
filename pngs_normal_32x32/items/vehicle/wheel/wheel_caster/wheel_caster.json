@@ -3,6 +3,8 @@
   "fg": [
     "wheel_caster"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

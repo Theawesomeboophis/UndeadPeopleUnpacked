@@ -3,6 +3,8 @@
   "fg": [
     "t_potential_trans"
   ],
-  "bg": [],
+  "bg": [
+    "bg_cement_electro"
+  ],
   "rotates": false
 }

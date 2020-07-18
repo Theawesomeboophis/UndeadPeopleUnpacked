@@ -3,6 +3,8 @@
   "fg": [
     "textbook_robots"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_adv"
+  ],
   "rotates": false
 }

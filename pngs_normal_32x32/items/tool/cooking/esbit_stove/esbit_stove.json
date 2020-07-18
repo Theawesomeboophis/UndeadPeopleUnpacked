@@ -3,6 +3,8 @@
   "fg": [
     "esbit_stove"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

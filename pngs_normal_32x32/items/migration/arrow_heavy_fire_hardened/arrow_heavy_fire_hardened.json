@@ -3,5 +3,7 @@
   "fg": [
     "arrow_heavy_fire_hardened"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

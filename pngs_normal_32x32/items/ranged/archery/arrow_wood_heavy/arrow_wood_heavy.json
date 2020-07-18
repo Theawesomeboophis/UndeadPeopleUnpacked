@@ -3,6 +3,8 @@
   "fg": [
     "arrow_wood_heavy"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

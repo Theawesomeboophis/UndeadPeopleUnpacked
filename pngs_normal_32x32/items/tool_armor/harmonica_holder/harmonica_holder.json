@@ -3,6 +3,8 @@
   "fg": [
     "harmonica_holder"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

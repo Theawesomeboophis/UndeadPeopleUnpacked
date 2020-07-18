@@ -3,5 +3,7 @@
   "fg": [
     "hat_hard_hooded"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

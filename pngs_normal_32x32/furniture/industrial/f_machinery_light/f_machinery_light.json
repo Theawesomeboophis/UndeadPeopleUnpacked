@@ -1,0 +1,10 @@
+{
+  "id": "f_machinery_light",
+  "fg": [
+    "f_machinery_light"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

@@ -3,5 +3,7 @@
   "fg": [
     "jumper_cable_debug"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

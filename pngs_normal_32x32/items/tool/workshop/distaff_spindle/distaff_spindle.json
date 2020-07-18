@@ -4,8 +4,6 @@
     "distaff_spindle"
   ],
   "bg": [
-    "vp_frame_wood_vertical_2",
-    "vp_frame_wood_light_vertical_2",
-    "vp_folding_wooden_frame"
+    "bg_distaff_spindle"
   ]
 }

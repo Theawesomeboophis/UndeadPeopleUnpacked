@@ -4,7 +4,7 @@
     "t_fence_wire"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

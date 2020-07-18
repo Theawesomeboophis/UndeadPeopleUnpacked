@@ -3,6 +3,8 @@
   "fg": [
     "mon_squirrel_red"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom6"
+  ],
   "rotates": false
 }

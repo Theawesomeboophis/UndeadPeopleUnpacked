@@ -4,7 +4,7 @@
     "t_water_moving_dp"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false,
   "multitile": true,
@@ -50,7 +50,7 @@
         }
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -94,7 +94,7 @@
         }
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -106,7 +106,7 @@
         "t_water_moving_dp_t_connection_4"
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -150,7 +150,7 @@
         }
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -194,7 +194,7 @@
         }
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     },
     {
@@ -238,7 +238,7 @@
         }
       ],
       "bg": [
-        "t_dirt"
+        "bg_dirt"
       ]
     }
   ]

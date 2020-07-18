@@ -3,6 +3,8 @@
   "fg": [
     "irradiated_mango"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

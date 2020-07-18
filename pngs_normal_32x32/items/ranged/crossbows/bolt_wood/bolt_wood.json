@@ -3,6 +3,8 @@
   "fg": [
     "bolt_wood"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

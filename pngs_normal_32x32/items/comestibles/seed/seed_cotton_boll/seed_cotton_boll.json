@@ -3,6 +3,8 @@
   "fg": [
     "seed_cotton_boll"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

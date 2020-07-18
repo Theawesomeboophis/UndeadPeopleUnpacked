@@ -3,5 +3,7 @@
   "fg": [
     "repeater_mod_guide"
   ],
-  "bg": []
+  "bg": [
+    "bg_book_magazine"
+  ]
 }

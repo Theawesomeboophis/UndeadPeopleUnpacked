@@ -3,5 +3,7 @@
   "fg": [
     "straw_hat"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

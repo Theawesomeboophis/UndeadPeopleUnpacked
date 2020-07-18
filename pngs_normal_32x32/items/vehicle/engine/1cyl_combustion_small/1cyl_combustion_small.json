@@ -3,6 +3,8 @@
   "fg": [
     "1cyl_combustion_small"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

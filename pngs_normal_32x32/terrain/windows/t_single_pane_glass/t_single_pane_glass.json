@@ -3,5 +3,7 @@
   "fg": [
     "t_single_pane_glass"
   ],
-  "bg": []
+  "bg": [
+    "bg_t_floor"
+  ]
 }

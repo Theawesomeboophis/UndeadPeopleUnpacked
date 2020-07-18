@@ -3,6 +3,8 @@
   "fg": [
     "knuckle_katar"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

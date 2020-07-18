@@ -4,7 +4,7 @@
     "t_pit_spiked"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

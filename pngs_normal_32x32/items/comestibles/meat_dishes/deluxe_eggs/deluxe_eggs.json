@@ -3,6 +3,8 @@
   "fg": [
     "deluxe_eggs"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

@@ -3,6 +3,8 @@
   "fg": [
     "t_tree_fungal_young"
   ],
-  "bg": [],
+  "bg": [
+    "bg_fungal_tree_season_winter"
+  ],
   "rotates": false
 }

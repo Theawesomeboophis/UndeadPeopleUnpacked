@@ -1,0 +1,10 @@
+{
+  "id": "bio_glowy",
+  "fg": [
+    "bio_glowy"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

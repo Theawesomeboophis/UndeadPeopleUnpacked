@@ -3,5 +3,7 @@
   "fg": [
     "diamond_ring"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

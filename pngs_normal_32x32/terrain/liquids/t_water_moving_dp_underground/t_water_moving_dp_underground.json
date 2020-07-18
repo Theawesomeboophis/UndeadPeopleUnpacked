@@ -3,7 +3,9 @@
   "fg": [
     "t_water_moving_dp_underground"
   ],
-  "bg": [],
+  "bg": [
+    "bg_stone_floor"
+  ],
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
@@ -47,7 +49,9 @@
           "sprite": "t_water_moving_dp_underground_center_9"
         }
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "corner",
@@ -89,7 +93,9 @@
           "sprite": "t_water_moving_dp_underground_corner_9"
         }
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "t_connection",
@@ -99,7 +105,9 @@
         "t_water_moving_dp_underground_t_connection_3",
         "t_water_moving_dp_underground_t_connection_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "edge",
@@ -141,7 +149,9 @@
           "sprite": "t_water_moving_dp_underground_edge_9"
         }
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "end_piece",
@@ -183,7 +193,9 @@
           "sprite": "t_water_moving_dp_underground_end_piece_9"
         }
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     },
     {
       "id": "unconnected",
@@ -225,7 +237,9 @@
           "sprite": "t_water_moving_dp_underground_unconnected_9"
         }
       ],
-      "bg": []
+      "bg": [
+        "bg_stone_floor"
+      ]
     }
   ]
 }

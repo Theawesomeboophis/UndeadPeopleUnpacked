@@ -3,6 +3,8 @@
   "fg": [
     "cookbook_italian"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_manual"
+  ],
   "rotates": false
 }

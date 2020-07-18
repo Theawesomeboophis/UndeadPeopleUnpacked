@@ -3,6 +3,8 @@
   "fg": [
     "rag_bloody"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

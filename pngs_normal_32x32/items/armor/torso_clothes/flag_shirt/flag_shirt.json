@@ -3,6 +3,8 @@
   "fg": [
     "flag_shirt"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

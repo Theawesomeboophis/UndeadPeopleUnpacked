@@ -3,6 +3,8 @@
   "fg": [
     "deagle_44"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

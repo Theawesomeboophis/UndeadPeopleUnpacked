@@ -3,6 +3,8 @@
   "fg": [
     "manual_dodge_kid"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

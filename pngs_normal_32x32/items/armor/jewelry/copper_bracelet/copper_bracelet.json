@@ -3,5 +3,7 @@
   "fg": [
     "copper_bracelet"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

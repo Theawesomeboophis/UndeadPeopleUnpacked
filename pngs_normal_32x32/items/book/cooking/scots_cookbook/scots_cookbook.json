@@ -3,6 +3,8 @@
   "fg": [
     "scots_cookbook"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

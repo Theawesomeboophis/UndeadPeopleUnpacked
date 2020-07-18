@@ -3,6 +3,8 @@
   "fg": [
     "copper_knife"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

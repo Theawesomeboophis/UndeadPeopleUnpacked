@@ -3,6 +3,8 @@
   "fg": [
     "arrow_heavy_field_point_fletched"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

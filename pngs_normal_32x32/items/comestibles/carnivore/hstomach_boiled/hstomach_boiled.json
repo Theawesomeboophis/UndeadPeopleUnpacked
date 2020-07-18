@@ -3,6 +3,8 @@
   "fg": [
     "hstomach_boiled"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

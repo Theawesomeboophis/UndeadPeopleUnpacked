@@ -3,5 +3,7 @@
   "fg": [
     "mag_fieldrepair"
   ],
-  "bg": []
+  "bg": [
+    "bg_book_magazine"
+  ]
 }

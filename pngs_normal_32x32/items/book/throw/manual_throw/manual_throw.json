@@ -3,6 +3,8 @@
   "fg": [
     "manual_throw"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_magazine"
+  ],
   "rotates": false
 }

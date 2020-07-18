@@ -3,5 +3,7 @@
   "fg": [
     "leg_splint"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

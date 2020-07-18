@@ -3,5 +3,7 @@
   "fg": [
     "chem_hexamine"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

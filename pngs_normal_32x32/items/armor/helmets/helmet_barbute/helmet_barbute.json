@@ -3,5 +3,7 @@
   "fg": [
     "helmet_barbute"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

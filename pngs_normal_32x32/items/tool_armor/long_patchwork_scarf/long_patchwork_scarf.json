@@ -3,6 +3,8 @@
   "fg": [
     "long_patchwork_scarf"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

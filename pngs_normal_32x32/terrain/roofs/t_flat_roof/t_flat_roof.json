@@ -1,10 +1,7 @@
 {
   "id": "t_flat_roof",
   "fg": [
-    {
-      "weight": 1111,
-      "sprite": "t_flat_roof"
-    }
+    "t_flat_roof"
   ],
   "bg": [],
   "rotates": false

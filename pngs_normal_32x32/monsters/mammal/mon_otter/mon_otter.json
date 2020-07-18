@@ -3,6 +3,8 @@
   "fg": [
     "mon_otter"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
   "rotates": false
 }

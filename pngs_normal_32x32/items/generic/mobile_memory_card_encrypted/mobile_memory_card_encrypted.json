@@ -3,5 +3,7 @@
   "fg": [
     "mobile_memory_card_encrypted"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

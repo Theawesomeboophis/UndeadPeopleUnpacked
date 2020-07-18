@@ -3,6 +3,8 @@
   "fg": [
     "3006_incendiary"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

@@ -4,7 +4,7 @@
     "t_grass_tall"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false,
   "multitile": true,
@@ -32,51 +32,51 @@
       "bg": [
         {
           "weight": 40,
-          "sprite": "t_dirt"
+          "sprite": "bg_dirt"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_1"
+          "sprite": "bg_t_dirt2"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_2"
+          "sprite": "bg_t_dirt3"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_3"
+          "sprite": "bg_t_dirt4"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_4"
+          "sprite": "bg_t_dirt5"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_5"
+          "sprite": "bg_t_dirt6"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_6"
+          "sprite": "bg_t_dirt7"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_7"
+          "sprite": "bg_t_dirt8"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_8"
+          "sprite": "bg_t_dirt9"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_9"
+          "sprite": "bg_t_dirt10"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_10"
+          "sprite": "bg_t_dirt11"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_11"
+          "sprite": "bg_t_dirt12"
         }
       ]
     },
@@ -91,51 +91,51 @@
       "bg": [
         {
           "weight": 40,
-          "sprite": "t_dirt"
+          "sprite": "bg_dirt"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_1"
+          "sprite": "bg_t_dirt2"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_2"
+          "sprite": "bg_t_dirt3"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_3"
+          "sprite": "bg_t_dirt4"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_4"
+          "sprite": "bg_t_dirt5"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_5"
+          "sprite": "bg_t_dirt6"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_6"
+          "sprite": "bg_t_dirt7"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_7"
+          "sprite": "bg_t_dirt8"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_8"
+          "sprite": "bg_t_dirt9"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_9"
+          "sprite": "bg_t_dirt10"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_10"
+          "sprite": "bg_t_dirt11"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_11"
+          "sprite": "bg_t_dirt12"
         }
       ]
     },
@@ -150,51 +150,51 @@
       "bg": [
         {
           "weight": 40,
-          "sprite": "t_dirt"
+          "sprite": "bg_dirt"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_1"
+          "sprite": "bg_t_dirt2"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_2"
+          "sprite": "bg_t_dirt3"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_3"
+          "sprite": "bg_t_dirt4"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_4"
+          "sprite": "bg_t_dirt5"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_5"
+          "sprite": "bg_t_dirt6"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_6"
+          "sprite": "bg_t_dirt7"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_7"
+          "sprite": "bg_t_dirt8"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_8"
+          "sprite": "bg_t_dirt9"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_9"
+          "sprite": "bg_t_dirt10"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_10"
+          "sprite": "bg_t_dirt11"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_11"
+          "sprite": "bg_t_dirt12"
         }
       ]
     },
@@ -207,51 +207,51 @@
       "bg": [
         {
           "weight": 40,
-          "sprite": "t_dirt"
+          "sprite": "bg_dirt"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_1"
+          "sprite": "bg_t_dirt2"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_2"
+          "sprite": "bg_t_dirt3"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_3"
+          "sprite": "bg_t_dirt4"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_4"
+          "sprite": "bg_t_dirt5"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_5"
+          "sprite": "bg_t_dirt6"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_6"
+          "sprite": "bg_t_dirt7"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_7"
+          "sprite": "bg_t_dirt8"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_8"
+          "sprite": "bg_t_dirt9"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_9"
+          "sprite": "bg_t_dirt10"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_10"
+          "sprite": "bg_t_dirt11"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_11"
+          "sprite": "bg_t_dirt12"
         }
       ]
     },
@@ -266,51 +266,51 @@
       "bg": [
         {
           "weight": 40,
-          "sprite": "t_dirt"
+          "sprite": "bg_dirt"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_1"
+          "sprite": "bg_t_dirt2"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_2"
+          "sprite": "bg_t_dirt3"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_3"
+          "sprite": "bg_t_dirt4"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_4"
+          "sprite": "bg_t_dirt5"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_5"
+          "sprite": "bg_t_dirt6"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_6"
+          "sprite": "bg_t_dirt7"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_7"
+          "sprite": "bg_t_dirt8"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_8"
+          "sprite": "bg_t_dirt9"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_9"
+          "sprite": "bg_t_dirt10"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_10"
+          "sprite": "bg_t_dirt11"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_11"
+          "sprite": "bg_t_dirt12"
         }
       ]
     },
@@ -337,51 +337,51 @@
       "bg": [
         {
           "weight": 40,
-          "sprite": "t_dirt"
+          "sprite": "bg_dirt"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_1"
+          "sprite": "bg_t_dirt2"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_2"
+          "sprite": "bg_t_dirt3"
         },
         {
           "weight": 30,
-          "sprite": "t_bg_dirt_3"
+          "sprite": "bg_t_dirt4"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_4"
+          "sprite": "bg_t_dirt5"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_5"
+          "sprite": "bg_t_dirt6"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_6"
+          "sprite": "bg_t_dirt7"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_7"
+          "sprite": "bg_t_dirt8"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_8"
+          "sprite": "bg_t_dirt9"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_9"
+          "sprite": "bg_t_dirt10"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_10"
+          "sprite": "bg_t_dirt11"
         },
         {
           "weight": 1,
-          "sprite": "t_bg_dirt_11"
+          "sprite": "bg_t_dirt12"
         }
       ]
     }

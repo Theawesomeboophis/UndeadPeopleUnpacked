@@ -4,7 +4,7 @@
     "t_pedestal_temple"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

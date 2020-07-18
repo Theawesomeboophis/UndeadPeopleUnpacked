@@ -3,6 +3,8 @@
   "fg": [
     "t_marloss"
   ],
-  "bg": [],
+  "bg": [
+    "bg_fungal"
+  ],
   "rotates": false
 }

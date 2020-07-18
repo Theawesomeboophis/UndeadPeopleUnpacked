@@ -3,5 +3,7 @@
   "fg": [
     "aluminum_foil"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

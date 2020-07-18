@@ -3,5 +3,7 @@
   "fg": [
     "mag_animecon"
   ],
-  "bg": []
+  "bg": [
+    "bg_book_magazine"
+  ]
 }

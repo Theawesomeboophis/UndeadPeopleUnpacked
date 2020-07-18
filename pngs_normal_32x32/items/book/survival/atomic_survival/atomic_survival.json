@@ -3,6 +3,8 @@
   "fg": [
     "atomic_survival"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

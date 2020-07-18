@@ -3,6 +3,8 @@
   "fg": [
     "t_support_l"
   ],
-  "bg": [],
+  "bg": [
+    "bg_cement_electro"
+  ],
   "rotates": false
 }

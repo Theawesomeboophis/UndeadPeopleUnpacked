@@ -3,6 +3,8 @@
   "fg": [
     "recipe_lab_cvd"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_magazine"
+  ],
   "rotates": false
 }

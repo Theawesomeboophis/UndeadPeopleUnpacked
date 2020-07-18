@@ -1,0 +1,10 @@
+{
+  "id": "bio_syringe",
+  "fg": [
+    "bio_syringe"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

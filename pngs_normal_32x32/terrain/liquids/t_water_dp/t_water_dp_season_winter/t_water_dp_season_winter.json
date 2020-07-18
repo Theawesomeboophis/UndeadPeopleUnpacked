@@ -4,10 +4,7 @@
     "t_water_dp_season_winter"
   ],
   "bg": [
-    "t_grass_golf_season_winter",
-    "t_grass_dead_season_winter",
-    "t_sand_season_winter",
-    "t_moss_season_winter"
+    "bg_snow"
   ],
   "rotates": false,
   "multitile": true,
@@ -53,10 +50,7 @@
         }
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -100,10 +94,7 @@
         }
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -115,10 +106,7 @@
         "t_water_dp_season_winter_t_connection_4"
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -162,10 +150,7 @@
         }
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -209,10 +194,7 @@
         }
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -256,10 +238,7 @@
         }
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     }
   ]

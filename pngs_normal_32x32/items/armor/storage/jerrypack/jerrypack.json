@@ -3,5 +3,7 @@
   "fg": [
     "jerrypack"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -3,6 +3,8 @@
   "fg": [
     "jumper_cable"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

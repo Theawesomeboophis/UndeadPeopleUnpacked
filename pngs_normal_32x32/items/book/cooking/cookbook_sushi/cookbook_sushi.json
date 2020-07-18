@@ -3,5 +3,7 @@
   "fg": [
     "cookbook_sushi"
   ],
-  "bg": []
+  "bg": [
+    "bg_book_manual"
+  ]
 }

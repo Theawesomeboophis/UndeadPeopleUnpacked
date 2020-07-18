@@ -3,5 +3,7 @@
   "fg": [
     "footrags_wool"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

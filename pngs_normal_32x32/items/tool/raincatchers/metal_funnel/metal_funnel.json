@@ -3,6 +3,8 @@
   "fg": [
     "metal_funnel"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

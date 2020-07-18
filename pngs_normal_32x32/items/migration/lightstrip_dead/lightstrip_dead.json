@@ -3,5 +3,7 @@
   "fg": [
     "lightstrip_dead"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

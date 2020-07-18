@@ -12,9 +12,7 @@
         "t_missile_exploded_corner"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {
@@ -23,11 +21,7 @@
         "t_missile_exploded_center"
       ],
       "bg": [
-        "t_emergency_light_flicker",
-        "t_emergency_light",
-        "t_skylight",
-        "t_sidewalk_bg_dp",
-        "t_sidewalk"
+        "bg_metal_block"
       ]
     },
     {

@@ -3,6 +3,8 @@
   "fg": [
     "sword_bayonet_mod"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

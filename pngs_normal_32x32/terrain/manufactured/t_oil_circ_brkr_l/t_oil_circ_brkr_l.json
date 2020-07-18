@@ -3,6 +3,8 @@
   "fg": [
     "t_oil_circ_brkr_l"
   ],
-  "bg": [],
+  "bg": [
+    "bg_cement_electro"
+  ],
   "rotates": false
 }

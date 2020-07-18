@@ -3,5 +3,7 @@
   "fg": [
     "baldric"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

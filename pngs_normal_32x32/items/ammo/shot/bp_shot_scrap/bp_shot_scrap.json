@@ -3,5 +3,7 @@
   "fg": [
     "bp_shot_scrap"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

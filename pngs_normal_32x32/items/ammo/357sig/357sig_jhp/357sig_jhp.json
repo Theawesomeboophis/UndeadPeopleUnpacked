@@ -3,6 +3,8 @@
   "fg": [
     "357sig_jhp"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

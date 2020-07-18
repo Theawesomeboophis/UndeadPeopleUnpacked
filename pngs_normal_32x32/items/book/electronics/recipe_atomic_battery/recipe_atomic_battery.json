@@ -3,6 +3,8 @@
   "fg": [
     "recipe_atomic_battery"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_magazine"
+  ],
   "rotates": false
 }

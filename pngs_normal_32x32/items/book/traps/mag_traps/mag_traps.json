@@ -3,6 +3,8 @@
   "fg": [
     "mag_traps"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_magazine"
+  ],
   "rotates": false
 }

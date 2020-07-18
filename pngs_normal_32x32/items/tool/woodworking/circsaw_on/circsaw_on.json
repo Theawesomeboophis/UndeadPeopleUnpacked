@@ -3,5 +3,7 @@
   "fg": [
     "circsaw_on"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

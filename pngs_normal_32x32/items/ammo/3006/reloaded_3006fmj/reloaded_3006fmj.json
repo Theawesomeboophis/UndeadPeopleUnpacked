@@ -3,5 +3,7 @@
   "fg": [
     "reloaded_3006fmj"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -3,7 +3,9 @@
   "fg": [
     "t_lava"
   ],
-  "bg": [],
+  "bg": [
+    "bg_t_lava"
+  ],
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
@@ -31,7 +33,9 @@
           "sprite": "t_lava_center_5"
         }
       ],
-      "bg": []
+      "bg": [
+        "bg_t_lava"
+      ]
     },
     {
       "id": "corner",
@@ -41,7 +45,9 @@
         "t_lava_corner_3",
         "t_lava_corner_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_lava"
+      ]
     },
     {
       "id": "t_connection",
@@ -51,7 +57,9 @@
         "t_lava_t_connection_3",
         "t_lava_t_connection_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_lava"
+      ]
     },
     {
       "id": "edge",
@@ -59,7 +67,9 @@
         "t_lava_edge_1",
         "t_lava_edge_2"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_lava"
+      ]
     },
     {
       "id": "end_piece",
@@ -69,14 +79,18 @@
         "t_lava_end_piece_3",
         "t_lava_end_piece_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_lava"
+      ]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_lava_unconnected"
       ],
-      "bg": []
+      "bg": [
+        "bg_t_lava"
+      ]
     }
   ]
 }

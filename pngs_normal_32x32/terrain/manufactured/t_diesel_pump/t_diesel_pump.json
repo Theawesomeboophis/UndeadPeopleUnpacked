@@ -4,8 +4,6 @@
     "t_diesel_pump"
   ],
   "bg": [
-    "t_pavement_bg_dp",
-    "t_missile_exploded",
-    "t_flat_roof"
+    "bg_pavement"
   ]
 }

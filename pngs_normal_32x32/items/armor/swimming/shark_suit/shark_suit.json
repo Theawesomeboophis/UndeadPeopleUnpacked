@@ -3,5 +3,7 @@
   "fg": [
     "shark_suit"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

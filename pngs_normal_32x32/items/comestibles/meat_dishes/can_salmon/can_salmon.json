@@ -3,6 +3,8 @@
   "fg": [
     "can_salmon"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

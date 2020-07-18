@@ -3,5 +3,7 @@
   "fg": [
     "atgm_heat"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

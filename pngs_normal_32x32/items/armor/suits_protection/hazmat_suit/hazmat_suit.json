@@ -3,6 +3,8 @@
   "fg": [
     "hazmat_suit"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

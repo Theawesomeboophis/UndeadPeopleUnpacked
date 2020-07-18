@@ -3,6 +3,8 @@
   "fg": [
     "reloaded_454_Casull"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

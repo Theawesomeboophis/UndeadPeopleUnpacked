@@ -3,6 +3,8 @@
   "fg": [
     "firekatana_off"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

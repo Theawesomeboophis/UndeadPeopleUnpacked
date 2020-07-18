@@ -3,6 +3,8 @@
   "fg": [
     "reloaded_shot_he"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

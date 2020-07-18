@@ -3,6 +3,8 @@
   "fg": [
     "poppy_sleep"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

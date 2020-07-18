@@ -3,5 +3,7 @@
   "fg": [
     "broken_manhack"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

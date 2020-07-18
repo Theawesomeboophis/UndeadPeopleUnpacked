@@ -3,6 +3,8 @@
   "fg": [
     "bot_antimateriel"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
   "rotates": true
 }

@@ -3,5 +3,7 @@
   "fg": [
     "skinny_tie"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

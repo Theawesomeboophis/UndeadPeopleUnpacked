@@ -3,7 +3,9 @@
   "fg": [
     "f_rubble_rock"
   ],
-  "bg": [],
+  "bg": [
+    "bg_f_rubble_rock"
+  ],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
@@ -12,7 +14,9 @@
       "fg": [
         "f_rubble_rock_center"
       ],
-      "bg": []
+      "bg": [
+        "bg_f_rubble_rock"
+      ]
     },
     {
       "id": "corner",

@@ -3,5 +3,7 @@
   "fg": [
     "gloves_wraps_fur"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

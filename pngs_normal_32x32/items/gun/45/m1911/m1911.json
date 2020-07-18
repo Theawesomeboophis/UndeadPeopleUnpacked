@@ -3,6 +3,8 @@
   "fg": [
     "m1911"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

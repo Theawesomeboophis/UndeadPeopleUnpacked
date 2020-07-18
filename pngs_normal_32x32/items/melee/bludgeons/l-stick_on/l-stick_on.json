@@ -3,6 +3,8 @@
   "fg": [
     "l-stick_on"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

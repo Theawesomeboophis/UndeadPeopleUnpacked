@@ -3,6 +3,8 @@
   "fg": [
     "antenna"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

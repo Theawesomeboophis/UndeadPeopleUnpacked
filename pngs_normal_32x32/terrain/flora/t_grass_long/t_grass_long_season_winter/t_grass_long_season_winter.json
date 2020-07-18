@@ -42,19 +42,7 @@
       "bg": [
         {
           "weight": 3,
-          "sprite": "t_grass_golf_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_grass_dead_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_sand_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_moss_season_winter"
+          "sprite": "bg_snow"
         },
         {
           "weight": 3,
@@ -121,19 +109,7 @@
       "bg": [
         {
           "weight": 3,
-          "sprite": "t_grass_golf_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_grass_dead_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_sand_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_moss_season_winter"
+          "sprite": "bg_snow"
         },
         {
           "weight": 3,
@@ -200,19 +176,7 @@
       "bg": [
         {
           "weight": 3,
-          "sprite": "t_grass_golf_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_grass_dead_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_sand_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_moss_season_winter"
+          "sprite": "bg_snow"
         },
         {
           "weight": 3,
@@ -277,19 +241,7 @@
       "bg": [
         {
           "weight": 3,
-          "sprite": "t_grass_golf_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_grass_dead_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_sand_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_moss_season_winter"
+          "sprite": "bg_snow"
         },
         {
           "weight": 3,
@@ -356,19 +308,7 @@
       "bg": [
         {
           "weight": 3,
-          "sprite": "t_grass_golf_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_grass_dead_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_sand_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_moss_season_winter"
+          "sprite": "bg_snow"
         },
         {
           "weight": 3,
@@ -432,19 +372,7 @@
       "bg": [
         {
           "weight": 3,
-          "sprite": "t_grass_golf_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_grass_dead_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_sand_season_winter"
-        },
-        {
-          "weight": 3,
-          "sprite": "t_moss_season_winter"
+          "sprite": "bg_snow"
         },
         {
           "weight": 3,

@@ -3,5 +3,7 @@
   "fg": [
     "reloaded_762_54R"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

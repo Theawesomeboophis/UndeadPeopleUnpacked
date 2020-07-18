@@ -3,5 +3,7 @@
   "fg": [
     "judo_belt_yellow"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

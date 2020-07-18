@@ -3,5 +3,7 @@
   "fg": [
     "m240"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -3,6 +3,8 @@
   "fg": [
     "manual_krav_maga"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_magazine"
+  ],
   "rotates": false
 }

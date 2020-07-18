@@ -3,6 +3,8 @@
   "fg": [
     "mon_triffid_young"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom1"
+  ],
   "rotates": false
 }

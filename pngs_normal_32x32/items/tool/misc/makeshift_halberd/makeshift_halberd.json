@@ -3,6 +3,8 @@
   "fg": [
     "makeshift_halberd"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

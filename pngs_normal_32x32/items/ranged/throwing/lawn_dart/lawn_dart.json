@@ -3,5 +3,7 @@
   "fg": [
     "lawn_dart"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

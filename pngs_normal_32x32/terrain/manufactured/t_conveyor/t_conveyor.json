@@ -12,14 +12,7 @@
       "fg": [
         "t_conveyor_center"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "corner",
@@ -29,14 +22,7 @@
         "t_conveyor_corner_3",
         "t_conveyor_corner_4"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "t_connection",
@@ -46,14 +32,7 @@
         "t_conveyor_t_connection_3",
         "t_conveyor_t_connection_4"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "edge",
@@ -61,14 +40,7 @@
         "t_conveyor_edge_1",
         "t_conveyor_edge_2"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "end_piece",
@@ -78,28 +50,14 @@
         "t_conveyor_end_piece_3",
         "t_conveyor_end_piece_4"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     },
     {
       "id": "unconnected",
       "fg": [
         "t_conveyor_unconnected"
       ],
-      "bg": [
-        "f_null",
-        "t_null",
-        "t_sliding_wall_o",
-        "explosion",
-        "explosion_medium",
-        "explosion_weak"
-      ]
+      "bg": []
     }
   ]
 }

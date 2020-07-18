@@ -4,7 +4,7 @@
     "t_adobe_brick_wall_halfway"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

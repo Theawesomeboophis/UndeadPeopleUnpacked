@@ -3,6 +3,8 @@
   "fg": [
     "medium_atomic_battery_cell"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

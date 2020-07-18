@@ -3,6 +3,8 @@
   "fg": [
     "combination_gun"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

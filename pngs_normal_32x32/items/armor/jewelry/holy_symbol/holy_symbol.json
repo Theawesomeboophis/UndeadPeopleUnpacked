@@ -3,5 +3,7 @@
   "fg": [
     "holy_symbol"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

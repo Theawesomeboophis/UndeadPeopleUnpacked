@@ -3,6 +3,8 @@
   "fg": [
     "lye_powder"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

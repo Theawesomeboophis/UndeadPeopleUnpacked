@@ -3,6 +3,8 @@
   "fg": [
     "book_icef"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

@@ -3,6 +3,8 @@
   "fg": [
     "fishing_rod_professional"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

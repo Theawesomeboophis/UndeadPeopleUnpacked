@@ -3,6 +3,8 @@
   "fg": [
     "philosophy_book"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

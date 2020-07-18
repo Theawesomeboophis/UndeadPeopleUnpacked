@@ -3,6 +3,8 @@
   "fg": [
     "reloaded_40mm_shot"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

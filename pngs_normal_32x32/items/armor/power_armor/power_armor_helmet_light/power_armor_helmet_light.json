@@ -3,6 +3,8 @@
   "fg": [
     "power_armor_helmet_light"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

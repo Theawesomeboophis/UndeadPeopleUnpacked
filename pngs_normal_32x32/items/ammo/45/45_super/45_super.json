@@ -3,6 +3,8 @@
   "fg": [
     "45_super"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

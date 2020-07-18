@@ -3,6 +3,8 @@
   "fg": [
     "holybook_hadith"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

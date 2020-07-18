@@ -3,5 +3,7 @@
   "fg": [
     "overlay_wielded_dimensional_anchor_on"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

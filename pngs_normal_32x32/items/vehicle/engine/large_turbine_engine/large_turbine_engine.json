@@ -3,6 +3,8 @@
   "fg": [
     "large_turbine_engine"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

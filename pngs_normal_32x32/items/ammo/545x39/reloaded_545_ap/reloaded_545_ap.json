@@ -3,5 +3,7 @@
   "fg": [
     "reloaded_545_ap"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

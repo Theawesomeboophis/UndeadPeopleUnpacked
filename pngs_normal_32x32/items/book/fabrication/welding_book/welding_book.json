@@ -3,6 +3,8 @@
   "fg": [
     "welding_book"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book_adv"
+  ],
   "rotates": false
 }

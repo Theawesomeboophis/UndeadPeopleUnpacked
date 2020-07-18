@@ -3,6 +3,8 @@
   "fg": [
     "raging_judge"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

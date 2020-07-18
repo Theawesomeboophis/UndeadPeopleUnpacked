@@ -1,10 +1,7 @@
 {
   "id": "f_toilet",
   "fg": [
-    {
-      "weight": 10,
-      "sprite": "f_toilet"
-    }
+    "f_toilet"
   ],
   "bg": [],
   "rotates": false

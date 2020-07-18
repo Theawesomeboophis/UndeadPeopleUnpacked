@@ -3,6 +3,8 @@
   "fg": [
     "saiga_12"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

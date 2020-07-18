@@ -3,6 +3,8 @@
   "fg": [
     "game_watch"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

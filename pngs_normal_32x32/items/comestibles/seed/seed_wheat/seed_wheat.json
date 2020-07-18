@@ -3,6 +3,8 @@
   "fg": [
     "seed_wheat"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

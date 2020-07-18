@@ -12,7 +12,9 @@
       "fg": [
         "t_guardrail_center"
       ],
-      "bg": []
+      "bg": [
+        "bg_cement_electro"
+      ]
     },
     {
       "id": "corner",
@@ -22,7 +24,9 @@
         "t_guardrail_corner_3",
         "t_guardrail_corner_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_cement_electro"
+      ]
     },
     {
       "id": "t_connection",
@@ -32,7 +36,9 @@
         "t_guardrail_t_connection_3",
         "t_guardrail_t_connection_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_cement_electro"
+      ]
     },
     {
       "id": "edge",
@@ -40,7 +46,9 @@
         "t_guardrail_edge_1",
         "t_guardrail_edge_2"
       ],
-      "bg": []
+      "bg": [
+        "bg_cement_electro"
+      ]
     },
     {
       "id": "end_piece",
@@ -50,14 +58,18 @@
         "t_guardrail_end_piece_3",
         "t_guardrail_end_piece_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_cement_electro"
+      ]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_guardrail_unconnected"
       ],
-      "bg": []
+      "bg": [
+        "bg_cement_electro"
+      ]
     }
   ]
 }

@@ -3,6 +3,8 @@
   "fg": [
     "black_box_transcript"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

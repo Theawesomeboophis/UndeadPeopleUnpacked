@@ -3,5 +3,7 @@
   "fg": [
     "sleeveless_trenchcoat_fur"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

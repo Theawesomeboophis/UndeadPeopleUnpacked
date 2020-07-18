@@ -3,6 +3,8 @@
   "fg": [
     "b_shorts"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

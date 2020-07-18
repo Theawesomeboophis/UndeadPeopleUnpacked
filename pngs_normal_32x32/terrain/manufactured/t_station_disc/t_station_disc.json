@@ -3,6 +3,8 @@
   "fg": [
     "t_station_disc"
   ],
-  "bg": [],
+  "bg": [
+    "bg_cement_electro"
+  ],
   "rotates": false
 }

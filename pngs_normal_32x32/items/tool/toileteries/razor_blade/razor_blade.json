@@ -3,6 +3,8 @@
   "fg": [
     "razor_blade"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

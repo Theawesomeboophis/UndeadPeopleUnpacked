@@ -3,5 +3,7 @@
   "fg": [
     "retool_223"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -4,7 +4,8 @@
     "t_railroad_track_d"
   ],
   "bg": [
-    "t_railroad_rubble"
+    "t_railroad_rubble",
+    "bg_gravel"
   ],
   "rotates": true,
   "multitile": true,
@@ -15,7 +16,8 @@
         "t_railroad_track_d_center"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -27,7 +29,8 @@
         "t_railroad_track_d_corner_4"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -39,7 +42,8 @@
         "t_railroad_track_d_t_connection_4"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -49,7 +53,8 @@
         "t_railroad_track_d_edge_2"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -61,7 +66,8 @@
         "t_railroad_track_d_end_piece_4"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     },
     {
@@ -70,7 +76,8 @@
         "t_railroad_track_d_unconnected"
       ],
       "bg": [
-        "t_railroad_rubble"
+        "t_railroad_rubble",
+        "bg_gravel"
       ]
     }
   ]

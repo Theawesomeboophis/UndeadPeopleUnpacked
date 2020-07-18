@@ -3,5 +3,7 @@
   "fg": [
     "material_shrd_limestone"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

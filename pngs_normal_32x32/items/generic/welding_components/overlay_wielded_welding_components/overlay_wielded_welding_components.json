@@ -3,6 +3,8 @@
   "fg": [
     "overlay_wielded_welding_components"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

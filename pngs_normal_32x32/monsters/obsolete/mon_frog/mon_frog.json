@@ -3,6 +3,8 @@
   "fg": [
     "mon_frog"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom4"
+  ],
   "rotates": false
 }

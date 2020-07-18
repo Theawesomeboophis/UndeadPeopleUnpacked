@@ -3,5 +3,7 @@
   "fg": [
     "elec_jackhammer"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

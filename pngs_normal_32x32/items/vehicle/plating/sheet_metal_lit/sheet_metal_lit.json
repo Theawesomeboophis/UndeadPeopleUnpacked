@@ -3,8 +3,5 @@
   "fg": [
     "sheet_metal_lit"
   ],
-  "bg": [
-    "sheet_metal",
-    "sheet_metal_small"
-  ]
+  "bg": []
 }

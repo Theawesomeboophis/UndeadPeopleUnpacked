@@ -3,6 +3,8 @@
   "fg": [
     "84x246mm_smoke"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

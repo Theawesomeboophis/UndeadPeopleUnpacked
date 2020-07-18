@@ -3,5 +3,7 @@
   "fg": [
     "arrowhead_plastic"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

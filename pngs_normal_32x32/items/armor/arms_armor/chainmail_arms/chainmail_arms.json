@@ -3,5 +3,7 @@
   "fg": [
     "chainmail_arms"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

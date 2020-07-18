@@ -1,10 +1,7 @@
 {
   "id": "f_air_filter",
   "fg": [
-    {
-      "weight": 1,
-      "sprite": "f_air_filter"
-    }
+    "f_air_filter"
   ],
   "bg": [],
   "rotates": false

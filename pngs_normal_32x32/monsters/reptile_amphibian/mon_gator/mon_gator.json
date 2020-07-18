@@ -3,6 +3,8 @@
   "fg": [
     "mon_gator"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom2"
+  ],
   "rotates": false
 }

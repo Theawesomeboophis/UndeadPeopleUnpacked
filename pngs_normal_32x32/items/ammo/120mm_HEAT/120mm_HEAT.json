@@ -3,5 +3,7 @@
   "fg": [
     "120mm_HEAT"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -3,5 +3,7 @@
   "fg": [
     "plastic_shopping_bag"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

@@ -4,9 +4,7 @@
     "t_missile"
   ],
   "bg": [
-    "t_pavement_bg_dp",
-    "t_missile_exploded",
-    "t_flat_roof"
+    "bg_pavement"
   ],
   "multitile": true,
   "additional_tiles": [
@@ -16,9 +14,7 @@
         "t_missile_corner"
       ],
       "bg": [
-        "t_pavement_bg_dp",
-        "t_missile_exploded",
-        "t_flat_roof"
+        "bg_pavement"
       ]
     },
     {

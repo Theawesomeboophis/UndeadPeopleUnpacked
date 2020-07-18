@@ -3,6 +3,8 @@
   "fg": [
     "down_pillow"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

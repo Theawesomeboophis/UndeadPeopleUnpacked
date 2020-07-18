@@ -1,0 +1,10 @@
+{
+  "id": "bio_taste_blocker",
+  "fg": [
+    "bio_taste_blocker"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

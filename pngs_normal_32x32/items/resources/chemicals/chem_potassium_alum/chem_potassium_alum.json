@@ -3,6 +3,8 @@
   "fg": [
     "chem_potassium_alum"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

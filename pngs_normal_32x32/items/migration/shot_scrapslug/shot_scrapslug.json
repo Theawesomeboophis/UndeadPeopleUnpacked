@@ -3,5 +3,7 @@
   "fg": [
     "shot_scrapslug"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

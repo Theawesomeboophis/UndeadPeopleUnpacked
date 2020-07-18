@@ -3,6 +3,8 @@
   "fg": [
     "holybook_sutras"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

@@ -3,6 +3,8 @@
   "fg": [
     "thermal_mask"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

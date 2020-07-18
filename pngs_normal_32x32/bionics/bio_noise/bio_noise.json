@@ -1,0 +1,10 @@
+{
+  "id": "bio_noise",
+  "fg": [
+    "bio_noise"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

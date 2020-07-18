@@ -4,10 +4,7 @@
     "t_wall_log_chipped"
   ],
   "bg": [
-    "t_grass_golf_season_winter",
-    "t_grass_dead_season_winter",
-    "t_sand_season_winter",
-    "t_moss_season_winter"
+    "bg_snow"
   ],
   "rotates": true,
   "multitile": true,
@@ -18,10 +15,7 @@
         "t_wall_log_chipped_center"
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -33,10 +27,7 @@
         "t_wall_log_chipped_corner_4"
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -48,10 +39,7 @@
         "t_wall_log_chipped_t_connection_4"
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -61,10 +49,7 @@
         "t_wall_log_chipped_edge_2"
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -76,10 +61,7 @@
         "t_wall_log_chipped_end_piece_4"
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     },
     {
@@ -88,10 +70,7 @@
         "t_wall_log_chipped_unconnected"
       ],
       "bg": [
-        "t_grass_golf_season_winter",
-        "t_grass_dead_season_winter",
-        "t_sand_season_winter",
-        "t_moss_season_winter"
+        "bg_snow"
       ]
     }
   ]

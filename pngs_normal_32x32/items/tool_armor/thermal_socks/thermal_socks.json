@@ -3,6 +3,8 @@
   "fg": [
     "thermal_socks"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

@@ -3,6 +3,8 @@
   "fg": [
     "makeshift_crowbar"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

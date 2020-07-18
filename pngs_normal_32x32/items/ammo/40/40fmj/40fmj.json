@@ -3,6 +3,8 @@
   "fg": [
     "40fmj"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

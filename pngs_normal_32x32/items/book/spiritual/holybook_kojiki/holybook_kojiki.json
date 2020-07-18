@@ -3,6 +3,8 @@
   "fg": [
     "holybook_kojiki"
   ],
-  "bg": [],
+  "bg": [
+    "bg_book"
+  ],
   "rotates": false
 }

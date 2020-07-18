@@ -3,6 +3,8 @@
   "fg": [
     "rapier_fake"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

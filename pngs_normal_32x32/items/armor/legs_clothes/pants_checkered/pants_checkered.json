@@ -3,5 +3,7 @@
   "fg": [
     "pants_checkered"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

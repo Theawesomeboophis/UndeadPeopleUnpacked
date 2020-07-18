@@ -1,0 +1,10 @@
+{
+  "id": "f_machinery_old",
+  "fg": [
+    "f_machinery_old"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

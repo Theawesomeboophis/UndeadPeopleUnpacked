@@ -3,6 +3,8 @@
   "fg": [
     "reloaded_46mm"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

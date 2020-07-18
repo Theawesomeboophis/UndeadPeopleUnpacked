@@ -3,5 +3,7 @@
   "fg": [
     "motor_small"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

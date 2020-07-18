@@ -3,5 +3,7 @@
   "fg": [
     "footrags_fur"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }

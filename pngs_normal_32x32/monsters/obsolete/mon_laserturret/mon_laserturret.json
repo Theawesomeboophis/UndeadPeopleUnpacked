@@ -3,6 +3,8 @@
   "fg": [
     "mon_laserturret"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
   "rotates": false
 }

@@ -4,7 +4,7 @@
     "t_pit_glass"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }

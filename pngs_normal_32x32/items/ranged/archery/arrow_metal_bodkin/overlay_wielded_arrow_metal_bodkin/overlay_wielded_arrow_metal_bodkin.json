@@ -3,6 +3,8 @@
   "fg": [
     "overlay_wielded_arrow_metal_bodkin"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

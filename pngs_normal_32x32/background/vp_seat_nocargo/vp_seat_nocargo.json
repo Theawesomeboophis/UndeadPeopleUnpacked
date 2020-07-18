@@ -1,0 +1,27 @@
+{
+  "id": "vp_seat_nocargo",
+  "fg": [
+    "vp_seat_nocargo"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_seat_nocargo_broken"
+      ],
+      "bg": [
+        "vp_seat",
+        "vp_seat_nocargo",
+        "vp_reclining_seat",
+        "vp_folding_seat",
+        "seat"
+      ],
+      "rotates": true
+    }
+  ]
+}

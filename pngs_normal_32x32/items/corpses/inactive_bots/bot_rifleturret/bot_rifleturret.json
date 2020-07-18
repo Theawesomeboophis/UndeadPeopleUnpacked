@@ -3,6 +3,8 @@
   "fg": [
     "bot_rifleturret"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
   "rotates": true
 }

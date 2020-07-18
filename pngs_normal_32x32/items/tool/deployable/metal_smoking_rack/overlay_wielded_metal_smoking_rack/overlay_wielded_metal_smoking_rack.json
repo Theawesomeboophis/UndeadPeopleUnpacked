@@ -3,6 +3,8 @@
   "fg": [
     "overlay_wielded_metal_smoking_rack"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

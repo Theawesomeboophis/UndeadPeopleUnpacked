@@ -3,6 +3,8 @@
   "fg": [
     "chloroform_rag"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

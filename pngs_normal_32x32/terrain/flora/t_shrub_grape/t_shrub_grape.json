@@ -4,7 +4,7 @@
     "t_shrub_grape"
   ],
   "bg": [
-    "t_dirt"
+    "bg_dirt"
   ],
   "rotates": false
 }
