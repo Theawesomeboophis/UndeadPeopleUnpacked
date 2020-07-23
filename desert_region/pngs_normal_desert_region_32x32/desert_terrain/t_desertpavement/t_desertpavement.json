@@ -1,0 +1,77 @@
+{
+  "id": "t_desertpavement",
+  "fg": [
+    "t_desertpavement"
+  ],
+  "bg": [
+    "bg_sand"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_desertpavement_center"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_desertpavement_corner_1",
+        "t_desertpavement_corner_2",
+        "t_desertpavement_corner_3",
+        "t_desertpavement_corner_4"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_desertpavement_t_connection_1",
+        "t_desertpavement_t_connection_2",
+        "t_desertpavement_t_connection_3",
+        "t_desertpavement_t_connection_4"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_desertpavement_edge_1",
+        "t_desertpavement_edge_2"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_desertpavement_end_piece_1",
+        "t_desertpavement_end_piece_2",
+        "t_desertpavement_end_piece_3",
+        "t_desertpavement_end_piece_4"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_desertpavement_unconnected"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    }
+  ]
+}

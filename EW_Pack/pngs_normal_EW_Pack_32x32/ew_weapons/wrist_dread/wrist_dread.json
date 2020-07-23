@@ -1,0 +1,10 @@
+{
+  "id": "wrist_dread",
+  "fg": [
+    "wrist_dread"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

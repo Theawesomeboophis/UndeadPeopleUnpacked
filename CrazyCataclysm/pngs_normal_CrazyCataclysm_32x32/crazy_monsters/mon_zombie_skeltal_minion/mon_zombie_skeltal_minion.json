@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_skeltal_minion",
+  "fg": [
+    "mon_zombie_skeltal_minion"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

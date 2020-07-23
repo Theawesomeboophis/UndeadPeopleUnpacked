@@ -1,0 +1,9 @@
+{
+  "id": "black_powder_shot",
+  "fg": [
+    "black_powder_shot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

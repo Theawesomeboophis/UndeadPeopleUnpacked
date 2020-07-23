@@ -1,0 +1,10 @@
+{
+  "id": "mon_demon_spiderling",
+  "fg": [
+    "mon_demon_spiderling"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

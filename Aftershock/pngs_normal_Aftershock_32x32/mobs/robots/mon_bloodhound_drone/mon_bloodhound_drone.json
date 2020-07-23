@@ -1,0 +1,10 @@
+{
+  "id": "mon_bloodhound_drone",
+  "fg": [
+    "mon_bloodhound_drone"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

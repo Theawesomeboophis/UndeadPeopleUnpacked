@@ -1,0 +1,10 @@
+{
+  "id": "lffruit_pancakes",
+  "fg": [
+    "lffruit_pancakes"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

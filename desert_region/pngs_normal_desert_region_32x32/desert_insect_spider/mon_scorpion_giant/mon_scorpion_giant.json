@@ -1,0 +1,10 @@
+{
+  "id": "mon_scorpion_giant",
+  "fg": [
+    "mon_scorpion_giant"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

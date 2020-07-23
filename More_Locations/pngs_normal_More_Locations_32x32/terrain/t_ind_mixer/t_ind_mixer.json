@@ -1,0 +1,10 @@
+{
+  "id": "t_ind_mixer",
+  "fg": [
+    "t_ind_mixer"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": false
+}

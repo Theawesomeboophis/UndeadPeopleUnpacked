@@ -1,0 +1,10 @@
+{
+  "id": "mon_dragon_black_wyrmling",
+  "fg": [
+    "mon_dragon_black_wyrmling"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_milbot_40mm",
+  "fg": [
+    "mon_milbot_40mm"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

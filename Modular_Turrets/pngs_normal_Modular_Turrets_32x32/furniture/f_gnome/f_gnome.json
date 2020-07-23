@@ -1,0 +1,10 @@
+{
+  "id": "f_gnome",
+  "fg": [
+    "f_gnome"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

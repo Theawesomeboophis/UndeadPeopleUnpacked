@@ -1,0 +1,10 @@
+{
+  "id": "mon_cookie",
+  "fg": [
+    "mon_cookie"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

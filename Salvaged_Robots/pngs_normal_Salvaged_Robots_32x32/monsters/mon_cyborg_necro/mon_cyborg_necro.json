@@ -1,0 +1,10 @@
+{
+  "id": "mon_cyborg_necro",
+  "fg": [
+    "mon_cyborg_necro"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

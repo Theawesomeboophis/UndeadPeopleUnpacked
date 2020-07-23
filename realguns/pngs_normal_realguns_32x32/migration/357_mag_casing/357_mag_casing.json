@@ -1,0 +1,10 @@
+{
+  "id": "357_mag_casing",
+  "fg": [
+    "357_mag_casing"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

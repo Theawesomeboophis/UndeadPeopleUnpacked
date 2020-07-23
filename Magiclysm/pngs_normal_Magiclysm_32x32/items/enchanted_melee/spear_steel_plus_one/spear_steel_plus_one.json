@@ -1,0 +1,11 @@
+{
+  "id": "spear_steel_plus_one",
+  "fg": [
+    "spear_steel_plus_one"
+  ],
+  "bg": [
+    "spear_steel",
+    "c_fishspear",
+    "m_fishspear"
+  ]
+}

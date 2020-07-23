@@ -1,0 +1,10 @@
+{
+  "id": "mon_turret_gnome",
+  "fg": [
+    "mon_turret_gnome"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "morningstar_plus_two",
+  "fg": [
+    "morningstar_plus_two"
+  ],
+  "bg": [
+    "morningstar",
+    "morningstar_fake",
+    "morningstar_inferior"
+  ]
+}

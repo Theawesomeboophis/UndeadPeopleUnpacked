@@ -1,0 +1,10 @@
+{
+  "id": "410_birdshot",
+  "fg": [
+    "410_birdshot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

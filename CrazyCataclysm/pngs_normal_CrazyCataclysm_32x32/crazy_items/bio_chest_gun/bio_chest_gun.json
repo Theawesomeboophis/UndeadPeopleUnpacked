@@ -1,0 +1,10 @@
+{
+  "id": "bio_chest_gun",
+  "fg": [
+    "bio_chest_gun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_advbot_glitter",
+  "fg": [
+    "mon_advbot_glitter"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "afs_mon_sentinel_lx",
+  "fg": [
+    "afs_mon_sentinel_lx"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

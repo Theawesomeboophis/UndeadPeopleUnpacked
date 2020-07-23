@@ -1,0 +1,10 @@
+{
+  "id": "mon_defbot_shot",
+  "fg": [
+    "mon_defbot_shot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

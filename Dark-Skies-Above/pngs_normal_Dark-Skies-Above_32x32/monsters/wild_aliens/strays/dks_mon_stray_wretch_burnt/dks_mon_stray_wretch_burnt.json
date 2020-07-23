@@ -1,0 +1,10 @@
+{
+  "id": "dks_mon_stray_wretch_burnt",
+  "fg": [
+    "dks_mon_stray_wretch_burnt"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

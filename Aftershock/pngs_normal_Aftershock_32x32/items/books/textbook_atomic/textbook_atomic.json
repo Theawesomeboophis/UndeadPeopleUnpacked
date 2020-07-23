@@ -1,0 +1,10 @@
+{
+  "id": "textbook_atomic",
+  "fg": [
+    "textbook_atomic"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

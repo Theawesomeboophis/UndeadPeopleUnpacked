@@ -1,0 +1,10 @@
+{
+  "id": "gungnir_replica",
+  "fg": [
+    "gungnir_replica"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

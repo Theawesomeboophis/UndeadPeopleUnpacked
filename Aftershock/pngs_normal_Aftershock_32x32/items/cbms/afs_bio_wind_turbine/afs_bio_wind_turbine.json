@@ -1,0 +1,10 @@
+{
+  "id": "afs_bio_wind_turbine",
+  "fg": [
+    "afs_bio_wind_turbine"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

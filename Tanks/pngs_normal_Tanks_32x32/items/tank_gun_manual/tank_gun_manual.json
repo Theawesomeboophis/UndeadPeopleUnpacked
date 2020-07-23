@@ -1,0 +1,8 @@
+{
+  "id": "tank_gun_manual",
+  "fg": [
+    "tank_gun_manual"
+  ],
+  "bg": [],
+  "rotates": false
+}

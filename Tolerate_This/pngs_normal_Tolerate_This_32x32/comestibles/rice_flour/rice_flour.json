@@ -1,0 +1,10 @@
+{
+  "id": "rice_flour",
+  "fg": [
+    "rice_flour"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

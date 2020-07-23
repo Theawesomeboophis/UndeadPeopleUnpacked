@@ -1,0 +1,10 @@
+{
+  "id": "ichaival_replica",
+  "fg": [
+    "ichaival_replica"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

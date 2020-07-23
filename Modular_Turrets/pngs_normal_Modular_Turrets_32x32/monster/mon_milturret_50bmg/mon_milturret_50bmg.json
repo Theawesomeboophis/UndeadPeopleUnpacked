@@ -1,0 +1,10 @@
+{
+  "id": "mon_milturret_50bmg",
+  "fg": [
+    "mon_milturret_50bmg"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": false
+}

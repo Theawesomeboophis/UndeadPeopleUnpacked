@@ -1,0 +1,10 @@
+{
+  "id": "afs_mon_migoturret",
+  "fg": [
+    "afs_mon_migoturret"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
