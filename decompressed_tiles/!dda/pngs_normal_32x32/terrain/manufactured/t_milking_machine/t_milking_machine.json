@@ -4,7 +4,7 @@
     "t_milking_machine"
   ],
   "bg": [
-    "bg_metal_block"
+    "t_floor"
   ],
   "rotates": false
 }
