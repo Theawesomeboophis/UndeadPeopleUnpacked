@@ -8,7 +8,7 @@
 "normal.png": { }
 },
 {
-"normal_offset.png": { "sprite_width": 32, "sprite_height": 32, "sprite_offset_y": -16 }
+"normal_offset.png": { "sprite_offset_y": -16 }
 }
 ,
 {
