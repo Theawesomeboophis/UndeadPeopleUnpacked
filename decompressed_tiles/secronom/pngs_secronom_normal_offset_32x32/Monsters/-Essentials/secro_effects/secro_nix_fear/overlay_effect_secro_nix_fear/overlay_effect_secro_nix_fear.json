@@ -1,7 +1,5 @@
 {
   "id": "overlay_effect_secro_nix_fear",
-  "fg": [
-    "overlay_effect_secro_nix_fear"
-  ],
-  "bg": []
+  "fg": [],
+  "bg": ["overlay_effect_secro_nix_fear"]
 }

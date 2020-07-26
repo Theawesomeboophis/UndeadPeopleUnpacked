@@ -1,7 +1,5 @@
 {
   "id": "overlay_effect_secro_necros_para",
-  "fg": [
-    "overlay_effect_secro_necros_para"
-  ],
-  "bg": []
+  "fg": [],
+  "bg": ["overlay_effect_secro_necros_para"]
 }

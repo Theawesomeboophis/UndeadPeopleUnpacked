@@ -1,7 +1,5 @@
 {
   "id": "overlay_effect_omi_curse",
-  "fg": [
-    "overlay_effect_omi_curse"
-  ],
-  "bg": []
+  "fg": [],
+  "bg": ["overlay_effect_omi_curse"]
 }

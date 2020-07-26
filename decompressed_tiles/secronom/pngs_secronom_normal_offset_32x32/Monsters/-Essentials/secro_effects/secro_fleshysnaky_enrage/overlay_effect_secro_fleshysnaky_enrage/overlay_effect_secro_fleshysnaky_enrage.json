@@ -1,7 +1,5 @@
 {
   "id": "overlay_effect_secro_fleshysnaky_enrage",
-  "fg": [
-    "overlay_effect_secro_fleshysnaky_enrage"
-  ],
-  "bg": []
+  "fg": [],
+  "bg": ["overlay_effect_secro_fleshysnaky_enrage"]
 }
