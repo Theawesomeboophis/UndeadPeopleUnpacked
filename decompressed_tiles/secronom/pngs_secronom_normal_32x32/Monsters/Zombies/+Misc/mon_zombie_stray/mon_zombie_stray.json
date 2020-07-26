@@ -1,0 +1,9 @@
+{
+  "id": "mon_zombie_stray",
+  "fg": [
+    "mon_zombie_stray"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

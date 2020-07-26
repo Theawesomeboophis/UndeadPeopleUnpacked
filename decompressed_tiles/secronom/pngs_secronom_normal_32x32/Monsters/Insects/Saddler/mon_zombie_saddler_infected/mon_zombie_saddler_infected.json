@@ -1,0 +1,9 @@
+{
+  "id": "mon_zombie_saddler_infected",
+  "fg": [
+    "mon_zombie_saddler_infected"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mon_zombie_relinquish",
+  "fg": [
+    "mon_zombie_relinquish"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}
