@@ -1,0 +1,24 @@
+{
+  "id": "mon_sflesh_zombie_fat",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_zombie_fat_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_zombie_fat_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_zombie_fat_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_zombie_fat_4"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

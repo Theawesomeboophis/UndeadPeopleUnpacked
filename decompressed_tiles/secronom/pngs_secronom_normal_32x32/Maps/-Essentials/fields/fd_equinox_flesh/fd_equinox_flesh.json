@@ -1,0 +1,63 @@
+{
+  "id": "fd_equinox_flesh",
+  "fg": [
+    "fd_equinox_flesh"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "fd_equinox_flesh_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_equinox_flesh_corner_1",
+        "fd_equinox_flesh_corner_2",
+        "fd_equinox_flesh_corner_3",
+        "fd_equinox_flesh_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_equinox_flesh_t_connection_1",
+        "fd_equinox_flesh_t_connection_2",
+        "fd_equinox_flesh_t_connection_3",
+        "fd_equinox_flesh_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_equinox_flesh_edge_1",
+        "fd_equinox_flesh_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_equinox_flesh_end_piece_1",
+        "fd_equinox_flesh_end_piece_2",
+        "fd_equinox_flesh_end_piece_3",
+        "fd_equinox_flesh_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_equinox_flesh_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}
