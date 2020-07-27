@@ -1,0 +1,10 @@
+{
+  "id": "mon_cyborg_guard",
+  "fg": [
+    "mon_cyborg_guard"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

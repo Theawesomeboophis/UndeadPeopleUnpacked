@@ -1,0 +1,10 @@
+{
+  "id": "f_blade_upright",
+  "fg": [
+    "f_blade_upright"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

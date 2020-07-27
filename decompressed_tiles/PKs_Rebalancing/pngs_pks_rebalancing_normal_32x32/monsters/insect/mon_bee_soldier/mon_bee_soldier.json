@@ -1,0 +1,10 @@
+{
+  "id": "mon_bee_soldier",
+  "fg": [
+    "mon_bee_soldier"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

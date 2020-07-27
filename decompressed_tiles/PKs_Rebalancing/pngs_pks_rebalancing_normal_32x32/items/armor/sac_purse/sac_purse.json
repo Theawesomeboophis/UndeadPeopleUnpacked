@@ -1,0 +1,10 @@
+{
+  "id": "sac_purse",
+  "fg": [
+    "sac_purse"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

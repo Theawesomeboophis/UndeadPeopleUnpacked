@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_child_reaver",
+  "fg": [
+    "mon_zombie_child_reaver"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

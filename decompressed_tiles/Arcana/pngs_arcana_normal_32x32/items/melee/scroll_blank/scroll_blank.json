@@ -1,0 +1,10 @@
+{
+  "id": "scroll_blank",
+  "fg": [
+    "scroll_blank"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

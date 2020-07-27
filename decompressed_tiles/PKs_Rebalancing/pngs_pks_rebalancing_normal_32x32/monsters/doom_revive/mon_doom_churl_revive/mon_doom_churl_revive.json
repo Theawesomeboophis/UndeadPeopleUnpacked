@@ -1,0 +1,10 @@
+{
+  "id": "mon_doom_churl_revive",
+  "fg": [
+    "mon_doom_churl_revive"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

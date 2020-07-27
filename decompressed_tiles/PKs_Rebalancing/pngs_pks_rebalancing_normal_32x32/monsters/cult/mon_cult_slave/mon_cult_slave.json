@@ -1,0 +1,10 @@
+{
+  "id": "mon_cult_slave",
+  "fg": [
+    "mon_cult_slave"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

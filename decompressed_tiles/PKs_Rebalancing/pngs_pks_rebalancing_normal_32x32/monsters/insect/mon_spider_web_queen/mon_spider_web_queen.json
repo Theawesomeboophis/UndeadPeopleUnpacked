@@ -1,0 +1,10 @@
+{
+  "id": "mon_spider_web_queen",
+  "fg": [
+    "mon_spider_web_queen"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

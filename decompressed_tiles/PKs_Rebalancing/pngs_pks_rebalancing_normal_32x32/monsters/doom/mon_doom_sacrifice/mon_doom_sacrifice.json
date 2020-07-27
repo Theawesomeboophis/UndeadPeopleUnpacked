@@ -1,0 +1,10 @@
+{
+  "id": "mon_doom_sacrifice",
+  "fg": [
+    "mon_doom_sacrifice"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

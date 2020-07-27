@@ -1,0 +1,10 @@
+{
+  "id": "silver_glyph",
+  "fg": [
+    "silver_glyph"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_spirit_of_fire",
+  "fg": [
+    "mon_spirit_of_fire"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

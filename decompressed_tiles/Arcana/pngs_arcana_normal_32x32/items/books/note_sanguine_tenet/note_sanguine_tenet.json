@@ -1,0 +1,10 @@
+{
+  "id": "note_sanguine_tenet",
+  "fg": [
+    "note_sanguine_tenet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

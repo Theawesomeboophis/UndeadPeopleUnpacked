@@ -1,0 +1,10 @@
+{
+  "id": "mon_furvivor_shotgun",
+  "fg": [
+    "mon_furvivor_shotgun"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

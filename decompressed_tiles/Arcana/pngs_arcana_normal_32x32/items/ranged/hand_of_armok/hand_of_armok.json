@@ -1,0 +1,10 @@
+{
+  "id": "hand_of_armok",
+  "fg": [
+    "hand_of_armok"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

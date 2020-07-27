@@ -1,0 +1,10 @@
+{
+  "id": "mon_ant_soldier_pk_weak",
+  "fg": [
+    "mon_ant_soldier_pk_weak"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

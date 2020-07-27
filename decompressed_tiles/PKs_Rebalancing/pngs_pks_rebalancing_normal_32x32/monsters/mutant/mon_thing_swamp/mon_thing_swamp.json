@@ -1,0 +1,10 @@
+{
+  "id": "mon_thing_swamp",
+  "fg": [
+    "mon_thing_swamp"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

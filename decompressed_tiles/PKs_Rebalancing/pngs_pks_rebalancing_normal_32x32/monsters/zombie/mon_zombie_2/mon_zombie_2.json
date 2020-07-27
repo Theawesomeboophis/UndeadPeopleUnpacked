@@ -1,0 +1,117 @@
+{
+  "id": "mon_zombie_2",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_5"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_6"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_7"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_8"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_9"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_10"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_11"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_2_12"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_2_13"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_14"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_15"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_16"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_17"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_18"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_19"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_20"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_21"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_22"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_23"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_24"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_25"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_26"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2_27"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

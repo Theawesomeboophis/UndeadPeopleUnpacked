@@ -1,0 +1,10 @@
+{
+  "id": "mon_ant_scrib",
+  "fg": [
+    "mon_ant_scrib"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

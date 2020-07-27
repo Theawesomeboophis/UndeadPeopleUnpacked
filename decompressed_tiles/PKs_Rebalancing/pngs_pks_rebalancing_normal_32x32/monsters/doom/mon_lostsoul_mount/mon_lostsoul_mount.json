@@ -1,0 +1,10 @@
+{
+  "id": "mon_lostsoul_mount",
+  "fg": [
+    "mon_lostsoul_mount"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "book_magicfordummies",
+  "fg": [
+    "book_magicfordummies"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}
