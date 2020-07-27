@@ -1,0 +1,10 @@
+{
+  "id": "sun_sword_on",
+  "fg": [
+    "sun_sword_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

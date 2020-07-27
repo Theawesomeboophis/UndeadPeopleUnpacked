@@ -1,0 +1,10 @@
+{
+  "id": "note_flame",
+  "fg": [
+    "note_flame"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

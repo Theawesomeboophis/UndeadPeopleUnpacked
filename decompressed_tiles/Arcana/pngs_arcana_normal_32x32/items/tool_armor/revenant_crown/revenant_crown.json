@@ -1,0 +1,10 @@
+{
+  "id": "revenant_crown",
+  "fg": [
+    "revenant_crown"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "gilded_aegis",
+  "fg": [
+    "gilded_aegis"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

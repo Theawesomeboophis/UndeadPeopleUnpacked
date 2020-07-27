@@ -1,0 +1,10 @@
+{
+  "id": "book_summoning",
+  "fg": [
+    "book_summoning"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

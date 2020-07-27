@@ -1,0 +1,10 @@
+{
+  "id": "armor_wyrm",
+  "fg": [
+    "armor_wyrm"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

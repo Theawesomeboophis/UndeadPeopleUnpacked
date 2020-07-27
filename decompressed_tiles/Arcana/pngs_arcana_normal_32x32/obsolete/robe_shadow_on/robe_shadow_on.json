@@ -1,0 +1,10 @@
+{
+  "id": "robe_shadow_on",
+  "fg": [
+    "robe_shadow_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
