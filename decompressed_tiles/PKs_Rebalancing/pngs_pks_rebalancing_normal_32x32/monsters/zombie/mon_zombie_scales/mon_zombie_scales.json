@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_scales",
+  "fg": [
+    "mon_zombie_scales"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

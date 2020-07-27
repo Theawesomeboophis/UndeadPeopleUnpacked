@@ -1,0 +1,10 @@
+{
+  "id": "candle_smoke",
+  "fg": [
+    "candle_smoke"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_moth",
+  "fg": [
+    "mon_moth"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

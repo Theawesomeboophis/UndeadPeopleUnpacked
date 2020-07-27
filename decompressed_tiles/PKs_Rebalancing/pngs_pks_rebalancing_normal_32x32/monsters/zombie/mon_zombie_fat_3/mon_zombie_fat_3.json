@@ -1,0 +1,61 @@
+{
+  "id": "mon_zombie_fat_3",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_fat_3_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_fat_3_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_3_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_fat_3_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_fat_3_5"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_fat_3_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_3_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_3_8"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_fat_3_9"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_fat_3_10"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_fat_3_11"
+    },
+    {
+      "weight": 2,
+      "sprite": "mon_zombie_fat_3_12"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_3_13"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

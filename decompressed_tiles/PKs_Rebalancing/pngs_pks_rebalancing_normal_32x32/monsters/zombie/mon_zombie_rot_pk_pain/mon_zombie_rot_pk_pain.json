@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_rot_pk_pain",
+  "fg": [
+    "mon_zombie_rot_pk_pain"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

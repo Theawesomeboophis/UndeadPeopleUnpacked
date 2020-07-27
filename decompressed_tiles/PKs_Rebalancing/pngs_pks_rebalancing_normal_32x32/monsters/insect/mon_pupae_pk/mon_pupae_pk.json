@@ -1,0 +1,10 @@
+{
+  "id": "mon_pupae_pk",
+  "fg": [
+    "mon_pupae_pk"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "t_iron_fence",
+  "fg": [
+    "t_iron_fence"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "edge",
+      "fg": [
+        "t_iron_fence_edge_1",
+        "t_iron_fence_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "center",
+      "fg": [
+        "t_iron_fence_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_iron_fence_corner_1",
+        "t_iron_fence_corner_2",
+        "t_iron_fence_corner_3",
+        "t_iron_fence_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_iron_fence_end_piece_1",
+        "t_iron_fence_end_piece_2",
+        "t_iron_fence_end_piece_3",
+        "t_iron_fence_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_iron_fence_t_connection_1",
+        "t_iron_fence_t_connection_2",
+        "t_iron_fence_t_connection_3",
+        "t_iron_fence_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_iron_fence_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

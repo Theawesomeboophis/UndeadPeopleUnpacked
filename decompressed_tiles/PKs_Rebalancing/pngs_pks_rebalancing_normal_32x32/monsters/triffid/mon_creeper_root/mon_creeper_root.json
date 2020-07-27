@@ -1,0 +1,10 @@
+{
+  "id": "mon_creeper_root",
+  "fg": [
+    "mon_creeper_root"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

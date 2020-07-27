@@ -1,0 +1,15 @@
+{
+  "id": "mon_zombie_swimmer_pk",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swimmer_pk_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swimmer_pk_2"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_improvised_fence",
+  "fg": [
+    "t_improvised_fence"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

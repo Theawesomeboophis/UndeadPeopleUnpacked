@@ -1,0 +1,10 @@
+{
+  "id": "shot_410_hull",
+  "fg": [
+    "shot_410_hull"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_horror_dusk_queen",
+  "fg": [
+    "mon_horror_dusk_queen"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

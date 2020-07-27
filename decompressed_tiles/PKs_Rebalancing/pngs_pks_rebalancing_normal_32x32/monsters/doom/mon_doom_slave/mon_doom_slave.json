@@ -1,0 +1,10 @@
+{
+  "id": "mon_doom_slave",
+  "fg": [
+    "mon_doom_slave"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

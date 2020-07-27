@@ -1,0 +1,10 @@
+{
+  "id": "mon_deer_rutting",
+  "fg": [
+    "mon_deer_rutting"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
