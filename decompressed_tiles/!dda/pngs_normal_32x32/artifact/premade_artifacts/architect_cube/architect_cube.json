@@ -1,0 +1,14 @@
+{
+  "id": "architect_cube",
+  "animated":true
+  "fg": [
+            { "weight": 20, "sprite": "architect_cube" },
+            { "weight": 20, "sprite": "architect_cube_1" },
+            { "weight": 20, "sprite": "architect_cube_2" },
+            { "weight": 20, "sprite": "architect_cube_3" },
+            { "weight": 20, "sprite": "architect_cube_2" },
+            { "weight": 20, "sprite": "architect_cube_1" }
+          ],
+  "bg": [],
+  "rotates": false
+}
