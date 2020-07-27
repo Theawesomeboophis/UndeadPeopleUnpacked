@@ -1,0 +1,10 @@
+{
+  "id": "mon_rat_piglet",
+  "fg": [
+    "mon_rat_piglet"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

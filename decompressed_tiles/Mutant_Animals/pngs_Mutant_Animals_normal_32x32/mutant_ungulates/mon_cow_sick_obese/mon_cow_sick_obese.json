@@ -1,0 +1,10 @@
+{
+  "id": "mon_cow_sick_obese",
+  "fg": [
+    "mon_cow_sick_obese"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

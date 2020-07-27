@@ -1,0 +1,10 @@
+{
+  "id": "mon_dog_sick_pus",
+  "fg": [
+    "mon_dog_sick_pus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

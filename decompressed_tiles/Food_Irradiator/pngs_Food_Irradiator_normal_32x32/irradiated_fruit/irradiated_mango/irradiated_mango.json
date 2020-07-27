@@ -1,0 +1,10 @@
+{
+  "id": "irradiated_mango",
+  "fg": [
+    "irradiated_mango"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

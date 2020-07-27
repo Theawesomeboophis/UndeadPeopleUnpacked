@@ -1,0 +1,10 @@
+{
+  "id": "mon_autoarmor_basic",
+  "fg": [
+    "mon_autoarmor_basic"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

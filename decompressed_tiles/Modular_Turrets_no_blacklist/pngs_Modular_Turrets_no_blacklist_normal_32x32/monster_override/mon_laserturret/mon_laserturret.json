@@ -1,0 +1,10 @@
+{
+  "id": "mon_laserturret",
+  "fg": [
+    "mon_laserturret"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": false
+}

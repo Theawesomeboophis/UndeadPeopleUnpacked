@@ -1,0 +1,10 @@
+{
+  "id": "mon_utilibot_digester",
+  "fg": [
+    "mon_utilibot_digester"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_advturret_acid",
+  "fg": [
+    "mon_advturret_acid"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

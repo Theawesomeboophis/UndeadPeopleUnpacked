@@ -1,0 +1,18 @@
+{
+  "id": "vp_nanohalfboard_sw",
+  "fg": [
+    "vp_nanohalfboard_sw"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_nanohalfboard_sw_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

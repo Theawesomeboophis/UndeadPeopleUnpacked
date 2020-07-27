@@ -1,0 +1,10 @@
+{
+  "id": "mon_advturret_emp",
+  "fg": [
+    "mon_advturret_emp"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

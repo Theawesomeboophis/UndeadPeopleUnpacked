@@ -1,0 +1,10 @@
+{
+  "id": "mon_eyebot_heater",
+  "fg": [
+    "mon_eyebot_heater"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

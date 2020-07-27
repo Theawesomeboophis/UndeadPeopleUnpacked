@@ -1,0 +1,10 @@
+{
+  "id": "mon_pig_piglet_mutant_cave",
+  "fg": [
+    "mon_pig_piglet_mutant_cave"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

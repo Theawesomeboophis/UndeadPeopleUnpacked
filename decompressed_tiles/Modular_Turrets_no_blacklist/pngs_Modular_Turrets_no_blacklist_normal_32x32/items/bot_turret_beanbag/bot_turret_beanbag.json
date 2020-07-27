@@ -1,0 +1,10 @@
+{
+  "id": "bot_turret_beanbag",
+  "fg": [
+    "bot_turret_beanbag"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

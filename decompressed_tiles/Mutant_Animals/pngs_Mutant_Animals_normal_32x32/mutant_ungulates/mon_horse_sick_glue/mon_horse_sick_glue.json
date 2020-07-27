@@ -1,0 +1,10 @@
+{
+  "id": "mon_horse_sick_glue",
+  "fg": [
+    "mon_horse_sick_glue"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

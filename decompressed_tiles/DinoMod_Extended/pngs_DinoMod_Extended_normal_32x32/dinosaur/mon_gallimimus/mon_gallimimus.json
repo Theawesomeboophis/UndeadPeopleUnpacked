@@ -1,0 +1,10 @@
+{
+  "id": "mon_gallimimus",
+  "fg": [
+    "mon_gallimimus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

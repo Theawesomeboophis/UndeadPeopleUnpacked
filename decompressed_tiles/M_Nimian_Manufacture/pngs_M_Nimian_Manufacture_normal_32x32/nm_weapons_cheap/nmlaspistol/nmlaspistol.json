@@ -1,0 +1,10 @@
+{
+  "id": "nmlaspistol",
+  "fg": [
+    "nmlaspistol"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

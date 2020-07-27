@@ -1,0 +1,10 @@
+{
+  "id": "mon_animal_mutant_swimmer",
+  "fg": [
+    "mon_animal_mutant_swimmer"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

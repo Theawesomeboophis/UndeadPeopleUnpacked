@@ -1,0 +1,10 @@
+{
+  "id": "fire_lance",
+  "fg": [
+    "fire_lance"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

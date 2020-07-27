@@ -1,0 +1,10 @@
+{
+  "id": "mon_nosferatu_meirin",
+  "fg": [
+    "mon_nosferatu_meirin"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

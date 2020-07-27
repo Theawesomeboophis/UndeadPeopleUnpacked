@@ -1,0 +1,10 @@
+{
+  "id": "walker_bmg",
+  "fg": [
+    "walker_bmg"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

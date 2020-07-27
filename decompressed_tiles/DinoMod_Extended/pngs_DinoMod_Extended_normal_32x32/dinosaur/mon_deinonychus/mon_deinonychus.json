@@ -1,0 +1,10 @@
+{
+  "id": "mon_deinonychus",
+  "fg": [
+    "mon_deinonychus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

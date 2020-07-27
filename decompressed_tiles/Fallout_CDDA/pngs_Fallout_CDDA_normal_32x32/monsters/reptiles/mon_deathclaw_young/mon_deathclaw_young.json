@@ -1,0 +1,10 @@
+{
+  "id": "mon_deathclaw_young",
+  "fg": [
+    "mon_deathclaw_young"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

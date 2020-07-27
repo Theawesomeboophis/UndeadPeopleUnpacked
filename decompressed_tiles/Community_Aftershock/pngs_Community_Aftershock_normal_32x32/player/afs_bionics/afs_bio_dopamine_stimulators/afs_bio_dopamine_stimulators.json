@@ -1,0 +1,10 @@
+{
+  "id": "afs_bio_dopamine_stimulators",
+  "fg": [
+    "afs_bio_dopamine_stimulators"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

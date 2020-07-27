@@ -1,0 +1,10 @@
+{
+  "id": "mon_horse_sick_famine",
+  "fg": [
+    "mon_horse_sick_famine"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

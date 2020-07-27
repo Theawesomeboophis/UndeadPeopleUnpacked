@@ -1,0 +1,10 @@
+{
+  "id": "t_tarptent_leather",
+  "fg": [
+    "t_tarptent_leather"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

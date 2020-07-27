@@ -1,0 +1,26 @@
+{
+  "id": "vp_halfoozleboard_nw",
+  "fg": [
+    "vp_halfoozleboard_nw"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_halfoozleboard_nw_broken"
+      ],
+      "bg": [
+        "vp_gloopleboard_nw",
+        "vp_grayboard_nw",
+        "vp_grayboard_sw",
+        "vp_halfgloopleboard_nw",
+        "vp_halfgrayboard_nw",
+        "vp_halfoozleboard_nw",
+        "vp_oozleboard_nw"
+      ]
+    }
+  ]
+}

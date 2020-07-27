@@ -1,0 +1,10 @@
+{
+  "id": "mon_protectron_subway",
+  "fg": [
+    "mon_protectron_subway"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

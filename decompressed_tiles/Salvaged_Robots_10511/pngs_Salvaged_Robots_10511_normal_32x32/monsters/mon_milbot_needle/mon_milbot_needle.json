@@ -1,0 +1,10 @@
+{
+  "id": "mon_milbot_needle",
+  "fg": [
+    "mon_milbot_needle"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

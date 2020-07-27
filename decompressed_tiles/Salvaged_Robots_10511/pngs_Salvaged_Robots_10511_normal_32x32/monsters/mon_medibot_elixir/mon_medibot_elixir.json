@@ -1,0 +1,10 @@
+{
+  "id": "mon_medibot_elixir",
+  "fg": [
+    "mon_medibot_elixir"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

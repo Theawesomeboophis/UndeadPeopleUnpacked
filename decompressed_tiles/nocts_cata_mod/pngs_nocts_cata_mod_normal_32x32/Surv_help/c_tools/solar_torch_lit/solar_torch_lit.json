@@ -1,0 +1,10 @@
+{
+  "id": "solar_torch_lit",
+  "fg": [
+    "solar_torch_lit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

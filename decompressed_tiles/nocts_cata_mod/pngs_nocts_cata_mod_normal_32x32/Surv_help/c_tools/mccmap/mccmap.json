@@ -1,0 +1,18 @@
+{
+  "id": "mccmap",
+  "fg": [
+    "mccmap"
+  ],
+  "bg": [
+    "militarymap",
+    "roadmap",
+    "survivormap",
+    "arcanemap",
+    "touristmap",
+    "restaurantmap",
+    "ulmap",
+    "shmap",
+    "semap",
+    "biomap"
+  ]
+}

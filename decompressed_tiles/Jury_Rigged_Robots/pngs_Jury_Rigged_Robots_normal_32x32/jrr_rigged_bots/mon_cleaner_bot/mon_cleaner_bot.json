@@ -1,0 +1,10 @@
+{
+  "id": "mon_cleaner_bot",
+  "fg": [
+    "mon_cleaner_bot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

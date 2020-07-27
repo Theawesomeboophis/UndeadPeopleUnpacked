@@ -1,0 +1,10 @@
+{
+  "id": "bio_plasma_cell",
+  "fg": [
+    "bio_plasma_cell"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

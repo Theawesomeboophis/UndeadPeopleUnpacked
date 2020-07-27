@@ -1,0 +1,10 @@
+{
+  "id": "mon_arson_hack",
+  "fg": [
+    "mon_arson_hack"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

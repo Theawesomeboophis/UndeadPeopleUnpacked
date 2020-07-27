@@ -1,0 +1,10 @@
+{
+  "id": "maid_master_child",
+  "fg": [
+    "maid_master_child"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

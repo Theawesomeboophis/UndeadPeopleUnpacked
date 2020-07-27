@@ -1,0 +1,10 @@
+{
+  "id": "mon_deer_sick_burnt",
+  "fg": [
+    "mon_deer_sick_burnt"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

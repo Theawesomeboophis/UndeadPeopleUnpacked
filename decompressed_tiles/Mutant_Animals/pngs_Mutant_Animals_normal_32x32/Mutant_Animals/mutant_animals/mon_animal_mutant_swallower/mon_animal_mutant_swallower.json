@@ -1,0 +1,10 @@
+{
+  "id": "mon_animal_mutant_swallower",
+  "fg": [
+    "mon_animal_mutant_swallower"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

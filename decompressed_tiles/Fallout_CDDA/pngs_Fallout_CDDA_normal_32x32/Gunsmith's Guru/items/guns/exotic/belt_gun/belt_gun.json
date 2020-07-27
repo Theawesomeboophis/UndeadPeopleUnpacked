@@ -1,0 +1,10 @@
+{
+  "id": "belt_gun",
+  "fg": [
+    "belt_gun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

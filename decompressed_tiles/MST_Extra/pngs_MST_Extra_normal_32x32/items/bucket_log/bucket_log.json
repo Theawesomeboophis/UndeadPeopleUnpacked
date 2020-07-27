@@ -1,0 +1,8 @@
+{
+  "id": "bucket_log",
+  "fg": [
+    "bucket_log"
+  ],
+  "bg": [],
+  "rotates": false
+}

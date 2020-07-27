@@ -1,0 +1,10 @@
+{
+  "id": "ninja_nunchuk",
+  "fg": [
+    "ninja_nunchuk"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "walker_shot",
+  "fg": [
+    "walker_shot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
