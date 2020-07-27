@@ -3,5 +3,7 @@
   "fg": [
     "corpse_mon_saddler_infected_brute"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_normal2"
+  ]
 }

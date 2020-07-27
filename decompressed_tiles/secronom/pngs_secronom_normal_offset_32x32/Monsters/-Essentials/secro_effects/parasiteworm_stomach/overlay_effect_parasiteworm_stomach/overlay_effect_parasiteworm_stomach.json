@@ -1,7 +1,5 @@
 {
   "id": "overlay_effect_parasiteworm_stomach",
-  "fg": [
-    "overlay_effect_parasiteworm_stomach"
-  ],
-  "bg": []
+  "fg": [],
+  "bg": ["overlay_effect_parasiteworm_stomach"]
 }
