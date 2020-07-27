@@ -1,0 +1,10 @@
+{
+  "id": "t_hive_regrowing",
+  "fg": [
+    "t_hive_regrowing"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

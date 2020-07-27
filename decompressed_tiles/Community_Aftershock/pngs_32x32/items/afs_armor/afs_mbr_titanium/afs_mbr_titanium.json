@@ -1,0 +1,10 @@
+{
+  "id": "afs_mbr_titanium",
+  "fg": [
+    "afs_mbr_titanium"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

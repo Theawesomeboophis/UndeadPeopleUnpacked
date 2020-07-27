@@ -1,0 +1,10 @@
+{
+  "id": "357_magnum_revolver",
+  "fg": [
+    "357_magnum_revolver"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

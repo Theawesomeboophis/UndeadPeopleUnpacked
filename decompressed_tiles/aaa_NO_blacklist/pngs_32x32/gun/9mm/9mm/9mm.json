@@ -1,0 +1,10 @@
+{
+  "id": "9mm",
+  "fg": [
+    "9mm"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

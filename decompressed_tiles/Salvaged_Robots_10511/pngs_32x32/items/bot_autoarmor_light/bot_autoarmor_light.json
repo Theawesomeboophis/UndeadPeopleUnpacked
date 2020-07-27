@@ -1,0 +1,8 @@
+{
+  "id": "bot_autoarmor_light",
+  "fg": [
+    "bot_autoarmor_light"
+  ],
+  "bg": [],
+  "rotates": true
+}

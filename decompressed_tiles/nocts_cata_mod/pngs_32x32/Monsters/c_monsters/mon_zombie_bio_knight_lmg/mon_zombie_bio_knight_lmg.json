@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_bio_knight_lmg",
+  "fg": [
+    "mon_zombie_bio_knight_lmg"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

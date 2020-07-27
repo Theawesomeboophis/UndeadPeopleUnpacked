@@ -1,0 +1,10 @@
+{
+  "id": "mon_mirelurk_softshell",
+  "fg": [
+    "mon_mirelurk_softshell"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

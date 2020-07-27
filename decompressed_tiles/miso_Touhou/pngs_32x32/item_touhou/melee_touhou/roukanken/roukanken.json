@@ -1,0 +1,10 @@
+{
+  "id": "roukanken",
+  "fg": [
+    "roukanken"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vp_gloople_seat",
+  "fg": [
+    "vp_gloople_seat"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": true
+}

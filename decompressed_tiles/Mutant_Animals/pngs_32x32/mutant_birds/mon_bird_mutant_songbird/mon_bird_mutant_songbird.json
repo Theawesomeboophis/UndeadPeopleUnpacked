@@ -1,0 +1,10 @@
+{
+  "id": "mon_bird_mutant_songbird",
+  "fg": [
+    "mon_bird_mutant_songbird"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

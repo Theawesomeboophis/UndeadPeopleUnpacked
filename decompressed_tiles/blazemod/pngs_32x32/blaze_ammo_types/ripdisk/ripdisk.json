@@ -1,0 +1,10 @@
+{
+  "id": "ripdisk",
+  "fg": [
+    "ripdisk"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

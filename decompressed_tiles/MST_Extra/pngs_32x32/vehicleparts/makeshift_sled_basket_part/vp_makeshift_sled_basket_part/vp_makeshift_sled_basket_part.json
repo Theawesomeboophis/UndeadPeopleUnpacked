@@ -1,0 +1,10 @@
+{
+  "id": "vp_makeshift_sled_basket_part",
+  "fg": [
+    "vp_makeshift_sled_basket_part"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

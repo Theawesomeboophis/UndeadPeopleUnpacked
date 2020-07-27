@@ -1,0 +1,10 @@
+{
+  "id": "recipe_chimera",
+  "fg": [
+    "recipe_chimera"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

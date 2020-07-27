@@ -1,0 +1,10 @@
+{
+  "id": "mon_turret_water",
+  "fg": [
+    "mon_turret_water"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

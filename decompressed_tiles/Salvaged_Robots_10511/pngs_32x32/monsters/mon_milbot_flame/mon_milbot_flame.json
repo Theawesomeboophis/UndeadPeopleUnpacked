@@ -1,0 +1,10 @@
+{
+  "id": "mon_milbot_flame",
+  "fg": [
+    "mon_milbot_flame"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

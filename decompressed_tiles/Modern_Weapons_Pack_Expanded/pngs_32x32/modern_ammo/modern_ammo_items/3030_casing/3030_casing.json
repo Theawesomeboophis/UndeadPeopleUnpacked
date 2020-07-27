@@ -1,0 +1,10 @@
+{
+  "id": "3030_casing",
+  "fg": [
+    "3030_casing"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

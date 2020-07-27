@@ -1,0 +1,10 @@
+{
+  "id": "mon_velociraptor",
+  "fg": [
+    "mon_velociraptor"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

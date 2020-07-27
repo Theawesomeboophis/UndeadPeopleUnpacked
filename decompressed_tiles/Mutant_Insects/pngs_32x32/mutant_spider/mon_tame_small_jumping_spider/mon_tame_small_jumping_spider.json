@@ -1,0 +1,10 @@
+{
+  "id": "mon_tame_small_jumping_spider",
+  "fg": [
+    "mon_tame_small_jumping_spider"
+  ],
+  "bg": [
+    "bg_insect_tame"
+  ],
+  "rotates": false
+}

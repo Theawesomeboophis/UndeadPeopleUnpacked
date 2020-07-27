@@ -1,0 +1,10 @@
+{
+  "id": "mon_killbot",
+  "fg": [
+    "mon_killbot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

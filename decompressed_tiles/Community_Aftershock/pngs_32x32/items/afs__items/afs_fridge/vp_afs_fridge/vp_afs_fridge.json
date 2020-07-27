@@ -1,0 +1,18 @@
+{
+  "id": "vp_afs_fridge",
+  "fg": [
+    "vp_afs_fridge"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_afs_fridge_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

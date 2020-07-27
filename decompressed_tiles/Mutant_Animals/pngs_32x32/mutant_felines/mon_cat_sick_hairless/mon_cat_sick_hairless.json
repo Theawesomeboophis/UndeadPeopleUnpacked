@@ -1,0 +1,10 @@
+{
+  "id": "mon_cat_sick_hairless",
+  "fg": [
+    "mon_cat_sick_hairless"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

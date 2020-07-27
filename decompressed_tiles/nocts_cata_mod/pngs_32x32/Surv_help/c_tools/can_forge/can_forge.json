@@ -1,0 +1,10 @@
+{
+  "id": "can_forge",
+  "fg": [
+    "can_forge"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

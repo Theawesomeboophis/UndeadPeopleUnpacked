@@ -1,0 +1,10 @@
+{
+  "id": "mon_milbot_gaurdian",
+  "fg": [
+    "mon_milbot_gaurdian"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

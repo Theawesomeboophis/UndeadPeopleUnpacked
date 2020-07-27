@@ -1,0 +1,10 @@
+{
+  "id": "mon_smokehack",
+  "fg": [
+    "mon_smokehack"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

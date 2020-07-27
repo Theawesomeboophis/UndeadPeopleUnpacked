@@ -1,0 +1,10 @@
+{
+  "id": "bolt_rifle_elec",
+  "fg": [
+    "bolt_rifle_elec"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

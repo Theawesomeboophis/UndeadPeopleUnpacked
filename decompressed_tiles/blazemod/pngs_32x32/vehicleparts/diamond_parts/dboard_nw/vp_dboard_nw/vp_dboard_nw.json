@@ -1,0 +1,18 @@
+{
+  "id": "vp_dboard_nw",
+  "fg": [
+    "vp_dboard_nw"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_dboard_nw_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

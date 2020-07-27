@@ -1,0 +1,22 @@
+{
+  "id": "vp_afs_kitchen_rig",
+  "fg": [
+    "vp_afs_kitchen_rig"
+  ],
+  "bg": [
+    "vp_afs_hauling_space"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_afs_kitchen_rig_broken"
+      ],
+      "bg": [
+        "vp_afs_hauling_space"
+      ]
+    }
+  ]
+}

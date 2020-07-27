@@ -1,0 +1,10 @@
+{
+  "id": "mon_defbot_riotcontrol",
+  "fg": [
+    "mon_defbot_riotcontrol"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

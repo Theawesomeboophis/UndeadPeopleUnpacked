@@ -1,0 +1,10 @@
+{
+  "id": "snare_trigger",
+  "fg": [
+    "snare_trigger"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

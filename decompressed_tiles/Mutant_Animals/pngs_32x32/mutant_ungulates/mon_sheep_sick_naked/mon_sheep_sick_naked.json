@@ -1,0 +1,10 @@
+{
+  "id": "mon_sheep_sick_naked",
+  "fg": [
+    "mon_sheep_sick_naked"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

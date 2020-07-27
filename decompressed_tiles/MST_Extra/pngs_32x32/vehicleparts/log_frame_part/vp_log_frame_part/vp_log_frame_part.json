@@ -1,0 +1,10 @@
+{
+  "id": "vp_log_frame_part",
+  "fg": [
+    "vp_log_frame_part"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

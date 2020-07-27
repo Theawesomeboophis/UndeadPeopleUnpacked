@@ -1,0 +1,18 @@
+{
+  "id": "solar_array",
+  "fg": [
+    "solar_array"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "solar_array_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

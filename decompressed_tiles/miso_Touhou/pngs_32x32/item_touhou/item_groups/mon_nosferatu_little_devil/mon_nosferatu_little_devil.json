@@ -1,0 +1,10 @@
+{
+  "id": "mon_nosferatu_little_devil",
+  "fg": [
+    "mon_nosferatu_little_devil"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

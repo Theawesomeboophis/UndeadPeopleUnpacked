@@ -1,0 +1,32 @@
+{
+  "id": "vp_gloopledoor",
+  "fg": [
+    "vp_gloopledoor"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_gloopledoor_broken"
+      ],
+      "bg": [
+        "vp_gloopledoor",
+        "vp_gloopledoor_opaque",
+        "vp_graydoor",
+        "vp_graydoor_opaque",
+        "vp_oozledoor",
+        "vp_oozledoor_opaque"
+      ]
+    },
+    {
+      "id": "open",
+      "fg": [
+        "vp_gloopledoor_open"
+      ],
+      "bg": []
+    }
+  ]
+}

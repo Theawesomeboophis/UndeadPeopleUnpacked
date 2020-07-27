@@ -1,0 +1,10 @@
+{
+  "id": "mon_rat_mutant_piranha",
+  "fg": [
+    "mon_rat_mutant_piranha"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

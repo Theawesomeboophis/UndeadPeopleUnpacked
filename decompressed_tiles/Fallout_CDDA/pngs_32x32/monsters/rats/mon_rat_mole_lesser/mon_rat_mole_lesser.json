@@ -1,0 +1,10 @@
+{
+  "id": "mon_rat_mole_lesser",
+  "fg": [
+    "mon_rat_mole_lesser"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

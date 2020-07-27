@@ -1,0 +1,10 @@
+{
+  "id": "vp_sballistarack",
+  "fg": [
+    "vp_sballistarack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

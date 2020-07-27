@@ -1,0 +1,26 @@
+{
+  "id": "vp_awatercannon",
+  "fg": [
+    "vp_awatercannon"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_awatercannon_broken"
+      ],
+      "bg": [
+        "vp_watercannon",
+        "vp_awatercannon",
+        "vp_acangun",
+        "vp_bolter",
+        "bolter",
+        "vp_cangun",
+        "vp_acangunnc"
+      ]
+    }
+  ]
+}
