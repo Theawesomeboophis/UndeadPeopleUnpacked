@@ -1,0 +1,10 @@
+{
+  "id": "rapier_plus_one",
+  "fg": [
+    "rapier_plus_one"
+  ],
+  "bg": [
+    "rapier",
+    "rapier_fake"
+  ]
+}

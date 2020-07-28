@@ -1,0 +1,12 @@
+{
+  "id": "halberd_plus_one",
+  "fg": [
+    "halberd_plus_one"
+  ],
+  "bg": [
+    "makeshift_halberd",
+    "halberd",
+    "hakurouken",
+    "halberd_fake"
+  ]
+}

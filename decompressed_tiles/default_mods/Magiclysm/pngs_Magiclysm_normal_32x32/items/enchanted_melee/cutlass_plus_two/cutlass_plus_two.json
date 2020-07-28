@@ -1,0 +1,11 @@
+{
+  "id": "cutlass_plus_two",
+  "fg": [
+    "cutlass_plus_two"
+  ],
+  "bg": [
+    "cutlass_fake",
+    "cutlass",
+    "cavalry_sabre"
+  ]
+}
