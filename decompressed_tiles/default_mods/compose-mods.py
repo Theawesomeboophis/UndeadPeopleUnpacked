@@ -356,7 +356,7 @@ for ts_data in all_ts_data:
 conf_data = [{
     
 	"type": "mod_tileset",
-	"compatibility": ["UDP_DDA"],
+	"compatibility": ["UNDEAD_PEOPLE_BASE"],
     "tiles-new": tiles_new
 }]
 tileset_confpath = refs.tileset_pathname + "/" + "mod_tileset.json"
