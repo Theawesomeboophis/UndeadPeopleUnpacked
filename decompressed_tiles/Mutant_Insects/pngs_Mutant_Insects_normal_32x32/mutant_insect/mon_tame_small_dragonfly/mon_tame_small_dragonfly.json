@@ -1,0 +1,10 @@
+{
+  "id": "mon_tame_small_dragonfly",
+  "fg": [
+    "mon_tame_small_dragonfly"
+  ],
+  "bg": [
+    "bg_tame_animal"
+  ],
+  "rotates": false
+}

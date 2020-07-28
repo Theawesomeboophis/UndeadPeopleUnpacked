@@ -1,0 +1,10 @@
+{
+  "id": "mon_protectron_fire",
+  "fg": [
+    "mon_protectron_fire"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

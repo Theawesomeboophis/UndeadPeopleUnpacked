@@ -1,0 +1,10 @@
+{
+  "id": "mon_distractron",
+  "fg": [
+    "mon_distractron"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

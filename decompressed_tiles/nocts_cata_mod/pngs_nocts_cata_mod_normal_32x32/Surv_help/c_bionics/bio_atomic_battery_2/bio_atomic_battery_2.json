@@ -1,0 +1,10 @@
+{
+  "id": "bio_atomic_battery_2",
+  "fg": [
+    "bio_atomic_battery_2"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

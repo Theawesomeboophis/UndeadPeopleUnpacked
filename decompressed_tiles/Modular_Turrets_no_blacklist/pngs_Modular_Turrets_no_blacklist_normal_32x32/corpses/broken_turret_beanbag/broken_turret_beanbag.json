@@ -1,0 +1,10 @@
+{
+  "id": "broken_turret_beanbag",
+  "fg": [
+    "broken_turret_beanbag"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_pig_mutant_rhino",
+  "fg": [
+    "mon_pig_mutant_rhino"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

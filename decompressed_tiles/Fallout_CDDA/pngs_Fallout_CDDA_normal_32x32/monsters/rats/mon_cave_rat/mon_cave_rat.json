@@ -1,0 +1,10 @@
+{
+  "id": "mon_cave_rat",
+  "fg": [
+    "mon_cave_rat"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

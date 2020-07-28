@@ -1,0 +1,10 @@
+{
+  "id": "mon_defbot_9mm",
+  "fg": [
+    "mon_defbot_9mm"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

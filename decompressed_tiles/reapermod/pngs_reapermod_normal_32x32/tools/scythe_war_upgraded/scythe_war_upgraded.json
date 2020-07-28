@@ -1,0 +1,10 @@
+{
+  "id": "scythe_war_upgraded",
+  "fg": [
+    "scythe_war_upgraded"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

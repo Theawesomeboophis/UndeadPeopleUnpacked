@@ -1,0 +1,10 @@
+{
+  "id": "mon_cat_mutant_whip",
+  "fg": [
+    "mon_cat_mutant_whip"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

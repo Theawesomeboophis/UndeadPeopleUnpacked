@@ -1,0 +1,10 @@
+{
+  "id": "solar_flashlight",
+  "fg": [
+    "solar_flashlight"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

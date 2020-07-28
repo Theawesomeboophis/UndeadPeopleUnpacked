@@ -1,0 +1,10 @@
+{
+  "id": "mon_exploder",
+  "fg": [
+    "mon_exploder"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

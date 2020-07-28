@@ -1,0 +1,10 @@
+{
+  "id": "mon_animal_mutant_babler",
+  "fg": [
+    "mon_animal_mutant_babler"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

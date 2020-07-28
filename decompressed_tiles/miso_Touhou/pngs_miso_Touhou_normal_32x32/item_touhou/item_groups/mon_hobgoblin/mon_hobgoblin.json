@@ -1,0 +1,10 @@
+{
+  "id": "mon_hobgoblin",
+  "fg": [
+    "mon_hobgoblin"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

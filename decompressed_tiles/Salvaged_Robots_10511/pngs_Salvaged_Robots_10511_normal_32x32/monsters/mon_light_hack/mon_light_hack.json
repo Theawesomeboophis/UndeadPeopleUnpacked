@@ -1,0 +1,10 @@
+{
+  "id": "mon_light_hack",
+  "fg": [
+    "mon_light_hack"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

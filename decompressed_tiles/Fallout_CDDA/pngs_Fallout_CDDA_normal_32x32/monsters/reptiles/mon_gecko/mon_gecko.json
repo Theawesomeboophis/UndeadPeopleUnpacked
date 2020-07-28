@@ -1,0 +1,10 @@
+{
+  "id": "mon_gecko",
+  "fg": [
+    "mon_gecko"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

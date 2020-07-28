@@ -1,0 +1,10 @@
+{
+  "id": "mon_animal_mutant_lurker",
+  "fg": [
+    "mon_animal_mutant_lurker"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

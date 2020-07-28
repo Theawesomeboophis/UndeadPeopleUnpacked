@@ -1,0 +1,10 @@
+{
+  "id": "mon_rattlesnake_giant",
+  "fg": [
+    "mon_rattlesnake_giant"
+  ],
+  "bg": [
+    "bg_shaddow_custom2"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_bird_sick_malformed",
+  "fg": [
+    "mon_bird_sick_malformed"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "laser_pistol_aep",
+  "fg": [
+    "laser_pistol_aep"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

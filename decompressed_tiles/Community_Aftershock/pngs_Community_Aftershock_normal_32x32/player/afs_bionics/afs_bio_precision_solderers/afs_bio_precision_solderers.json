@@ -1,0 +1,10 @@
+{
+  "id": "afs_bio_precision_solderers",
+  "fg": [
+    "afs_bio_precision_solderers"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

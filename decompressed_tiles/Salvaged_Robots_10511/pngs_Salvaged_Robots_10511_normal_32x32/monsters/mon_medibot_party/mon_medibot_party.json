@@ -1,0 +1,10 @@
+{
+  "id": "mon_medibot_party",
+  "fg": [
+    "mon_medibot_party"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

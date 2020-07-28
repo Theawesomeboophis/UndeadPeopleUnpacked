@@ -1,0 +1,18 @@
+{
+  "id": "vp_nano_freezer",
+  "fg": [
+    "vp_nano_freezer"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_nano_freezer_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

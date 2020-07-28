@@ -1,0 +1,28 @@
+{
+  "id": "vp_grayboard_horizontal",
+  "fg": [
+    "vp_grayboard_horizontal"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_grayboard_horizontal_broken"
+      ],
+      "bg": [
+        "vp_gloopleboard_horizontal",
+        "vp_grayboard_horizontal",
+        "vp_halfgloopleboard_horizontal",
+        "vp_halfgloopleboard_horizontal_2",
+        "vp_halfgrayboard_horizontal",
+        "vp_halfgrayboard_horizontal_2",
+        "vp_halfoozleboard_horizontal",
+        "vp_halfoozleboard_horizontal_2",
+        "vp_oozleboard_horizontal"
+      ]
+    }
+  ]
+}

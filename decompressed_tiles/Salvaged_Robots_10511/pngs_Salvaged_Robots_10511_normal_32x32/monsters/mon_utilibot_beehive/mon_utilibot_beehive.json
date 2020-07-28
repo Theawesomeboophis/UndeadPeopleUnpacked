@@ -1,0 +1,10 @@
+{
+  "id": "mon_utilibot_beehive",
+  "fg": [
+    "mon_utilibot_beehive"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

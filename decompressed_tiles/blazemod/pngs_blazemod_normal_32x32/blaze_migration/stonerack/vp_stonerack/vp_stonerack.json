@@ -1,0 +1,10 @@
+{
+  "id": "vp_stonerack",
+  "fg": [
+    "vp_stonerack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

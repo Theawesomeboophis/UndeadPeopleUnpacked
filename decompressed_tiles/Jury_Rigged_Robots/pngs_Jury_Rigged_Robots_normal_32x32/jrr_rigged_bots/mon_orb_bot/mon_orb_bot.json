@@ -1,0 +1,10 @@
+{
+  "id": "mon_orb_bot",
+  "fg": [
+    "mon_orb_bot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

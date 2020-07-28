@@ -1,0 +1,10 @@
+{
+  "id": "mon_advbot_emp",
+  "fg": [
+    "mon_advbot_emp"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

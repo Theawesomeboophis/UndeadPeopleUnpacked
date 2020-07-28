@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_bio_infantry_rifle",
+  "fg": [
+    "mon_zombie_bio_infantry_rifle"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

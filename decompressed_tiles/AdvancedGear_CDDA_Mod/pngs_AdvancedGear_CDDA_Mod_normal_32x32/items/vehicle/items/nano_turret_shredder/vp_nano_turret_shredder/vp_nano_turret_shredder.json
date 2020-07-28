@@ -1,0 +1,18 @@
+{
+  "id": "vp_nano_turret_shredder",
+  "fg": [
+    "vp_nano_turret_shredder"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_nano_turret_shredder_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

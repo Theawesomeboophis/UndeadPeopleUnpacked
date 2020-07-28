@@ -1,0 +1,10 @@
+{
+  "id": "revolver_ranger",
+  "fg": [
+    "revolver_ranger"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

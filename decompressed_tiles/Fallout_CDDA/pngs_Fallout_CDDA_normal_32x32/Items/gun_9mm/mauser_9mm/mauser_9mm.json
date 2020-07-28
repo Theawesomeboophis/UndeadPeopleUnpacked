@@ -1,0 +1,10 @@
+{
+  "id": "mauser_9mm",
+  "fg": [
+    "mauser_9mm"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

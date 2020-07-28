@@ -1,0 +1,10 @@
+{
+  "id": "mon_turret_teargas",
+  "fg": [
+    "mon_turret_teargas"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

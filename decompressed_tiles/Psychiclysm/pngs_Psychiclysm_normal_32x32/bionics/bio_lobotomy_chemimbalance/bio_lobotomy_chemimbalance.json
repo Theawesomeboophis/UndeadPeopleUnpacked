@@ -1,0 +1,10 @@
+{
+  "id": "bio_lobotomy_chemimbalance",
+  "fg": [
+    "bio_lobotomy_chemimbalance"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bot_antimateriel",
+  "fg": [
+    "bot_antimateriel"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

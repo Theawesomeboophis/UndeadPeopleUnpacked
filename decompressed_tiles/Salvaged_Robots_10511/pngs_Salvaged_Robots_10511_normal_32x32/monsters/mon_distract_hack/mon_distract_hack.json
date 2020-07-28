@@ -1,0 +1,10 @@
+{
+  "id": "mon_distract_hack",
+  "fg": [
+    "mon_distract_hack"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

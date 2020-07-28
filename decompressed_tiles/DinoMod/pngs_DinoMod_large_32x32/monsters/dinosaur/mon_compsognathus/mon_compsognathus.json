@@ -1,0 +1,10 @@
+{
+  "id": "mon_compsognathus",
+  "fg": [
+    "mon_compsognathus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
