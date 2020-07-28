@@ -1,0 +1,11 @@
+{
+  "id": "broadsword_plus_one",
+  "fg": [
+    "broadsword_plus_one"
+  ],
+  "bg": [
+    "broadsword",
+    "broadsword_fake",
+    "broadsword_inferior"
+  ]
+}

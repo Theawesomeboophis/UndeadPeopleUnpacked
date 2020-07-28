@@ -1,0 +1,10 @@
+{
+  "id": "scimitar_plus_two",
+  "fg": [
+    "scimitar_plus_two"
+  ],
+  "bg": [
+    "scimitar_fake",
+    "scimitar"
+  ]
+}

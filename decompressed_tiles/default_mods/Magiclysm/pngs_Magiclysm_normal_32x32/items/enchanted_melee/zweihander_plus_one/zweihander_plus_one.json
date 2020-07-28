@@ -1,0 +1,11 @@
+{
+  "id": "zweihander_plus_one",
+  "fg": [
+    "zweihander_plus_one"
+  ],
+  "bg": [
+    "zweihander",
+    "zweihander_fake",
+    "zweihander_inferior"
+  ]
+}

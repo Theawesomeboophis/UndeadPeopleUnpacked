@@ -1,0 +1,11 @@
+{
+  "id": "nodachi_plus_one",
+  "fg": [
+    "nodachi_plus_one"
+  ],
+  "bg": [
+    "nodachi",
+    "nodachi_fake",
+    "nodachi_inferior"
+  ]
+}
