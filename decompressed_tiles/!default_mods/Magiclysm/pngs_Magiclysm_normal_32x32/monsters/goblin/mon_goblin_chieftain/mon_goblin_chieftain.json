@@ -25,7 +25,7 @@
     {
       "weight": 3,
       "sprite": "mon_goblin_chieftain_5"
-    },
+    }
   ],
   "bg": ["bg_shadow_normal"],
   "rotates": false
