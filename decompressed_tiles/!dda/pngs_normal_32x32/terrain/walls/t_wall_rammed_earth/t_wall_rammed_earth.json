@@ -3,7 +3,7 @@
   "fg": [
     "t_wall_rammed_earth"
   ],
-  "bg": [],
+  "bg": ["bg_dirt"],
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
@@ -12,7 +12,7 @@
       "fg": [
         "t_wall_rammed_earth_center"
       ],
-      "bg": []
+      "bg": ["bg_dirt"]
     },
     {
       "id": "corner",
@@ -22,7 +22,7 @@
         "t_wall_rammed_earth_corner_3",
         "t_wall_rammed_earth_corner_4"
       ],
-      "bg": []
+      "bg": ["bg_dirt"]
     },
     {
       "id": "t_connection",
@@ -32,7 +32,7 @@
         "t_wall_rammed_earth_t_connection_3",
         "t_wall_rammed_earth_t_connection_4"
       ],
-      "bg": []
+      "bg": ["bg_dirt"]
     },
     {
       "id": "edge",
@@ -40,7 +40,7 @@
         "t_wall_rammed_earth_edge_1",
         "t_wall_rammed_earth_edge_2"
       ],
-      "bg": []
+      "bg": ["bg_dirt"]
     },
     {
       "id": "end_piece",
@@ -50,14 +50,14 @@
         "t_wall_rammed_earth_end_piece_3",
         "t_wall_rammed_earth_end_piece_4"
       ],
-      "bg": []
+      "bg": ["bg_dirt"]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_wall_rammed_earth_unconnected"
       ],
-      "bg": []
+      "bg": ["bg_dirt"]
     }
   ]
 }

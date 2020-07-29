@@ -27,6 +27,6 @@
       "sprite": "mon_goblin_warrior_5"
     }
   ],
-  "bg": [],
+  "bg": ["bg_shadow_goblin"],
   "rotates": false
 }
