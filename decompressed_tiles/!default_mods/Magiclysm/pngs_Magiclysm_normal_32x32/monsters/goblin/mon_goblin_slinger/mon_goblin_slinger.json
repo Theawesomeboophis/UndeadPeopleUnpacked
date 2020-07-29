@@ -1,0 +1,33 @@
+{
+  "id": "mon_goblin_slinger",
+  "fg": [
+   
+    {
+      "weight": 3,
+      "sprite": "mon_goblin_slinger"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_goblin_slinger_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_goblin_slinger_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_goblin_slinger_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_goblin_slinger_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_goblin_slinger_5"
+    },
+  ],
+  "bg": [
+    "bg_shadow_normal"],
+  "rotates": false
+}

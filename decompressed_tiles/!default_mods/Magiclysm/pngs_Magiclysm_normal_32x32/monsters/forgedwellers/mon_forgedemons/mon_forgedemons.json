@@ -1,0 +1,8 @@
+{
+  "id": "mon_forgedemons",
+  "fg": [
+    "mon_forgedemons"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}
