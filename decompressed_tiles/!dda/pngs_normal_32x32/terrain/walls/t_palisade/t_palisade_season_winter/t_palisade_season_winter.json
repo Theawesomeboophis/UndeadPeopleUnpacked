@@ -3,7 +3,7 @@
   "fg": [
     "t_palisade_season_winter"
   ],
-  "bg": [],
+  "bg": ["bg_snow"],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
@@ -13,14 +13,14 @@
         "t_palisade_season_winter_edge_1",
         "t_palisade_season_winter_edge_2"
       ],
-      "bg": []
+      "bg": ["bg_snow"]
     },
     {
       "id": "center",
       "fg": [
         "t_palisade_season_winter_center"
       ],
-      "bg": []
+      "bg": ["bg_snow"]
     },
     {
       "id": "corner",
@@ -30,7 +30,7 @@
         "t_palisade_season_winter_corner_3",
         "t_palisade_season_winter_corner_4"
       ],
-      "bg": []
+      "bg": ["bg_snow"]
     },
     {
       "id": "end_piece",
@@ -40,7 +40,7 @@
         "t_palisade_season_winter_end_piece_3",
         "t_palisade_season_winter_end_piece_4"
       ],
-      "bg": []
+      "bg": ["bg_snow"]
     },
     {
       "id": "t_connection",
@@ -50,14 +50,14 @@
         "t_palisade_season_winter_t_connection_3",
         "t_palisade_season_winter_t_connection_4"
       ],
-      "bg": []
+      "bg": ["bg_snow"]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_palisade_season_winter_unconnected"
       ],
-      "bg": []
+      "bg": ["bg_snow"]
     }
   ]
 }
