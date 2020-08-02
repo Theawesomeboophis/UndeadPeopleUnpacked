@@ -1,0 +1,12 @@
+{
+  "id": "mon_forgemaster1",
+  "fg": [
+   
+    {
+      "weight": 3,
+      "sprite": "mon_forgemaster1"
+    }
+  ],
+  "bg": ["bg_shadow_goblin"],
+  "rotates": false
+}
