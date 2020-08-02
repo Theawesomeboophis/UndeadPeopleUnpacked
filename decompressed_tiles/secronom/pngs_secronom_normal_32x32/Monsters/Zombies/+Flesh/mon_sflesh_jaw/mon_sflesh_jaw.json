@@ -3,6 +3,9 @@
   "fg": [
     {
       "weight": 30,
+      "sprite": "mon_sflesh_jaw"
+    },    {
+      "weight": 30,
       "sprite": "mon_sflesh_jaw_1"
     },
     {

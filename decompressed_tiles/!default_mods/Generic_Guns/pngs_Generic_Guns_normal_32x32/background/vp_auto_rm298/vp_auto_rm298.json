@@ -12,15 +12,7 @@
       "fg": [
         "vp_auto_rm298_broken"
       ],
-      "bg": [
-        "vp_m2browning_sawnnc",
-        "vp_mounted_browning",
-        "vp_auto_rm298",
-        "vp_mounted_rm298",
-        "vp_am2browning",
-        "vp_arm298",
-        "vp_m2browning_sawn"
-      ]
+      "bg": []
     }
   ]
 }

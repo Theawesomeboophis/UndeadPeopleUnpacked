@@ -3,6 +3,10 @@
   "fg": [
     {
       "weight": 300,
+      "sprite": "mon_sflesh_surface_spawner"
+    },    
+	{
+      "weight": 300,
       "sprite": "mon_sflesh_surface_spawner_1"
     },
     {

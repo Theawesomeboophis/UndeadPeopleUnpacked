@@ -12,17 +12,7 @@
       "fg": [
         "vp_auto_m134_broken"
       ],
-      "bg": [
-        "tiharturret",
-        "vp_rslaunchernc",
-        "vp_mounted_m134",
-        "vp_auto_m134",
-        "vp_agattler1",
-        "vp_gattler1",
-        "vp_rslauncher",
-        "rslauncher",
-        "vp_agattler1nc"
-      ]
+      "bg": []
     }
   ]
 }
