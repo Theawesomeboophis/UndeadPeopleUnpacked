@@ -1,0 +1,10 @@
+{
+  "id": "mon_trapdoor_queen",
+  "fg": [
+    "mon_trapdoor_queen"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

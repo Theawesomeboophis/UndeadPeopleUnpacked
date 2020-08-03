@@ -1,0 +1,10 @@
+{
+  "id": "f_home_furnace",
+  "fg": [
+    "f_home_furnace"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

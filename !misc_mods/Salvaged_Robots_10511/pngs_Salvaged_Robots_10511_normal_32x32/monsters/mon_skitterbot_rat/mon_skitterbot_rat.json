@@ -1,0 +1,10 @@
+{
+  "id": "mon_skitterbot_rat",
+  "fg": [
+    "mon_skitterbot_rat"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

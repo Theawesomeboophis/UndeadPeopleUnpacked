@@ -1,0 +1,10 @@
+{
+  "id": "manual_aikido",
+  "fg": [
+    "manual_aikido"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

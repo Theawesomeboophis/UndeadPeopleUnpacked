@@ -1,0 +1,17 @@
+{
+  "id": "vp_auto_m1918",
+  "fg": [
+    "vp_auto_m1918"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_auto_m1918_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

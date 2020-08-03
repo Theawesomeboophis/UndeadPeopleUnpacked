@@ -1,0 +1,10 @@
+{
+  "id": "mon_donatello",
+  "fg": [
+    "mon_donatello"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "book_scrollcraft",
+  "fg": [
+    "book_scrollcraft"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

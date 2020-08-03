@@ -1,0 +1,10 @@
+{
+  "id": "mon_gator",
+  "fg": [
+    "mon_gator"
+  ],
+  "bg": [
+    "bg_shaddow_custom2"
+  ],
+  "rotates": false
+}

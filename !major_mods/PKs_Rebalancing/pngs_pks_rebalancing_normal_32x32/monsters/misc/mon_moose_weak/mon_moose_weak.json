@@ -1,0 +1,10 @@
+{
+  "id": "mon_moose_weak",
+  "fg": [
+    "mon_moose_weak"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

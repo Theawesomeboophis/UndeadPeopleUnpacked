@@ -1,0 +1,10 @@
+{
+  "id": "mon_alchemic_golem",
+  "fg": [
+    "mon_alchemic_golem"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

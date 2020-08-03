@@ -1,0 +1,10 @@
+{
+  "id": "mon_advbot_plasma",
+  "fg": [
+    "mon_advbot_plasma"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

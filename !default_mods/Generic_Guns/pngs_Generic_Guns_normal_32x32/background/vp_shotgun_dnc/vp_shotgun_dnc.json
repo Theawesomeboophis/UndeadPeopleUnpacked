@@ -1,0 +1,17 @@
+{
+  "id": "vp_shotgun_dnc",
+  "fg": [
+    "vp_shotgun_dnc"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_shotgun_dnc_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

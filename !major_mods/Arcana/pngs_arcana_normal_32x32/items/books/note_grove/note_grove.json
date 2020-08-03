@@ -1,0 +1,10 @@
+{
+  "id": "note_grove",
+  "fg": [
+    "note_grove"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+  },
+{
+"CRT_EXPANSION_normal.png": { }
+},
+{
+"CRT_EXPANSION_wide.png": { "sprite_width": 64, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+},
+{
+"CRT_EXPANSION_large.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+}
+]

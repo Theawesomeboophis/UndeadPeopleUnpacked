@@ -1,0 +1,10 @@
+{
+  "id": "f_recycle_bin",
+  "fg": [
+    "f_recycle_bin"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

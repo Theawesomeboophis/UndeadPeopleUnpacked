@@ -1,0 +1,10 @@
+{
+  "id": "mon_advturret_lightning",
+  "fg": [
+    "mon_advturret_lightning"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

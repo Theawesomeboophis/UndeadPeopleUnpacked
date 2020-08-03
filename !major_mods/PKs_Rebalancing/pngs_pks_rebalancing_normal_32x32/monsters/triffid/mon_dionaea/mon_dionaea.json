@@ -1,0 +1,10 @@
+{
+  "id": "mon_dionaea",
+  "fg": [
+    "mon_dionaea"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

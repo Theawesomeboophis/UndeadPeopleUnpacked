@@ -1,0 +1,22 @@
+{
+  "id": "vp_woodboard_horizontal",
+  "fg": [
+    "vp_woodboard_horizontal"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_woodboard_horizontal_broken"
+      ],
+      "bg": [
+        "vp_woodboard_horizontal",
+        "vp_woodhalfboard_horizontal",
+        "vp_woodhalfboard_horizontal_2"
+      ]
+    }
+  ]
+}

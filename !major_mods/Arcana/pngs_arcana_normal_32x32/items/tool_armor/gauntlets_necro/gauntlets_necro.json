@@ -1,0 +1,10 @@
+{
+  "id": "gauntlets_necro",
+  "fg": [
+    "gauntlets_necro"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

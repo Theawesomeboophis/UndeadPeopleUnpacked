@@ -1,0 +1,17 @@
+{
+  "id": "vp_m1anc",
+  "fg": [
+    "vp_m1anc"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_m1anc_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

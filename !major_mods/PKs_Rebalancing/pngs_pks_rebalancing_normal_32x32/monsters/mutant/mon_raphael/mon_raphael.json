@@ -1,0 +1,10 @@
+{
+  "id": "mon_raphael",
+  "fg": [
+    "mon_raphael"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "manual_ninjutsu",
+  "fg": [
+    "manual_ninjutsu"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "vp_nanofactory_vehicle_1",
+  "fg": [
+    "vp_nanofactory_vehicle_1"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_nanofactory_vehicle_1_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

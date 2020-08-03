@@ -1,0 +1,10 @@
+{
+  "id": "mon_sewer_snake",
+  "fg": [
+    "mon_sewer_snake"
+  ],
+  "bg": [
+    "bg_shaddow_custom1"
+  ],
+  "rotates": false
+}

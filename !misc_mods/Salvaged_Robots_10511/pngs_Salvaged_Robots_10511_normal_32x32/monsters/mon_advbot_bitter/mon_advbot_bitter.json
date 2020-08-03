@@ -1,0 +1,10 @@
+{
+  "id": "mon_advbot_bitter",
+  "fg": [
+    "mon_advbot_bitter"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

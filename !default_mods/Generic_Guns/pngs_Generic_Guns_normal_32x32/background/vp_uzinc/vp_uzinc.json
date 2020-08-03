@@ -1,0 +1,17 @@
+{
+  "id": "vp_uzinc",
+  "fg": [
+    "vp_uzinc"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_uzinc_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

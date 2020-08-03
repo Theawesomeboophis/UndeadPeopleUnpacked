@@ -1,0 +1,10 @@
+{
+  "id": "holybook_tripitaka",
+  "fg": [
+    "holybook_tripitaka"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

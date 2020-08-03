@@ -1,0 +1,10 @@
+{
+  "id": "mon_kangaroo_hook",
+  "fg": [
+    "mon_kangaroo_hook"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

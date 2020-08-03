@@ -1,0 +1,18 @@
+{
+  "id": "vp_surv_lmg_308_t",
+  "fg": [
+    "vp_surv_lmg_308_t"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_surv_lmg_308_t_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

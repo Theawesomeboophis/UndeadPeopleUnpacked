@@ -1,0 +1,17 @@
+{
+  "id": "vp_rifle_9mmnc",
+  "fg": [
+    "vp_rifle_9mmnc"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_rifle_9mmnc_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

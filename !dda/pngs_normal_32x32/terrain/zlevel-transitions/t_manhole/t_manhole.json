@@ -1,0 +1,10 @@
+{
+  "id": "t_manhole",
+  "fg": [
+    "t_manhole"
+  ],
+  "bg": [
+    "bg_pavement"
+  ],
+  "rotates": false
+}

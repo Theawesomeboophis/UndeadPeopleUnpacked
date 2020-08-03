@@ -1,0 +1,20 @@
+{
+  "id": "t_thconc_floor_echandelier",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "t_thconc_floor_echandelier_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "t_thconc_floor_echandelier_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "t_thconc_floor_echandelier_3"
+    }
+  ],
+  "bg": ["t_thconc_floor_echandelier_bg"],
+  "rotates": false,
+  "animated": true
+}

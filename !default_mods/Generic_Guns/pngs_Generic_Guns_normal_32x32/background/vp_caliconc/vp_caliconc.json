@@ -1,0 +1,17 @@
+{
+  "id": "vp_caliconc",
+  "fg": [
+    "vp_caliconc"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_caliconc_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

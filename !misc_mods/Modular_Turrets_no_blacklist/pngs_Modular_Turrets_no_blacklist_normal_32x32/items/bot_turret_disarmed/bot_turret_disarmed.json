@@ -1,0 +1,8 @@
+{
+  "id": "bot_turret_disarmed",
+  "fg": [
+    "bot_turret_disarmed"
+  ],
+  "bg": [],
+  "rotates": true
+}

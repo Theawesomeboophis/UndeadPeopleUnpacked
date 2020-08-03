@@ -1,0 +1,10 @@
+{
+  "id": "bot_milturret_8x40mm",
+  "fg": [
+    "bot_milturret_8x40mm"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

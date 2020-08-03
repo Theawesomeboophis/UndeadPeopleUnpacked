@@ -1,0 +1,10 @@
+{
+  "id": "t_ladder_up",
+  "fg": [
+    "t_ladder_up"
+  ],
+  "bg": [
+    "bg_big_pavement"
+  ],
+  "rotates": false
+}

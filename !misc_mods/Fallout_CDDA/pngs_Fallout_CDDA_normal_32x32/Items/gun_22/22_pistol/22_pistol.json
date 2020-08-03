@@ -1,0 +1,10 @@
+{
+  "id": "22_pistol",
+  "fg": [
+    "22_pistol"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

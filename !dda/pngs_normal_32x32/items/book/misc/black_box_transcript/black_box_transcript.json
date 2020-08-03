@@ -1,0 +1,10 @@
+{
+  "id": "black_box_transcript",
+  "fg": [
+    "black_box_transcript"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

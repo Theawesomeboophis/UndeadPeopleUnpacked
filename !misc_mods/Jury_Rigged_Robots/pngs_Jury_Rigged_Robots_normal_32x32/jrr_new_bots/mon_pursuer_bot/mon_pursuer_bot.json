@@ -1,0 +1,10 @@
+{
+  "id": "mon_pursuer_bot",
+  "fg": [
+    "mon_pursuer_bot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

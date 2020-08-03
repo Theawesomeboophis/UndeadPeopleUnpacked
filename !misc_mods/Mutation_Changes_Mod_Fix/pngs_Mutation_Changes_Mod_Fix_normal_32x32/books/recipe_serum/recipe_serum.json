@@ -1,0 +1,10 @@
+{
+  "id": "recipe_serum",
+  "fg": [
+    "recipe_serum"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

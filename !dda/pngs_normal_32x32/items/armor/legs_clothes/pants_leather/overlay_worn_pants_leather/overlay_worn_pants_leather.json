@@ -1,0 +1,10 @@
+{
+  "id": "overlay_worn_pants_leather",
+  "fg": [
+    "overlay_worn_pants_leather"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

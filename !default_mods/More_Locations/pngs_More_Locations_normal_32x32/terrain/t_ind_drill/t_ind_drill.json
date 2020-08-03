@@ -1,0 +1,10 @@
+{
+  "id": "t_ind_drill",
+  "fg": [
+    "t_ind_drill"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": false
+}

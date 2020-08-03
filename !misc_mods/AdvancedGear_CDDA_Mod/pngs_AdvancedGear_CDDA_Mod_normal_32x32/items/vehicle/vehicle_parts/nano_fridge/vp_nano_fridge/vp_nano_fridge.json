@@ -1,0 +1,18 @@
+{
+  "id": "vp_nano_fridge",
+  "fg": [
+    "vp_nano_fridge"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_nano_fridge_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

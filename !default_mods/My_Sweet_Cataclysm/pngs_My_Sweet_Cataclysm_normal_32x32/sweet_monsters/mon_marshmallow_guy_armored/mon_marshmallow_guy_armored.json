@@ -1,0 +1,10 @@
+{
+  "id": "mon_marshmallow_guy_armored",
+  "fg": [
+    "mon_marshmallow_guy_armored"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

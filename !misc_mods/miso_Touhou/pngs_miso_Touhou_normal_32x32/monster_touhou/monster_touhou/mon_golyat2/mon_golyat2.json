@@ -1,0 +1,10 @@
+{
+  "id": "mon_golyat2",
+  "fg": [
+    "mon_golyat2"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

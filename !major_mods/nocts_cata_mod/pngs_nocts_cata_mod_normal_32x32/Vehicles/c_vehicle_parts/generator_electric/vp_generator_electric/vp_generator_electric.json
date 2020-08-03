@@ -1,0 +1,10 @@
+{
+  "id": "vp_generator_electric",
+  "fg": [
+    "vp_generator_electric"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

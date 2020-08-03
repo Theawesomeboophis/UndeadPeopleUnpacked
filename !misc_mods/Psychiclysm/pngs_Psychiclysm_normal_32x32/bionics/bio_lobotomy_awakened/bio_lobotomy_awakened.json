@@ -1,0 +1,10 @@
+{
+  "id": "bio_lobotomy_awakened",
+  "fg": [
+    "bio_lobotomy_awakened"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

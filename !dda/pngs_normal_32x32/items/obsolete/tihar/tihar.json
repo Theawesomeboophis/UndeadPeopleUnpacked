@@ -1,0 +1,10 @@
+{
+  "id": "tihar",
+  "fg": [
+    "tihar"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

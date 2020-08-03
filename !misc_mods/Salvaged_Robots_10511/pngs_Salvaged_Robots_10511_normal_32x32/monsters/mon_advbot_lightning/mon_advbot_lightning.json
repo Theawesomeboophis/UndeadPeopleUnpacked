@@ -1,0 +1,10 @@
+{
+  "id": "mon_advbot_lightning",
+  "fg": [
+    "mon_advbot_lightning"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

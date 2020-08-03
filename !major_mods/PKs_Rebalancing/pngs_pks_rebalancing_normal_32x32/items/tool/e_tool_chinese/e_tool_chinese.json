@@ -1,0 +1,10 @@
+{
+  "id": "e_tool_chinese",
+  "fg": [
+    "e_tool_chinese"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

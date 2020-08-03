@@ -1,0 +1,18 @@
+{
+  "id": "mon_sflesh_jaw",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "mon_sflesh_jaw"
+    },    {
+      "weight": 30,
+      "sprite": "mon_sflesh_jaw_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_jaw_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_cactus",
+  "fg": [
+    "t_cactus"
+  ],
+  "bg": [
+    "bg_sand"
+  ],
+  "rotates": false
+}

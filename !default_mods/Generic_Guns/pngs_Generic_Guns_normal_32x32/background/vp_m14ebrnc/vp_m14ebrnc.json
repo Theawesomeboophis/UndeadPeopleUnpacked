@@ -1,0 +1,17 @@
+{
+  "id": "vp_m14ebrnc",
+  "fg": [
+    "vp_m14ebrnc"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_m14ebrnc_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

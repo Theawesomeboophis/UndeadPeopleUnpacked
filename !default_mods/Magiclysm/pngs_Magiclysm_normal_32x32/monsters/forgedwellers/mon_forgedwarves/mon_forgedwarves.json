@@ -1,0 +1,40 @@
+{
+  "id": "mon_forgedwarves",
+  "fg": [
+   
+    {
+      "weight": 3,
+      "sprite": "mon_forgedwarves"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_forgedwarves_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_forgedwarves_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_forgedwarves_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_forgedwarves_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_forgedwarves_5"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_forgedwarves_6"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_forgedwarves_7"
+    }
+  ],
+  "bg": ["bg_shadow_goblin"],
+  "rotates": false
+}

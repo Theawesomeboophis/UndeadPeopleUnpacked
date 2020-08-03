@@ -1,0 +1,10 @@
+{
+  "id": "mon_bear_weak",
+  "fg": [
+    "mon_bear_weak"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

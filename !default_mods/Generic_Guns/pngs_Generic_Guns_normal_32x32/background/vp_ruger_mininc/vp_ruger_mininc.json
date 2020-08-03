@@ -1,0 +1,17 @@
+{
+  "id": "vp_ruger_mininc",
+  "fg": [
+    "vp_ruger_mininc"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_ruger_mininc_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

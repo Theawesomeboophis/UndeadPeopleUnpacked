@@ -1,0 +1,10 @@
+{
+  "id": "mon_ungulate_mutant_unicorn",
+  "fg": [
+    "mon_ungulate_mutant_unicorn"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

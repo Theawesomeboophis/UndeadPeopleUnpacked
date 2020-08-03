@@ -1,0 +1,10 @@
+{
+  "id": "mon_cacodemon",
+  "fg": [
+    "mon_cacodemon"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

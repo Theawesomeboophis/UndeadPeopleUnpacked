@@ -1,0 +1,10 @@
+{
+  "id": "mon_defbot_paladin",
+  "fg": [
+    "mon_defbot_paladin"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

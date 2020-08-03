@@ -1,0 +1,10 @@
+{
+  "id": "bot_milturret_needle",
+  "fg": [
+    "bot_milturret_needle"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

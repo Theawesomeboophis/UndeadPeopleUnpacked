@@ -1,0 +1,10 @@
+{
+  "id": "holybook_hadith",
+  "fg": [
+    "holybook_hadith"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

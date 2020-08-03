@@ -1,0 +1,10 @@
+{
+  "id": "note_chalice",
+  "fg": [
+    "note_chalice"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

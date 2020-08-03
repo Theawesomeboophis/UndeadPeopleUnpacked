@@ -1,0 +1,10 @@
+{
+  "id": "broken_turret_rifle",
+  "fg": [
+    "broken_turret_rifle"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_cow_mutant_ironhorn",
+  "fg": [
+    "mon_cow_mutant_ironhorn"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

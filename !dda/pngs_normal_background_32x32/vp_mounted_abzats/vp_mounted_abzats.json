@@ -1,0 +1,35 @@
+{
+  "id": "vp_mounted_abzats",
+  "fg": [
+    "vp_mounted_abzats"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mounted_abzats_broken"
+      ],
+      "bg": [
+        "vp_l_lmg_223nc",
+        "vp_m107a1nc",
+        "vp_mounted_abzats",
+        "vp_auto_abzats",
+        "vp_50turret",
+        "vp_ashardgun",
+        "ashardgun",
+        "vp_l_lmg_223",
+        "vp_m107a1",
+        "vp_mounted rm298",
+        "vp_mounted rm614_lmg",
+        "vp_rm802",
+        "vp_shardgun",
+        "shardgun",
+        "vp_shottyman",
+        "vp_ashardgunnc"
+      ]
+    }
+  ]
+}

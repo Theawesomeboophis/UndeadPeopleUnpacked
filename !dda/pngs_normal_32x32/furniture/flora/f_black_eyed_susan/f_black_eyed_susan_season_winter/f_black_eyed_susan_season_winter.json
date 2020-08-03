@@ -1,0 +1,11 @@
+{
+  "id": "f_black_eyed_susan_season_winter",
+  "fg": [
+    "f_black_eyed_susan_season_winter"
+  ],
+  "bg": [
+    "t_dirt_season_winter",
+    "t_grass_season_winter"
+  ],
+  "rotates": false
+}

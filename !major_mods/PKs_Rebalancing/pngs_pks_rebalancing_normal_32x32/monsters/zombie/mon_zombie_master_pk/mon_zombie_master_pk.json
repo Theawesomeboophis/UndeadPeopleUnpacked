@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_master_pk",
+  "fg": [
+    "mon_zombie_master_pk"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_cow_mutant_moss",
+  "fg": [
+    "mon_cow_mutant_moss"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

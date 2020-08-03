@@ -1,0 +1,10 @@
+{
+  "id": "mon_cracker",
+  "fg": [
+    "mon_cracker"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
