@@ -14,10 +14,7 @@
       "fg": [
         "vp_wooden_aisle_horizontal_broken"
       ],
-      "bg": [
-        "vp_wooden_aisle_horizontal",
-        "boat_board"
-      ]
+      "bg": []
     }
   ]
 }

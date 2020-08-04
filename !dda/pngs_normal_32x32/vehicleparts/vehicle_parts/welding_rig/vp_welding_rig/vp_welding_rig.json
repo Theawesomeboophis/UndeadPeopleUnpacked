@@ -14,10 +14,7 @@
       "fg": [
         "vp_welding_rig_broken"
       ],
-      "bg": [
-        "vp_welding_rig",
-        "weldrig"
-      ]
+      "bg": []
     }
   ]
 }

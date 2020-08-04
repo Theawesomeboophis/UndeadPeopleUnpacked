@@ -12,10 +12,7 @@
       "fg": [
         "vp_xlframe_cover_broken"
       ],
-      "bg": [
-        "vp_halfboard_cover",
-        "vp_hdhalfboard_cover"
-      ]
+      "bg": []
     }
   ]
 }

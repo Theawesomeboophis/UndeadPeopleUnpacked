@@ -15,8 +15,7 @@
         "vp_veh_table_broken"
       ],
       "bg": [
-        "vp_veh_table",
-        "v_table"
+        "bg_car"
       ]
     }
   ]

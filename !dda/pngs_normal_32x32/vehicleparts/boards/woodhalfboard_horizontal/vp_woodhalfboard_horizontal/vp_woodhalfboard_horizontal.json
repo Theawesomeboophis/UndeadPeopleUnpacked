@@ -12,11 +12,7 @@
       "fg": [
         "vp_woodhalfboard_horizontal_broken"
       ],
-      "bg": [
-        "vp_woodboard_horizontal",
-        "vp_woodhalfboard_horizontal",
-        "vp_woodhalfboard_horizontal_2"
-      ]
+      "bg": []
     }
   ]
 }

@@ -12,10 +12,7 @@
       "fg": [
         "vp_woodhalfboard_nw_broken"
       ],
-      "bg": [
-        "vp_woodboard_nw",
-        "vp_woodhalfboard_nw"
-      ]
+      "bg": []
     }
   ]
 }

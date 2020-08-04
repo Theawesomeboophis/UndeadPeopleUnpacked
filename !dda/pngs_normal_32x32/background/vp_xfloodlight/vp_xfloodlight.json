@@ -14,11 +14,7 @@
       "fg": [
         "vp_xfloodlight_broken"
       ],
-      "bg": [
-        "vp_floodlight",
-        "vp_xfloodlight",
-        "vp_directed_floodlight"
-      ]
+      "bg": []
     }
   ]
 }

@@ -12,10 +12,7 @@
       "fg": [
         "vp_vehicle_scoop_broken"
       ],
-      "bg": [
-        "v_scoop_item",
-        "vp_vehicle_scoop"
-      ]
+      "bg": []
     }
   ]
 }

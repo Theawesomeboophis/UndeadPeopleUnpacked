@@ -15,8 +15,7 @@
         "vp_veh_forge_broken"
       ],
       "bg": [
-        "t_ind_furnace",
-        "vp_veh_forge"
+        "bg_car"
       ]
     }
   ]

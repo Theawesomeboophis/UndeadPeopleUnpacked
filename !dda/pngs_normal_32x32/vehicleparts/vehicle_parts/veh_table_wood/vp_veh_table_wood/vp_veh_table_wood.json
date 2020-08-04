@@ -14,9 +14,7 @@
       "fg": [
         "vp_veh_table_wood_broken"
       ],
-      "bg": [
-        "vp_veh_table_wood"
-      ]
+      "bg": ["bg_car"]
     }
   ]
 }
