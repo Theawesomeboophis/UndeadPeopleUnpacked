@@ -1,7 +1,7 @@
 {
-  "id": "f_chest",
+  "id": "f_metal_crate_r",
   "fg": [
-    "f_chest"
+    "f_metal_crate_r"
   ],
   "bg": [],
   "rotates": false
