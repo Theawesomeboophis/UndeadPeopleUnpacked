@@ -14,31 +14,31 @@
     },
     {
       "weight": 1,
-      "sprite": "t_pavement"
+      "sprite": "t_pavement_1"
     },
     {
       "weight": 1,
-      "sprite": "t_pavement"
+      "sprite": "t_pavement_2"
     },
     {
       "weight": 1,
-      "sprite": "t_pavement"
+      "sprite": "t_pavement_3"
     },
     {
       "weight": 1,
-      "sprite": "t_pavement"
+      "sprite": "t_pavement_4"
     },
     {
       "weight": 1,
-      "sprite": "t_pavement"
+      "sprite": "t_pavement_5"
     },
     {
       "weight": 1,
-      "sprite": "t_pavement"
+      "sprite": "t_pavement_6"
     },
     {
       "weight": 1,
-      "sprite": "t_pavement"
+      "sprite": "t_pavement_7"
     }
   ],
   "rotates": false

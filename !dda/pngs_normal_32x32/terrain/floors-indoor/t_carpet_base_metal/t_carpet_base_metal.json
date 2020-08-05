@@ -1,7 +1,7 @@
 {
   "id": "t_carpet_base_metal",
   "fg": [
-    "t_carpet_base_metal"
+    "t_carpet_base"
   ],
   "bg": [
     "bg_t_floor"
@@ -12,7 +12,7 @@
     {
       "id": "center",
       "fg": [
-        "t_carpet_base_metal_center"
+        "t_carpet_base_center"
       ],
       "bg": [
         "bg_t_floor"
@@ -21,10 +21,10 @@
     {
       "id": "corner",
       "fg": [
-        "t_carpet_base_metal_corner_1",
-        "t_carpet_base_metal_corner_2",
-        "t_carpet_base_metal_corner_3",
-        "t_carpet_base_metal_corner_4"
+        "t_carpet_base_corner_1",
+        "t_carpet_base_corner_2",
+        "t_carpet_base_corner_3",
+        "t_carpet_base_corner_4"
       ],
       "bg": [
         "bg_t_floor"
@@ -33,10 +33,10 @@
     {
       "id": "t_connection",
       "fg": [
-        "t_carpet_base_metal_t_connection_1",
-        "t_carpet_base_metal_t_connection_2",
-        "t_carpet_base_metal_t_connection_3",
-        "t_carpet_base_metal_t_connection_4"
+        "t_carpet_base_t_connection_1",
+        "t_carpet_base_t_connection_2",
+        "t_carpet_base_t_connection_3",
+        "t_carpet_base_t_connection_4"
       ],
       "bg": [
         "bg_t_floor"
@@ -45,8 +45,8 @@
     {
       "id": "edge",
       "fg": [
-        "t_carpet_base_metal_edge_1",
-        "t_carpet_base_metal_edge_2"
+        "t_carpet_base_edge_1",
+        "t_carpet_base_edge_2"
       ],
       "bg": [
         "bg_t_floor"
@@ -55,10 +55,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_carpet_base_metal_end_piece_1",
-        "t_carpet_base_metal_end_piece_2",
-        "t_carpet_base_metal_end_piece_3",
-        "t_carpet_base_metal_end_piece_4"
+        "t_carpet_base_end_piece_1",
+        "t_carpet_base_end_piece_2",
+        "t_carpet_base_end_piece_3",
+        "t_carpet_base_end_piece_4"
       ],
       "bg": [
         "bg_t_floor"
@@ -67,7 +67,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "t_carpet_base_metal_unconnected"
+        "t_carpet_base_unconnected"
       ],
       "bg": [
         "bg_t_floor"

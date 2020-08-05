@@ -1,10 +1,10 @@
 {
   "id": "t_carpet_base_concrete",
   "fg": [
-    "t_carpet_base_concrete"
+    "t_carpet_base"
   ],
   "bg": [
-    "bg_t_floor"
+    "t_thconc_floor"
   ],
   "rotates": false,
   "multitile": true,
@@ -12,65 +12,65 @@
     {
       "id": "center",
       "fg": [
-        "t_carpet_base_concrete_center"
+        "t_carpet_base_center"
       ],
       "bg": [
-        "bg_t_floor"
+        "t_thconc_floor"
       ]
     },
     {
       "id": "corner",
       "fg": [
-        "t_carpet_base_concrete_corner_1",
-        "t_carpet_base_concrete_corner_2",
-        "t_carpet_base_concrete_corner_3",
-        "t_carpet_base_concrete_corner_4"
+        "t_carpet_base_corner_1",
+        "t_carpet_base_corner_2",
+        "t_carpet_base_corner_3",
+        "t_carpet_base_corner_4"
       ],
       "bg": [
-        "bg_t_floor"
+        "t_thconc_floor"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
-        "t_carpet_base_concrete_t_connection_1",
-        "t_carpet_base_concrete_t_connection_2",
-        "t_carpet_base_concrete_t_connection_3",
-        "t_carpet_base_concrete_t_connection_4"
+        "t_carpet_base_t_connection_1",
+        "t_carpet_base_t_connection_2",
+        "t_carpet_base_t_connection_3",
+        "t_carpet_base_t_connection_4"
       ],
       "bg": [
-        "bg_t_floor"
+        "t_thconc_floor"
       ]
     },
     {
       "id": "edge",
       "fg": [
-        "t_carpet_base_concrete_edge_1",
-        "t_carpet_base_concrete_edge_2"
+        "t_carpet_base_edge_1",
+        "t_carpet_base_edge_2"
       ],
       "bg": [
-        "bg_t_floor"
+        "t_thconc_floor"
       ]
     },
     {
       "id": "end_piece",
       "fg": [
-        "t_carpet_base_concrete_end_piece_1",
-        "t_carpet_base_concrete_end_piece_2",
-        "t_carpet_base_concrete_end_piece_3",
-        "t_carpet_base_concrete_end_piece_4"
+        "t_carpet_base_end_piece_1",
+        "t_carpet_base_end_piece_2",
+        "t_carpet_base_end_piece_3",
+        "t_carpet_base_end_piece_4"
       ],
       "bg": [
-        "bg_t_floor"
+        "t_thconc_floor"
       ]
     },
     {
       "id": "unconnected",
       "fg": [
-        "t_carpet_base_concrete_unconnected"
+        "t_carpet_base_unconnected"
       ],
       "bg": [
-        "bg_t_floor"
+        "t_thconc_floor"
       ]
     }
   ]
