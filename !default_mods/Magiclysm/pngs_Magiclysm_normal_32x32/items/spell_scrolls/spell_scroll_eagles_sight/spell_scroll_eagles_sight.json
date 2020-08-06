@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_eagles_sight",
   "fg": [
-    "spell_scroll_eagles_sight"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

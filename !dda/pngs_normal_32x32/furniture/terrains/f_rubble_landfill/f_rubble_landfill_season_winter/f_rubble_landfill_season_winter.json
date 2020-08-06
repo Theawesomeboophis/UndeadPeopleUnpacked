@@ -1,7 +1,7 @@
 {
   "id": "f_rubble_landfill_season_winter",
   "fg": [
-    "f_rubble_landfill_season_winter"
+    "f_rubble_landfill"
   ],
   "bg": [
     "bg_snow"
@@ -12,7 +12,31 @@
     {
       "id": "center",
       "fg": [
-        "f_rubble_landfill_season_winter_center"
+        
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_center_1"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_center_2"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_center_3"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_center_4"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_center_5"
+        },
+        {
+          "weight": 1,
+          "sprite": "f_rubble_landfill_center_6"
+        }
       ],
       "bg": [
         "bg_snow"
@@ -21,10 +45,10 @@
     {
       "id": "corner",
       "fg": [
-        "f_rubble_landfill_season_winter_corner_1",
-        "f_rubble_landfill_season_winter_corner_2",
-        "f_rubble_landfill_season_winter_corner_3",
-        "f_rubble_landfill_season_winter_corner_4"
+        "f_rubble_landfill_corner_1",
+        "f_rubble_landfill_corner_2",
+        "f_rubble_landfill_corner_3",
+        "f_rubble_landfill_corner_4"
       ],
       "bg": [
         "bg_snow"
@@ -33,10 +57,10 @@
     {
       "id": "t_connection",
       "fg": [
-        "f_rubble_landfill_season_winter_t_connection_1",
-        "f_rubble_landfill_season_winter_t_connection_2",
-        "f_rubble_landfill_season_winter_t_connection_3",
-        "f_rubble_landfill_season_winter_t_connection_4"
+        "f_rubble_landfill_t_connection_1",
+        "f_rubble_landfill_t_connection_2",
+        "f_rubble_landfill_t_connection_3",
+        "f_rubble_landfill_t_connection_4"
       ],
       "bg": [
         "bg_snow"
@@ -45,8 +69,8 @@
     {
       "id": "edge",
       "fg": [
-        "f_rubble_landfill_season_winter_edge_1",
-        "f_rubble_landfill_season_winter_edge_2"
+        "f_rubble_landfill_edge_1",
+        "f_rubble_landfill_edge_2"
       ],
       "bg": [
         "bg_snow"
@@ -55,10 +79,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "f_rubble_landfill_season_winter_end_piece_1",
-        "f_rubble_landfill_season_winter_end_piece_2",
-        "f_rubble_landfill_season_winter_end_piece_3",
-        "f_rubble_landfill_season_winter_end_piece_4"
+        "f_rubble_landfill_end_piece_1",
+        "f_rubble_landfill_end_piece_2",
+        "f_rubble_landfill_end_piece_3",
+        "f_rubble_landfill_end_piece_4"
       ],
       "bg": [
         "bg_snow"
@@ -67,7 +91,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "f_rubble_landfill_season_winter_unconnected"
+        "f_rubble_landfill_unconnected"
       ],
       "bg": [
         "bg_snow"

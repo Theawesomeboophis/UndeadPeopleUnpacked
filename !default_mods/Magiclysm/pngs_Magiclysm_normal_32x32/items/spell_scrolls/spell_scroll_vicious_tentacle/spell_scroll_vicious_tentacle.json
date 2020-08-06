@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_vicious_tentacle",
   "fg": [
-    "spell_scroll_vicious_tentacle"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

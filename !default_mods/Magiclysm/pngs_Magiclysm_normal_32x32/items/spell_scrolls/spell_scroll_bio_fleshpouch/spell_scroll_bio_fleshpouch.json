@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_bio_fleshpouch",
   "fg": [
-    "spell_scroll_bio_fleshpouch"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

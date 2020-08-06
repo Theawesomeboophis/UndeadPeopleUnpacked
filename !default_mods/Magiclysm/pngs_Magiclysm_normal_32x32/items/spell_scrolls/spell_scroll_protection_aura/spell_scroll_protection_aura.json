@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_protection_aura",
   "fg": [
-    "spell_scroll_protection_aura"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

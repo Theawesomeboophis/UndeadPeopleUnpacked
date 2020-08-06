@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_magus_haste",
   "fg": [
-    "spell_scroll_magus_haste"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

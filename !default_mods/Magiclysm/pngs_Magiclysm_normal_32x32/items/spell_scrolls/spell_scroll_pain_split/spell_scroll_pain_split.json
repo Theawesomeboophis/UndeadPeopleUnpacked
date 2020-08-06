@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_pain_split",
   "fg": [
-    "spell_scroll_pain_split"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

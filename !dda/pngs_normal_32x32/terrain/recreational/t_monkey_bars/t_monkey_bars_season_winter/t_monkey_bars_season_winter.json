@@ -1,7 +1,7 @@
 {
   "id": "t_monkey_bars_season_winter",
   "fg": [
-    "t_monkey_bars_season_winter"
+    "t_monkey_bars"
   ],
   "bg": [],
   "rotates": false,
@@ -10,7 +10,7 @@
     {
       "id": "center",
       "fg": [
-        "t_monkey_bars_season_winter_center"
+        "t_monkey_bars_center"
       ],
       "bg": [
         "bg_snow"
@@ -19,10 +19,10 @@
     {
       "id": "corner",
       "fg": [
-        "t_monkey_bars_season_winter_corner_1",
-        "t_monkey_bars_season_winter_corner_2",
-        "t_monkey_bars_season_winter_corner_3",
-        "t_monkey_bars_season_winter_corner_4"
+        "t_monkey_bars_corner_1",
+        "t_monkey_bars_corner_2",
+        "t_monkey_bars_corner_3",
+        "t_monkey_bars_corner_4"
       ],
       "bg": [
         "bg_snow"
@@ -31,10 +31,10 @@
     {
       "id": "t_connection",
       "fg": [
-        "t_monkey_bars_season_winter_t_connection_1",
-        "t_monkey_bars_season_winter_t_connection_2",
-        "t_monkey_bars_season_winter_t_connection_3",
-        "t_monkey_bars_season_winter_t_connection_4"
+        "t_monkey_bars_t_connection_1",
+        "t_monkey_bars_t_connection_2",
+        "t_monkey_bars_t_connection_3",
+        "t_monkey_bars_t_connection_4"
       ],
       "bg": [
         "bg_snow"
@@ -43,8 +43,8 @@
     {
       "id": "edge",
       "fg": [
-        "t_monkey_bars_season_winter_edge_1",
-        "t_monkey_bars_season_winter_edge_2"
+        "t_monkey_bars_edge_1",
+        "t_monkey_bars_edge_2"
       ],
       "bg": [
         "bg_snow"
@@ -53,10 +53,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_monkey_bars_season_winter_end_piece_1",
-        "t_monkey_bars_season_winter_end_piece_2",
-        "t_monkey_bars_season_winter_end_piece_3",
-        "t_monkey_bars_season_winter_end_piece_4"
+        "t_monkey_bars_end_piece_1",
+        "t_monkey_bars_end_piece_2",
+        "t_monkey_bars_end_piece_3",
+        "t_monkey_bars_end_piece_4"
       ],
       "bg": [
         "bg_snow"
@@ -65,7 +65,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "t_monkey_bars_season_winter_unconnected"
+        "t_monkey_bars_unconnected"
       ],
       "bg": [
         "bg_snow"

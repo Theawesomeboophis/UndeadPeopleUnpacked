@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_druid_woodshaft",
   "fg": [
-    "spell_scroll_druid_woodshaft"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

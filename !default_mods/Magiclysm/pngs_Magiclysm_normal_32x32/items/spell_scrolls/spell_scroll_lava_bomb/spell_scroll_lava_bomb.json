@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_lava_bomb",
   "fg": [
-    "spell_scroll_lava_bomb"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

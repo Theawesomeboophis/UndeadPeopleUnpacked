@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_hoary_blast",
   "fg": [
-    "spell_scroll_hoary_blast"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

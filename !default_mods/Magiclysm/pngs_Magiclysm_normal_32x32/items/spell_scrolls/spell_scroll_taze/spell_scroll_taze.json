@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_taze",
   "fg": [
-    "spell_scroll_taze"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

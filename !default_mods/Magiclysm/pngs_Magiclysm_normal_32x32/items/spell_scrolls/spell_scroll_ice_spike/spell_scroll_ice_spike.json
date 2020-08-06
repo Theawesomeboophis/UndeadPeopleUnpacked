@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_ice_spike",
   "fg": [
-    "spell_scroll_ice_spike"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

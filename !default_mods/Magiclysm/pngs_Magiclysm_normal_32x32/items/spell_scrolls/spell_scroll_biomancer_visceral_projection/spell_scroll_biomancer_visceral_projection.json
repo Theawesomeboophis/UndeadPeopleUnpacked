@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_biomancer_visceral_projection",
   "fg": [
-    "spell_scroll_biomancer_visceral_projection"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_recover_stamina",
   "fg": [
-    "spell_scroll_recover_stamina"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "t_palisade_season_winter",
   "fg": [
-    "t_palisade_season_winter"
+    "t_palisade"
   ],
   "bg": ["bg_snow"],
   "rotates": true,
@@ -10,52 +10,52 @@
     {
       "id": "edge",
       "fg": [
-        "t_palisade_season_winter_edge_1",
-        "t_palisade_season_winter_edge_2"
+        "t_palisade_edge_1",
+        "t_palisade_edge_2"
       ],
       "bg": ["bg_snow"]
     },
     {
       "id": "center",
       "fg": [
-        "t_palisade_season_winter_center"
+        "t_palisade_center"
       ],
       "bg": ["bg_snow"]
     },
     {
       "id": "corner",
       "fg": [
-        "t_palisade_season_winter_corner_1",
-        "t_palisade_season_winter_corner_2",
-        "t_palisade_season_winter_corner_3",
-        "t_palisade_season_winter_corner_4"
+        "t_palisade_corner_1",
+        "t_palisade_corner_2",
+        "t_palisade_corner_3",
+        "t_palisade_corner_4"
       ],
       "bg": ["bg_snow"]
     },
     {
       "id": "end_piece",
       "fg": [
-        "t_palisade_season_winter_end_piece_1",
-        "t_palisade_season_winter_end_piece_2",
-        "t_palisade_season_winter_end_piece_3",
-        "t_palisade_season_winter_end_piece_4"
+        "t_palisade_end_piece_1",
+        "t_palisade_end_piece_2",
+        "t_palisade_end_piece_3",
+        "t_palisade_end_piece_4"
       ],
       "bg": ["bg_snow"]
     },
     {
       "id": "t_connection",
       "fg": [
-        "t_palisade_season_winter_t_connection_1",
-        "t_palisade_season_winter_t_connection_2",
-        "t_palisade_season_winter_t_connection_3",
-        "t_palisade_season_winter_t_connection_4"
+        "t_palisade_t_connection_1",
+        "t_palisade_t_connection_2",
+        "t_palisade_t_connection_3",
+        "t_palisade_t_connection_4"
       ],
       "bg": ["bg_snow"]
     },
     {
       "id": "unconnected",
       "fg": [
-        "t_palisade_season_winter_unconnected"
+        "t_palisade_unconnected"
       ],
       "bg": ["bg_snow"]
     }

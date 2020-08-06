@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_magus_mana_bolt",
   "fg": [
-    "spell_scroll_magus_mana_bolt"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

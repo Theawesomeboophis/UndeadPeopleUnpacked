@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_recover_bionic_power",
   "fg": [
-    "spell_scroll_recover_bionic_power"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

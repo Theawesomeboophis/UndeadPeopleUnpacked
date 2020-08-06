@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_cone_cold",
   "fg": [
-    "spell_scroll_cone_cold"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

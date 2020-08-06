@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_mirror_image",
   "fg": [
-    "spell_scroll_mirror_image"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

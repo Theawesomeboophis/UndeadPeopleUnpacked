@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_eshaper_shardstorm",
   "fg": [
-    "spell_scroll_eshaper_shardstorm"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

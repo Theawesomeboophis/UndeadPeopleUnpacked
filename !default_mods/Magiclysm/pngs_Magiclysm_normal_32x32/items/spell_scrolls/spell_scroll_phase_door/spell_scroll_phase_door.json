@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_phase_door",
   "fg": [
-    "spell_scroll_phase_door"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

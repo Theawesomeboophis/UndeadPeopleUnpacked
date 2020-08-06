@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_holy_blade",
   "fg": [
-    "spell_scroll_holy_blade"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

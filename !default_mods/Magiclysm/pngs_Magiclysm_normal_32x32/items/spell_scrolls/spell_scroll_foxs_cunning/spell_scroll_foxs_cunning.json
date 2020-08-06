@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_foxs_cunning",
   "fg": [
-    "spell_scroll_foxs_cunning"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false
