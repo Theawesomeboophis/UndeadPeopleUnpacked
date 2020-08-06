@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_create_lighter",
   "fg": [
-    "spell_scroll_create_lighter"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

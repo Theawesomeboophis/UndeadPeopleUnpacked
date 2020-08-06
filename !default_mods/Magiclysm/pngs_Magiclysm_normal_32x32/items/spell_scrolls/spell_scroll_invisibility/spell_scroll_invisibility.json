@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_invisibility",
   "fg": [
-    "spell_scroll_invisibility"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

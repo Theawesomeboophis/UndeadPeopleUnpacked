@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_magus_mana_beam",
   "fg": [
-    "spell_scroll_magus_mana_beam"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

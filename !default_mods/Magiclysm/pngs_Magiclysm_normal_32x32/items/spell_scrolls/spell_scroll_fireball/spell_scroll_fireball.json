@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_fireball",
   "fg": [
-    "spell_scroll_fireball"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

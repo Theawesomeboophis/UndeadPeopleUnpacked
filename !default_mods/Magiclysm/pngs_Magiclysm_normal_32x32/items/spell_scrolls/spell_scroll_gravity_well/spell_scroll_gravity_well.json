@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_gravity_well",
   "fg": [
-    "spell_scroll_gravity_well"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

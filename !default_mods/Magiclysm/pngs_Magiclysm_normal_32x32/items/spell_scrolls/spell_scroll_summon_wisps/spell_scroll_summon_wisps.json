@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_summon_wisps",
   "fg": [
-    "spell_scroll_summon_wisps"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

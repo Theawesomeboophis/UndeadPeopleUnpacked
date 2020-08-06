@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_dark_sight",
   "fg": [
-    "spell_scroll_dark_sight"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

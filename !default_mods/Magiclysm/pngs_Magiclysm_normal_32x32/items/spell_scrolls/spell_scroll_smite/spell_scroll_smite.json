@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_smite",
   "fg": [
-    "spell_scroll_smite"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_earthshaper_stoneskin",
   "fg": [
-    "spell_scroll_earthshaper_stoneskin"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

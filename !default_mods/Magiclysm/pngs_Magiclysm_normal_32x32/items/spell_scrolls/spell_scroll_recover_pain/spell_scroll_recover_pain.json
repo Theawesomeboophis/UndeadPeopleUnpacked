@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_recover_pain",
   "fg": [
-    "spell_scroll_recover_pain"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

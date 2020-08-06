@@ -1,0 +1,20 @@
+{
+  "id": "f_everburning_candelabra",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "f_everburning_candelabra_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "f_everburning_candelabra_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "f_everburning_candelabra_3"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

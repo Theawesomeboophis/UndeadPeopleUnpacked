@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_bless",
   "fg": [
-    "spell_scroll_bless"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

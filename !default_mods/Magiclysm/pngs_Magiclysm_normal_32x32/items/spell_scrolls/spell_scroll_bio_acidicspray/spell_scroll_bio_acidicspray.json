@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_bio_acidicspray",
   "fg": [
-    "spell_scroll_bio_acidicspray"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

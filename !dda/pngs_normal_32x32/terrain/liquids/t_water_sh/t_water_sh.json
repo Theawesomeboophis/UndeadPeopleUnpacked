@@ -4,15 +4,7 @@
     "t_water_sh"
   ],
   "bg": [
-    "t_water_sh",
-    "t_swater_sh",
-    "t_water_moving_sh",
-    "t_water_moving_sh_season_winter",
-    "t_water_sh_underground",
-    "t_swater_sh_underground",
-    "t_water_moving_sh_underground",
-    "t_water_sh_season_winter",
-    "t_swater_sh_season_winter"
+    "bg_dirt"
   ],
   "rotates": false,
   "multitile": true,

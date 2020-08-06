@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_biomancer_coagulant_weave",
   "fg": [
-    "spell_scroll_biomancer_coagulant_weave"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

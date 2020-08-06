@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_druid_veggrasp",
   "fg": [
-    "spell_scroll_druid_veggrasp"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

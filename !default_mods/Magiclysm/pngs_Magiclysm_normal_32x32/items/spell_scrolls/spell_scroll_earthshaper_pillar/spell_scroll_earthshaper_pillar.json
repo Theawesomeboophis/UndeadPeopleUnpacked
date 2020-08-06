@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_earthshaper_pillar",
   "fg": [
-    "spell_scroll_earthshaper_pillar"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

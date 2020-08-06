@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_frost_spray",
   "fg": [
-    "spell_scroll_frost_spray"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

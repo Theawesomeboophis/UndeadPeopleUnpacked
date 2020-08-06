@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_bio_bonespear",
   "fg": [
-    "spell_scroll_bio_bonespear"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

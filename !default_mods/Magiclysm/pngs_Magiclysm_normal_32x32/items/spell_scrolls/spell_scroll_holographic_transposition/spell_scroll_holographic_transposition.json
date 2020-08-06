@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_holographic_transposition",
   "fg": [
-    "spell_scroll_holographic_transposition"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

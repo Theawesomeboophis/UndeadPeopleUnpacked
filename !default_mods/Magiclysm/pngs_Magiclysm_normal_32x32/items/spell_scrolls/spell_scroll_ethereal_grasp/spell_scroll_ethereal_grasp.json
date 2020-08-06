@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_ethereal_grasp",
   "fg": [
-    "spell_scroll_ethereal_grasp"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

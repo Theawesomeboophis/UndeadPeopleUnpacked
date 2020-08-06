@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_purification_seed",
   "fg": [
-    "spell_scroll_purification_seed"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

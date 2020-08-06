@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_point_flare",
   "fg": [
-    "spell_scroll_point_flare"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

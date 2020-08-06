@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_magic_missile",
   "fg": [
-    "spell_scroll_magic_missile"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

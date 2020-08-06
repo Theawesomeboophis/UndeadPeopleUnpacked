@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_acid_resistance",
   "fg": [
-    "spell_scroll_acid_resistance"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

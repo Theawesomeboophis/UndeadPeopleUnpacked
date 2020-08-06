@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_druid_rootstrike",
   "fg": [
-    "spell_scroll_druid_rootstrike"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

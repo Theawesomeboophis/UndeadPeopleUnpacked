@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_stonefist",
   "fg": [
-    "spell_scroll_stonefist"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false

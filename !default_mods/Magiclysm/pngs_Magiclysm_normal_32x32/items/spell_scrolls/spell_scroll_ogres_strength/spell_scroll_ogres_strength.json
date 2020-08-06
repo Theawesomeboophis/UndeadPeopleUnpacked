@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_ogres_strength",
   "fg": [
-    "spell_scroll_ogres_strength"
+    "temp_scroll_spell"
   ],
   "bg": [],
   "rotates": false
