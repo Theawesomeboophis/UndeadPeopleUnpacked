@@ -3,6 +3,6 @@
   "fg": [
     "corpse_mon_forgemaster1"
   ],
-  "bg": ["bg_shadow_goblin"],
+  "bg": [],
   "rotates": false
 }
