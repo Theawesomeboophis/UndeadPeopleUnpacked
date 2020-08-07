@@ -55,7 +55,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "f_fungal_clump_unconnected"
+        "f_fungal_clump_unconnected", "f_fungal_clump_unconnected"
       ],
       "bg": []
     }

@@ -55,7 +55,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "f_satellite_unconnected"
+        "f_satellite_unconnected", "f_satellite_unconnected"
       ],
       "bg": []
     }

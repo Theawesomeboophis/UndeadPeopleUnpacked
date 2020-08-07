@@ -55,7 +55,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "f_arcade_machine_unconnected"
+        "f_arcade_machine_unconnected", "f_arcade_machine_unconnected"
       ],
       "bg": []
     }

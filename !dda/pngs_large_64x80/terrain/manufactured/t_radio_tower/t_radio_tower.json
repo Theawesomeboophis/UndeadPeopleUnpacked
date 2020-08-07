@@ -66,7 +66,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "t_radio_tower_unconnected"
+        "t_radio_tower_unconnected", "t_radio_tower_unconnected"
       ],
       "bg": [
         "bg_big_pavement"
