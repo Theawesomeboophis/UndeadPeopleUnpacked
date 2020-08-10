@@ -1,0 +1,8 @@
+{
+  "id": "vp_box_wheelbarrow",
+  "fg": [
+    "box_wheelbarrow_rotat_s", "box_wheelbarrow_rotat_e", "box_wheelbarrow_rotat_n", "box_wheelbarrow_rotat_w"
+  ],
+  "bg": [],
+  "rotates": true
+}
