@@ -1,21 +1,21 @@
 {
-  "id": "art_teardrop",
+  "id": "art_napkin",
   "fg": [
     {
       "weight": 60,
-      "sprite": "art_teardrop_1"
+      "sprite": "art_napkin_1"
     },
     {
       "weight": 60,
-      "sprite": "art_teardrop_2"
+      "sprite": "art_napkin_2"
     },
     {
       "weight": 60,
-      "sprite": "art_teardrop_3"
+      "sprite": "art_napkin_3"
     },   
 	{
       "weight": 60,
-      "sprite": "art_teardrop_4"
+      "sprite": "art_napkin_4"
     }
   ],
   "bg": [],

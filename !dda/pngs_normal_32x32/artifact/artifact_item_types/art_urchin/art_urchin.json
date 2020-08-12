@@ -1,25 +1,25 @@
 {
-  "id": "art_teardrop",
+  "id": "art_urchin",
   "fg": [
     {
       "weight": 10,
-      "sprite": "art_teardrop_1"
+      "sprite": "art_urchin_1"
     },
     {
       "weight": 10,
-      "sprite": "art_teardrop_2"
+      "sprite": "art_urchin_2"
     },
     {
       "weight": 10,
-      "sprite": "art_teardrop_3"
+      "sprite": "art_urchin_3"
     },   
 	{
       "weight": 10,
-      "sprite": "art_teardrop_4"
+      "sprite": "art_urchin_4"
     },   
 	{
       "weight": 10,
-      "sprite": "art_teardrop_5"
+      "sprite": "art_urchin_5"
     }
   ],
   "bg": [],
