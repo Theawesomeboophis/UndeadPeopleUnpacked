@@ -1,9 +1,9 @@
 {
   "id": "t_barndoor_season_winter",
   "fg": [
-    "t_barndoor_season_winter"
+    "t_barndoor"
   ],
   "bg": [
-    "bg_snow"
+    "bg_dirt_season_winter"
   ]
 }

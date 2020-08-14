@@ -5,7 +5,7 @@
   ],
   "bg": [
     "t_railroad_rubble",
-    "bg_gravel"
+    "bg_dirt_season_winter"
   ],
   "rotates": true,
   "multitile": true,
@@ -17,7 +17,7 @@
       ],
       "bg": [
         "t_railroad_rubble",
-        "bg_gravel"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -30,7 +30,7 @@
       ],
       "bg": [
         "t_railroad_rubble",
-        "bg_gravel"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -43,7 +43,7 @@
       ],
       "bg": [
         "t_railroad_rubble",
-        "bg_gravel"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -54,7 +54,7 @@
       ],
       "bg": [
         "t_railroad_rubble",
-        "bg_gravel"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -67,7 +67,7 @@
       ],
       "bg": [
         "t_railroad_rubble",
-        "bg_gravel"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -77,7 +77,7 @@
       ],
       "bg": [
         "t_railroad_rubble",
-        "bg_gravel"
+        "bg_dirt_season_winter"
       ]
     }
   ]

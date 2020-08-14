@@ -3,7 +3,7 @@
   "fg": [
     "t_wall_wattle_half"
   ],
-  "bg": ["bg_snow"],
+  "bg": ["bg_dirt_season_winter"],
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
@@ -12,7 +12,7 @@
       "fg": [
         "t_wall_wattle_half_center"
       ],
-      "bg": ["bg_snow"]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "corner",
@@ -22,7 +22,7 @@
         "t_wall_wattle_half_corner_3",
         "t_wall_wattle_half_corner_4"
       ],
-      "bg": ["bg_snow"]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "t_connection",
@@ -32,7 +32,7 @@
         "t_wall_wattle_half_t_connection_3",
         "t_wall_wattle_half_t_connection_4"
       ],
-      "bg": ["bg_snow"]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "edge",
@@ -40,7 +40,7 @@
         "t_wall_wattle_half_edge_1",
         "t_wall_wattle_half_edge_2"
       ],
-      "bg": ["bg_snow"]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "end_piece",
@@ -50,14 +50,14 @@
         "t_wall_wattle_half_end_piece_3",
         "t_wall_wattle_half_end_piece_4"
       ],
-      "bg": ["bg_snow"]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_wall_wattle_half_unconnected"
       ],
-      "bg": ["bg_snow"]
+      "bg": ["bg_dirt_season_winter"]
     }
   ]
 }

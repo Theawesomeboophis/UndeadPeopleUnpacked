@@ -13,7 +13,7 @@
         "t_tar_flat_roof_center"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "t_tar_flat_roof_corner_4"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -37,7 +37,7 @@
         "t_tar_flat_roof_t_connection_4"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -47,7 +47,7 @@
         "t_tar_flat_roof_edge_2"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -59,7 +59,7 @@
         "t_tar_flat_roof_end_piece_4"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -68,7 +68,7 @@
         "t_tar_flat_roof_unconnected"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     }
   ]

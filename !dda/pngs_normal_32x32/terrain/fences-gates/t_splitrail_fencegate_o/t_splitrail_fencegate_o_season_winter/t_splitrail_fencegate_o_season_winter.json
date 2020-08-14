@@ -13,7 +13,7 @@
         "t_splitrail_fencegate_o_center"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "t_splitrail_fencegate_o_corner_4"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -37,7 +37,7 @@
         "t_splitrail_fencegate_o_t_connection_4"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -47,7 +47,7 @@
         "t_splitrail_fencegate_o_edge_2"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -59,7 +59,7 @@
         "t_splitrail_fencegate_o_end_piece_4"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     },
     {
@@ -68,7 +68,7 @@
         "t_splitrail_fencegate_o_unconnected"
       ],
       "bg": [
-        "bg_snow"
+        "bg_dirt_season_winter"
       ]
     }
   ]

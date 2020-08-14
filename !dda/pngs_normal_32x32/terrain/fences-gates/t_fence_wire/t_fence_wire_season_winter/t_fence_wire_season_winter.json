@@ -1,9 +1,9 @@
 {
   "id": "t_fence_wire_season_winter",
   "fg": [
-    "t_fence_wire_season_winter"
+    "t_fence_wire"
   ],
   "bg": [
-    "bg_snow"
+    "bg_dirt_season_winter"
   ]
 }
