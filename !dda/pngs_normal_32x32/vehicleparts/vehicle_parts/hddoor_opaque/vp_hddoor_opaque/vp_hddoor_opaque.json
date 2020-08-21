@@ -12,11 +12,7 @@
       "fg": [
         "vp_hddoor_opaque_broken"
       ],
-      "bg": [
-        "vp_hddoor",
-        "vp_hddoor_opaque",
-        "vp_hddoor_trunk"
-      ]
+      "bg": []
     },
     {
       "id": "open",

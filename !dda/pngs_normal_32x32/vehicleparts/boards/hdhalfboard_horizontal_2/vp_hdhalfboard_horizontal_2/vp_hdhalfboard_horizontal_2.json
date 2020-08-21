@@ -12,12 +12,7 @@
       "fg": [
         "vp_hdhalfboard_horizontal_2_broken"
       ],
-      "bg": [
-        "vp_hdboard_horizontal",
-        "vp_hdhalfboard_vertical_2",
-        "vp_hdhalfboard_horizontal_2",
-        "vp_hdhalfboard_horizontal"
-      ]
+      "bg": []
     }
   ]
 }
