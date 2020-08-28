@@ -1,0 +1,11 @@
+{
+  "id": "art_crystal",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "art_crystal"
+    }
+  ],
+  "bg": [],
+  "animated": false
+}

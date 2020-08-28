@@ -1,0 +1,11 @@
+{
+  "id": "art_crescent",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "art_crescent"
+    }
+  ],
+  "bg": [],
+  "animated": false
+}
