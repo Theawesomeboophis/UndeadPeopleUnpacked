@@ -1,11 +1,5 @@
 {
   "id": "art_knot",
-  "fg": [
-    {
-      "weight": 100,
-      "sprite": "art_knot"
-    }
-  ],
-  "bg": [],
-  "animated": false
+  "fg": ["art_knot"],
+  "bg": []
 }
