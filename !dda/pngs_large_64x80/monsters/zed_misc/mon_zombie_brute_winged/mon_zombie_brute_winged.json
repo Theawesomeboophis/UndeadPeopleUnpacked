@@ -3,6 +3,6 @@
   "fg": [
     "mon_zombie_brute_winged"
   ],
-  "bg": [],
+  "bg": ["bg_big_normal_shaddow"],
   "rotates": false
 }

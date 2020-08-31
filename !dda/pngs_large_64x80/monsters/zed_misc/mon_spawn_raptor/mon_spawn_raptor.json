@@ -3,6 +3,6 @@
   "fg": [
     "mon_spawn_raptor"
   ],
-  "bg": [],
+  "bg": ["bg_big_normal_shaddow"],
   "rotates": false
 }
