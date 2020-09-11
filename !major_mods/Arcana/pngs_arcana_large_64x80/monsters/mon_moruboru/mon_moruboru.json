@@ -1,0 +1,24 @@
+{
+  "id": "mon_moruboru",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_moruboru_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_moruboru_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_moruboru_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_moruboru_4"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false,
+  "animated": true
+}

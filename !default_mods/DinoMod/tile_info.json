@@ -12,5 +12,8 @@
 },
 {
 "DinoMod_large.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+},
+{
+"DinoMod_huge.png": { "sprite_width": 160, "sprite_height": 128, "sprite_offset_x": -48, "sprite_offset_y": -48 }
 }
 ]

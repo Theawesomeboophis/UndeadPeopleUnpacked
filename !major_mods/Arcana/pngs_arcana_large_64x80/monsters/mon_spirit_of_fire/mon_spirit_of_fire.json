@@ -1,0 +1,28 @@
+{
+  "id": "mon_spirit_of_fire",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_spirit_of_fire_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_spirit_of_fire_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_spirit_of_fire_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_spirit_of_fire_4"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_spirit_of_fire_5"
+    }
+  ],
+  "bg": [""],
+  "rotates": false,
+  "animated": true
+}

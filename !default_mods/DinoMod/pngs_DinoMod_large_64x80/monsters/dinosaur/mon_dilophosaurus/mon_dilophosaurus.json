@@ -1,0 +1,10 @@
+{
+  "id": "mon_dilophosaurus",
+  "fg": [
+    "mon_dilophosaurus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
