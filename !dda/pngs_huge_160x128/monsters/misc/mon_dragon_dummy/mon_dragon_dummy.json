@@ -3,6 +3,6 @@
   "fg": [
     "mon_dragon_dummy"
   ],
-  "bg": ["mon_dragon_dummy"],
+  "bg": [],
   "rotates": false
 }
