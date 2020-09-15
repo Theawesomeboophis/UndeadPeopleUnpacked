@@ -1,7 +1,7 @@
 {
-  "id": "vp_cloth_halfboard_sw",
+  "id": "vp_door_rear",
   "fg": [
-    "vp_cloth_halfboard_sw"
+    "vp_door_rear"
   ],
   "bg": [],
   "rotates": true,
@@ -10,7 +10,14 @@
     {
       "id": "broken",
       "fg": [
-        "vp_cloth_halfboard_sw_broken"
+        "vp_door_rear_broken"
+      ],
+      "bg": []
+    },
+	{
+      "id": "open",
+      "fg": [
+        "vp_door_rear_open"
       ],
       "bg": []
     }

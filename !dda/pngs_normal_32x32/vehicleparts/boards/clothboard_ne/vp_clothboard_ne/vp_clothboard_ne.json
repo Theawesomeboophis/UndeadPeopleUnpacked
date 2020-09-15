@@ -12,22 +12,7 @@
       "fg": [
         "vp_clothboard_ne_broken"
       ],
-      "bg": [
-        "vp_cloth_halfboard_horizontal",
-        "vp_cloth_halfboard_horizontal_2",
-        "vp_cloth_halfboard_ne",
-        "vp_cloth_halfboard_nw",
-        "vp_cloth_halfboard_se",
-        "vp_cloth_halfboard_sw",
-        "vp_cloth_halfboard_vertical",
-        "vp_cloth_halfboard_vertical_2",
-        "vp_clothboard_horizontal",
-        "vp_clothboard_ne",
-        "vp_clothboard_nw",
-        "vp_clothboard_se",
-        "vp_clothboard_sw",
-        "vp_clothboard_vertical"
-      ]
+      "bg": []
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "id": "vp_cloth_halfboard_sw",
+  "id": "vp_aisle",
   "fg": [
-    "vp_cloth_halfboard_sw"
+    "vp_aisle_horizontal"
   ],
   "bg": [],
-  "rotates": true,
+  "rotates": false,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
       "fg": [
-        "vp_cloth_halfboard_sw_broken"
+        "vp_aisle_horizontal_broken"
       ],
       "bg": []
     }
