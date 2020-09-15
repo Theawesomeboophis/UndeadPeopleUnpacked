@@ -12,9 +12,7 @@
       "fg": [
         "vp_stowboard_horizontal_broken"
       ],
-      "bg": [
-        "vp_stowboard_horizontal"
-      ]
+      "bg": []
     }
   ]
 }

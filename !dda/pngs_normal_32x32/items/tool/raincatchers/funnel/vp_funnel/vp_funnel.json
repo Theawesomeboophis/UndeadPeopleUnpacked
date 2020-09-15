@@ -12,13 +12,7 @@
       "fg": [
         "vp_funnel_broken"
       ],
-      "bg": [
-        "vp_funnel",
-        "vp_birchbark_funnel",
-        "vp_leather_funnel",
-        "vp_makeshift_funnel",
-        "vp_metal_funnel"
-      ]
+      "bg": []
     }
   ]
 }
