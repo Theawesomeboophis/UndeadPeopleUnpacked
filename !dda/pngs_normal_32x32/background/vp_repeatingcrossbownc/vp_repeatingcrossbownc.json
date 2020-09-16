@@ -11,19 +11,7 @@
       "fg": [
         "vp_repeatingcrossbownc_broken"
       ],
-      "bg": [
-        "vp_abolter",
-        "vp_abolternc",
-        "vp_avortexbolter",
-        "vp_avortexbolternc",
-        "vp_vortexcannon",
-        "vp_vortexbolter",
-        "vp_cutter",
-        "vp_cutternc",
-        "vp_mcutter",
-        "vp_repeatingcrossbow",
-        "vp_repeatingcrossbownc"
-      ]
+      "bg": []
     }
   ]
 }
