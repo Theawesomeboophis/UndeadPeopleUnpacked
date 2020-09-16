@@ -1,7 +1,7 @@
 {
-  "id": "vp_clothboard_horizontal",
+  "id": "vp_clothboard",
   "fg": [
-    "vp_clothboard_horizontal"
+    "vp_clothboard"
   ],
   "bg": [],
   "rotates": true,
@@ -10,7 +10,7 @@
     {
       "id": "broken",
       "fg": [
-        "vp_clothboard_horizontal_broken"
+        "vp_clothboard_broken"
       ],
       "bg": []
     }

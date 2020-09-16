@@ -1,10 +1,10 @@
 {
-  "id": "vp_wooden_aisle",
+  "id": "vp_seat_wood_flimsy",
   "fg": [
-    "vp_wooden_aisle"
+    "vp_seat_wood_flimsy"
   ],
   "bg": [
-    "bg_car_wood"
+    "bg_car"
   ],
   "rotates": true,
   "multitile": true,
@@ -12,9 +12,9 @@
     {
       "id": "broken",
       "fg": [
-        "vp_wooden_aisle_broken"
+        "vp_seat_wood_flimsy_broken"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     }
   ]
 }
