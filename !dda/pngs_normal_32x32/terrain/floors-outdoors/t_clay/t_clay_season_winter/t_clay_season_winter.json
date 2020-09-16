@@ -3,10 +3,7 @@
   "fg": [
     "t_clay_season_winter"
   ],
-  "bg": [
-    "t_railroad_rubble",
-    "bg_dirt_season_winter"
-  ],
+  "bg": [ "bg_dirt_season_winter" ],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
@@ -15,10 +12,7 @@
       "fg": [
         "t_clay_season_winter_center"
       ],
-      "bg": [
-        "t_railroad_rubble",
-        "bg_dirt_season_winter"
-      ]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "corner",
@@ -28,10 +22,7 @@
         "t_clay_season_winter_corner_3",
         "t_clay_season_winter_corner_4"
       ],
-      "bg": [
-        "t_railroad_rubble",
-        "bg_dirt_season_winter"
-      ]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "t_connection",
@@ -41,10 +32,7 @@
         "t_clay_season_winter_t_connection_3",
         "t_clay_season_winter_t_connection_4"
       ],
-      "bg": [
-        "t_railroad_rubble",
-        "bg_dirt_season_winter"
-      ]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "edge",
@@ -52,10 +40,7 @@
         "t_clay_season_winter_edge_1",
         "t_clay_season_winter_edge_2"
       ],
-      "bg": [
-        "t_railroad_rubble",
-        "bg_dirt_season_winter"
-      ]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "end_piece",
@@ -65,20 +50,14 @@
         "t_clay_season_winter_end_piece_3",
         "t_clay_season_winter_end_piece_4"
       ],
-      "bg": [
-        "t_railroad_rubble",
-        "bg_dirt_season_winter"
-      ]
+      "bg": ["bg_dirt_season_winter"]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_clay_season_winter_unconnected"
       ],
-      "bg": [
-        "t_railroad_rubble",
-        "bg_dirt_season_winter"
-      ]
+      "bg": ["bg_dirt_season_winter"]
     }
   ]
 }
