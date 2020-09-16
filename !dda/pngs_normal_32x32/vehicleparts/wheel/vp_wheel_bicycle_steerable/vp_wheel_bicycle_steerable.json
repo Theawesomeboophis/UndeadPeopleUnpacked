@@ -6,5 +6,6 @@
   "bg": [],
   "rotates": true,
   "multitile": true,
-  "additional_tiles": [ { "id": "broken", "fg": ["vp_wheel_bicycle_broken_rotat_1", "vp_wheel_bicycle_broken_rotat_2", "vp_wheel_bicycle_broken_rotat_3", "vp_wheel_bicycle_broken_rotat_4"] } ]
+  "additional_tiles": [ { "id": "broken", "fg": ["vp_wheel_bicycle_broken_rotat_1", "vp_wheel_bicycle_broken_rotat_2", "vp_wheel_bicycle_broken_rotat_3", "vp_wheel_bicycle_broken_rotat_4"], 
+  "bg": [] } ]
 }
