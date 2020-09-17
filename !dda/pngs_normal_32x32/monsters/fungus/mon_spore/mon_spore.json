@@ -1,8 +1,23 @@
 {
   "id": "mon_spore",
   "fg": [
-    "mon_spore"
+    {
+      "weight": 20,
+      "sprite": "mon_spore_1"
+    },
+    {
+      "weight": 20,
+      "sprite": "mon_spore_2"
+    },{
+      "weight": 20,
+      "sprite": "mon_spore_3"
+    },
+    {
+      "weight": 20,
+      "sprite": "mon_spore_4"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }

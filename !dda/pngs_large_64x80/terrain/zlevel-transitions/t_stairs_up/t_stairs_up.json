@@ -1,8 +1,16 @@
 {
   "id": "t_stairs_up",
   "fg": [
-    "t_stairs_up"
+    {
+      "weight": 25,
+      "sprite": "t_stairs_up_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_stairs_up_2"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }

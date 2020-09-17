@@ -1,7 +1,7 @@
 {
-  "id": "xlframe",
+  "id": "vp_xlframe",
   "fg": [
-    "xlframe"
+    "vp_xlframe"
   ],
   "bg": [],
   "rotates": true

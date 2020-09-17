@@ -1,10 +1,18 @@
 {
   "id": "t_gutter_downspout",
   "fg": [
-    "t_gutter_downspout"
+    {
+      "weight": 25,
+      "sprite": "t_gutter_downspout_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_gutter_downspout_2"
+    }
   ],
   "bg": [
     "bg_big_pavement"
   ],
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }
