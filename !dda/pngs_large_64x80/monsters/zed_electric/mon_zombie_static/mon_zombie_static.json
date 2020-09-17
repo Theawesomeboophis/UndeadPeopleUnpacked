@@ -1,7 +1,6 @@
 {
   "id": "mon_zombie_static",
-  "fg": [
-    [ {
+  "fg": [{
       "weight": 25,
       "sprite": "mon_zombie_static_1"
     },
@@ -16,8 +15,7 @@
     {
       "weight": 25,
       "sprite": "mon_zombie_static_4"
-    } ]
-  ],
+    }],
   "animated": true,
   "bg": ["bg_big_normal_shaddow"],
   "rotates": false
