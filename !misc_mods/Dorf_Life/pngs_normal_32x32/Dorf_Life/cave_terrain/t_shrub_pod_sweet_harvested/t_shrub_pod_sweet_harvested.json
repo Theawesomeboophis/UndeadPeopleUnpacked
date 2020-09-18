@@ -1,0 +1,8 @@
+{
+  "id": "t_shrub_pod_sweet_harvested",
+  "fg": [
+    "t_shrub_pod_sweet_harvested"
+  ],
+  "bg": ["bg_stone_floor"],
+  "rotates": false
+}

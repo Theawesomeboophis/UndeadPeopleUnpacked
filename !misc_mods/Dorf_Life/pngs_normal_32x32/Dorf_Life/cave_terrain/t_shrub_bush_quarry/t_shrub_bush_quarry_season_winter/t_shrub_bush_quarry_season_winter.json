@@ -1,0 +1,8 @@
+{
+  "id": "t_shrub_bush_quarry_season_winter",
+  "fg": [
+    "t_shrub_bush_quarry_season_winter"
+  ],
+  "bg": ["bg_stone_floor"],
+  "rotates": false
+}

@@ -1,0 +1,72 @@
+Missing terrain:
+
+
+
+Missing terrain (but looks_like tile exists): 
+
+
+
+------------------------------------------------------------------------------------------
+Missing furniture:
+
+
+
+Missing furniture (but looks_like tile exists): 
+
+
+
+------------------------------------------------------------------------------------------
+Missing item:
+
+
+
+Missing item (but looks_like tile exists):
+
+artifact_scp_doc +
+hood_gut +
+monitoring_equipment_doc +
+rifle_case_soft +
+rifle_case_soft_2 +
+rifle_case_soft_leather +
+rifle_case_soft_leather_2 +
+rifle_case_xl_soft_leather +
+wallet_large +
+western_holster +
+xedra_antenna
+xedra_seismograph
+
+------------------------------------------------------------------------------------------
+Missing monster:
+
+
+
+Missing monster (but looks_like tile exists):
+
+
+
+------------------------------------------------------------------------------------------
+Missing vehicle_part:
+
+
+
+Missing vehicle_part (but looks_like tile exists):
+
+
+
+------------------------------------------------------------------------------------------
+Missing trap:
+
+
+
+Missing trap (but looks_like tile exists)
+
+
+
+------------------------------------------------------------------------------------------
+Missing field:
+
+
+
+Missing field (but looks_like tile exists):
+
+

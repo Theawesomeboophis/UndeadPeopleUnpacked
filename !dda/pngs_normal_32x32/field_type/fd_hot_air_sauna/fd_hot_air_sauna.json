@@ -1,8 +1,40 @@
 {
   "id": "fd_hot_air_sauna",
   "fg": [
-    "fd_hot_air_sauna"
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_1"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_2"
+    },  
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_3"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_4"
+    },   
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_5"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_4"
+    },  
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_3"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_2"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }

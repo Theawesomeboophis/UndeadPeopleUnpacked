@@ -1,0 +1,8 @@
+{
+  "id": "t_shrub_bush_quarry",
+  "fg": [
+    "t_shrub_bush_quarry"
+  ],
+  "bg": ["bg_stone_floor"],
+  "rotates": false
+}

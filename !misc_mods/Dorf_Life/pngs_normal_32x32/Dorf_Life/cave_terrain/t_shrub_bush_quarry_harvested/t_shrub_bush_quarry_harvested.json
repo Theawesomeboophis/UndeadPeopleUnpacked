@@ -1,0 +1,8 @@
+{
+  "id": "t_shrub_bush_quarry_harvested",
+  "fg": [
+    "t_shrub_bush_quarry_harvested"
+  ],
+  "bg": ["bg_stone_floor"],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "t_shrub_helmet_plump_harvested",
+  "fg": [
+    "t_shrub_helmet_plump_harvested"
+  ],
+  "bg": ["bg_stone_floor"],
+  "rotates": false
+}

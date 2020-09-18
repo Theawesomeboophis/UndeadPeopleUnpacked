@@ -1,0 +1,8 @@
+{
+  "id": "t_shrub_tails_pig",
+  "fg": [
+    "t_shrub_tails_pig"
+  ],
+  "bg": ["bg_stone_floor"],
+  "rotates": false
+}

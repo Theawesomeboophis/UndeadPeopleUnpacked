@@ -1,0 +1,10 @@
+{
+  "id": "t_breach_lever",
+  "fg": [
+    "t_breach_lever"
+  ],
+  "bg": [
+    "t_breach_stone_fake_lowered"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "t_shrub_wheat_cave_harvested",
+  "fg": [
+    "t_shrub_wheat_cave_harvested"
+  ],
+  "bg": ["bg_stone_floor"],
+  "rotates": false
+}
