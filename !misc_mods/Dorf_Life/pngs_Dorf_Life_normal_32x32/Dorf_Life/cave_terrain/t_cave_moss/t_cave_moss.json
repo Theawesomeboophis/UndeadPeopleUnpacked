@@ -1,0 +1,63 @@
+{
+  "id": "t_cave_moss",
+  "fg": [
+    "t_cave_moss"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_cave_moss_center"
+      ],
+      "bg": ["bg_stone_floor_center"]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_cave_moss_corner_1",
+        "t_cave_moss_corner_2",
+        "t_cave_moss_corner_3",
+        "t_cave_moss_corner_4"
+      ],
+      "bg": ["bg_stone_floor"]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_cave_moss_t_connection_1",
+        "t_cave_moss_t_connection_2",
+        "t_cave_moss_t_connection_3",
+        "t_cave_moss_t_connection_4"
+      ],
+      "bg": ["bg_stone_floor"]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_cave_moss_edge_1",
+        "t_cave_moss_edge_2"
+      ],
+      "bg": ["bg_stone_floor"]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_cave_moss_end_piece_1",
+        "t_cave_moss_end_piece_2",
+        "t_cave_moss_end_piece_3",
+        "t_cave_moss_end_piece_4"
+      ],
+      "bg": ["bg_stone_floor"]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_cave_moss_unconnected"
+      ],
+      "bg": ["bg_stone_floor"]
+    }
+  ]
+}
