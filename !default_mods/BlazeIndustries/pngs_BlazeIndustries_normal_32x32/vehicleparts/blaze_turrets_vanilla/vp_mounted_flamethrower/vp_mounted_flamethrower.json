@@ -12,14 +12,7 @@
       "fg": [
         "vp_mounted_flamethrower_broken"
       ],
-      "bg": [
-        "vp_mounted_flamethrower",
-        "vp_mounted_flamethrower1",
-        "vp_mounted_flamethrower2",
-        "vp_mounted_flamethrower3",
-        "vp_mounted_mflamethrower1",
-        "vp_mounted_mflamethrower3"
-      ]
+      "bg": []
     }
   ]
 }

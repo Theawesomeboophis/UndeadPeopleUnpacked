@@ -12,9 +12,7 @@
       "fg": [
         "vp_solar_array_broken"
       ],
-      "bg": [
-        "vp_solar_array"
-      ]
+      "bg": []
     }
   ]
 }

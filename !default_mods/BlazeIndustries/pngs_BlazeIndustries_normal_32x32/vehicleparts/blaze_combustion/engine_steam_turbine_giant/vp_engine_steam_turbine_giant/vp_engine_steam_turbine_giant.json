@@ -3,8 +3,6 @@
   "fg": [
     "vp_engine_steam_turbine_giant"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }

@@ -1,11 +1,5 @@
 {
   "id": "vehicle_shelving",
-  "fg": [
-    "vehicle_shelving"
-  ],
-  "bg": [],
-  "rotates": false,
-      "bg": []
-    }
-  ]
+  "fg": ["vehicle_shelving"],
+  "bg": []
 }

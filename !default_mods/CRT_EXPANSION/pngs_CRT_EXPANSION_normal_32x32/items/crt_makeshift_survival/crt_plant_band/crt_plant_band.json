@@ -1,7 +1,7 @@
 {
-  "id": "crt_plant_tunic",
+  "id": "crt_plant_band",
   "fg": [
-    "crt_plant_tunic"
+    "crt_plant_band"
   ],
   "bg": [],
   "rotates": false
