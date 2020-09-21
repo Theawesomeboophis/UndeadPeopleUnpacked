@@ -3,7 +3,7 @@
   "fg": [
     "t_iron_fence"
   ],
-  "bg": [],
+  "bg": ["bg_t_sidewalk"],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
@@ -13,14 +13,14 @@
         "t_iron_fence_edge_1",
         "t_iron_fence_edge_2"
       ],
-      "bg": []
+      "bg": ["bg_t_sidewalk"]
     },
     {
       "id": "center",
       "fg": [
         "t_iron_fence_center"
       ],
-      "bg": []
+      "bg": ["bg_t_sidewalk"]
     },
     {
       "id": "corner",
@@ -30,7 +30,7 @@
         "t_iron_fence_corner_3",
         "t_iron_fence_corner_4"
       ],
-      "bg": []
+      "bg": ["bg_t_sidewalk"]
     },
     {
       "id": "end_piece",
@@ -40,7 +40,7 @@
         "t_iron_fence_end_piece_3",
         "t_iron_fence_end_piece_4"
       ],
-      "bg": []
+      "bg": ["bg_t_sidewalk"]
     },
     {
       "id": "t_connection",
@@ -50,14 +50,14 @@
         "t_iron_fence_t_connection_3",
         "t_iron_fence_t_connection_4"
       ],
-      "bg": []
+      "bg": ["bg_t_sidewalk"]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_iron_fence_unconnected"
       ],
-      "bg": []
+      "bg": ["bg_t_sidewalk"]
     }
   ]
 }

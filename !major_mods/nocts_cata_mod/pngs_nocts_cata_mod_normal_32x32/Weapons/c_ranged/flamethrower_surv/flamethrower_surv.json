@@ -1,0 +1,10 @@
+{
+  "id": "flamethrower_surv",
+  "fg": [
+    "flamethrower_surv"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

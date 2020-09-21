@@ -1,0 +1,10 @@
+{
+  "id": "molded_crowbar",
+  "fg": [
+    "molded_crowbar"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "vp_mounted_calico",
+  "fg": [
+    "vp_mounted_calico"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mounted_calico_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

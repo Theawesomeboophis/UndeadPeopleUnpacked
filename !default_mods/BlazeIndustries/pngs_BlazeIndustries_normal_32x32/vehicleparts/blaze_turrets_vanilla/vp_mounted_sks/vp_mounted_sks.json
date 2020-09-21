@@ -1,0 +1,17 @@
+{
+  "id": "vp_mounted_sks",
+  "fg": [
+    "vp_mounted_sks"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mounted_sks_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

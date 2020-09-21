@@ -1,0 +1,17 @@
+{
+  "id": "vp_mounted_marlin_9a",
+  "fg": [
+    "vp_mounted_marlin_9a"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mounted_marlin_9a_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

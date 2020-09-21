@@ -1,0 +1,17 @@
+{
+  "id": "vp_mounted_carbine_flintlock",
+  "fg": [
+    "vp_mounted_carbine_flintlock"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mounted_carbine_flintlock_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}
