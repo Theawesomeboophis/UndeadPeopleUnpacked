@@ -12,26 +12,7 @@
       "fg": [
         "vp_surv_lmg_762_t_broken"
       ],
-      "bg": [
-        "vp_auto_mk19",
-        "vp_mounted_mk19",
-        "vp_surv_full_12_t",
-        "vp_surv_full_223_t",
-        "vp_surv_full_308_t",
-        "vp_surv_full_762_t",
-        "vp_surv_lmg_223_t",
-        "vp_surv_lmg_308_t",
-        "vp_surv_lmg_762_t",
-        "vp_mounted_30mm_autocannon",
-        "vp_ascorpion",
-        "vp_m320",
-        "vp_m79",
-        "vp_mgl",
-        "vp_SMG22",
-        "vp_SMG45",
-        "vp_SMG9mm",
-        "vp_ascorpionnc"
-      ]
+      "bg": []
     }
   ]
 }
