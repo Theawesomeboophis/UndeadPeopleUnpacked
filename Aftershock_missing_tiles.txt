@@ -1,0 +1,163 @@
+Missing terrain:
+
+
+
+Missing terrain (but looks_like tile exists): 
+
+t_foamcrete_wall
+t_foamcrete_floor
+
+------------------------------------------------------------------------------------------
+Missing furniture:
+
+
+
+Missing furniture (but looks_like tile exists): 
+
+f_autodoc_average
+f_autodoc_cheap
+f_sleep_pod
+f_cryo_pod
+f_crispr
+f_3dprinter
+f_neuralnet_inserter
+f_monomolecularsaw
+
+
+------------------------------------------------------------------------------------------
+Missing item:
+
+afs_bio_cranialbomb
+afs_bio_melee_counteraction
+afs_bio_melee_optimization_unit
+afs_bio_neurosoft_aeronautics
+afs_bio_skullgun
+afs_foamcrete
+inactive_frankenstein
+iv_mutagen_mastodon
+iv_mutagen_migo
+mutagen_mastodon
+mutagen_migo
+seed_bananas
+seed_coconut
+seed_lemon
+seed_melon
+seed_orange
+seed_pineapple
+xlballistic_vest_empty
+xlballistic_vest_esapi
+
+Missing item (but looks_like tile exists):
+
+afs_beefsim
+afs_biomaterial_1
+afs_biomaterial_2
+afs_biomaterial_3
+afs_biomaterial_4
+afs_biomaterial_5
+afs_caffex
+afs_cam_spy
+afs_cam_spy_on
+afs_cee_wafers
+afs_circuitry_1
+afs_circuitry_2
+afs_circuitry_3
+afs_circuitry_4
+afs_circuitry_5
+afs_cloth_4
+afs_complete_bionic_toolkit
+afs_cryopod_bodyglove
+afs_cryopod_bodyglove_on
+afs_electroshock_grenade_1
+afs_electroshock_grenade_1_act
+afs_energy_storage_1
+afs_energy_storage_2
+afs_energy_storage_3
+afs_energy_storage_4
+afs_energy_storage_5
+afs_foam_tank
+afs_foamgun
+afs_food_cube
+afs_food_to_go
+afs_h2o
+afs_herc_rig
+afs_loop_fruit
+afs_magnet_1
+afs_magnet_2
+afs_magnet_3
+afs_magnet_4
+afs_material_1
+afs_material_2
+afs_material_3
+afs_material_4
+afs_material_5
+afs_neural_io_1
+afs_neural_io_2
+afs_neural_io_3
+afs_neural_io_4
+afs_neural_io_5
+afs_rebar_rifle
+afs_sentinel_laser_mon
+afs_soup_27
+afs_titanium_foldable_frame
+bio_skullgun_gun
+bionic_maintenance_toolkit
+cyrus'_notes
+millyficents_diary
+recipe_uplift
+tripaw_xlgloves_tactical
+xl_jeans
+xl_technician_pants_gray
+xl_technician_shirt_gray
+xlboots_combat
+xlgloves_tactical
+xlleather_belt
+xllegpouch_large
+xlpolice_belt
+xlswat_armor
+xltac_fullhelmet
+
+
+------------------------------------------------------------------------------------------
+Missing monster:
+
+mon_uplifted_bear +
+mon_uplifted_bear_cub +
+mon_uplifted_ape +
+mon_zombie_upliftedbear +
+mon_uplifted_ape_zed +
+mon_zombie_oliphant +
+
+Missing monster (but looks_like tile exists):
+
+mon_migoturret_whately +
+
+------------------------------------------------------------------------------------------
+Missing vehicle_part:
+
+afs_lightweight_foldable_frame
+afs_lightweight_frame
+
+
+Missing vehicle_part (but looks_like tile exists):
+
+
+
+------------------------------------------------------------------------------------------
+Missing trap:
+
+
+
+Missing trap (but looks_like tile exists)
+
+
+
+------------------------------------------------------------------------------------------
+Missing field:
+
+fd_clairvoyant
+fd_foamcrete
+
+Missing field (but looks_like tile exists):
+
+

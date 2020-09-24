@@ -1,10 +1,10 @@
 {
-  "id": "t_carpet_base_metal",
+  "id": "t_carpet_concrete",
   "fg": [
     "t_carpet_base"
   ],
   "bg": [
-    "t_metal_floor"
+    "t_thconc_floor"
   ],
   "rotates": false,
   "multitile": true,
@@ -15,7 +15,7 @@
         "t_carpet_base_center"
       ],
       "bg": [
-        "t_metal_floor"
+        "t_thconc_floor"
       ]
     },
     {
@@ -27,7 +27,7 @@
         "t_carpet_base_corner_4"
       ],
       "bg": [
-        "t_metal_floor"
+        "t_thconc_floor"
       ]
     },
     {
@@ -39,7 +39,7 @@
         "t_carpet_base_t_connection_4"
       ],
       "bg": [
-        "t_metal_floor"
+        "t_thconc_floor"
       ]
     },
     {
@@ -49,7 +49,7 @@
         "t_carpet_base_edge_2"
       ],
       "bg": [
-        "t_metal_floor"
+        "t_thconc_floor"
       ]
     },
     {
@@ -61,7 +61,7 @@
         "t_carpet_base_end_piece_4"
       ],
       "bg": [
-        "t_metal_floor"
+        "t_thconc_floor"
       ]
     },
     {
@@ -70,7 +70,7 @@
         "t_carpet_base_unconnected"
       ],
       "bg": [
-        "t_metal_floor"
+        "t_thconc_floor"
       ]
     }
   ]

@@ -1,0 +1,10 @@
+{
+  "id": "mon_migoturret_whately",
+  "fg": [
+    "mon_migoturret_whately"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

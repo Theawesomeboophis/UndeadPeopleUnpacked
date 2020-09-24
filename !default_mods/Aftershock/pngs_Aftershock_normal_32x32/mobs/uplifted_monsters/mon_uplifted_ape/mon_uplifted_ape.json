@@ -1,0 +1,10 @@
+{
+  "id": "mon_uplifted_ape",
+  "fg": [
+    "mon_uplifted_ape"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
