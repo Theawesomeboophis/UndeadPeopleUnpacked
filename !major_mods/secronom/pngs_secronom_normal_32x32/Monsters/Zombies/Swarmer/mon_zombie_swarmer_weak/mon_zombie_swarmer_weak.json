@@ -1,7 +1,38 @@
 {
   "id": "mon_zombie_swarmer_weak",
   "fg": [
-    "mon_zombie_swarmer_weak"
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_4"
+    },
+	{
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_5"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_6"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_7"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_8"
+    }
   ],
   "bg": [
     "bg_shadow_normal"

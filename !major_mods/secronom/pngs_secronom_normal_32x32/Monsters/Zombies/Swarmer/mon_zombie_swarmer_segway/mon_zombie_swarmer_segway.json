@@ -1,8 +1,47 @@
 {
   "id": "mon_zombie_swarmer_segway",
   "fg": [
-    "mon_zombie_swarmer_segway"
-  ],
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_4"
+    },
+	{
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_5"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_6"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_7"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_8"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_9"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_10"
+    }
+	],
   "bg": [
     "bg_shadow_normal"
   ]

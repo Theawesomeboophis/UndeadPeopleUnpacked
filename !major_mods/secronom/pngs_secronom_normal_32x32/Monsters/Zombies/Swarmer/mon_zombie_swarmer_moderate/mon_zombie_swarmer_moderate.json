@@ -1,8 +1,51 @@
 {
-  "id": "mon_zombie_swarmer_moderate",
+  "id": "mmon_zombie_swarmer_moderate",
   "fg": [
-    "mon_zombie_swarmer_moderate"
-  ],
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_4"
+    },
+	{
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_5"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_6"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_7"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_8"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_9"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_10"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_moderate_11"
+    }
+	 ],
   "bg": [
     "bg_shadow_normal"
   ]

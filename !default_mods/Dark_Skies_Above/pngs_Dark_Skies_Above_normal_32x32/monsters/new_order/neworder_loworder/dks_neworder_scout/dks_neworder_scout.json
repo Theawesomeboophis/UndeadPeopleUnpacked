@@ -1,0 +1,10 @@
+{
+  "id": "dks_neworder_scout",
+  "fg": [
+    "dks_neworder_scout"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

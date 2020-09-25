@@ -1,0 +1,24 @@
+{
+  "id": "mon_sflesh_zombie_shriekling",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_zombie_shriekling_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_zombie_shriekling_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_zombie_shriekling_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_sflesh_zombie_shriekling_4"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

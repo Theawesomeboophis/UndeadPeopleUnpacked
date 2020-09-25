@@ -1,0 +1,10 @@
+{
+  "id": "dks_mon_mossliz",
+  "fg": [
+    "dks_mon_mossliz"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
