@@ -1,0 +1,16 @@
+{
+  "id": "vp_ripper",
+  "fg": [
+    "vp_ripper"
+  ],
+  "bg": [
+    "vp_watercannon",
+    "vp_awatercannon",
+    "vp_acangun",
+    "vp_bolter",
+    "bolter",
+    "vp_cangun",
+    "vp_acangunnc"
+  ],
+  "rotates": true
+}

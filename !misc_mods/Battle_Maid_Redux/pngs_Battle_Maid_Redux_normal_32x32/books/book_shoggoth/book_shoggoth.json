@@ -1,8 +1,6 @@
 {
   "id": "book_shoggoth",
-  "fg": [
-    "book_shoggoth"
-  ],
-  "bg": [],
+  "fg": ["book_shoggoth"],
+  "bg": ["bg_book_maid"],
   "rotates": false
 }

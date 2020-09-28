@@ -1,0 +1,13 @@
+{
+  "id": "vp_gelrazor",
+  "fg": [
+    "vp_gelrazor"
+  ],
+  "bg": [
+    "vp_turretframe",
+    "turretframe",
+    "vp_turret_mount",
+    "turret_mount"
+  ],
+  "rotates": true
+}

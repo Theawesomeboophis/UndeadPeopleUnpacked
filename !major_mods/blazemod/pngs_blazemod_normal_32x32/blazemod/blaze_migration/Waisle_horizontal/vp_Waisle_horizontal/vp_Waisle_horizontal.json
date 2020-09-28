@@ -1,0 +1,23 @@
+{
+  "id": "vp_Waisle_horizontal",
+  "fg": [
+    "vp_Waisle_horizontal"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_Waisle_horizontal_broken"
+      ],
+      "bg": [
+        "vp_Waisle_horizontal",
+        "vp_Waisle_vertical",
+        "vp_boat_board",
+        "wood_plate"
+      ]
+    }
+  ]
+}

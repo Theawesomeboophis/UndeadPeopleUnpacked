@@ -1,0 +1,13 @@
+[
+{
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+},
+{
+"Project_Kawaii_normal.png": { }
+},
+{
+"Project_Kawaii_wide.png": { "sprite_width": 64, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+}
+]

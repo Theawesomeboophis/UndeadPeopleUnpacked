@@ -1,0 +1,10 @@
+{
+  "id": "vp_omnomnicam",
+  "fg": [
+    "vp_omnomnicam"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

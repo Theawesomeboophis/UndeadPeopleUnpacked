@@ -1,0 +1,10 @@
+{
+  "id": "vp_queen",
+  "fg": [
+    "vp_queen"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": true
+}
