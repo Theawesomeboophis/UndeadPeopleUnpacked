@@ -1,0 +1,1 @@
+python ../compose-mods.py MALKEUS_EDITION_Forgotten_Races

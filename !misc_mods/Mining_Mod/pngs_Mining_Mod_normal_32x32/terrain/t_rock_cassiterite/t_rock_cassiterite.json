@@ -3,9 +3,6 @@
   "fg": [
     "t_rock_cassiterite"
   ],
-  "bg": [
-    "t_secretdoor_wall_c",
-    "t_border_rock"
-  ],
+  "bg": [],
   "rotates": false
 }

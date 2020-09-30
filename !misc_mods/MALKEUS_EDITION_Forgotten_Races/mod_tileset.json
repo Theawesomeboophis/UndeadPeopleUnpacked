@@ -1,0 +1,1 @@
+[{"type": "mod_tileset", "compatibility": ["UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockXottoplus"], "tiles-new": [{"file": "MALKEUS_EDITION_Forgotten_Races_normal.png", "tiles": [], "//": "range 1 to 16", "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 0, "sprite_offset_y": 0}]}]

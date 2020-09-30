@@ -3,9 +3,6 @@
   "fg": [
     "t_rock_coal"
   ],
-  "bg": [
-    "t_secretdoor_wall_c",
-    "t_border_rock"
-  ],
+  "bg": [],
   "rotates": false
 }

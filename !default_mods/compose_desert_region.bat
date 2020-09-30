@@ -1,0 +1,1 @@
+python ../compose-mods.py desert_region

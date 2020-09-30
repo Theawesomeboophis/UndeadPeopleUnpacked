@@ -1,0 +1,13 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+  },
+{
+"miso_Touhou_normal.png": { }
+},
+{
+"miso_Touhou_normal_offset.png": { "sprite_offset_y": -16 }
+}
+]

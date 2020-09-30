@@ -1,0 +1,1 @@
+python ../compose-mods.py Armor_Up__Survivor_Expansion
