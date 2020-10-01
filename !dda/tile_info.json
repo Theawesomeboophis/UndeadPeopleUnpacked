@@ -5,7 +5,39 @@
     "height": 32
 },
 {
-"normal.png": { }
+"normal_1.png": { }
+},
+{
+"normal_2.png": { }
+},
+{
+"normal_3.png": { }
+},
+{
+"normal_4.png": { }
+},{
+"normal_5.png": { }
+},
+{
+"normal_6.png": { }
+},
+{
+"normal_7.png": { }
+},
+{
+"normal_8.png": { }
+},
+{
+"normal_9.png": { }
+},
+{
+"normal_10.png": { }
+},
+{
+"normal_11.png": { }
+},
+{
+"normal_12.png": { }
 },
 {
 "normal_offset.png": { "sprite_offset_y": -16 }

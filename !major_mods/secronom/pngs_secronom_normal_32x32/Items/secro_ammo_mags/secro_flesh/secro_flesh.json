@@ -1,0 +1,22 @@
+{
+  "id": "secro_flesh",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "secro_flesh_1"
+    },    {
+      "weight": 30,
+      "sprite": "secro_flesh_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "secro_flesh_3"
+    },
+    {
+      "weight": 30,
+      "sprite": "secro_flesh_4"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

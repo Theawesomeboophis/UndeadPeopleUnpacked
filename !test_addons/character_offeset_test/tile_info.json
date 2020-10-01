@@ -1,0 +1,10 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+  },
+{
+"normal_char_offset.png": { "sprite_offset_y": -16 }
+}
+]
