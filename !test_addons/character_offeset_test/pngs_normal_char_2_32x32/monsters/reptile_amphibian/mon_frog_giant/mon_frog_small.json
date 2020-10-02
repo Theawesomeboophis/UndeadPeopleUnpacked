@@ -1,0 +1,10 @@
+{
+  "id": "mon_frog_small",
+  "fg": [
+    "mon_frog_small"
+  ],
+  "bg": [
+    "bg_shaddow_custom3"
+  ],
+  "rotates": false
+}

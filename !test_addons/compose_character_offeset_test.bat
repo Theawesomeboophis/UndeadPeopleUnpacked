@@ -1,0 +1,1 @@
+python ../compose-mods.py character_offeset_test

@@ -5,6 +5,12 @@
     "height": 32
   },
 {
-"normal_char_offset.png": { "sprite_offset_y": -16 }
+"normal_char_1.png": { "sprite_offset_y": -13 }
+},
+{
+"normal_char_2.png": { "sprite_offset_y": -13 }
+},
+{
+"normal_char_offset.png": { "sprite_offset_y": -29 }
 }
 ]

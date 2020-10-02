@@ -1,0 +1,10 @@
+{
+  "id": "mon_turret_riot",
+  "fg": [
+    "mon_turret_riot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}
