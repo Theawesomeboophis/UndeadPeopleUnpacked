@@ -1,0 +1,9 @@
+{
+  "id": "t_secro_tree_flesh_season_winter",
+  "fg": [
+    "t_secro_tree_flesh"
+  ],
+  "bg": [
+    "bg_secro_growth_winter"
+  ]
+}

@@ -14,9 +14,6 @@ t_secro_window_stained_blue_flesh
 t_secro_wall_p_flesh
 t_secro_reinforced_door_glass_flesh
 t_secro_concrete_wall_flesh
-t_secro_wall_metal_flesh
-t_secro_reinforced_glass_flesh
-t_secro_water_dispenser_flesh
 t_secro_card_flesh
 
 Missing terrain (but looks_like tile exists): 
@@ -26,7 +23,6 @@ t_secro_flesh_wall_veins
 t_secro_flesh_exit_closed
 t_secro_ballistic_glass_flesh
 t_secro_door_metal_secrofv
-t_secro_experiment_vat
 t_secro_dirt_flesh_camp
 t_secro_grass_flesh_camp
 t_secro_grass_long_flesh_camp
@@ -39,7 +35,6 @@ t_secro_flesh_camp_smoot
 t_secro_flesh_camp_wall
 t_secro_flesh_camp_wall_veins_smoot
 t_secro_flesh_camp_wall_veins
-
 
 ------------------------------------------------------------------------------------------
 Missing furniture:
@@ -56,6 +51,7 @@ f_secro_flesh_camp_storage_mark
 f_secro_flesh_camp_displaystorage_mark
 f_secro_flesh_camp_liquidstorage_mark
 f_secro_flesh_camp_light_mark
+
 
 Missing furniture (but looks_like tile exists): 
 
@@ -76,7 +72,6 @@ flesh_heap_death
 iv_mutagen_secronom_ex
 lmilaser
 mutagen_secronom_ex
-secro_flesh
 secro_flesh_amalgam_transmitter
 secro_flesh_amalgam_transmitter_attack
 secro_flesh_amalgam_transmitter_attackall
@@ -137,13 +132,10 @@ secro_power_armor_flesh_morphed_fite_tentacles
 secro_power_armor_flesh_morphed_gun_bonelance
 secro_power_armor_flesh_morphed_gun_spit
 secro_power_armor_flesh_morphed_jugg_bonespikes
-secro_recipe_flesh
-secro_recipe_flesh_field
 secro_sample_shifter
 secro_vehicle_controls
 secro_vehicle_engine
 zx1sniper
-
 
 Missing item (but looks_like tile exists):
 
@@ -172,7 +164,6 @@ secro_power_armor_module_pulsar
 secro_power_armor_module_pulsar_act
 secro_power_armor_module_vessel
 secro_power_armor_module_vessel_act
-
 
 ------------------------------------------------------------------------------------------
 Missing monster:
@@ -205,9 +196,6 @@ mon_sflesh_sheep
 mon_sflesh_squirrel
 mon_sflesh_weasel
 mon_sflesh_wolf
-mon_sflesh_zombie_grappler +
-mon_sflesh_zombie_hollow +
-mon_sflesh_zombie_hulk +
 mon_sflesh_zombie_hunter
 mon_sflesh_zombie_mancroc
 mon_sflesh_zombie_master
@@ -216,45 +204,28 @@ mon_sflesh_zombie_predator
 mon_sflesh_zombie_screecher
 mon_sflesh_zombie_thorny
 mon_sflesh_zombie_smoker
-mon_sflesh_zombie_anklebiter +
-mon_sflesh_zombie_child +
-mon_sflesh_zombie_creepy +
-mon_sflesh_zombie_shriekling +
-mon_sflesh_zombie_snotgobbler +
 mon_sflesh_zombie_sproglodyte
 mon_sflesh_zombie_waif
 mon_sflesh_zombie_brute_shocker
 mon_sflesh_zombie_electric
 mon_sflesh_zombie_nullfield
-mon_sflesh_zombie_static
 mon_sflesh_zombie_scientist
 mon_sflesh_boomer
-mon_sflesh_boomer_huge +
 mon_sflesh_gas_zombie
 mon_sflesh_zombie_gasbag
-mon_sflesh_zombie_soldier +
 mon_sflesh_zombie_soldier_blackops_1
 mon_sflesh_zombie_soldier_blackops_2
-mon_sflesh_zombie_soldier_acid_1
-mon_sflesh_zombie_soldier_acid_2
 mon_sflesh_zombie_kevlar_1
 mon_sflesh_zombie_kevlar_2
 mon_sflesh_zombie_military_pilot
 mon_sflesh_zombie_bio_op
 mon_sflesh_zombie_acidic
-mon_sflesh_zombie_corrosive +
-mon_sflesh_dog_skeleton +
-mon_sflesh_dog_zombie_cop +
-mon_sflesh_dog_zombie_rot +
 mon_sflesh_zolf
 mon_sflesh_zombear
 mon_sflesh_zombie_pig
 mon_sflesh_zombeaver
 mon_sflesh_zoose
 mon_sflesh_zougar
-mon_sflesh_veinstalk
-mon_sflesh_veinstalk_crawly
-mon_sflesh_fleshling_tiny
 mon_sflesh_fleshling_smol
 mon_sflesh_fleshling_med
 mon_sflesh_fleshling_big
@@ -284,10 +255,11 @@ mon_sflesh_cow_calf
 mon_sflesh_deer_fawn
 mon_sflesh_pig_piglet
 mon_sflesh_sheep_lamb
+mon_sflesh_zombie_soldier_acid_1
+mon_sflesh_zombie_soldier_acid_2
 mon_sflesh_zombie_survivor_elite
 mon_sflesh_zombie_wretched
 mon_sflesh_bear_cub
-
 
 ------------------------------------------------------------------------------------------
 Missing vehicle_part:
@@ -330,7 +302,7 @@ Missing trap (but looks_like tile exists)
 ------------------------------------------------------------------------------------------
 Missing field:
 
-fd_gravtur_magnet
+fd_gravtur_magnet 
 fd_sflesh_fleshling_birth
 fd_sflesh_fleshling_scavengy_forms
 fd_sflesh_fleshling_scavengy_forms_limit
