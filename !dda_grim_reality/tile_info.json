@@ -1,0 +1,60 @@
+[
+{
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+},
+{
+"normal_1.png": { }
+},
+{
+"normal_2.png": { }
+},
+{
+"normal_3.png": { }
+},
+{
+"normal_4.png": { }
+},{
+"normal_5.png": { }
+},
+{
+"normal_6.png": { }
+},
+{
+"normal_7.png": { }
+},
+{
+"normal_8.png": { }
+},
+{
+"normal_9.png": { }
+},
+{
+"normal_10.png": { }
+},
+{
+"normal_11.png": { }
+},
+{
+"normal_12.png": { }
+},
+{
+"normal_offset.png": { "sprite_offset_y": -16 }
+}
+,
+{
+"wide.png": { "sprite_width": 64, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+},
+{
+"large.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+}
+,
+{
+"huge.png": { "sprite_width": 160, "sprite_height": 128, "sprite_offset_x": -48, "sprite_offset_y": -48 }
+}
+,
+{
+"fallback.png": { "fallback": true }
+}
+]

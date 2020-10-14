@@ -1,0 +1,17 @@
+{
+  "id": "vp_ruger_1022",
+  "fg": [
+    "vp_ruger_1022"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_ruger_1022_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

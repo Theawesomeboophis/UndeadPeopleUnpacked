@@ -1,0 +1,36 @@
+{
+  "id": "mon_vortex",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_7"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "f_boulder_large_season_winter",
+  "fg": [
+    "f_boulder_large_season_winter"
+  ],
+  "bg": [
+    "bg_big_snow"
+  ],
+  "rotates": false
+}

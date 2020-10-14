@@ -1,0 +1,17 @@
+{
+  "id": "vp_ar15",
+  "fg": [
+    "vp_ar15"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_ar15_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

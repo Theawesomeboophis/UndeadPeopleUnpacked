@@ -1,0 +1,10 @@
+{
+  "id": "guidebook",
+  "fg": [
+    "guidebook"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

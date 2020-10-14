@@ -1,0 +1,17 @@
+{
+  "id": "vp_shotgun_d",
+  "fg": [
+    "vp_shotgun_d"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_shotgun_d_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "recipe_labchem",
+  "fg": [
+    "recipe_labchem"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

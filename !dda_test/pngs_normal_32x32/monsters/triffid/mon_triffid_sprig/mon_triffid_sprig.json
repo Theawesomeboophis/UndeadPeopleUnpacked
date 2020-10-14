@@ -1,0 +1,10 @@
+{
+  "id": "mon_triffid_sprig",
+  "fg": [
+    "mon_triffid_sprig"
+  ],
+  "bg": [
+    "bg_shaddow_custom1"
+  ],
+  "rotates": false
+}

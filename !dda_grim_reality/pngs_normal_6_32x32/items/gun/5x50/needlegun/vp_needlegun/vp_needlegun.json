@@ -1,0 +1,17 @@
+{
+  "id": "vp_needlegun",
+  "fg": [
+    "vp_needlegun"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_needlegun_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

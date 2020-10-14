@@ -1,0 +1,10 @@
+{
+  "id": "record_accounting",
+  "fg": [
+    "record_accounting"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

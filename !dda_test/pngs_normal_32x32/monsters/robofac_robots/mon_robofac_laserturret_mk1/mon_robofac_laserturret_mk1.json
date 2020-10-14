@@ -1,0 +1,10 @@
+{
+  "id": "mon_robofac_laserturret_mk1",
+  "fg": [
+    "mon_robofac_laserturret_mk1"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": false
+}

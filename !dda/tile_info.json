@@ -5,39 +5,28 @@
     "height": 32
 },
 {
-"normal_1.png": { }
+"normal_items.png": { }
 },
 {
-"normal_2.png": { }
+"normal_monsters.png": { }
 },
 {
-"normal_3.png": { }
+"normal_character.png": { }
 },
 {
-"normal_4.png": { }
-},{
-"normal_5.png": { }
+"normal_stuff.png": { }
 },
 {
-"normal_6.png": { }
+"normal_fields.png": { }
 },
 {
-"normal_7.png": { }
+"normal_furniture.png": { }
 },
 {
-"normal_8.png": { }
+"normal_terrain.png": { }
 },
 {
-"normal_9.png": { }
-},
-{
-"normal_10.png": { }
-},
-{
-"normal_11.png": { }
-},
-{
-"normal_12.png": { }
+"normal_vehicle_parts.png": { }
 },
 {
 "normal_offset.png": { "sprite_offset_y": -16 }
@@ -47,7 +36,10 @@
 "wide.png": { "sprite_width": 64, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
 },
 {
-"large.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+"large_stuff.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+},
+{
+"large_terrain.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
 }
 ,
 {

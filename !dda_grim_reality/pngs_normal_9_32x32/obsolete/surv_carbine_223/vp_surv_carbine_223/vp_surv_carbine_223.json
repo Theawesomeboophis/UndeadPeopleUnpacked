@@ -1,0 +1,17 @@
+{
+  "id": "vp_surv_carbine_223",
+  "fg": [
+    "vp_surv_carbine_223"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_surv_carbine_223_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

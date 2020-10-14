@@ -1,0 +1,10 @@
+{
+  "id": "t_pit_glass",
+  "fg": [
+    "t_pit_glass"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "vp_l_def_12",
+  "fg": [
+    "vp_l_def_12"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_l_def_12_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

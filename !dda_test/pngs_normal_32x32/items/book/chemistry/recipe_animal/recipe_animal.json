@@ -1,0 +1,10 @@
+{
+  "id": "recipe_animal",
+  "fg": [
+    "recipe_animal"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

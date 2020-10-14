@@ -1,0 +1,4 @@
+NAME: GRIM_REALITY_BASE
+VIEW: GRIM_REALITY 
+JSON: tile_config.json
+TILESET: tiles.png

@@ -1,0 +1,10 @@
+{
+  "id": "holybook_slack",
+  "fg": [
+    "holybook_slack"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}
