@@ -1,0 +1,20 @@
+{
+  "id": "mon_cat_mutant",
+  "fg": [
+	{"weight": 10, "sprite": "mon_cat_mutant_1"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_2"},
+	{"weight": 10, "sprite": "mon_cat_mutant_3"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_4"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_5"},
+	{"weight": 10, "sprite": "mon_cat_mutant_6"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_7"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_8"},
+	{"weight": 10, "sprite": "mon_cat_mutant_9"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_10"}
+		 ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}

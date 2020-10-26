@@ -1,0 +1,10 @@
+{
+  "id": "mon_coyote_mutant",
+  "fg": [
+    "mon_coyote_mutant"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

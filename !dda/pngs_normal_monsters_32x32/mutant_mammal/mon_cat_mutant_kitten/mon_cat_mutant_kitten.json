@@ -1,0 +1,20 @@
+{
+  "id": "mon_cat_mutant_kitten",
+  "fg": [
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_1"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_2"},
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_3"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_4"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_5"},
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_6"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_7"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_8"},
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_9"}, 
+	{"weight": 10, "sprite": "mon_cat_mutant_kitten_10"}
+		 ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}
