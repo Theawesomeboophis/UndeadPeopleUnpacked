@@ -1,7 +1,48 @@
 {
   "id": "overlay_effect_glowing",
   "fg": [
-    "overlay_effect_glowing"
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_1"
+    },
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_2"
+    },
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_3"
+    }, 
+	{
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_4"
+    },
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_5"
+    },
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_6"
+    },
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_5"
+    },
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_4"
+    },
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_3"
+    },
+    {
+      "weight": 20,
+      "sprite": "overlay_effect_glowing_2"
+    }
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false,
+  "animated": true
 }
