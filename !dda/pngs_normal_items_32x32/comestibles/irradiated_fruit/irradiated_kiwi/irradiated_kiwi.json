@@ -3,6 +3,6 @@
   "fg": [
     "irradiated_kiwi"
   ],
-  "bg": [],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

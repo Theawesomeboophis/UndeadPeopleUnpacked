@@ -3,6 +3,6 @@
   "fg": [
     "irradiated_carrot"
   ],
-  "bg": [],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

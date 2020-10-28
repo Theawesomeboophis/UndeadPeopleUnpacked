@@ -3,6 +3,6 @@
   "fg": [
     "irradiated_lettuce"
   ],
-  "bg": [],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

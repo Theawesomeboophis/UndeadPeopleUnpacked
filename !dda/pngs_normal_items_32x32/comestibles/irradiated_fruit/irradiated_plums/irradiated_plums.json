@@ -3,6 +3,6 @@
   "fg": [
     "irradiated_plums"
   ],
-  "bg": [],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

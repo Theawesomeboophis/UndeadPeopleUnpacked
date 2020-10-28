@@ -3,8 +3,6 @@
   "fg": [
     "irradiated_rhubarb"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

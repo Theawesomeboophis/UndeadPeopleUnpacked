@@ -1,0 +1,22 @@
+{
+  "id": "mon_secro_gravturret",
+  "fg": [
+	{"weight": 10, "sprite": "mon_secro_gravturret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_gravturret_2"},
+	{"weight": 10, "sprite": "mon_secro_gravturret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_gravturret_2"},
+	{"weight": 10, "sprite": "mon_secro_gravturret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_gravturret_2"},
+	{"weight": 10, "sprite": "mon_secro_gravturret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_gravturret_4"},
+	{"weight": 10, "sprite": "mon_secro_gravturret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_gravturret_4"},
+	{"weight": 10, "sprite": "mon_secro_gravturret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_gravturret_4"}
+		 ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}

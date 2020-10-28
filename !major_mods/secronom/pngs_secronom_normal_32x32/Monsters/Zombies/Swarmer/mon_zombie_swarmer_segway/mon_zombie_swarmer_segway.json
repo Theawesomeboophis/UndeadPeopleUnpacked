@@ -40,6 +40,10 @@
     {
       "weight": 3,
       "sprite": "mon_zombie_swarmer_segway_10"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_segway_11"
     }
 	],
   "bg": [

@@ -3,6 +3,6 @@
   "fg": [
     "irradiated_mulberries"
   ],
-  "bg": [],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

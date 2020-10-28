@@ -1,0 +1,22 @@
+{
+  "id": "mon_secro_laserturret",
+  "fg": [
+	{"weight": 10, "sprite": "mon_secro_laserturret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_laserturret_2"},
+	{"weight": 10, "sprite": "mon_secro_laserturret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_laserturret_2"},
+	{"weight": 10, "sprite": "mon_secro_laserturret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_laserturret_2"},
+	{"weight": 10, "sprite": "mon_secro_laserturret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_laserturret_4"},
+	{"weight": 10, "sprite": "mon_secro_laserturret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_laserturret_4"},
+	{"weight": 10, "sprite": "mon_secro_laserturret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_laserturret_4"}
+		 ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}

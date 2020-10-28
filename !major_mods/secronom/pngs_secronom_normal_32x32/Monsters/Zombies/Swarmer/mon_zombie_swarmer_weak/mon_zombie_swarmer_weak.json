@@ -32,6 +32,18 @@
     {
       "weight": 3,
       "sprite": "mon_zombie_swarmer_weak_8"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_9"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_10"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_swarmer_weak_11"
     }
   ],
   "bg": [

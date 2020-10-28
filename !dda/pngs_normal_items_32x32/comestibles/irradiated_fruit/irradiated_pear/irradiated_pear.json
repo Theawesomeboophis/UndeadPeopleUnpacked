@@ -3,6 +3,6 @@
   "fg": [
     "irradiated_pear"
   ],
-  "bg": [],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

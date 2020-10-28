@@ -3,5 +3,5 @@
   "fg": [
     "irradiated_celery"
   ],
-  "bg": []
+  "bg": ["bg_irradiated"]
 }

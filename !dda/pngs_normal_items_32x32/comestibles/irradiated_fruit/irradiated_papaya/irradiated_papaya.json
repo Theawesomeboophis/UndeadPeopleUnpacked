@@ -3,6 +3,6 @@
   "fg": [
     "irradiated_papaya"
   ],
-  "bg": [],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

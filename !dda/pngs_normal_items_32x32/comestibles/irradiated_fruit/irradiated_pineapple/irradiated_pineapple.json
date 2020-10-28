@@ -3,6 +3,6 @@
   "fg": [
     "irradiated_pineapple"
   ],
-  "bg": [],
+  "bg": ["bg_irradiated"],
   "rotates": false
 }

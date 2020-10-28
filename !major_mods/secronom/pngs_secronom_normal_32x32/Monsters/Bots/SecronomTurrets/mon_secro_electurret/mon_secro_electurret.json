@@ -1,0 +1,22 @@
+{
+  "id": "mon_secro_electurret",
+  "fg": [
+	{"weight": 10, "sprite": "mon_secro_electurret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_electurret_2"},
+	{"weight": 10, "sprite": "mon_secro_electurret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_electurret_2"},
+	{"weight": 10, "sprite": "mon_secro_electurret_1"}, 
+	{"weight": 10, "sprite": "mon_secro_electurret_2"},
+	{"weight": 10, "sprite": "mon_secro_electurret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_electurret_4"},
+	{"weight": 10, "sprite": "mon_secro_electurret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_electurret_4"},
+	{"weight": 10, "sprite": "mon_secro_electurret_3"}, 
+	{"weight": 10, "sprite": "mon_secro_electurret_4"}
+		 ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}

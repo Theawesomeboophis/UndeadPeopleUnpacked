@@ -3,5 +3,5 @@
   "fg": [
     "irradiated_cucumber"
   ],
-  "bg": []
+  "bg": ["bg_irradiated"]
 }
