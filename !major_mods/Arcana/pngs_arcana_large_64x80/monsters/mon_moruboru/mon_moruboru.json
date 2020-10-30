@@ -18,7 +18,7 @@
       "sprite": "mon_moruboru_4"
     }
   ],
-  "bg": ["bg_shadow_normal"],
+  "bg": [],
   "rotates": false,
   "animated": true
 }

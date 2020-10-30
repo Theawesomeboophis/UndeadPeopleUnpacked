@@ -1,0 +1,10 @@
+{
+  "id": "sword_gladius",
+  "fg": [
+    "sword_gladius"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
