@@ -1,0 +1,6 @@
+{
+  "id": "mon_zombie_bonewraith",
+  "fg": ["mon_zombie_bonewraith"],
+  "bg": ["bg_shadow_normal"],
+  "animated": false
+}

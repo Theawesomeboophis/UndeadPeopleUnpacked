@@ -1,0 +1,18 @@
+{
+  "id": "mon_bigvampbat",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_bigvampbat_1"
+    },    {
+      "weight": 10,
+      "sprite": "mon_bigvampbat_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_bigvampbat_3"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

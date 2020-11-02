@@ -1,0 +1,10 @@
+{
+  "id": "mon_insect_sharpshooterleech",
+  "fg": [
+    "mon_insect_sharpshooterleech"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

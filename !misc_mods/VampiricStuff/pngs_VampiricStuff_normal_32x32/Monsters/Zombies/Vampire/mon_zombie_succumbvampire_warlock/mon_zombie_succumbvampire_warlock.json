@@ -1,0 +1,6 @@
+{
+  "id": "mon_zombie_succumbvampire_warlock",
+  "fg": ["mon_zombie_succumbvampire_warlock"],
+  "bg": ["bg_shadow_normal"],
+  "animated": false
+}

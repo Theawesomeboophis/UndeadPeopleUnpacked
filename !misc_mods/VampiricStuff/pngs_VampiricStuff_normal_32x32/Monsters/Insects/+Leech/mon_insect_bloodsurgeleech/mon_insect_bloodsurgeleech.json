@@ -1,0 +1,10 @@
+{
+  "id": "mon_insect_bloodsurgeleech",
+  "fg": [
+    "mon_insect_bloodsurgeleech"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

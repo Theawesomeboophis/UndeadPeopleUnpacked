@@ -1,0 +1,14 @@
+{
+  "id": "f_secro_flesh_gas_emitter",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "f_secro_flesh_gas_emitter_1"
+    },    {
+      "weight": 10,
+      "sprite": "f_secro_flesh_gas_emitter_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}
