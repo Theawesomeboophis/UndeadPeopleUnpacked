@@ -1,0 +1,35 @@
+{
+  "id": "mon_idol_vex",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_1"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_2"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_3"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_4"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_5"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_6"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_7"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_8"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_9"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

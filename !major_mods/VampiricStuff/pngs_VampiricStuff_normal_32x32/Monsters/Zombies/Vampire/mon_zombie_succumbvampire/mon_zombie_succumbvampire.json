@@ -1,0 +1,28 @@
+{
+  "id": "mon_zombie_succumbvampire",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_succumbvampire"
+    },
+	{
+      "weight": 10,
+      "sprite": "mon_zombie_succumbvampire_1"
+    },    {
+      "weight": 10,
+      "sprite": "mon_zombie_succumbvampire_2"
+    },    {
+      "weight": 10,
+      "sprite": "mon_zombie_succumbvampire_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_succumbvampire_4"
+    },    {
+      "weight": 10,
+      "sprite": "mon_zombie_succumbvampire_5"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "animated": false
+}

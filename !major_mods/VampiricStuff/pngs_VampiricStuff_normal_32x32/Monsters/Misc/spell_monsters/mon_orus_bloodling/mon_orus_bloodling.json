@@ -1,0 +1,30 @@
+{
+  "id": "mon_orus_bloodling",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_orus_bloodling_1"
+    },    {
+      "weight": 10,
+      "sprite": "mon_orus_bloodling_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_orus_bloodling_4"
+    },    {
+      "weight": 10,
+      "sprite": "mon_orus_bloodling_5"
+    },    {
+      "weight": 10,
+      "sprite": "mon_orus_bloodling_4"
+    },    {
+      "weight": 10,
+      "sprite": "mon_orus_bloodling_3"
+    },    {
+      "weight": 10,
+      "sprite": "mon_orus_bloodling_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

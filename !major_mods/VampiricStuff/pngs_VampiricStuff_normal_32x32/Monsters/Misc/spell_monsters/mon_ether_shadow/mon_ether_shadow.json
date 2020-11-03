@@ -1,0 +1,30 @@
+{
+  "id": "mon_ether_shadow",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_ether_shadow_1"
+    },    {
+      "weight": 10,
+      "sprite": "mon_ether_shadow_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_ether_shadow_4"
+    },    {
+      "weight": 10,
+      "sprite": "mon_ether_shadow_5"
+    },    {
+      "weight": 10,
+      "sprite": "mon_ether_shadow_4"
+    },    {
+      "weight": 10,
+      "sprite": "mon_ether_shadow_3"
+    },    {
+      "weight": 10,
+      "sprite": "mon_ether_shadow_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

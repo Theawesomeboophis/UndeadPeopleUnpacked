@@ -1,0 +1,10 @@
+{
+  "id": "mon_insect_eyedleech",
+  "fg": [
+    "mon_insect_eyedleech"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mon_idol_vex_etherhar",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_etherhar_1"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_etherhar_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_etherhar_4"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_etherhar_5"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_etherhar_4"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_etherhar_3"
+    },    {
+      "weight": 10,
+      "sprite": "mon_idol_vex_etherhar_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

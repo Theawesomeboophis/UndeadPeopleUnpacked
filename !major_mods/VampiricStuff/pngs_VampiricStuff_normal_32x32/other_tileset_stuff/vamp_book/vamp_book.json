@@ -1,0 +1,8 @@
+{
+  "id": ["vamp_book1", "vamp_book2", "vamp_book3", "vamp_book4", "vamp_book5", "vamp_book6"],
+  "fg": [
+    "vamp_book"
+  ],
+  "bg": [],
+  "rotates": false
+}

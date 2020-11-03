@@ -1,0 +1,6 @@
+{
+  "id": "mon_zombie_blooddefused",
+  "fg": ["mon_zombie_blooddefused"],
+  "bg": ["bg_shadow_normal"],
+  "animated": false
+}

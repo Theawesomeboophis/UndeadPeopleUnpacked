@@ -1,0 +1,10 @@
+{
+  "id": "mon_insect_acidicleech",
+  "fg": [
+    "mon_insect_acidicleech"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

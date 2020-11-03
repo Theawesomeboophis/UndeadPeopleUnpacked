@@ -1,0 +1,10 @@
+{
+  "id": "corpse_mon_insect_bloatedleech",
+  "fg": [
+    "corpse_mon_insect_bloatedleech"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
