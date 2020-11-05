@@ -1,0 +1,19 @@
+{
+  "id": "mon_sflesh_veinstalk",
+  "fg": [ 
+        {
+          "weight": 20,
+          "sprite": "mon_sflesh_veinstalk_1"
+        },
+        {
+          "weight": 40,
+          "sprite": "mon_sflesh_veinstalk_2"
+        },
+        {
+          "weight": 20,
+          "sprite": "mon_sflesh_veinstalk_3"
+        }
+      ],
+  "bg": [],
+  "animated": true
+}

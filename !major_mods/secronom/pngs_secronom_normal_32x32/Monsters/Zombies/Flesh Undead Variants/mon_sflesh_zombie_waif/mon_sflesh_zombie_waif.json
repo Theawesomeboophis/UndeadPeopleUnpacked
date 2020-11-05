@@ -1,0 +1,10 @@
+{
+  "id": "mon_sflesh_zombie_waif",
+  "fg": [
+    "mon_sflesh_zombie_waif"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

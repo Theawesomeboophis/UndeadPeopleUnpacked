@@ -1,7 +1,19 @@
 {
   "id": "mon_sflesh_veinstalk_crawly",
-  "fg": [
-    "mon_sflesh_veinstalk_crawly"
-  ],
-  "bg": []
+  "fg": [ 
+        {
+          "weight": 10,
+          "sprite": "mon_sflesh_veinstalk_crawly_1"
+        },
+        {
+          "weight": 10,
+          "sprite": "mon_sflesh_veinstalk_crawly_2"
+        },
+        {
+          "weight": 10,
+          "sprite": "mon_sflesh_veinstalk_crawly_3"
+        }
+      ],
+  "bg": [],
+  "animated": true
 }
