@@ -1,0 +1,8 @@
+{
+  "id": "mon_sflesh_zombie_screecher",
+  "fg": ["mon_sflesh_zombie_screecher"],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
