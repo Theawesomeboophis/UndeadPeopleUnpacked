@@ -1,0 +1,10 @@
+{
+  "id": "mon_sflesh_otter",
+  "fg": [
+    "mon_sflesh_otter"
+  ],
+  "bg": [
+    "bg_shaddow_custom5"
+  ],
+  "rotates": false
+}
