@@ -1,7 +1,7 @@
 {
   "id": "t_water_sh_murky_underground",
   "fg": [
-    "t_water_sh_murky_underground"
+    "t_water_murky"
   ],
   "bg": [
     "bg_stone_floor"
@@ -12,7 +12,7 @@
     {
       "id": "center",
       "fg": [
-        "t_water_sh_murky_underground_center"
+        "t_water_murky_center"
       ],
       "bg": [
         "bg_stone_floor"
@@ -21,10 +21,10 @@
     {
       "id": "corner",
       "fg": [
-        "t_water_sh_murky_underground_corner_1",
-        "t_water_sh_murky_underground_corner_2",
-        "t_water_sh_murky_underground_corner_3",
-        "t_water_sh_murky_underground_corner_4"
+        "t_water_murky_corner_1",
+        "t_water_murky_corner_2",
+        "t_water_murky_corner_3",
+        "t_water_murky_corner_4"
       ],
       "bg": [
         "bg_stone_floor"
@@ -33,10 +33,10 @@
     {
       "id": "t_connection",
       "fg": [
-        "t_water_sh_murky_underground_t_connection_1",
-        "t_water_sh_murky_underground_t_connection_2",
-        "t_water_sh_murky_underground_t_connection_3",
-        "t_water_sh_murky_underground_t_connection_4"
+        "t_water_murky_t_connection_1",
+        "t_water_murky_t_connection_2",
+        "t_water_murky_t_connection_3",
+        "t_water_murky_t_connection_4"
       ],
       "bg": [
         "bg_stone_floor"
@@ -45,8 +45,8 @@
     {
       "id": "edge",
       "fg": [
-        "t_water_sh_murky_underground_edge_1",
-        "t_water_sh_murky_underground_edge_2"
+        "t_water_murky_edge_1",
+        "t_water_murky_edge_2"
       ],
       "bg": [
         "bg_stone_floor"
@@ -55,10 +55,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_water_sh_murky_underground_end_piece_1",
-        "t_water_sh_murky_underground_end_piece_2",
-        "t_water_sh_murky_underground_end_piece_3",
-        "t_water_sh_murky_underground_end_piece_4"
+        "t_water_murky_end_piece_1",
+        "t_water_murky_end_piece_2",
+        "t_water_murky_end_piece_3",
+        "t_water_murky_end_piece_4"
       ],
       "bg": [
         "bg_stone_floor"
@@ -67,7 +67,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "t_water_sh_murky_underground_unconnected"
+        "t_water_murky_unconnected"
       ],
       "bg": [
         "bg_stone_floor"

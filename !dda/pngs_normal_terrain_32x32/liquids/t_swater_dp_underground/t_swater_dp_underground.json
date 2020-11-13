@@ -1,7 +1,7 @@
 {
   "id": "t_swater_dp_underground",
   "fg": [
-    "t_swater_dp_underground"
+    "t_water_dp"
   ],
   "bg": [
     "bg_stone_floor"
@@ -14,39 +14,39 @@
       "fg": [
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_1"
+          "sprite": "t_water_dp_center_1"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_2"
+          "sprite": "t_water_dp_center_2"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_3"
+          "sprite": "t_water_dp_center_3"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_4"
+          "sprite": "t_water_dp_center_4"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_5"
+          "sprite": "t_water_dp_center_5"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_6"
+          "sprite": "t_water_dp_center_6"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_7"
+          "sprite": "t_water_dp_center_7"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_8"
+          "sprite": "t_water_dp_center_8"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_center_9"
+          "sprite": "t_water_dp_center_9"
         }
       ],
       "bg": [
@@ -58,39 +58,39 @@
       "fg": [
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_1"
+          "sprite": "t_water_dp_corner_1"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_2"
+          "sprite": "t_water_dp_corner_2"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_3"
+          "sprite": "t_water_dp_corner_3"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_4"
+          "sprite": "t_water_dp_corner_4"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_5"
+          "sprite": "t_water_dp_corner_5"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_6"
+          "sprite": "t_water_dp_corner_6"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_7"
+          "sprite": "t_water_dp_corner_7"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_8"
+          "sprite": "t_water_dp_corner_8"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_corner_9"
+          "sprite": "t_water_dp_corner_9"
         }
       ],
       "bg": [
@@ -100,10 +100,10 @@
     {
       "id": "t_connection",
       "fg": [
-        "t_swater_dp_underground_t_connection_1",
-        "t_swater_dp_underground_t_connection_2",
-        "t_swater_dp_underground_t_connection_3",
-        "t_swater_dp_underground_t_connection_4"
+        "t_water_dp_t_connection_1",
+        "t_water_dp_t_connection_2",
+        "t_water_dp_t_connection_3",
+        "t_water_dp_t_connection_4"
       ],
       "bg": [
         "bg_stone_floor"
@@ -114,39 +114,39 @@
       "fg": [
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_1"
+          "sprite": "t_water_dp_edge_1"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_2"
+          "sprite": "t_water_dp_edge_2"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_3"
+          "sprite": "t_water_dp_edge_3"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_4"
+          "sprite": "t_water_dp_edge_4"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_5"
+          "sprite": "t_water_dp_edge_5"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_6"
+          "sprite": "t_water_dp_edge_6"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_7"
+          "sprite": "t_water_dp_edge_7"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_8"
+          "sprite": "t_water_dp_edge_8"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_edge_9"
+          "sprite": "t_water_dp_edge_9"
         }
       ],
       "bg": [
@@ -158,39 +158,39 @@
       "fg": [
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_1"
+          "sprite": "t_water_dp_end_piece_1"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_2"
+          "sprite": "t_water_dp_end_piece_2"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_3"
+          "sprite": "t_water_dp_end_piece_3"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_4"
+          "sprite": "t_water_dp_end_piece_4"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_5"
+          "sprite": "t_water_dp_end_piece_5"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_6"
+          "sprite": "t_water_dp_end_piece_6"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_7"
+          "sprite": "t_water_dp_end_piece_7"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_8"
+          "sprite": "t_water_dp_end_piece_8"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_end_piece_9"
+          "sprite": "t_water_dp_end_piece_9"
         }
       ],
       "bg": [
@@ -202,39 +202,39 @@
       "fg": [
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_1"
+          "sprite": "t_water_dp_unconnected_1"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_2"
+          "sprite": "t_water_dp_unconnected_2"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_3"
+          "sprite": "t_water_dp_unconnected_3"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_4"
+          "sprite": "t_water_dp_unconnected_4"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_5"
+          "sprite": "t_water_dp_unconnected_5"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_6"
+          "sprite": "t_water_dp_unconnected_6"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_7"
+          "sprite": "t_water_dp_unconnected_7"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_8"
+          "sprite": "t_water_dp_unconnected_8"
         },
         {
           "weight": 30,
-          "sprite": "t_swater_dp_underground_unconnected_9"
+          "sprite": "t_water_dp_unconnected_9"
         }
       ],
       "bg": [

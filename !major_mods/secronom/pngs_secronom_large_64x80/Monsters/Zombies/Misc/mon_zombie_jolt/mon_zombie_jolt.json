@@ -1,9 +1,19 @@
 {
   "id": "mon_zombie_jolt",
   "fg": [
-    "mon_zombie_jolt"
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_jolt_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_jolt_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_jolt_3"
+    }
   ],
-  "bg": [
-    "bg_shadow_normal2"
-  ]
+  "bg": ["bg_shadow_normal2"],
+  "animated": true
 }

@@ -1,8 +1,0 @@
-{
-  "id": "mon_spawn_raptor",
-  "fg": [
-    "mon_spawn_raptor"
-  ],
-  "bg": ["bg_big_normal_shaddow"],
-  "rotates": false
-}
