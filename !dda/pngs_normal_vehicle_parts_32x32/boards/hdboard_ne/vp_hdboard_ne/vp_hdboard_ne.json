@@ -12,9 +12,7 @@
       "fg": [
         "vp_hdboard_ne_broken"
       ],
-      "bg": [
-        "vp_hdboard_ne"
-      ]
+      "bg": []
     }
   ]
 }
