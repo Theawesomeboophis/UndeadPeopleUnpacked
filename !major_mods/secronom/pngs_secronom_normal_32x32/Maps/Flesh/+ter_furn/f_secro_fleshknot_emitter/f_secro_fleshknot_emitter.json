@@ -1,7 +1,21 @@
 {
   "id": "f_secro_fleshknot_emitter",
   "fg": [
-    "f_secro_fleshknot_emitter"
+    {
+      "weight": 10,
+      "sprite": "f_secro_fleshknot_emitter_1"
+    },    {
+      "weight": 10,
+      "sprite": "f_secro_fleshknot_emitter_2"
+    },  
+	{
+      "weight": 10,
+      "sprite": "f_secro_fleshknot_emitter_3"
+    },    {
+      "weight": 10,
+      "sprite": "f_secro_fleshknot_emitter_4"
+    }
   ],
-  "bg": []
+  "bg": [],
+  "animated": true
 }

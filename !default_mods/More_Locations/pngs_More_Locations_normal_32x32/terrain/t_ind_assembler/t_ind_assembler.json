@@ -3,5 +3,5 @@
   "fg": [
     "t_ind_assembler"
   ],
-  "bg": []
+  "bg": ["t_concrete_floor"]
 }

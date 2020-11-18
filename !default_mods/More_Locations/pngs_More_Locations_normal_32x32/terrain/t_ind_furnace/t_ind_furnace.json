@@ -4,7 +4,7 @@
     "t_ind_furnace"
   ],
   "bg": [
-    "bg_pavement"
+    "t_concrete_floor"
   ],
   "rotates": false
 }

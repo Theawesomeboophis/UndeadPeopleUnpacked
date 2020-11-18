@@ -3,6 +3,6 @@
   "fg": [
     "t_rock_galena"
   ],
-  "bg": [],
+  "bg": ["bg_rock"],
   "rotates": false
 }

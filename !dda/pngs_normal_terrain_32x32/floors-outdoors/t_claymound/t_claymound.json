@@ -3,5 +3,5 @@
   "fg": [
     "t_claymound"
   ],
-  "bg": []
+  "bg": ["bg_dirt"]
 }

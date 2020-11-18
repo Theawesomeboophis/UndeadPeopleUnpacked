@@ -3,6 +3,6 @@
   "fg": [
     "t_rock_brimstone"
   ],
-  "bg": [],
+  "bg": ["bg_rock"],
   "rotates": false
 }

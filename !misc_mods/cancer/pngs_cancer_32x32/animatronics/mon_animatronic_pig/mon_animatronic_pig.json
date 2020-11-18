@@ -1,0 +1,8 @@
+{
+  "id": "mon_animatronic_pig",
+  "fg": [
+    "mon_animatronic_pig"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

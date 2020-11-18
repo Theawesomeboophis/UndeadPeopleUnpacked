@@ -1,0 +1,8 @@
+{
+  "id": "mon_animatronic_bat",
+  "fg": [
+    "mon_animatronic_bat"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

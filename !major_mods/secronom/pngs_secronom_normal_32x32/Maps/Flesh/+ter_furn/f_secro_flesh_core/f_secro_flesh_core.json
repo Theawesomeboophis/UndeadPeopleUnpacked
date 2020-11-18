@@ -1,0 +1,23 @@
+{
+  "id": "f_secro_flesh_core",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "f_secro_flesh_core_1"
+    },    {
+      "weight": 30,
+      "sprite": "f_secro_flesh_core_2"
+    },{
+      "weight": 30,
+      "sprite": "f_secro_flesh_core_3"
+    },    {
+      "weight": 30,
+      "sprite": "f_secro_flesh_core_4"
+    },    {
+      "weight": 30,
+      "sprite": "f_secro_flesh_core_5"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

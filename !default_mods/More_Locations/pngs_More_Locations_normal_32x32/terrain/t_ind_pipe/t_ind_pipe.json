@@ -4,7 +4,7 @@
     "t_ind_pipe"
   ],
   "bg": [
-    "bg_metal_block"
+    "t_concrete_floor"
   ],
   "rotates": false,
   "multitile": true,
@@ -15,43 +15,53 @@
         "t_ind_pipe_center"
       ],
       "bg": [
-        "bg_metal_block"
+        "t_concrete_floor"
       ]
     },
     {
       "id": "corner",
       "fg": [
-        "t_ind_pipe_corner"
+        "t_ind_pipe_corner_1",
+        "t_ind_pipe_corner_2",
+        "t_ind_pipe_corner_3",
+        "t_ind_pipe_corner_4"
       ],
       "bg": [
-        "bg_metal_block"
-      ]
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "t_ind_pipe_edge"
-      ],
-      "bg": [
-        "bg_metal_block"
+        "t_concrete_floor"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
-        "t_ind_pipe_t_connection"
+        "t_ind_pipe_t_connection_1",
+        "t_ind_pipe_t_connection_2",
+        "t_ind_pipe_t_connection_3",
+        "t_ind_pipe_t_connection_4"
       ],
       "bg": [
-        "bg_metal_block"
+        "t_concrete_floor"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_ind_pipe_edge_1",
+        "t_ind_pipe_edge_2"
+      ],
+      "bg": [
+        "t_concrete_floor"
       ]
     },
     {
       "id": "end_piece",
       "fg": [
-        "t_ind_pipe_end_piece"
+        "t_ind_pipe_end_piece_1",
+        "t_ind_pipe_end_piece_2",
+        "t_ind_pipe_end_piece_3",
+        "t_ind_pipe_end_piece_4"
       ],
       "bg": [
-        "bg_metal_block"
+        "t_concrete_floor"
       ]
     },
     {
@@ -60,7 +70,7 @@
         "t_ind_pipe_unconnected"
       ],
       "bg": [
-        "bg_metal_block"
+        "t_concrete_floor"
       ]
     }
   ]

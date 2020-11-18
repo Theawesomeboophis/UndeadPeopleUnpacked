@@ -1,0 +1,8 @@
+{
+  "id": "mon_animatronic_bunny_old",
+  "fg": [
+    "mon_animatronic_bunny_old"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

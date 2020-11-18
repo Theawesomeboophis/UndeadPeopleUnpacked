@@ -3,6 +3,6 @@
   "fg": [
     "t_rock_copper"
   ],
-  "bg": [],
+  "bg": ["bg_rock"],
   "rotates": false
 }

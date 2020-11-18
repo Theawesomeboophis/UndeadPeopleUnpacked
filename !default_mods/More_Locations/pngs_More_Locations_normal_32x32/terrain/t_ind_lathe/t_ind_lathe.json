@@ -3,6 +3,6 @@
   "fg": [
     "t_ind_lathe"
   ],
-  "bg": [],
+  "bg": ["t_concrete_floor"],
   "rotates": false
 }

@@ -3,5 +3,5 @@
   "fg": [
     "t_ind_press"
   ],
-  "bg": []
+  "bg": ["t_concrete_floor"]
 }
