@@ -1,0 +1,8 @@
+{
+  "id": "gp_cabbage",
+  "fg": [
+    "gp_cabbage"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}

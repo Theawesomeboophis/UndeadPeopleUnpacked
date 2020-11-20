@@ -1,0 +1,8 @@
+{
+  "id": "gp_buckwheat_ready",
+  "fg": [
+    "gp_buckwheat_ready"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}

@@ -3,6 +3,6 @@
   "fg": [
     "gp_broccoli"
   ],
-  "bg": [],
+  "bg": ["bg_shadow_pot"],
   "rotates": false
 }

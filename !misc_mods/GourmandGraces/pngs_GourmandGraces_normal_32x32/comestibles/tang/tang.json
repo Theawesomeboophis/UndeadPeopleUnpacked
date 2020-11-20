@@ -1,0 +1,10 @@
+{
+  "id": "tang",
+  "fg": [
+    "tang"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

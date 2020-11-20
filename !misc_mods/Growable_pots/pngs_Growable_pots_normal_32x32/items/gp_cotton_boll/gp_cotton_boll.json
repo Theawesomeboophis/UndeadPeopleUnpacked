@@ -1,0 +1,8 @@
+{
+  "id": "gp_cotton_boll",
+  "fg": [
+    "gp_cotton_boll"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}

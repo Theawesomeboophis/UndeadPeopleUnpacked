@@ -1,7 +1,7 @@
 {
   "id": "mon_human",
   "fg": [
-    "mon_human"
+    "null"
   ],
   "bg": [],
   "rotates": false

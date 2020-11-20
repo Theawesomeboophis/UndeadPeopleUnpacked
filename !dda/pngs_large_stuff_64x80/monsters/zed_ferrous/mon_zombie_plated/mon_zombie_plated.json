@@ -2,7 +2,7 @@
   "id": "mon_zombie_plated",
   "fg": ["mon_zombie_plated"],
   "bg": [
-    "bg_big_large_shadow"
+    "bg_big_normal_shadow"
   ],
   "rotates": false
 }

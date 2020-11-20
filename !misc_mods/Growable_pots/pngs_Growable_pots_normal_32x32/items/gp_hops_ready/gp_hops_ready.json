@@ -1,0 +1,8 @@
+{
+  "id": "gp_hops_ready",
+  "fg": [
+    "gp_hops_ready"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}

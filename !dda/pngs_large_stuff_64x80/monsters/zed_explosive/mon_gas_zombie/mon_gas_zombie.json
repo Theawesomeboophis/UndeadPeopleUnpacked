@@ -26,7 +26,7 @@
       "sprite": "mon_gas_zombie_6"
     }
   ],
-  "bg": ["bg_big_normal_shaddow"],
+  "bg": ["bg_big_normal_shadow"],
   "rotates": false,
   "animated": true
 }

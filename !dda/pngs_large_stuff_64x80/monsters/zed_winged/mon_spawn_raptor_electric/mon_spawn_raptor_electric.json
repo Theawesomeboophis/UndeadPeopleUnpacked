@@ -3,6 +3,6 @@
   "fg": [
     "mon_spawn_raptor_electric"
   ],
-  "bg": ["bg_big_normal_shaddow"],
+  "bg": ["bg_big_normal_shadow"],
   "rotates": false
 }

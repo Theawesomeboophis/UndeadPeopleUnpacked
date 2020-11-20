@@ -1,0 +1,10 @@
+{
+  "id": "dcup",
+  "fg": [
+    "dcup"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

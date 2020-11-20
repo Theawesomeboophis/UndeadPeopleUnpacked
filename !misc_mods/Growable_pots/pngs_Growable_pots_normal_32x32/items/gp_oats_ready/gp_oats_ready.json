@@ -1,0 +1,8 @@
+{
+  "id": "gp_oats_ready",
+  "fg": [
+    "gp_oats_ready"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}

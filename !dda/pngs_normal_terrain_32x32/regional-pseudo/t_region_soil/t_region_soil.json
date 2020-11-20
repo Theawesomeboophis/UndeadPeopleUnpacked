@@ -1,7 +1,7 @@
 {
   "id": "t_region_soil",
   "fg": [
-    "t_region_soil"
+    "null"
   ],
   "bg": [],
   "rotates": false

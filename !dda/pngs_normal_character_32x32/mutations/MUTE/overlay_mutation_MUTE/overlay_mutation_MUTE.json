@@ -1,7 +1,7 @@
 {
   "id": "overlay_mutation_MUTE",
   "fg": [
-    "overlay_mutation_MUTE"
+    "null"
   ],
   "bg": [],
   "rotates": false

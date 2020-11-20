@@ -1,7 +1,7 @@
 {
   "id": "t_region_groundcover_swamp",
   "fg": [
-    "t_region_groundcover_swamp"
+    "null"
   ],
   "bg": [],
   "rotates": false

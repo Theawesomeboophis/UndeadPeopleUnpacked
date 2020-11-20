@@ -1,0 +1,10 @@
+{
+  "id": "platter",
+  "fg": [
+    "platter"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

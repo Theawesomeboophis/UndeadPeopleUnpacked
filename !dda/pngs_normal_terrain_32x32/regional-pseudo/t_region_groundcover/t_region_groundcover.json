@@ -1,55 +1,6 @@
 {
   "id": "t_region_groundcover",
-  "fg": [
-    {
-      "weight": 40,
-      "sprite": "t_region_groundcover_1"
-    },
-    {
-      "weight": 30,
-      "sprite": "t_region_groundcover_2"
-    },
-    {
-      "weight": 30,
-      "sprite": "t_region_groundcover_3"
-    },
-    {
-      "weight": 30,
-      "sprite": "t_region_groundcover_4"
-    },
-    {
-      "weight": 1,
-      "sprite": "t_region_groundcover_5"
-    },
-    {
-      "weight": 1,
-      "sprite": "t_region_groundcover_6"
-    },
-    {
-      "weight": 1,
-      "sprite": "t_region_groundcover_7"
-    },
-    {
-      "weight": 1,
-      "sprite": "t_region_groundcover_8"
-    },
-    {
-      "weight": 1,
-      "sprite": "t_region_groundcover_9"
-    },
-    {
-      "weight": 1,
-      "sprite": "t_region_groundcover_10"
-    },
-    {
-      "weight": 1,
-      "sprite": "t_region_groundcover_11"
-    },
-    {
-      "weight": 1,
-      "sprite": "t_region_groundcover_12"
-    }
-  ],
+  "fg": ["null"],
   "bg": [],
   "rotates": false
 }

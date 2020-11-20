@@ -1,7 +1,7 @@
 {
   "id": "fire",
   "fg": [
-    "fire"
+    "null"
   ],
   "bg": [],
   "rotates": false

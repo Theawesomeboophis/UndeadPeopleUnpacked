@@ -3,6 +3,6 @@
   "fg": [
     "mon_skeleton_hulk"
   ],
-  "bg": [],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false
 }

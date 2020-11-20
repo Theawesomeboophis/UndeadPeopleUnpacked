@@ -1,7 +1,7 @@
 {
   "id": "tear_gas_payload_act",
   "fg": [
-    "tear_gas_payload_act"
+    "null"
   ],
   "bg": [],
   "rotates": false

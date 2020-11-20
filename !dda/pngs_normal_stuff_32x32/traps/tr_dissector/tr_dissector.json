@@ -1,8 +1,32 @@
 {
   "id": "tr_dissector",
   "fg": [
-    "tr_dissector"
+    {
+      "weight": 10,
+      "sprite": "tr_dissector_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_dissector_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_dissector_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_dissector_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_dissector_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "tr_dissector_6"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }

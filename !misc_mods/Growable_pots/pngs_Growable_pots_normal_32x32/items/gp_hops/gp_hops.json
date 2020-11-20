@@ -1,0 +1,8 @@
+{
+  "id": "gp_hops",
+  "fg": [
+    "gp_hops"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}

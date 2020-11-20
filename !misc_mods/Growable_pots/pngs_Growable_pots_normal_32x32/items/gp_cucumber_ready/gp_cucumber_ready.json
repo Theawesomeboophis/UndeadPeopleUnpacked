@@ -1,0 +1,8 @@
+{
+  "id": "gp_cucumber_ready",
+  "fg": [
+    "gp_cucumber_ready"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}

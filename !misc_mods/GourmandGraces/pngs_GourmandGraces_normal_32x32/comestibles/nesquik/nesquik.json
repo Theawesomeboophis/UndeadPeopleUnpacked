@@ -1,0 +1,10 @@
+{
+  "id": "nesquik",
+  "fg": [
+    "cocoapowder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

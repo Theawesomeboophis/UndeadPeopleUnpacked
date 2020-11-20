@@ -1,7 +1,7 @@
 {
   "id": "t_region_grass",
   "fg": [
-    "t_region_grass"
+    "null"
   ],
   "bg": [],
   "rotates": false

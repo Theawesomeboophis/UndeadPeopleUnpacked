@@ -1,0 +1,8 @@
+{
+  "id": "gp_garlic",
+  "fg": [
+    "gp_garlic"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}

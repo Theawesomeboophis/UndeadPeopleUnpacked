@@ -14,7 +14,7 @@
       "sprite": "mon_zombie_giant_heart_3"
     }
   ],
-  "bg": [],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false,
   "animated": true
 }

@@ -1,0 +1,8 @@
+{
+  "id": "gp_tomato_ready",
+  "fg": [
+    "gp_tomato_ready"
+  ],
+  "bg": ["bg_shadow_pot"],
+  "rotates": false
+}
