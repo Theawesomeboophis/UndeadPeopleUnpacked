@@ -1,0 +1,63 @@
+{
+  "id": "t_zebra",
+  "fg": [
+    "t_zebra"
+  ],
+  "bg": ["t_pavement"],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_zebra_center"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_zebra_corner_1",
+        "t_zebra_corner_2",
+        "t_zebra_corner_3",
+        "t_zebra_corner_4"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_zebra_t_connection_1",
+        "t_zebra_t_connection_2",
+        "t_zebra_t_connection_3",
+        "t_zebra_t_connection_4"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_zebra_edge_1",
+        "t_zebra_edge_2"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_zebra_end_piece_1",
+        "t_zebra_end_piece_2",
+        "t_zebra_end_piece_3",
+        "t_zebra_end_piece_4"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_zebra_unconnected"
+      ],
+      "bg": ["t_pavement"]
+    }
+  ]
+}
