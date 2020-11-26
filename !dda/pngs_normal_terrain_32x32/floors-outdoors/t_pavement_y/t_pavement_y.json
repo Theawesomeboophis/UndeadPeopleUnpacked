@@ -1,8 +1,5 @@
 {
   "id": "t_pavement_y",
-  "fg": [
-    "t_pavement_y"
-  ],
-  "bg": ["bg_pavement"],
-  "rotates": false
+  "fg": ["t_pavement_y"],
+      "bg": ["t_pavement"]
 }

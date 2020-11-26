@@ -1,7 +1,7 @@
 {
   "id": "ether",
   "fg": [
-    "ether"
+    "temp_chem_clear_liquid"
   ],
   "bg": [],
   "rotates": false

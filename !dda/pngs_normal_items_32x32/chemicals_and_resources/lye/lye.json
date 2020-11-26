@@ -1,7 +1,7 @@
 {
   "id": "lye",
   "fg": [
-    "lye"
+    "temp_chem_clear_liquid"
   ],
   "bg": [],
   "rotates": false

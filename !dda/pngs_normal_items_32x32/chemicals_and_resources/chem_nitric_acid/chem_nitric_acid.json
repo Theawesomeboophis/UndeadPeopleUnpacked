@@ -1,53 +1,5 @@
 {
   "id": "chem_nitric_acid",
-  "fg": [
-    "chem_nitric_acid"
-  ],
-  "bg": [],
-  "rotates": false,
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "center",
-      "fg": [
-        "chem_nitric_acid_center"
-      ],
-      "bg": []
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "chem_nitric_acid_corner"
-      ],
-      "bg": []
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "chem_nitric_acid_edge"
-      ],
-      "bg": []
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "chem_nitric_acid_t_connection"
-      ],
-      "bg": []
-    },
-    {
-      "id": "end_piece",
-      "fg": [
-        "chem_nitric_acid_end_piece"
-      ],
-      "bg": []
-    },
-    {
-      "id": "unconnected",
-      "fg": [
-        "chem_nitric_acid_unconnected"
-      ],
-      "bg": []
-    }
-  ]
+  "fg": ["chem_nitric_acid"],
+  "bg": []
 }
