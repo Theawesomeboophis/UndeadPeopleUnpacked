@@ -3,8 +3,6 @@
   "fg": [
     "f_boulder_large_season_winter"
   ],
-  "bg": [
-    "bg_big_snow"
-  ],
+  "bg": [],
   "rotates": false
 }
