@@ -12,9 +12,7 @@
       "fg": [
         "vp_trunk_floor_broken"
       ],
-      "bg": [
-        "vp_trunk_floor"
-      ]
+      "bg": []
     }
   ]
 }
