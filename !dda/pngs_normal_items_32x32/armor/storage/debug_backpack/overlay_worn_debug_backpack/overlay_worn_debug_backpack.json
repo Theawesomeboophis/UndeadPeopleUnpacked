@@ -1,7 +1,7 @@
 {
   "id": "overlay_worn_debug_backpack",
   "fg": [
-    "overlay_worn_backpack"
+    "overlay_worn_debug_backpack"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "debug_backpack",
   "fg": [
-    "backpack"
+    "debug_backpack"
   ],
   "bg": [],
   "rotates": false
