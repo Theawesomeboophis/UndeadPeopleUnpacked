@@ -1,0 +1,23 @@
+{
+  "id": "f_vera_holo",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "f_vera_holo_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "f_vera_holo_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "f_vera_holo_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "f_vera_holo_4"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

@@ -1,0 +1,63 @@
+{
+  "id": "sierra_gas",
+  "fg": [
+    "sierra_gas"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "sierra_gas_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "sierra_gas_corner_1",
+        "sierra_gas_corner_2",
+        "sierra_gas_corner_3",
+        "sierra_gas_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "sierra_gas_t_connection_1",
+        "sierra_gas_t_connection_2",
+        "sierra_gas_t_connection_3",
+        "sierra_gas_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "sierra_gas_edge_1",
+        "sierra_gas_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "sierra_gas_end_piece_1",
+        "sierra_gas_end_piece_2",
+        "sierra_gas_end_piece_3",
+        "sierra_gas_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "sierra_gas_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

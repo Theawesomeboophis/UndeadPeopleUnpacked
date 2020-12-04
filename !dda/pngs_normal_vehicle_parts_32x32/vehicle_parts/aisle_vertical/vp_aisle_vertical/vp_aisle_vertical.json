@@ -4,7 +4,7 @@
     "vp_aisle_vertical"
   ],
   "bg": [],
-  "rotates": false,
+  "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
@@ -12,7 +12,8 @@
       "fg": [
         "vp_aisle_vertical_broken"
       ],
-      "bg": []
+      "bg": [],
+  "rotates": true
     }
   ]
 }

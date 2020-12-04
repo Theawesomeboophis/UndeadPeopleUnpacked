@@ -1,0 +1,23 @@
+{
+  "id": "mon_holo_guard_neutral",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_holo_guard_neutral_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_holo_guard_neutral_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_holo_guard_neutral_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "mon_holo_guard_neutral_4"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}
