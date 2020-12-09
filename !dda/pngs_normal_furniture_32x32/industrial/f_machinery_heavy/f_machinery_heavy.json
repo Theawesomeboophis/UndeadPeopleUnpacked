@@ -55,6 +55,9 @@
     {
       "id": "unconnected",
       "fg": [
+        "f_machinery_heavy_unconnected",
+        "f_machinery_heavy_unconnected",
+        "f_machinery_heavy_unconnected",
         "f_machinery_heavy_unconnected"
       ],
       "bg": []
