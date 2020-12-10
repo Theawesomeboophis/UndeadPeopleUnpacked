@@ -1,0 +1,14 @@
+{
+  "id": "f_BL9_alien_anemone",
+  "animated": true,
+  "fg": [
+    { "weight": 30, "sprite": "f_BL9_alien_anemone_1" },
+    { "weight": 30, "sprite": "f_BL9_alien_anemone_2" },
+    { "weight": 30, "sprite": "f_BL9_alien_anemone_3" },
+    { "weight": 30, "sprite": "f_BL9_alien_anemone_4" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

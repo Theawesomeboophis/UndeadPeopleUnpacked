@@ -1,0 +1,17 @@
+{
+  "id": "f_BL9_floor_olight",
+  "animated": true,
+  "fg": [
+    { "weight": 9999, "sprite": "f_BL9_floor_olight_1" },
+    { "weight": 1, "sprite": "f_BL9_floor_olight_2" },
+    { "weight": 1, "sprite": "f_BL9_floor_olight_3" },
+    { "weight": 1, "sprite": "f_BL9_floor_olight_4" },
+    { "weight": 1, "sprite": "f_BL9_floor_olight_2" },
+    { "weight": 1, "sprite": "f_BL9_floor_olight_3" },
+    { "weight": 1, "sprite": "f_BL9_floor_olight_4" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

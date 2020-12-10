@@ -1,0 +1,14 @@
+{
+  "id": "f_BL9_alien_gasper",
+  "animated": true,
+  "fg": [
+    { "weight": 30, "sprite": "f_BL9_alien_gasper_1" },
+    { "weight": 30, "sprite": "f_BL9_alien_gasper_2" },
+    { "weight": 30, "sprite": "f_BL9_alien_gasper_3" },
+    { "weight": 30, "sprite": "f_BL9_alien_gasper_4" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

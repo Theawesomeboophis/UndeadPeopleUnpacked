@@ -1,0 +1,18 @@
+{
+  "id": "f_BL9_glowing_tendril",
+  "animated": true,
+  "fg": [
+    { "weight": 30, "sprite": "f_BL9_glowing_tendril_0" },
+    { "weight": 30, "sprite": "f_BL9_glowing_tendril_1" },
+    { "weight": 30, "sprite": "f_BL9_glowing_tendril_2" },
+    { "weight": 30, "sprite": "f_BL9_glowing_tendril_3" },
+    { "weight": 30, "sprite": "f_BL9_glowing_tendril_4" },
+    { "weight": 30, "sprite": "f_BL9_glowing_tendril_5" },
+    { "weight": 30, "sprite": "f_BL9_glowing_tendril_6" },
+    { "weight": 30, "sprite": "f_BL9_glowing_tendril_7" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}
