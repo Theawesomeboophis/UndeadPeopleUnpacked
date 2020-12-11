@@ -1,7 +1,7 @@
 {
   "id": "shovel_snow",
   "fg": [
-    "shovel"
+    "shovel_snow"
   ],
   "bg": [
     "bg_shadow_item"
