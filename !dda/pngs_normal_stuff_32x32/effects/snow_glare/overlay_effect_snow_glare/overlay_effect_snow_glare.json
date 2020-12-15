@@ -1,7 +1,5 @@
 {
   "id": "overlay_effect_snow_glare",
-  "fg": [
-    "overlay_effect_snow_glare"
-  ],
+  "fg": ["null"],
   "bg": []
 }

@@ -1,0 +1,19 @@
+{
+  "id": "mon_bandit_glock",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_glock_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_glock_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_glock_3"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

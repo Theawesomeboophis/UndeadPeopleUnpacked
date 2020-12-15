@@ -1,0 +1,8 @@
+{
+  "id": "f_afs_escape_pod_seat",
+  "fg": [
+    "f_afs_escape_pod_seat_rotat_s", "f_afs_escape_pod_seat_rotat_w", "f_afs_escape_pod_seat_rotat_n", "f_afs_escape_pod_seat_rotat_e"
+  ],
+  "bg": [],
+  "rotates": true
+}

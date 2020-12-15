@@ -1,0 +1,10 @@
+{
+  "id": "afs_radiobeacon",
+  "fg": [
+    "afs_radiobeacon"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

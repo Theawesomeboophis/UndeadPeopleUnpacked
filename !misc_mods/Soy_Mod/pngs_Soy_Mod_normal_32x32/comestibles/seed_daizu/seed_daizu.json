@@ -1,0 +1,10 @@
+{
+  "id": "seed_daizu",
+  "fg": [
+    "seed_daizu"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "t_tree_worm",
+  "fg": [
+    "t_tree_worm"
+  ],
+  "bg": ["bg_big_dirt_frozen"],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "t_tree_lichen",
+  "fg": [
+    "t_tree_lichen"
+  ],
+  "bg": ["bg_big_dirt_frozen"],
+  "rotates": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mon_bandit_scrapper",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_scrapper_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_scrapper_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_scrapper_3"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mon_bandit_super_snipe",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_super_snipe_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_super_snipe_2"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

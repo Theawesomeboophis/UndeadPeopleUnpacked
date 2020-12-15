@@ -1,0 +1,59 @@
+{
+  "id": "mon_bandit_looter",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_9"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_10"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_11"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_12"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_bandit_looter_13"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}
