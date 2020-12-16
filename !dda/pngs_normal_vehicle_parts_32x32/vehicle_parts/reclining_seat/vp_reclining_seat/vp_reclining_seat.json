@@ -14,7 +14,7 @@
       "fg": [
         "vp_reclining_seat_broken"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     }
   ]
 }

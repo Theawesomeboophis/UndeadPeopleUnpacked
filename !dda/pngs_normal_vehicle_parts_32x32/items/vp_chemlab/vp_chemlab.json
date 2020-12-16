@@ -14,10 +14,8 @@
       "fg": [
         "vp_chemlab_broken"
       ],
-      "bg": [
-        "vp_chemlab",
-        "chemlab"
-      ]
+      "bg": [],
+	  "rotates": false
     }
   ]
 }
