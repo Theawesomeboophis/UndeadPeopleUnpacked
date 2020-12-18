@@ -14,7 +14,7 @@
       "fg": [
         "vp_wooden_aisle_vertical_broken"
       ],
-      "bg": []
+      "bg": ["bg_car_wood"]
     }
   ]
 }

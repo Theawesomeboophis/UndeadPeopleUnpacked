@@ -1,0 +1,17 @@
+{
+  "id": "vp_mounted_saiga_12",
+  "fg": [
+    "vp_mounted_saiga_12"
+  ],
+  "bg": [],
+  "rotates": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mounted_saiga_12_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

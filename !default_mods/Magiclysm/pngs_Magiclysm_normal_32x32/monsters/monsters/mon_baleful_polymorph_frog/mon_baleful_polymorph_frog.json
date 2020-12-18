@@ -1,0 +1,10 @@
+{
+  "id": "mon_baleful_polymorph_frog",
+  "fg": [
+    "mon_baleful_polymorph_frog"
+  ],
+  "bg": [
+    "bg_shadow_frog"
+  ],
+  "rotates": false
+}

@@ -3,6 +3,6 @@
   "fg": [
     "mon_irongolem"
   ],
-  "bg": [],
+  "bg": ["bg_big_golem_shadow"],
   "rotates": false
 }
