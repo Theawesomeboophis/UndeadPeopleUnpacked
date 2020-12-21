@@ -3,95 +3,95 @@
   "fg": [
     {
       "weight": 1,
-      "sprite": "f_ash_1"
+      "sprite": "f_ash_unconnected_1"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_2"
+      "sprite": "f_ash_unconnected_2"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_3"
+      "sprite": "f_ash_unconnected_3"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_4"
+      "sprite": "f_ash_unconnected_4"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_5"
+      "sprite": "f_ash_unconnected_5"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_6"
+      "sprite": "f_ash_unconnected_6"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_7"
+      "sprite": "f_ash_unconnected_7"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_8"
+      "sprite": "f_ash_unconnected_8"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_9"
+      "sprite": "f_ash_unconnected_9"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_10"
+      "sprite": "f_ash_unconnected_10"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_11"
+      "sprite": "f_ash_unconnected_11"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_12"
+      "sprite": "f_ash_unconnected_12"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_13"
+      "sprite": "f_ash_unconnected_13"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_14"
+      "sprite": "f_ash_unconnected_14"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_15"
+      "sprite": "f_ash_unconnected_15"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_16"
+      "sprite": "f_ash_unconnected_16"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_17"
+      "sprite": "f_ash_unconnected_17"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_18"
+      "sprite": "f_ash_unconnected_18"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_19"
+      "sprite": "f_ash_unconnected_19"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_20"
+      "sprite": "f_ash_unconnected_20"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_21"
+      "sprite": "f_ash_unconnected_21"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_22"
+      "sprite": "f_ash_unconnected_22"
     },
     {
       "weight": 1,
-      "sprite": "f_ash_23"
+      "sprite": "f_ash_unconnected_23"
     }
   ],
   "bg": [],

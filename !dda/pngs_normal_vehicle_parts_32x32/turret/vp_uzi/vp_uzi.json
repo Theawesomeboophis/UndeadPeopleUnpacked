@@ -5,6 +5,7 @@
   ],
   "bg": [],
   "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

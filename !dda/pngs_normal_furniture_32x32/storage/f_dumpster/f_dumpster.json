@@ -4,50 +4,5 @@
     "f_dumpster"
   ],
   "bg": [],
-  "rotates": false,
-  "multitile": false,
-  "additional_tiles": [
-    {
-      "id": "unconnected",
-      "fg": [
-        "f_dumpster_unconnected"
-      ],
-      "bg": []
-    },
-    {
-      "id": "center",
-      "fg": [
-        "f_dumpster_center"
-      ],
-      "bg": []
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "f_dumpster_corner"
-      ],
-      "bg": []
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "f_dumpster_edge"
-      ],
-      "bg": []
-    },
-    {
-      "id": "end_piece",
-      "fg": [
-        "f_dumpster_end_piece"
-      ],
-      "bg": []
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "f_dumpster_t_connection"
-      ],
-      "bg": []
-    }
-  ]
+  "rotates": false
 }

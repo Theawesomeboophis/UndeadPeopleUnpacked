@@ -8,7 +8,6 @@
   ],
   "rotates": false,
   "multitile": true,
-  "animated": true,
   "additional_tiles": [
     {
       "id": "center",
@@ -52,8 +51,7 @@
       ],
       "bg": [
         "bg_dirt_season_winter"
-      ],
-  "animated": true
+      ]
     },
     {
       "id": "corner",
