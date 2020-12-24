@@ -1,5 +1,63 @@
 {
   "id": "overlay_effect_bleed",
-  "fg": [],
-  "bg": ["overlay_effect_bleed"]
+    "fg": [{
+      "weight": 10,
+      "sprite": "null"
+    },
+    {
+      "weight": 10,
+      "sprite": "null"
+    },
+    {
+      "weight": 10,
+      "sprite": "null"
+    },
+    {
+      "weight": 10,
+      "sprite": "null"
+    },
+    {
+      "weight": 10,
+      "sprite": "null"
+    },
+    {
+      "weight": 10,
+      "sprite": "null"
+    },
+    {
+      "weight": 10,
+      "sprite": "null"
+    }],
+  "bg": [
+    {
+      "weight": 10,
+      "sprite": "bleed_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "bleed_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "bleed_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "bleed_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "bleed_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "bleed_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "bleed_7"
+    }
+  ],
+  "animated": true,
+  "rotates": false
 }

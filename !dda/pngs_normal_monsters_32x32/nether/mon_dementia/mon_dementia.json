@@ -1,10 +1,23 @@
 {
   "id": "mon_dementia",
   "fg": [
-    "mon_dementia"
+    {
+      "weight": 1,
+      "sprite": "mon_dementia_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dementia_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dementia_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dementia_4"
+    }
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
+  "bg": [],
   "rotates": false
 }
