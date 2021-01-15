@@ -3,6 +3,6 @@
   "fg": [
     "t_door_red_o"
   ],
-  "bg": [],
+  "bg": ["bg_t_floor"],
   "rotates": false
 }
