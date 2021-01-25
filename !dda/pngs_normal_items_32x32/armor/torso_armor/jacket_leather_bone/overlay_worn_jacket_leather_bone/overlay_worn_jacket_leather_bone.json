@@ -1,7 +1,7 @@
 {
   "id": "overlay_worn_jacket_leather_bone",
   "fg": [
-    "overlay_worn_jacket_leather_mod"
+    "overlay_worn_jacket_leather_bone"
   ],
   "bg": [],
   "rotates": false

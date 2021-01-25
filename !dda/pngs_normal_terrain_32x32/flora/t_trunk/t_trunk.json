@@ -66,40 +66,7 @@
     },
     {
       "id": "unconnected",
-      "fg": [
-        {
-          "weight": 100,
-          "sprite": "t_trunk_unconnected_1"
-        },
-        {
-          "weight": 1,
-          "sprite": "t_trunk_unconnected_2"
-        },
-        {
-          "weight": 1,
-          "sprite": "t_trunk_unconnected_3"
-        },
-        {
-          "weight": 1,
-          "sprite": "t_trunk_unconnected_4"
-        },
-        {
-          "weight": 1,
-          "sprite": "t_trunk_unconnected_5"
-        },
-        {
-          "weight": 1,
-          "sprite": "t_trunk_unconnected_6"
-        },
-        {
-          "weight": 1,
-          "sprite": "t_trunk_unconnected_7"
-        },
-        {
-          "weight": 1,
-          "sprite": "t_trunk_unconnected_8"
-        }
-      ],
+      "fg": ["t_trunk_unconnected"],
       "bg": [
         "bg_dirt"
       ]
