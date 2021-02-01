@@ -19,7 +19,7 @@
       "fg": [
         "vp_door_rear_open"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     }
   ]
 }

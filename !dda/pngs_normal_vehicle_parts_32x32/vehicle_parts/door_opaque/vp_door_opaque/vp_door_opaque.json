@@ -12,7 +12,7 @@
       "fg": [
         "vp_door_opaque_open"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     },
     {
       "id": "broken",

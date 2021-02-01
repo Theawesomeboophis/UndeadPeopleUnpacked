@@ -12,14 +12,14 @@
       "fg": [
         "vp_door_sliding_open"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     },
     {
       "id": "broken",
       "fg": [
         "vp_door_sliding_broken"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     }
   ]
 }

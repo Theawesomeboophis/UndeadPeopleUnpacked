@@ -18,6 +18,6 @@
       "sprite": "mon_dementia_4"
     }
   ],
-  "bg": [],
+  "bg": ["bg_shadow_normal"],
   "rotates": false
 }

@@ -3,8 +3,6 @@
   "fg": [
     "f_flower_marloss"
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
+  "bg": [],
   "rotates": false
 }

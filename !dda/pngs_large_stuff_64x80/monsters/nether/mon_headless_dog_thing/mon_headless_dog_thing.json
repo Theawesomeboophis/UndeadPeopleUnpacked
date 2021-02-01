@@ -3,6 +3,6 @@
   "fg": [
     "mon_headless_dog_thing"
   ],
-  "bg": [],
+  "bg": ["bg_big_normal_shadow"],
   "rotates": false
 }

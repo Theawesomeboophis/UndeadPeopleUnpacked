@@ -1,8 +1,47 @@
 {
   "id": "fd_fungicidal_gas",
   "fg": [
-    "fd_fungicidal_gas"
+    {
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungicidal_gas_10"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "animated": true
 }

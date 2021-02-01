@@ -1,6 +1,6 @@
 {
   "id": "overlay_effect_bleed",
-  "fg": ["overlay_effect_bleed"],
-  "bg": "",
+  "fg": "",
+  "bg": "overlay_effect_bleed",
   "rotates": false
 }

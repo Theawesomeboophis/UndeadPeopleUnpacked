@@ -54,9 +54,7 @@
     },
     {
       "id": "unconnected",
-      "fg": [
-        "f_fungal_tangle_unconnected", "f_fungal_tangle_unconnected"
-      ],
+      "fg": ["f_fungal_tangle_unconnected"],
       "bg": []
     }
   ]

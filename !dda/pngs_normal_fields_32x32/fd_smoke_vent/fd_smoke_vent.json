@@ -1,63 +1,47 @@
 {
   "id": "fd_smoke_vent",
   "fg": [
-    "fd_smoke_vent"
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_anim_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_anim_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_anim_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_smoke_anim_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_anim_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_smoke_anim_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_anim_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_anim_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_anim_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_anim_10"
+    }
   ],
   "bg": [],
-  "rotates": false,
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "center",
-      "fg": [
-        "fd_smoke_vent_center"
-      ],
-      "bg": []
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "fd_smoke_vent_corner_1",
-        "fd_smoke_vent_corner_2",
-        "fd_smoke_vent_corner_3",
-        "fd_smoke_vent_corner_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "fd_smoke_vent_t_connection_1",
-        "fd_smoke_vent_t_connection_2",
-        "fd_smoke_vent_t_connection_3",
-        "fd_smoke_vent_t_connection_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_smoke_vent_edge_1",
-        "fd_smoke_vent_edge_2"
-      ],
-      "bg": []
-    },
-    {
-      "id": "end_piece",
-      "fg": [
-        "fd_smoke_vent_end_piece_1",
-        "fd_smoke_vent_end_piece_2",
-        "fd_smoke_vent_end_piece_3",
-        "fd_smoke_vent_end_piece_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_smoke_vent_unconnected"
-      ],
-      "bg": []
-    }
-  ]
+  "animated": true
 }

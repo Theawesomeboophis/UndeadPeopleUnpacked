@@ -12,14 +12,14 @@
       "fg": [
         "vp_door_front_left_broken"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     },
 	{
       "id": "open",
       "fg": [
         "vp_door_front_left_open"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     }
   ]
 }

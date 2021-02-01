@@ -1,63 +1,47 @@
 {
   "id": "fd_fungal_haze",
   "fg": [
-    "fd_fungal_haze"
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_fungal_haze_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_fungal_haze_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_fungal_haze_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_10"
+    }
   ],
   "bg": [],
-  "rotates": false,
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "center",
-      "fg": [
-        "fd_fungal_haze_center"
-      ],
-      "bg": []
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "fd_fungal_haze_corner_1",
-        "fd_fungal_haze_corner_2",
-        "fd_fungal_haze_corner_3",
-        "fd_fungal_haze_corner_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "fd_fungal_haze_t_connection_1",
-        "fd_fungal_haze_t_connection_2",
-        "fd_fungal_haze_t_connection_3",
-        "fd_fungal_haze_t_connection_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_fungal_haze_edge_1",
-        "fd_fungal_haze_edge_2"
-      ],
-      "bg": []
-    },
-    {
-      "id": "end_piece",
-      "fg": [
-        "fd_fungal_haze_end_piece_1",
-        "fd_fungal_haze_end_piece_2",
-        "fd_fungal_haze_end_piece_3",
-        "fd_fungal_haze_end_piece_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_fungal_haze_unconnected"
-      ],
-      "bg": []
-    }
-  ]
+  "animated": true
 }

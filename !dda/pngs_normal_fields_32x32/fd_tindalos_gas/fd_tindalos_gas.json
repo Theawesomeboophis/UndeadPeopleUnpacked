@@ -1,63 +1,47 @@
 {
   "id": "fd_tindalos_gas",
   "fg": [
-    "fd_tindalos_gas"
+    {
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tindalos_gas_10"
+    }
   ],
   "bg": [],
-  "rotates": true,
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "center",
-      "fg": [
-        "fd_tindalos_gas_center"
-      ],
-      "bg": []
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "fd_tindalos_gas_corner_1",
-        "fd_tindalos_gas_corner_2",
-        "fd_tindalos_gas_corner_3",
-        "fd_tindalos_gas_corner_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "fd_tindalos_gas_t_connection_1",
-        "fd_tindalos_gas_t_connection_2",
-        "fd_tindalos_gas_t_connection_3",
-        "fd_tindalos_gas_t_connection_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_tindalos_gas_edge_1",
-        "fd_tindalos_gas_edge_2"
-      ],
-      "bg": []
-    },
-    {
-      "id": "end_piece",
-      "fg": [
-        "fd_tindalos_gas_end_piece_1",
-        "fd_tindalos_gas_end_piece_2",
-        "fd_tindalos_gas_end_piece_3",
-        "fd_tindalos_gas_end_piece_4"
-      ],
-      "bg": []
-    },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_tindalos_gas_unconnected"
-      ],
-      "bg": []
-    }
-  ]
+  "animated": true
 }
