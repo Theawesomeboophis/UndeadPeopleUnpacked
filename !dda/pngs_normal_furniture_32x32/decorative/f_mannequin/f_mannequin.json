@@ -3,6 +3,6 @@
   "fg": [
     "f_mannequin"
   ],
-  "bg": [],
+  "bg": ["bg_shadow_normal"],
   "rotates": false
 }

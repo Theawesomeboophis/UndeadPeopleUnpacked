@@ -3,6 +3,6 @@
   "fg": [
     "f_chair_rotat_s", "f_chair_rotat_w", "f_chair_rotat_n", "f_chair_rotat_e"
   ],
-  "bg": [],
+  "bg": [""],
   "rotates": true
 }
