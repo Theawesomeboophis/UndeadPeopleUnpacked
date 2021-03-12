@@ -1,0 +1,6 @@
+{
+  "id": ["spell_scroll", "spell_scroll_baleful_polymorph", "spell_scroll_boneclub", "spell_scroll_caustic_aura", "spell_scroll_feralform", "spell_scroll_flamebreath", "spell_scroll_flamesword", "spell_scroll_impactsling", "spell_scroll_improved_knock", "spell_scroll_knifeshot", "spell_scroll_knock", "spell_scroll_overcharge_eyes", "spell_scroll_repelling_arc", "spell_scroll_summon_floating_disk", "spell_scroll_tornskin"],
+  "fg": ["spell_scroll"],
+  "bg": [],
+  "rotates": false
+}

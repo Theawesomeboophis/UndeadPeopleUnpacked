@@ -1,0 +1,10 @@
+{
+  "id": "mon_leprechaun",
+  "fg": [
+    "mon_leprechaun"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

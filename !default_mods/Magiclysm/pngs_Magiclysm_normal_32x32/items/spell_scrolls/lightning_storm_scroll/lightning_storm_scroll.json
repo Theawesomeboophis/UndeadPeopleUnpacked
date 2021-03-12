@@ -1,7 +1,7 @@
 {
   "id": "lightning_storm_scroll",
   "fg": [
-    "temp_scroll_spell"
+    "spell_scroll"
   ],
   "bg": [],
   "rotates": false

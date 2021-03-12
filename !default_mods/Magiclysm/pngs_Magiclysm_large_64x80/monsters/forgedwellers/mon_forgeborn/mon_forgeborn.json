@@ -3,6 +3,6 @@
   "fg": [
     "mon_forgeborn"
   ],
-  "bg": [],
+  "bg": ["bg_big_tall_shadow"],
   "rotates": false
 }

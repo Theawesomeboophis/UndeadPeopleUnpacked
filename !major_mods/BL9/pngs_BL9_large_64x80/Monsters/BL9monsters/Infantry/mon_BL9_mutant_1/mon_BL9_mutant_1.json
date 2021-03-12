@@ -1,0 +1,22 @@
+{
+  "id": "mon_BL9_mutant_1",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_BL9_mutant_1_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_BL9_mutant_1_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_BL9_mutant_1_3"
+    }
+  ],
+  "bg": [
+    "bg_big_normal_shadow"
+  ],
+  "animated": true,
+  "rotates": false
+}

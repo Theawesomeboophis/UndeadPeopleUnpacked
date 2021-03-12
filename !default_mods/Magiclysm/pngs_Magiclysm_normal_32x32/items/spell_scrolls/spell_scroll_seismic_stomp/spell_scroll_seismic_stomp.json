@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_seismic_stomp",
   "fg": [
-    "temp_scroll_spell"
+    "spell_scroll"
   ],
   "bg": [],
   "rotates": false

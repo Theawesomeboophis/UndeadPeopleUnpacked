@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_biomancer_paralytic_dart",
   "fg": [
-    "temp_scroll_spell"
+    "spell_scroll"
   ],
   "bg": [],
   "rotates": false

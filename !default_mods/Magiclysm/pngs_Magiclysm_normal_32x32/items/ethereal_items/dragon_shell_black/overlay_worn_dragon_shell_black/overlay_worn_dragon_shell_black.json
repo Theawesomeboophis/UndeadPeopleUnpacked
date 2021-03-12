@@ -1,0 +1,24 @@
+{
+  "id": "overlay_worn_dragon_shell_black",
+   "fg": [
+    {
+      "weight": 30,
+      "sprite": "overlay_worn_dragon_shell_black_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "overlay_worn_dragon_shell_black_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "overlay_worn_dragon_shell_black_3"
+    },   
+	{
+      "weight": 30,
+      "sprite": "overlay_worn_dragon_shell_black_4"
+    }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

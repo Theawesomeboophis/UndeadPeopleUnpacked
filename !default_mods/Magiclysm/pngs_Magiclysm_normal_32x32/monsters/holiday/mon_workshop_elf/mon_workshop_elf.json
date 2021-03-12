@@ -1,0 +1,10 @@
+{
+  "id": "mon_workshop_elf",
+  "fg": [
+    "mon_workshop_elf"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

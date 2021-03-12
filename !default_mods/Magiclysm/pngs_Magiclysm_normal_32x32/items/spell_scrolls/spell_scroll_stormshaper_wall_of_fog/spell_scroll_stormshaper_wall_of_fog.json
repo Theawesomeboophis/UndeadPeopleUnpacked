@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_stormshaper_wall_of_fog",
   "fg": [
-    "temp_scroll_spell"
+    "spell_scroll"
   ],
   "bg": [],
   "rotates": false

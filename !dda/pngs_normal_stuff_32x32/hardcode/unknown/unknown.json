@@ -1,8 +1,6 @@
 {
   "id": "unknown",
-  "fg": [
-    "unknown"
-  ],
-  "bg": [],
+  "fg": [],
+  "bg": ["unknown"],
   "rotates": false
 }

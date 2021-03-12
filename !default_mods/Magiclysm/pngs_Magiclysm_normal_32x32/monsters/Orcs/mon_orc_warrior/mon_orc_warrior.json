@@ -1,0 +1,32 @@
+{
+  "id": "mon_orc_warrior",
+  "fg": [
+   
+    {
+      "weight": 3,
+      "sprite": "mon_orc_warrior"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_orc_warrior_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_orc_warrior_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_orc_warrior_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_orc_warrior_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_orc_warrior_5"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

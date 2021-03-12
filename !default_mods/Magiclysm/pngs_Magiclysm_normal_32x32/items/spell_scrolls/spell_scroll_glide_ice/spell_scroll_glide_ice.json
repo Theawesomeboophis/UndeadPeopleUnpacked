@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_glide_ice",
   "fg": [
-    "temp_scroll_spell"
+    "spell_scroll"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_obfuscated_body",
   "fg": [
-    "temp_scroll_spell"
+    "spell_scroll"
   ],
   "bg": [],
   "rotates": false

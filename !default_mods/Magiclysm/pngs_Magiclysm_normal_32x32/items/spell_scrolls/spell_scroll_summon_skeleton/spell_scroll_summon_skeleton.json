@@ -1,7 +1,7 @@
 {
   "id": "spell_scroll_summon_skeleton",
   "fg": [
-    "temp_scroll_spell"
+    "spell_scroll"
   ],
   "bg": [],
   "rotates": false

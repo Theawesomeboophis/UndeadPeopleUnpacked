@@ -1,0 +1,8 @@
+{
+  "id": "spell_scroll_nova_flare",
+  "fg": [
+    "spell_scroll"
+  ],
+  "bg": [],
+  "rotates": false
+}

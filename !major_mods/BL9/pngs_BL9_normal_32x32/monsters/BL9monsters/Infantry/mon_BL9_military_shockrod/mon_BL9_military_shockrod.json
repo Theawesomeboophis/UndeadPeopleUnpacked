@@ -1,0 +1,26 @@
+{
+  "id": "mon_BL9_military_shockrod",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_BL9_military_shockrod_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_BL9_military_shockrod_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_BL9_military_shockrod_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_BL9_military_shockrod_4"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}

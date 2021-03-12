@@ -1,0 +1,10 @@
+{
+  "id": "mon_yulecat_cub",
+  "fg": [
+    "mon_yulecat_cub"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

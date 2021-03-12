@@ -55,7 +55,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "f_magic_bench_unconnected"
+        "f_magic_bench_unconnected", "f_magic_bench_unconnected", "f_magic_bench_unconnected", "f_magic_bench_unconnected"
       ],
       "bg": []
     }
