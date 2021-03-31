@@ -4,7 +4,7 @@
     "t_screen_door_c"
   ],
   "bg": [
-    "bg_t_floor"
+    "bg_mesh_wall_bg"
   ],
   "rotates": false
 }

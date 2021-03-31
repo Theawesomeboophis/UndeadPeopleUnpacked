@@ -3,6 +3,6 @@
   "fg": [
     "mon_sflesh_nakedmolerat_giant"
   ],
-  "bg": [],
+  "bg": ["bg_shadow_large"],
   "rotates": false
 }

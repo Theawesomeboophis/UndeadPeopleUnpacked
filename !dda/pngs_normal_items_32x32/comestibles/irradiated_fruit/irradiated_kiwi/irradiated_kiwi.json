@@ -1,7 +1,7 @@
 {
   "id": "irradiated_kiwi",
   "fg": [
-    "irradiated_kiwi"
+    "kiwi"
   ],
   "bg": ["bg_irradiated"],
   "rotates": false

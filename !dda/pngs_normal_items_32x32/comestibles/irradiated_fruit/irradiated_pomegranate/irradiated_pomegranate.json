@@ -1,7 +1,7 @@
 {
   "id": "irradiated_pomegranate",
   "fg": [
-    "irradiated_pomegranate"
+    "pomegranate"
   ],
   "bg": ["bg_irradiated"],
   "rotates": false

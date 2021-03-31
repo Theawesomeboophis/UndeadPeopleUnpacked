@@ -1,7 +1,7 @@
 {
   "id": "irradiated_cherries",
   "fg": [
-    "irradiated_cherries"
+    "cherries"
   ],
   "bg": ["bg_irradiated"]
 }

@@ -3,8 +3,6 @@
   "fg": [
     "vp_tank"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": ["bg_car"],
   "rotates": false
 }

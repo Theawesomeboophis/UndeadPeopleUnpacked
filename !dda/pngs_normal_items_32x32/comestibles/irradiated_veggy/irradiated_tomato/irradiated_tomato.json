@@ -1,7 +1,7 @@
 {
   "id": "irradiated_tomato",
   "fg": [
-    "irradiated_tomato"
+    "tomato"
   ],
   "bg": ["bg_irradiated"],
   "rotates": false

@@ -1,0 +1,128 @@
+------------------------------------------------------------------------------------------
+Missing Terrain:
+
+
+
+has fakes:
+
+t_archon_pedestral_backup
+t_rock_archon_vault
+t_rock_archon_barricade
+
+
+------------------------------------------------------------------------------------------
+Missing Furniture:
+
+
+
+has fakes:
+
+f_arcane_candlestick_lit
+f_alien_zapper_altered
+
+------------------------------------------------------------------------------------------
+
+Missing Items:
+
+halo_flute_effect
+essence_fake
+primitive_magic_item_ammo
+monster_laser_fake
+bot_shadows_fake
+bot_seraphic_mimic
+dimensional_warp_trap
+halo_amulet_effect
+halo_brooch_effect
+
+has fakes:
+
+bio_electrothermal_arc_projector
+bio_electrothermal_arc_projector_gun
+bio_rift_focus_projector
+bio_rift_focus_projector_gun
+bio_essence_surge_cell
+bio_temporal_stimulation
+bio_life_sign_suppression
+electrothermal_arc_cannon
+rift_focus_cannon
+distortion_amp_motor_item
+essence_surge_generator_item
+displacement_surge_generator_item
+thermic_essence_cutter
+iron_thorn
+inflorescent_root
+recipe_lab_arcana
+arcane_accelerator_railgun
+arcane_accelerator_plasma
+arcane_accelerator_nuke
+coalescent_converter
+spatial_displacer
+arrow_arcana_unpowered
+bolt_arcana_unpowered
+arrow_arcana_flame
+bolt_arcana_flame
+arrow_arcana_water
+bolt_arcana_water
+arrow_arcana_earth
+bolt_arcana_earth
+arrow_arcana_air
+bolt_arcana_air
+flintlock_shot_arcana
+blun_shot_arcana
+arcana_dream_journal
+sanguine_mission_notes
+arcana_mana_potion
+arcana_strange_crystal
+arcana_radio_relay_beacon
+triffid_garland_empowered
+amulet_exotic_empowered
+brooch_iridescent_empowered
+charm_bone_empowered
+stinger_flute_empowered
+offering_mission_notes
+reloaded_shot_00_arcana
+
+------------------------------------------------------------------------------------------
+Missing Monsters:
+
+
+
+has fakes:
+
+mon_shadow_summoned_fake
+mon_shadow_snake_summoned_fake
+
+------------------------------------------------------------------------------------------
+Missing Vehicle Parts:
+
+electrothermal_arc_cannon_part
+rift_focus_cannon_part
+distorion_amp_motor_part
+essence_surge_generator_part
+surge_generator_part
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Traps:
+
+tr_archon_map_regen_underground_1
+tr_archon_map_regen_underground_2
+tr_archon_map_regen_finale
+tr_archon_map_regen_hall_1
+tr_archon_map_regen_hall_2
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Fields:
+
+
+
+has fakes:
+
+

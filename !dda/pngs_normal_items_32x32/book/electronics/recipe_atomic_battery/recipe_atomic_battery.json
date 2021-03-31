@@ -1,7 +1,7 @@
 {
   "id": "recipe_atomic_battery",
   "fg": [
-    "recipe_atomic_battery"
+    "paper_graphics_temp"
   ],
   "bg": [
     "bg_book_magazine"

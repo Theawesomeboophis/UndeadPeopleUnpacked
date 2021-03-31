@@ -1,0 +1,89 @@
+------------------------------------------------------------------------------------------
+Missing Terrain:
+
+
+
+has fakes:
+
+t_vamp_seal
+
+------------------------------------------------------------------------------------------
+Missing Furniture:
+
+
+
+has fakes:
+
+f_slope_down_vamp
+
+------------------------------------------------------------------------------------------
+
+Missing Items:
+
+v_war_tip
+v_elem_tip
+v_hemo_tip
+v_spell_scroll_VAMPIRIC_DEBUG
+bloodsurgeleechmouth
+eyedleechmouth
+sharpshooterleechmouth
+leechtooth
+leechblood
+leechsharptooth
+bloodcoin
+blood_slinger
+bloodstinger_barrel
+v_hemo_whip
+v_hemo_crimsoncoat_coat
+v_hemo_form_orus
+v_war_etherealenchant
+
+
+has fakes:
+
+blood_necklace
+blood_talisman
+bloodwristsheath
+bloodbootsheath
+
+
+------------------------------------------------------------------------------------------
+Missing Monsters:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Vehicle Parts:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Traps:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Fields:
+
+fd_puddleb
+fd_desolate
+fd_firewall
+fd_fire_curse
+fd_fire_frost
+
+
+has fakes:
+
+

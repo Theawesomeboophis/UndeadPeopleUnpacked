@@ -11,9 +11,7 @@
       "fg": [
         "vp_external_tank_broken"
       ],
-      "bg": [
-        "bg_car_4"
-      ]
+      "bg": []
     }
   ]
 }

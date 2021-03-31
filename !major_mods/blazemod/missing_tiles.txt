@@ -1,0 +1,151 @@
+------------------------------------------------------------------------------------------
+Missing Terrain:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Furniture:
+
+
+
+has fakes:
+
+f_afs_fridge_vehicle
+f_afs_freezer_vehicle
+
+------------------------------------------------------------------------------------------
+
+Missing Items:
+
+afs_metal_rig
+afs_cooking_rig
+afs_kitchen_rig
+
+has fakes:
+
+afs_fridge
+afs_freezer
+gloople_tank_large
+gray_tank_large
+oozle_tank_large
+
+------------------------------------------------------------------------------------------
+Missing Monsters:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Vehicle Parts:
+
+afs_fridge
+afs_freezer
+gloople_tank_large
+gray_tank_large
+oozle_tank_large
+mounted_cangun
+mounted_cutter
+mounted_gattler
+mounted_lasgun
+mounted_lasgunp
+mounted_lasgunx
+mounted_ripper
+mounted_scorpion
+mounted_slauncher
+mounted_teslagun
+stabilized_cargo_portal
+afs_metal_rig
+afs_cooking_rig
+afs_kitchen_rig
+mounted_bolter
+mounted_gattler1
+mounted_nailer
+mounted_needler
+mounted_railturret
+mounted_shardgun
+mounted_tiharturret
+mounted_flamethrower1
+mounted_flamethrower2
+mounted_flamethrower3
+mounted_tavor_12
+mounted_nailrifle
+mounted_repeatingcrossbow
+mounted_rifle_308
+mounted_rslauncher
+mounted_surv_carbine_223
+mounted_survivor_special_700
+mounted_v29_cheap
+gloopleboard_board
+grayboard
+halfgloopleboard_board
+halfgrayboard_board
+halfoozleboard_board
+oozleboard_board
+gloople_frame
+gray_frame
+oozle_frame
+blob_aisle_lights
+blob_floodlight
+blob_directed_floodlight
+blob_headlight
+blob_wide_headlight
+blob_turret_mount
+mounted_biter
+mounted_clutter
+mounted_freezie
+mounted_fuzzle
+mounted_horror
+mounted_inkie
+mounted_meltie
+mounted_spouterqueen
+mounted_razorqueen
+mounted_sharp
+mounted_gelrazor
+mounted_sparkie
+mounted_stickie
+mounted_torchie
+mounted_voideater
+frostie_windshield
+frostie_boat_hull
+gloople_amalgam
+gloopleaisle_aisle
+grayaisle_aisle
+oozleaisle_aisle
+frostie_wheel_sea
+dboard_board
+dframe_frame
+mounted_diamondlance
+mounted_diamondnova
+mounted_vortexaccelerator
+mounted_vortexbolter
+mounted_vortexcannon
+mounted_vortexrifle
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Traps:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Fields:
+
+
+
+has fakes:
+
+

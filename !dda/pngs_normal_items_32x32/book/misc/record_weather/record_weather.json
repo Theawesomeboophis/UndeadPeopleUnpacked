@@ -1,7 +1,7 @@
 {
   "id": "record_weather",
   "fg": [
-    "record_weather"
+    "paper_graphics_temp"
   ],
   "bg": [
     "bg_book_manual"

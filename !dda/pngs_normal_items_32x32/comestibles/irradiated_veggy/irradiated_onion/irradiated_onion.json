@@ -1,7 +1,7 @@
 {
   "id": "irradiated_onion",
   "fg": [
-    "irradiated_onion"
+    "onion"
   ],
   "bg": ["bg_irradiated"],
   "rotates": false

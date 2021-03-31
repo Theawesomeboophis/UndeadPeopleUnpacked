@@ -1,7 +1,63 @@
 {
   "id": "t_secro_linoleum_white_flesh",
   "fg": [
-    "t_secro_linoleum_white_flesh"
+    "t_secro_thconc_floor_flesh"
   ],
-  "bg": []
+  "bg": [ "bg_linoleum_white"],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_secro_thconc_floor_flesh_center"
+      ],
+      "bg": [ "bg_linoleum_white"]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_secro_thconc_floor_flesh_corner_1",
+        "t_secro_thconc_floor_flesh_corner_2",
+        "t_secro_thconc_floor_flesh_corner_3",
+        "t_secro_thconc_floor_flesh_corner_4"
+      ],
+      "bg": [ "bg_linoleum_white"]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_secro_thconc_floor_flesh_t_connection_1",
+        "t_secro_thconc_floor_flesh_t_connection_2",
+        "t_secro_thconc_floor_flesh_t_connection_3",
+        "t_secro_thconc_floor_flesh_t_connection_4"
+      ],
+      "bg": [ "bg_linoleum_white"]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_secro_thconc_floor_flesh_edge_1",
+        "t_secro_thconc_floor_flesh_edge_2"
+      ],
+      "bg": [ "bg_linoleum_white"]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_secro_thconc_floor_flesh_end_piece_1",
+        "t_secro_thconc_floor_flesh_end_piece_2",
+        "t_secro_thconc_floor_flesh_end_piece_3",
+        "t_secro_thconc_floor_flesh_end_piece_4"
+      ],
+      "bg": [ "bg_linoleum_white"]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_secro_thconc_floor_flesh_unconnected"
+      ],
+      "bg": [ "bg_linoleum_white"]
+    }
+  ]
 }

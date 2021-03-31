@@ -1,7 +1,7 @@
 {
   "id": "holybook_slack",
   "fg": [
-    "holybook_slack"
+    "holybook_cover_temp"
   ],
   "bg": [
     "bg_book"

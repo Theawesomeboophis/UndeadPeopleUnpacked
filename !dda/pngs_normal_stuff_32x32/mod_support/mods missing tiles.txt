@@ -1,0 +1,38 @@
+homestead - few missing tiles, merge
+ew_pack - some missing tiles
+eps_cbms - 2 cdm tiles, merge
+Locked_and_Loaded - many missing weapon tiles
+makeshift - 3 missing tiles, merge
+demon_spider_a - same as magiclysm
+more tea leaf - some missing tiles
+nw_pack - merge
+NW_wpns - many missing tiles
+Pix's Shit - some missing tiles, maybe merge
+apex (Aftershock)- GIANT list of various missing tiles (most from Aftershock itself)
+future armory - some missing tiles
+beamsword - some missing tiles
+@coolmod - two missing tiles, merge
+@CerealMod - few tiles missing, probably merge
+Vermilion mod - many missing tiles
+@thermal UPS - few item tiles missing, merge
+vorpal weapons (blazemod) - some missing tiles, dependant on blaze mod
+XENO_SAS4 - huge list of missing tiles
+crazy labs - no missing tiles
+DracoDogMod - many missing tiles
+DracoPigMod - no missing tiles
+Jury-Rigged Robots - some missing tiles
+World-On-Fire - few missing tiles, update existing mod tileset
+Youkai Disco - no missing tiles
+@MMA_Mods_Extention - few missing tiles, merge
+@ks_variety_pack - 2 missing tiles, merge
+crazy cataclysm alt - can't find this mod
+@deluted mutagens - few missing tiles, merge
+even more mutations - few missed mutagen items but maybe many missing mutation tiles
+@food irradiator - 5 missing tiles, merge
+hydroponics - some missing tiles
+machine - no missing tiles
+more_survivor_notes - no missing tiles
+more_survivor_stuff - many missing tiles
+Ninja_mod - many missing tiles
+@recruitment_options - no missing tiles
+@tekitoumap - 4 missing tiles, merge
