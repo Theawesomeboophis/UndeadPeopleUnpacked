@@ -4,7 +4,8 @@
     "vp_rm360_carbinenc"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

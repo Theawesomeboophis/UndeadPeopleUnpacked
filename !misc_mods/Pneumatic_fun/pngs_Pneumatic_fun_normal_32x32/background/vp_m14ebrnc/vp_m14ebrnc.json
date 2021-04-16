@@ -4,7 +4,8 @@
     "vp_m14ebrnc"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

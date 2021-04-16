@@ -1,0 +1,10 @@
+{
+  "id": "dkz_xenoid_enforcer",
+  "fg": [
+    "dkz_xenoid_enforcer"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

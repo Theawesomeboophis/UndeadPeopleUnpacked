@@ -1,0 +1,10 @@
+{
+  "id": "dkz_mon_stray_crackle",
+  "fg": [
+    "dkz_mon_stray_crackle"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

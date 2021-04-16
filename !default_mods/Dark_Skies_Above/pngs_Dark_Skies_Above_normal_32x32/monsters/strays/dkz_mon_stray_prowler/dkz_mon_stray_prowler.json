@@ -1,0 +1,10 @@
+{
+  "id": "dkz_mon_stray_prowler",
+  "fg": [
+    "dkz_mon_stray_prowler"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

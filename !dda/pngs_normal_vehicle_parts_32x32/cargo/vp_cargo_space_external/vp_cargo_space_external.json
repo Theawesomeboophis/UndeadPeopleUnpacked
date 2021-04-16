@@ -4,5 +4,15 @@
     "vp_cargo_space_external"
   ],
   "bg": [],
-  "rotates": true
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_cargo_space_external_broken"
+      ],
+      "bg": []
+    }
+  ]
 }

@@ -6,7 +6,7 @@
   "bg": [
     "bg_car"
   ],
-  "rotates": false,
+  "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
@@ -14,13 +14,7 @@
       "fg": [
         "vp_cargo_space_broken"
       ],
-      "bg": [
-        "vp_cargo_space",
-        "blaze_mag_hbolt",
-        "vp_cargo_space_external",
-        "cargo_rack",
-        "blaze_mag_rock"
-      ]
+      "bg": []
     }
   ]
 }

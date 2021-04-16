@@ -4,7 +4,8 @@
     "vp_l_mbr_223"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

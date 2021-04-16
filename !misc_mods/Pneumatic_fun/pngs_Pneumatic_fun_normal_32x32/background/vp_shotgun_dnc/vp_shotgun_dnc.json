@@ -4,7 +4,8 @@
     "vp_shotgun_dnc"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

@@ -1,0 +1,79 @@
+------------------------------------------------------------------------------------------
+Missing Terrain:
+
+t_chocolate_sh
+t_chocolate_dp
+t_caramel
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Furniture:
+
+f_rubble_rockcandy
+f_candy_boulder_small
+f_candy_boulder_medium
+f_candy_boulder_large
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+
+Missing Items:
+
+liquid_cacao
+rock_candy_chunk
+
+has fakes:
+
+milk_reconstituted_choc
+milk_powder_choc
+milk_raw_choc
+
+
+------------------------------------------------------------------------------------------
+Missing Monsters:
+
+mon_licorice_snake
+mon_licorice_snake_hatchling
+
+has fakes:
+
+mon_gummy_gator
+mon_cracker_lbass
+mon_cookie_hydra
+mon_cookie_hydra_youth
+mon_cow_calf_choc
+mon_cow_choc
+
+
+------------------------------------------------------------------------------------------
+Missing Vehicle Parts:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Traps:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Fields:
+
+
+
+has fakes:
+
+

@@ -1,0 +1,10 @@
+{
+  "id": "dkz_mon_stray_electric",
+  "fg": [
+    "dkz_mon_stray_electric"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

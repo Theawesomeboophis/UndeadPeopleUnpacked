@@ -1,1 +1,0 @@
-python ../compose-mods.py MMA

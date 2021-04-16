@@ -1,0 +1,10 @@
+{
+  "id": "mon_human_biomachine",
+  "fg": [
+    "mon_human_biomachine"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

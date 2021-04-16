@@ -4,7 +4,8 @@
     "vp_rm51_assault_rifle"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

@@ -1,0 +1,10 @@
+{
+  "id": "mon_dkz_glowdrone",
+  "fg": [
+    "mon_dkz_glowdrone"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

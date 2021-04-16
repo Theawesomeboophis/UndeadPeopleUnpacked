@@ -4,7 +4,8 @@
     "vp_survivor_special_700"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

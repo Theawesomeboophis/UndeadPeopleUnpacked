@@ -1,0 +1,10 @@
+{
+  "id": "dkz_mon_bileworm",
+  "fg": [
+    "dkz_mon_bileworm"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

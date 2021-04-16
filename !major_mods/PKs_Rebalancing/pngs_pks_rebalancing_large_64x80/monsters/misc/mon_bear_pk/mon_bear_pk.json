@@ -1,0 +1,10 @@
+{
+  "id": "mon_bear_pk",
+  "fg": [
+    "mon_bear_pk"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

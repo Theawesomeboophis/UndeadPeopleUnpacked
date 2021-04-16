@@ -1,0 +1,8 @@
+{
+  "id": "mon_moxie_grabby",
+  "fg": ["mon_moxie_grabby"],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

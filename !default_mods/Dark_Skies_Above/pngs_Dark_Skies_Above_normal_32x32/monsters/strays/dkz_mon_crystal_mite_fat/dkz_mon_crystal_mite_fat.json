@@ -1,0 +1,10 @@
+{
+  "id": "dkz_mon_crystal_mite_fat",
+  "fg": [
+    "dkz_mon_crystal_mite_fat"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_dkz_scidrone",
+  "fg": [
+    "mon_dkz_scidrone"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dkz_mon_stray_soldier",
+  "fg": [
+    "dkz_mon_stray_soldier"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

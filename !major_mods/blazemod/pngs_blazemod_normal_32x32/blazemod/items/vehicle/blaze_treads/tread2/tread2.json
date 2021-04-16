@@ -3,5 +3,6 @@
   "fg": [
     "tread2"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }

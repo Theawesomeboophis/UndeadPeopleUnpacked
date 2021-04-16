@@ -1,0 +1,10 @@
+{
+  "id": "secro_flesh_chestrig",
+  "fg": [
+    "secro_flesh_chestrig"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

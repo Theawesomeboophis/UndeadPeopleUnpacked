@@ -1,0 +1,8 @@
+{
+  "id": "dkz_mon_stray_big",
+  "fg": ["dkz_mon_stray_big"],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

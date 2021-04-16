@@ -1,0 +1,10 @@
+{
+  "id": "secro_flesh_quiver_large",
+  "fg": [
+    "secro_flesh_quiver_large"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

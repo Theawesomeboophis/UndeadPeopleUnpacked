@@ -4,7 +4,8 @@
     "vp_rm2000_smg"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

@@ -1,0 +1,143 @@
+------------------------------------------------------------------------------------------
+Missing Terrain:
+
+
+
+has fakes:
+
+t_wall_glassteel_alarm t_vault_vent
+
+------------------------------------------------------------------------------------------
+Missing Furniture:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Items:
+
+manatouched_serum
+bio_sneeze_beam
+animist_shadows
+mana_dust
+mana_pearl
+enchanted_wood
+mana_infused_blood
+mercury
+demonchitin_armor_horse
+broken_forgeborn
+bag_holding_1
+bag_holding_2
+bag_holding_3
+fridge_holding_1
+magi_staff_lesser
+magi_staff_greater
+flarewhip
+armor_frost
+overcharge_burn_scar
+protect_env
+thorns_electric
+aura_feral
+aura_caustic
+aura_werewolf
+subzero_talons
+mutagen_black_dragon
+iv_black_dragon
+fireproof_mortar
+force_magical_armor
+mana_wheel
+demon_possession_aura
+
+has fakes:
+
+decaying_boneclub
+flamesword
+longsword_holy
+wolfsbane
+borealmosin_clip
+wolfshead_cufflinks
+armor_demonchitin
+armguard_demonchitin
+gauntlets_demonchitin
+spell_scroll_bleed
+spell_scroll_shocking_lash
+spell_scroll_shadow_field
+potion_starter_superior
+helmet_demonchitin
+boots_demonchitin
+demonchitin_harness_dog
+cloak_morthylla
+mboots_freerunner
+wildshape_cloak_fish
+wildshape_cloak_bear
+wildshape_cloak_deer
+boreal_mosin
+mring_wizardry_minor
+mring_wizardry_lesser
+mring_wizardry_moderate
+mring_wizardry_greater
+wand_knock_minor
+wand_knock_lesser
+wand_knock_greater
+wand_improved_knock_minor
+wand_improved_knock_lesser
+wand_improved_knock_greater
+wand_disp_knock_minor
+wand_disp_knock_lesser
+wand_disp_knock_greater
+wand_disp_improved_knock_minor
+wand_disp_improved_knock_lesser
+wand_disp_improved_knock_greater
+impactsling
+orich_knife_combat
+orich_longsword
+orich_fire_ax
+glassteel_shard
+light_orichalcum_frame
+artificer_toolkit
+
+
+------------------------------------------------------------------------------------------
+Missing Monsters:
+
+
+
+has fakes:
+
+mon_forgemaster3
+mon_forgehounds
+mon_forgemaster2
+mon_troll_goblin_tamed
+
+------------------------------------------------------------------------------------------
+Missing Vehicle Parts:
+
+light_orichalcum_frame
+frame_orichalcum
+engine_vtwin_magic
+mana_frame 
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Traps:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Fields:
+
+
+
+has fakes:
+
+

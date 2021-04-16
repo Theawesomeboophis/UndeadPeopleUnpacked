@@ -1,0 +1,119 @@
+------------------------------------------------------------------------------------------
+Missing Terrain:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Furniture:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+
+Missing Items:
+
+dkz_blend_scrap
+dkz_weave_scrap
+dkz_polymer_scrap
+soup_alphabet
+soup_alphabet_MJ
+soup_alphabet_MB
+apple_pie_filling_canned
+cherry_pie_filling_canned
+soup_cheese
+soup_pea
+soup_cream_broccoli
+soup_cream_celery
+soup_cream_mushroom
+dkz_elecscrap
+dkz_biotech
+dkz_biogel
+dkz_riotshield_salvaged
+dkz_battleshield_salvaged
+broken_dkz_emissary_plague
+broken_dkz_emissary_war
+dkz_mon_flamesword
+dkz_mon_devastator
+dkz_mon_radgun
+dkz_mon_gasgun
+dkz_mon_plasmagun
+dkz_mon_flechette
+
+
+has fakes:
+
+dkz_powercell
+dkz_xenoid_light_armor_salvaged
+dkz_xenoid_heavy_armor_salvaged
+dkz_ranger_cloak_salvaged
+dkz_xenoid_mask_salvaged
+broken_dkz_glowdrone
+broken_dkz_scidrone
+dkz_zenture_industries_basic_zwatch
+dkz_zenture_industries_premium_zwatch
+dkz_zenture_industries_executive_zwatch
+dkz_xenoid_mask_reclaimed_white
+dkz_flamesword_salvaged
+dkz_knightsword_salvaged
+dkz_rangermachete_salvaged
+dkz_enforcerbaton_salvaged
+dkz_xenoid_armlet_salvaged
+
+
+------------------------------------------------------------------------------------------
+Missing Monsters:
+
+dkz_mon_stray_electric
+dkz_mon_stray_wretch_tough
+dkz_mon_stray_wretch_tendrils
+dkz_mon_stray_wretch_elec
+dkz_mon_stray_wretchmother
+dkz_mon_crystal_sprout
+dkz_mon_crystal_hive
+dkz_mon_crystal_mite
+dkz_mon_crystal_mite_fat
+
+has fakes:
+
+dkz_mon_stray_cop
+dkz_mon_stray_soldier
+dkz_mon_stray_fireman
+dkz_mon_stray_big
+dkz_mon_stray_prowler
+dkz_mon_stray_goliath
+dkz_mon_stray_creepler
+
+------------------------------------------------------------------------------------------
+Missing Vehicle Parts:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Traps:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Fields:
+
+
+
+has fakes:
+
+

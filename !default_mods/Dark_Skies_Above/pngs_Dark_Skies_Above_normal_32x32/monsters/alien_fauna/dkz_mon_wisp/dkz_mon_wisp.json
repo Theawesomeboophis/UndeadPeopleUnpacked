@@ -1,0 +1,10 @@
+{
+  "id": "dkz_mon_wisp",
+  "fg": [
+    "dkz_mon_wisp"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

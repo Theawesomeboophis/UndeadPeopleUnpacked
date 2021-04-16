@@ -57,8 +57,7 @@
         "t_iron_fence_posts_unconnected_1",
         "t_iron_fence_posts_unconnected_2"
       ],
-      "bg": ["bg_t_sidewalk"],
-      "rotates": true
+      "bg": ["bg_t_sidewalk"]
     }
   ]
 }

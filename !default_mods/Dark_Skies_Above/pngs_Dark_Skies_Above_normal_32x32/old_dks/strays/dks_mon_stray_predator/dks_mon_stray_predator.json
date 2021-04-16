@@ -1,0 +1,10 @@
+{
+  "id": "dks_mon_stray_predator",
+  "fg": [
+    "dkz_mon_stray_predator"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

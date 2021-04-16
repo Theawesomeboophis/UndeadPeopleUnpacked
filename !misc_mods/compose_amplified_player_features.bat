@@ -1,1 +1,2 @@
 python ../compose-mods.py amplified_player_features
+pause

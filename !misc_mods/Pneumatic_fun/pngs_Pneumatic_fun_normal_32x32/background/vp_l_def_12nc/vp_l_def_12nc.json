@@ -4,7 +4,8 @@
     "vp_l_def_12nc"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

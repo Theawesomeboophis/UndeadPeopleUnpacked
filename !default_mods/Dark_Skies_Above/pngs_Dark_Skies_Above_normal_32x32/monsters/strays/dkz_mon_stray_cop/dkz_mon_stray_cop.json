@@ -1,0 +1,8 @@
+{
+  "id": "dkz_mon_stray_cop",
+  "fg": ["dkz_mon_stray_cop"],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

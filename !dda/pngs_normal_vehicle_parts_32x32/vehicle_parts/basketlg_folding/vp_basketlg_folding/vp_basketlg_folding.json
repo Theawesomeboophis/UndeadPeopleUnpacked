@@ -3,7 +3,7 @@
   "fg": [
     "vp_basketlg_folding"
   ],
-  "bg": [],
+  "bg": ["bg_car"],
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
@@ -12,12 +12,7 @@
       "fg": [
         "vp_basketlg_folding_broken"
       ],
-      "bg": [
-        "vp_box",
-        "vp_basketlg_folding",
-        "vp_basketlg_external",
-        "vp_basketsm_external"
-      ]
+      "bg": ["bg_car"]
     }
   ]
 }

@@ -12,7 +12,9 @@
       "fg": [
         "t_sconc_wall_center"
       ],
-      "bg": []
+      "bg": [
+        "bg_dirt"
+      ]
     },
     {
       "id": "corner",
@@ -22,7 +24,9 @@
         "t_sconc_wall_corner_3",
         "t_sconc_wall_corner_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_dirt"
+      ]
     },
     {
       "id": "t_connection",
@@ -32,7 +36,9 @@
         "t_sconc_wall_t_connection_3",
         "t_sconc_wall_t_connection_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_dirt"
+      ]
     },
     {
       "id": "edge",
@@ -40,7 +46,9 @@
         "t_sconc_wall_edge_1",
         "t_sconc_wall_edge_2"
       ],
-      "bg": []
+      "bg": [
+        "bg_dirt"
+      ]
     },
     {
       "id": "end_piece",
@@ -50,14 +58,18 @@
         "t_sconc_wall_end_piece_3",
         "t_sconc_wall_end_piece_4"
       ],
-      "bg": []
+      "bg": [
+        "bg_dirt"
+      ]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_sconc_wall_unconnected"
       ],
-      "bg": []
+      "bg": [
+        "bg_dirt"
+      ]
     }
   ]
 }

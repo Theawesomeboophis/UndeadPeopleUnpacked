@@ -4,7 +4,8 @@
     "vp_rifle_9mmnc"
   ],
   "bg": [],
-  "rotates": true,
+ "rotates": true,
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",

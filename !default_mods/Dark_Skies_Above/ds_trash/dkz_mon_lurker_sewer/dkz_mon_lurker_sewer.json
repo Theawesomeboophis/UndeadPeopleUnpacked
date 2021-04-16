@@ -1,0 +1,10 @@
+{
+  "id": "dkz_mon_lurker_sewer",
+  "fg": [
+    "dkz_mon_lurker_sewer"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

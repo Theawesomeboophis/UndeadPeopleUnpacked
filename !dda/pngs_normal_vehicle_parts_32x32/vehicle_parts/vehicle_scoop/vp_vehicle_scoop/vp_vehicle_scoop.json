@@ -3,7 +3,7 @@
   "fg": [
     "vp_vehicle_scoop"
   ],
-  "bg": [],
+  "bg": ["bg_car"],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
@@ -12,7 +12,7 @@
       "fg": [
         "vp_vehicle_scoop_broken"
       ],
-      "bg": []
+      "bg": ["bg_car"]
     }
   ]
 }

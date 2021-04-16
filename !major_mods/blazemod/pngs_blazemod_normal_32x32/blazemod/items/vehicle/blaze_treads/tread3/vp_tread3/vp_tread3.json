@@ -4,5 +4,15 @@
     "vp_tread3"
   ],
   "bg": [],
-  "rotates": true
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_tread3_broken"
+      ],
+      "bg": []
+    }
+  ]
 }

@@ -1,0 +1,50 @@
+{
+  "id": "mon_mutant_cryo",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_cryo_10"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "karlauncher",
+  "fg": [
+    "karlauncher"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
