@@ -1,0 +1,9 @@
+{
+  "id": "mon_zombie_revenant_forsaken_idle",
+  "fg": [
+    "mon_zombie_revenant_forsaken"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gray_act",
+  "fg": [
+    "gray_act"
+  ],
+  "bg": [],
+  "rotates": false
+}

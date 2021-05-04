@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bomblet_vile",
+  "fg": [
+    "bomblet_vile"
+  ],
+  "bg": [],
+  "rotates": false
+}

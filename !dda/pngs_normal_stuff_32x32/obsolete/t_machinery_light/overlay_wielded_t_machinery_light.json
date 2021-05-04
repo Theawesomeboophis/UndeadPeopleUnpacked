@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_t_machinery_light",
+  "fg": [
+    "t_machinery_light"
+  ],
+  "bg": [],
+  "rotates": false
+}

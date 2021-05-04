@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_nanite_deathcloud",
+  "fg": [
+    "nanite_deathcloud"
+  ],
+  "bg": [],
+  "rotates": false
+}

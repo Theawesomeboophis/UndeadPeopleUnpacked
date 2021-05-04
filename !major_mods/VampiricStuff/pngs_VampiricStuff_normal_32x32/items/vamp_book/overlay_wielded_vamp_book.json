@@ -1,0 +1,15 @@
+{
+  "id": [
+    "overlay_wielded_vamp_book1",
+    "overlay_wielded_vamp_book2",
+    "overlay_wielded_vamp_book3",
+    "overlay_wielded_vamp_book4",
+    "overlay_wielded_vamp_book5",
+    "overlay_wielded_vamp_book6"
+  ],
+  "fg": [
+    "vamp_book"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_textbook_atomic_lab",
+  "fg": [
+    "textbook_atomic_lab"
+  ],
+  "bg": [],
+  "rotates": false
+}

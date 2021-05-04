@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_summon_hunting_horror",
+  "fg": [
+    "summon_hunting_horror"
+  ],
+  "bg": [],
+  "rotates": false
+}

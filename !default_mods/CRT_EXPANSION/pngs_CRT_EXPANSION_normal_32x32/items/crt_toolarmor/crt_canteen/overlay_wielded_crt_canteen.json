@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_crt_canteen",
+  "fg": [
+    "crt_canteen"
+  ],
+  "bg": [],
+  "rotates": false
+}

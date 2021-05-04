@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_fishing_string",
+  "fg": [
+    "fishing_string"
+  ],
+  "bg": [],
+  "rotates": false
+}

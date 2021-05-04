@@ -1,25 +1,10 @@
 ------------------------------------------------------------------------------------------
 Missing Terrain:
 
-t_secro_carpet_yellow_flesh
-t_secro_carpet_green_flesh
-t_secro_carpet_purple_flesh
-t_secro_window_stained_green_flesh
-t_secro_window_stained_red_flesh
-t_secro_window_stained_blue_flesh
-t_secro_wall_p_flesh
-t_secro_reinforced_door_glass_flesh
-t_secro_card_flesh
+
 
 has fakes:
 
-t_secro_flesh_wall_veins
-t_secro_flesh_cave_entrance_open
-t_secro_flesh_cave_entrance_up
-t_secro_flesh_exit_closed
-t_secro_ballistic_glass_flesh
-t_secro_door_metal_secrofrr
-t_secro_door_metal_secrofv
 t_secro_dirt_flesh_camp
 t_secro_grass_flesh_camp
 t_secro_grass_long_flesh_camp
@@ -48,7 +33,6 @@ f_secro_flesh_camp_storage_mark
 f_secro_flesh_camp_displaystorage_mark
 f_secro_flesh_camp_liquidstorage_mark
 f_secro_flesh_camp_light_mark
-
 
 has fakes:
 
@@ -146,41 +130,30 @@ pellucid_mouth
 secro_fleshmech_gun_acid
 secro_fleshmech_gun_acid_large
 secro_fleshmech_gun_spikes_large
-
+secro_power_armor_flesh_morphed_gun_spit_alt
+secro_power_armor_flesh_biolight
 
 has fakes:
 
+corpse_saddler_used
 secro_power_armor_battery
 secro_power_armor_battery_cell
 secro_flesh_reinforced
 secro_fleshmech_battery
 bio_secro_fv
 bio_secro_fv_core
-corpse_saddler_used
 broken_secro_laserturret
 broken_secro_electurret
 broken_secro_gravturret
 broken_secro_laserturret_mod
 secro_flesh_core
-secro_power_armor_flesh_unstable
 secro_id_fvvault
 secro_id_frrom
 secro_power_armor_flesh
 secro_flesh_backpack
 secro_power_armor_module_core
 secro_flesh_frame
-secro_flesh_ammo_pouch
-secro_flesh_ammo_satchel
-secro_flesh_chestpouch
-secro_flesh_chestrig
 secro_flesh_xl_chestrig
-secro_flesh_javelin_bag
-secro_flesh_legpouch
-secro_flesh_legpouch_large
-secro_flesh_quiver
-secro_flesh_quiver_large
-secro_flesh_tacvest
-secro_flesh_xl_tacvest
 secro_flesh_cloak
 secro_flesh_back_holster
 secro_flesh_baldric_holster
@@ -217,6 +190,8 @@ secro_power_armor_flesh_coward
 secro_power_armor_flesh_range
 secro_power_armor_flesh_infect
 secro_fleshmech_gun_spikes
+secro_power_armor_flesh_unstable
+secro_power_armor_flesh_npc
 
 ------------------------------------------------------------------------------------------
 Missing Monsters:
@@ -228,53 +203,16 @@ mon_szombie_vessel
 mon_szombie_vessel_inactive
 mon_secro_fleshmech_unlink
 mon_secro_fleshmech
-mon_sflesh_zombie_scientist
-mon_sflesh_gas_zombie
-mon_sflesh_zombie_soldier_blackops_1
-mon_sflesh_zombie_soldier_blackops_2
-mon_sflesh_zombie_kevlar_1
-mon_sflesh_zombie_kevlar_2
-mon_sflesh_zombie_military_pilot
-mon_sflesh_zombie_bio_op
-mon_sflesh_zolf
-mon_sflesh_zombear
-mon_sflesh_zombie_pig
-mon_sflesh_zombeaver
-mon_sflesh_zoose
-mon_sflesh_zougar
-mon_sflesh_camp_turret
-mon_sflesh_camp_turret_blade
-mon_sflesh_camp_turret_tendril
-mon_sflesh_camp_turret_mouth
-mon_sflesh_camp_turret_unify
-mon_sflesh_camp_turret_hravager
-
 
 has fakes:
 
 mon_shifter_illu
 mon_secrodragon_woke_armed
-mon_sflesh_boar_wild_piglet
-mon_sflesh_boar_wild
-mon_sflesh_cow_calf
-mon_sflesh_deer_fawn
-mon_sflesh_pig_piglet
-mon_sflesh_sheep_lamb
-mon_sflesh_zombie_soldier_acid_1
-mon_sflesh_zombie_soldier_acid_2
-mon_sflesh_zombie_survivor_elite
-mon_sflesh_zombie_wretched
 mon_zombieworm_onger
 mon_carrion_alpha_rally
-mon_zombie_revenant_idle
-mon_zombie_revenant_allure_idle
 mon_zombie_swarmer
 mon_zombie_swarmer_alpha
 mon_zombie_swarmer_alpha_rally
-mon_zombie_skittyweavy_idle
-mon_zombie_skittyweavy_repleshy_idle
-mon_zombie_skittyweavy_sickly_idle
-mon_sflesh_bear_cub
 
 ------------------------------------------------------------------------------------------
 Missing Vehicle Parts:
@@ -301,7 +239,6 @@ secro_flesh_lstorage_med
 secro_flesh_lstorage_large
 secro_flesh_wheel_leg
 
-
 has fakes:
 
 
@@ -323,14 +260,70 @@ fd_sflesh_fleshling_birth
 fd_sflesh_fleshling_scavengy_forms
 fd_sflesh_fleshling_scavengy_forms_limit
 fd_carrion_alpha_stop
-fd_fleshknot_tent
 fd_grubbyzed_worm_limit
 
 has fakes:
 
-fd_sflesh_strands
 fd_shifter_fog
 fd_shifter_fog_trail
 fd_grubbyzed_goo
 fd_snatcher_snatch_trail
+fd_sflesh_strands
 
+------------------------------------------------------------------------------------------
+Missing Mutations:
+
+SECRO_TENDRIL
+SECRO_TENDRIL_THICK
+SECRO_TENDRIL_TENT
+SECRO_TENDRIL_THICK_THRESHOLD
+SECRO_TENDRIL_TENT_THRESHOLD
+SECRO_BLADE_L
+SECRO_BLADE_L_SHARP
+SECRO_BLADE_L_SERRATED
+SECRO_BLADE_SHARP_THRESHOLD
+SECRO_BLADE_SERRATED_THRESHOLD
+SECRO_TITAN
+SECRO_TITAN2
+SECRO_TITAN_OK
+SECRO_TITAN_NOTOK
+SECRO_SPIDER
+SECRO_SPIDER_OK
+SECRO_SPIDER_NOTOK
+SECRO_SPIDER_VERYOK
+SECRO_LICKER
+SECRO_LICKER_NOTOK
+SECRO_LICKER_DEF
+SECRO_LICKER_DEF_OK
+SECRO_LICKER_ATK
+SECRO_LICKER_ATK_OK
+SECRO_LICKER_DEF_THRESHOLD
+SECRO_LICKER_ATK_THRESHOLD
+SECRO_UNKNOWN_WING_START
+SECRO_UNKNOWN_WING_MEMB
+SECRO_UNKNOWN_WING_BONY
+SECRO_UNKNOWN_WING_NOTOK
+SECRO_UNKNOWN_HAIR_START
+SECRO_UNKNOWN_HAIR_EYES
+SECRO_UNKNOWN_HAIR_SUCK
+THRESH_SECRONOM_FLESH
+SECRONOM_FLESH_DEBUG
+SECRONOM_FLESH_BIO
+SECRONOM_FLESH_BIO_mobile
+SECRONOM_FLESH_STARTER
+SECRONOM_FLESH_traverse
+SECRONOM_FLESH_transmit
+SECRONOM_FLESH_BIO_spread1
+SECRONOM_FLESH_BIO_spread2
+SECRONOM_FLESH_BIO_spread3
+SECRONOM_FLESH_BIO_construction
+SECRONOM_FLESH_BIO_construction_wide
+SECRONOM_FLESH_BIO_construction_advance
+SECRONOM_FLESH_BIO_construction_pp
+SECRONOM_FLESH_BIO_construction_fuse
+SECRONOM_FLESH_SPAWN
+SECRONOM_FLESH_SPAWN_ARTIFICE_weaver1
+SECRONOM_FLESH_SPAWN_ARTIFICE_weaver2
+SECRONOM_FLESH_SPAWN_ARTIFICE_weaver3
+SECRO_WEARING_FLESH_VESSEL
+SECRO_FLESH_VESSEL_1

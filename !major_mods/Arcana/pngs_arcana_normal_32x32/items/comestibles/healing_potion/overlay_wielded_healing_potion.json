@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_healing_potion",
+  "fg": [
+    "healing_potion"
+  ],
+  "bg": [],
+  "rotates": false
+}

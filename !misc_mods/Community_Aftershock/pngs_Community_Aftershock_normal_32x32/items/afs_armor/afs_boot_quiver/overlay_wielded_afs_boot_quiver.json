@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_afs_boot_quiver",
+  "fg": [
+    "afs_boot_quiver"
+  ],
+  "bg": [],
+  "rotates": true
+}

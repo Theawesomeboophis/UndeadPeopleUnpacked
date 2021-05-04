@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_twisted_restore_potion",
+  "fg": [
+    "twisted_restore_potion"
+  ],
+  "bg": [],
+  "rotates": false
+}

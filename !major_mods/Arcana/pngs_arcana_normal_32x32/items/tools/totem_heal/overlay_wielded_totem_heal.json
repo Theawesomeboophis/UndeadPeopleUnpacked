@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_totem_heal",
+  "fg": [
+    "totem_heal"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -3,8 +3,6 @@
   "fg": [
     "overlay_worn_pants_leather"
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
+  "bg": [],
   "rotates": false
 }

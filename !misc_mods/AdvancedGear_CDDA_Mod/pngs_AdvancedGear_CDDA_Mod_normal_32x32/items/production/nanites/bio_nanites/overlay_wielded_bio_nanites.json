@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_nanites",
+  "fg": [
+    "bio_nanites"
+  ],
+  "bg": [],
+  "rotates": false
+}

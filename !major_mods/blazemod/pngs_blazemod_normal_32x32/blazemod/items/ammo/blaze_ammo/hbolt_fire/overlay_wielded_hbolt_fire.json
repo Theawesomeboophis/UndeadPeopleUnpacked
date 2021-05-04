@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_hbolt_fire",
+  "fg": [
+    "hbolt_fire"
+  ],
+  "bg": [],
+  "rotates": false
+}

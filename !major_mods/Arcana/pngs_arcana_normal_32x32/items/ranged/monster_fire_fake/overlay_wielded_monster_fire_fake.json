@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_monster_fire_fake",
+  "fg": [
+    "monster_fire_fake"
+  ],
+  "bg": [],
+  "rotates": false
+}

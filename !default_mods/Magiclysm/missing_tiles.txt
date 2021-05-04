@@ -5,7 +5,8 @@ Missing Terrain:
 
 has fakes:
 
-t_wall_glassteel_alarm t_vault_vent
+t_wall_glassteel_alarm
+t_vault_vent
 
 ------------------------------------------------------------------------------------------
 Missing Furniture:
@@ -19,7 +20,6 @@ has fakes:
 ------------------------------------------------------------------------------------------
 Missing Items:
 
-manatouched_serum
 bio_sneeze_beam
 animist_shadows
 mana_dust
@@ -44,12 +44,11 @@ aura_feral
 aura_caustic
 aura_werewolf
 subzero_talons
-mutagen_black_dragon
-iv_black_dragon
 fireproof_mortar
 force_magical_armor
 mana_wheel
 demon_possession_aura
+
 
 has fakes:
 
@@ -110,7 +109,8 @@ has fakes:
 mon_forgemaster3
 mon_forgehounds
 mon_forgemaster2
-mon_troll_goblin_tamed
+mon_troll_goblin_tamed 
+ 
 
 ------------------------------------------------------------------------------------------
 Missing Vehicle Parts:
@@ -118,7 +118,7 @@ Missing Vehicle Parts:
 light_orichalcum_frame
 frame_orichalcum
 engine_vtwin_magic
-mana_frame 
+mana_frame
 
 has fakes:
 

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mastermind_brain",
+  "fg": [
+    "mastermind_brain"
+  ],
+  "bg": [],
+  "rotates": false
+}

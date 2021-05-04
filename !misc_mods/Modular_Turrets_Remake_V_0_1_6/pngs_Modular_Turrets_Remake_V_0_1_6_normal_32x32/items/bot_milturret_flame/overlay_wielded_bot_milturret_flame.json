@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_milturret_flame",
+  "fg": [
+    "bot_milturret_flame"
+  ],
+  "bg": [],
+  "rotates": true
+}

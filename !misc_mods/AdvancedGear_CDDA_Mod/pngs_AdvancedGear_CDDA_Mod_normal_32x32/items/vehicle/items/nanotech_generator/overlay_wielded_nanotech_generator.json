@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_nanotech_generator",
+  "fg": [
+    "nanotech_generator"
+  ],
+  "bg": [],
+  "rotates": false
+}

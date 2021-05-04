@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_walker_flare",
+  "fg": [
+    "walker_flare"
+  ],
+  "bg": [],
+  "rotates": false
+}

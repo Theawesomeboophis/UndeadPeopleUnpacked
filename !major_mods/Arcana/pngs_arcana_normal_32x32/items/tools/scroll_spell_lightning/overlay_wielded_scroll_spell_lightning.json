@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_scroll_spell_lightning",
+  "fg": [
+    "scroll_spell_lightning"
+  ],
+  "bg": [],
+  "rotates": false
+}

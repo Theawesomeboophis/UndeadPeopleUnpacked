@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_druid_spellbook",
+  "fg": [
+    "druid_spellbook"
+  ],
+  "bg": [],
+  "rotates": true
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_totem_elecresist",
+  "fg": [
+    "totem_elecresist"
+  ],
+  "bg": [],
+  "rotates": false
+}

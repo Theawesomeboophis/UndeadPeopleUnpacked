@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_sac_empty",
+  "fg": [
+    "sac_empty"
+  ],
+  "bg": [],
+  "rotates": false
+}

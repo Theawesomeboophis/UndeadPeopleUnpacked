@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_helm_nullifier",
+  "fg": [
+    "helm_nullifier"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_monster_tear",
+  "fg": [
+    "monster_tear"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gp_cabbage_ready",
+  "fg": [
+    "gp_cabbage_ready"
+  ],
+  "bg": [],
+  "rotates": false
+}

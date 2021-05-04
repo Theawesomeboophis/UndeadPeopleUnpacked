@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mtoken_arming_sword",
+  "fg": [
+    "mtoken_arming_sword"
+  ],
+  "bg": [],
+  "rotates": false
+}

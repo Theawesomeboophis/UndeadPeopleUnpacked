@@ -1,0 +1,10 @@
+{
+  "id": "mon_sflesh_zoose",
+  "fg": [
+    "mon_sflesh_zoose"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_canbomb",
+  "fg": [
+    "canbomb"
+  ],
+  "bg": [],
+  "rotates": false
+}

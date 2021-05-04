@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_fake_inkjet",
+  "fg": [
+    "fake_inkjet"
+  ],
+  "bg": [],
+  "rotates": false
+}

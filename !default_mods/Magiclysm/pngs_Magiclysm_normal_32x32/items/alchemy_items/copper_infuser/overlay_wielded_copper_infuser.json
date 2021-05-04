@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_copper_infuser",
+  "fg": [
+    "copper_infuser"
+  ],
+  "bg": [],
+  "rotates": false
+}

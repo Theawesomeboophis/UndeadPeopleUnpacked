@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_robe_shadow_on",
+  "fg": [
+    "robe_shadow_on"
+  ],
+  "bg": [],
+  "rotates": false
+}

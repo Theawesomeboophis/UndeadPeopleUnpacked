@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_afs_bio_missiles",
+  "fg": [
+    "afs_bio_missiles"
+  ],
+  "bg": [],
+  "rotates": false
+}

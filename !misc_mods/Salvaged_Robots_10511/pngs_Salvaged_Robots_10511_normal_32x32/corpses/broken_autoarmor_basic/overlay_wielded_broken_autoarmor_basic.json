@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_broken_autoarmor_basic",
+  "fg": [
+    "broken_autoarmor_basic"
+  ],
+  "bg": [],
+  "rotates": true
+}

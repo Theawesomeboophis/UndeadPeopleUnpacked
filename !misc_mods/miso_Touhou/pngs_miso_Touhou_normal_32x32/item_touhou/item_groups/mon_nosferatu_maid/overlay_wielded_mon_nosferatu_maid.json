@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_mon_nosferatu_maid",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_nosferatu_maid_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_nosferatu_maid_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_nosferatu_maid_3"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

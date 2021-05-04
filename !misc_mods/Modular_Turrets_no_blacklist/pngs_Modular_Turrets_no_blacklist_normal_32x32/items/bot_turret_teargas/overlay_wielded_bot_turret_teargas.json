@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_turret_teargas",
+  "fg": [
+    "bot_turret_teargas"
+  ],
+  "bg": [],
+  "rotates": true
+}

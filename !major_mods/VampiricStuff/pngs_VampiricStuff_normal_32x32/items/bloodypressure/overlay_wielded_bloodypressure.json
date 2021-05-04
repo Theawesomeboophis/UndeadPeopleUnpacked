@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bloodypressure",
+  "fg": [
+    "bloodypressure"
+  ],
+  "bg": [],
+  "rotates": false
+}

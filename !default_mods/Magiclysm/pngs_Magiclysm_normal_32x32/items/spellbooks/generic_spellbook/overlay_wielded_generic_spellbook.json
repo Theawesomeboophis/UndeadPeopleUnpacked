@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_generic_spellbook",
+  "fg": [
+    "generic_spellbook"
+  ],
+  "bg": [],
+  "rotates": false
+}

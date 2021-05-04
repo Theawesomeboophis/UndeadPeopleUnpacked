@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_turret_water",
+  "fg": [
+    "bot_turret_water"
+  ],
+  "bg": [],
+  "rotates": true
+}

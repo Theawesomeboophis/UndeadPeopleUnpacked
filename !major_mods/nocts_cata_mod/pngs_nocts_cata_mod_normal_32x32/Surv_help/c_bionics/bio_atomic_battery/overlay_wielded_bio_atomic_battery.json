@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_atomic_battery",
+  "fg": [
+    "bio_atomic_battery"
+  ],
+  "bg": [],
+  "rotates": false
+}

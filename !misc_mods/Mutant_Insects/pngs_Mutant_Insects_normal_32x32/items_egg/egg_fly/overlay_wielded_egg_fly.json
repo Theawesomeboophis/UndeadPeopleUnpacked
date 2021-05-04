@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_egg_fly",
+  "fg": [
+    "egg_fly"
+  ],
+  "bg": [],
+  "rotates": false
+}

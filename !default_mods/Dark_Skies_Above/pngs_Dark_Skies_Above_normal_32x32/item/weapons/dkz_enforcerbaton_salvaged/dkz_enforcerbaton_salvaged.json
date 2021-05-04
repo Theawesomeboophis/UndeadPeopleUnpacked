@@ -1,0 +1,10 @@
+{
+  "id": "dkz_enforcerbaton_salvaged",
+  "fg": [
+    "dkz_enforcerbaton_salvaged"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

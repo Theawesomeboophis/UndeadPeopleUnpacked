@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_scroll_destruction",
+  "fg": [
+    "scroll_destruction"
+  ],
+  "bg": [],
+  "rotates": false
+}

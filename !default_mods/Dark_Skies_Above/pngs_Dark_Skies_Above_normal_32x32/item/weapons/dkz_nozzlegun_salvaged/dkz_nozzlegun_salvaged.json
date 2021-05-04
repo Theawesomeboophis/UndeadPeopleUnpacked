@@ -1,0 +1,10 @@
+{
+  "id": "dkz_nozzlegun_salvaged",
+  "fg": [
+    "dkz_nozzlegun_salvaged"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_craftbuddy",
+  "fg": [
+    "bot_craftbuddy"
+  ],
+  "bg": [],
+  "rotates": true
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bow_powerstring",
+  "fg": [
+    "bow_powerstring"
+  ],
+  "bg": [],
+  "rotates": false
+}

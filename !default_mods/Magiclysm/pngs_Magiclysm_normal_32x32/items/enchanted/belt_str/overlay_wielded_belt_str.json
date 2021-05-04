@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_belt_str",
+  "fg": [
+    "belt_str"
+  ],
+  "bg": [],
+  "rotates": false
+}

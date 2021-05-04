@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_scroll_spell_elecresist",
+  "fg": [
+    "scroll_spell_elecresist"
+  ],
+  "bg": [],
+  "rotates": false
+}

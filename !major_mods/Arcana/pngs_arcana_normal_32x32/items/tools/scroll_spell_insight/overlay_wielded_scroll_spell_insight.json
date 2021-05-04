@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_scroll_spell_insight",
+  "fg": [
+    "scroll_spell_insight"
+  ],
+  "bg": [],
+  "rotates": false
+}

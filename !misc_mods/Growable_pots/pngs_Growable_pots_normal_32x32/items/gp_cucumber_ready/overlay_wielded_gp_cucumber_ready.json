@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gp_cucumber_ready",
+  "fg": [
+    "gp_cucumber_ready"
+  ],
+  "bg": [],
+  "rotates": false
+}

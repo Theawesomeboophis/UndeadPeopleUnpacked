@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_handflare_act",
+  "fg": [
+    "handflare_act"
+  ],
+  "bg": [],
+  "rotates": false
+}

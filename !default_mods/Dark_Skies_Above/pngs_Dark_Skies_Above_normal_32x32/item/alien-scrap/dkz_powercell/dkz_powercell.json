@@ -1,0 +1,10 @@
+{
+  "id": "dkz_powercell",
+  "fg": [
+    "dkz_powercell"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dkz_elecscrap",
+  "fg": [
+    "dkz_elecscrap"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

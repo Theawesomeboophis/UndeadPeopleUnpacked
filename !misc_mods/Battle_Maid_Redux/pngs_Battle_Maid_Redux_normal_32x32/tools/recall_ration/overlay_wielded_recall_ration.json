@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_recall_ration",
+  "fg": [
+    "recall_ration"
+  ],
+  "bg": [],
+  "rotates": false
+}

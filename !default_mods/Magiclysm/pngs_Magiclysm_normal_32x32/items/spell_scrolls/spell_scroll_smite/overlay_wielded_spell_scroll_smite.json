@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_spell_scroll_smite",
+  "fg": [
+    "spell_scroll"
+  ],
+  "bg": [],
+  "rotates": false
+}

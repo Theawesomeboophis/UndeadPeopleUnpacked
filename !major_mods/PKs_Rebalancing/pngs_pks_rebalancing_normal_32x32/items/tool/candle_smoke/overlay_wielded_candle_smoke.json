@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_candle_smoke",
+  "fg": [
+    "candle_smoke"
+  ],
+  "bg": [],
+  "rotates": false
+}

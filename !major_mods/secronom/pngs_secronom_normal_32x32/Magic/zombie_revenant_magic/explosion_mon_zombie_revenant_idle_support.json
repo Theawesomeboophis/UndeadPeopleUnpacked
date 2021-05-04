@@ -1,0 +1,7 @@
+{
+  "id": ["explosion_mon_zombie_revenant_idle_support", "explosion_mon_zombie_revenant_idle_target", "explosion_mon_zombie_revenant_allure_idle_support", "explosion_mon_zombie_revenant_allure_idle_target", "explosion_mon_zombie_revenant_stop", "explosion_mon_zombie_revenant_stop_random", "explosion_mon_zombie_revenant_allure_stop", "explosion_mon_zombie_revenant_allure_stop_random", "explosion_mon_zombie_revenant_withdraw", "explosion_mon_zombie_revenant_trigger", "explosion_mon_zombie_revenant_target", "explosion_mon_zombie_revenant_forsaken_dilute", "explosion_mon_zombie_revenant_forsaken_target", "explosion_mon_zombie_revenant_allure_incite", "explosion_mon_zombie_revenant_allure_target"],
+  "fg": [
+    "explosion_mon_zombie_revenant_target"
+  ],
+  "bg": []
+}

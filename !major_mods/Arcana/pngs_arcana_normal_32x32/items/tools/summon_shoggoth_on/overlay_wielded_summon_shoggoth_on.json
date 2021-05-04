@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_summon_shoggoth_on",
+  "fg": [
+    "summon_shoggoth_on"
+  ],
+  "bg": [],
+  "rotates": false
+}

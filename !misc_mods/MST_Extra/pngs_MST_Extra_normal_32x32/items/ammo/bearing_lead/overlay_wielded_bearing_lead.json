@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bearing_lead",
+  "fg": [
+    "bearing_lead"
+  ],
+  "bg": [],
+  "rotates": false
+}

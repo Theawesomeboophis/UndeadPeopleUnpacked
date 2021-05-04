@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_snare_trigger",
+  "fg": [
+    "snare_trigger"
+  ],
+  "bg": [],
+  "rotates": false
+}

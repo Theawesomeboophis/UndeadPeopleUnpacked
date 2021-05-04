@@ -20,21 +20,6 @@ has fakes:
 
 Missing Items:
 
-dkz_blend_scrap
-dkz_weave_scrap
-dkz_polymer_scrap
-soup_alphabet
-soup_alphabet_MJ
-soup_alphabet_MB
-apple_pie_filling_canned
-cherry_pie_filling_canned
-soup_cheese
-soup_pea
-soup_cream_broccoli
-soup_cream_celery
-soup_cream_mushroom
-dkz_elecscrap
-dkz_biotech
 dkz_biogel
 dkz_riotshield_salvaged
 dkz_battleshield_salvaged
@@ -46,10 +31,45 @@ dkz_mon_radgun
 dkz_mon_gasgun
 dkz_mon_plasmagun
 dkz_mon_flechette
+dkz_soup_alphabet
+dkz_soup_alphabet_MJ
+dkz_soup_alphabet_MB
+dkz_apple_pie_filling_canned
+dkz_cherry_pie_filling_canned
+dkz_soup_cheese
+dkz_soup_pea
+dkz_soup_cream_broccoli
+dkz_soup_cream_celery
+dkz_soup_cream_mushroom
+dkz_teddy_bear
+dkz_wolf_stuffie
+dkz_snake_stuffie
+dkz_penguin_stuffie
+dkz_alligator_stuffie
+dkz_bat_stuffie
+dkz_cougar_stuffie
+dkz_moose_stuffie
+dkz_doughnut_stuffie
+dkz_ham_stuffie
+dkz_toothbrush_stuffie
+dkz_mr_buisness
+dkz_miss_science
+dkz_bill_it
+dkz_mounty_jane
+dkz_clark_the_nark
+dkz_th_stephan
 
 
 has fakes:
 
+folding_bthk_stock
+dkz_blend_scrap
+dkz_weave_scrap
+dkz_polymer_scrap
+dkz_helicopter_flying_handbook
+dkz_helicopter_design_for_dummies
+dkz_elecscrap
+dkz_biotech
 dkz_powercell
 dkz_xenoid_light_armor_salvaged
 dkz_xenoid_heavy_armor_salvaged
@@ -61,6 +81,7 @@ dkz_zenture_industries_basic_zwatch
 dkz_zenture_industries_premium_zwatch
 dkz_zenture_industries_executive_zwatch
 dkz_xenoid_mask_reclaimed_white
+dkz_nozzlegun_salvaged
 dkz_flamesword_salvaged
 dkz_knightsword_salvaged
 dkz_rangermachete_salvaged
@@ -71,25 +92,11 @@ dkz_xenoid_armlet_salvaged
 ------------------------------------------------------------------------------------------
 Missing Monsters:
 
-dkz_mon_stray_electric
-dkz_mon_stray_wretch_tough
-dkz_mon_stray_wretch_tendrils
-dkz_mon_stray_wretch_elec
-dkz_mon_stray_wretchmother
-dkz_mon_crystal_sprout
-dkz_mon_crystal_hive
-dkz_mon_crystal_mite
-dkz_mon_crystal_mite_fat
+
 
 has fakes:
 
-dkz_mon_stray_cop
-dkz_mon_stray_soldier
-dkz_mon_stray_fireman
-dkz_mon_stray_big
-dkz_mon_stray_prowler
-dkz_mon_stray_goliath
-dkz_mon_stray_creepler
+
 
 ------------------------------------------------------------------------------------------
 Missing Vehicle Parts:

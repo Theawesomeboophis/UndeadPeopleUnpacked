@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_environmental_skinsuit",
+  "fg": [
+    "environmental_skinsuit"
+  ],
+  "bg": [],
+  "rotates": false
+}

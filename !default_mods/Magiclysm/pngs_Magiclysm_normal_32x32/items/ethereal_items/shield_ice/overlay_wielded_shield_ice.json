@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_shield_ice",
+  "fg": [
+    "shield_ice"
+  ],
+  "bg": [],
+  "rotates": false
+}

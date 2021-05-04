@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_afs_calorie_pill",
+  "fg": [
+    "afs_calorie_pill"
+  ],
+  "bg": [],
+  "rotates": true
+}

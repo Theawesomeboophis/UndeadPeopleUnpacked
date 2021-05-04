@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chime_scrap_act",
+  "fg": [
+    "chime_scrap_act"
+  ],
+  "bg": [],
+  "rotates": false
+}

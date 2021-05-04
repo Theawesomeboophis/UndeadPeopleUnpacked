@@ -1,0 +1,7 @@
+{
+  "id": ["explosion_mon_zombie_skittyweavy_idle_support", "explosion_mon_zombie_skittyweavy_idle_target", "explosion_mon_zombie_skittyweavy_repleshy_idle_support", "explosion_mon_zombie_skittyweavy_repleshy_idle_target", "explosion_mon_zombie_skittyweavy_sickly_idle_support", "explosion_mon_zombie_skittyweavy_sickly_idle_target", "explosion_mon_zombie_skittyweavy_stop", "explosion_mon_zombie_skittyweavy_stop_random", "explosion_mon_zombie_skittyweavy_repleshy_stop", "explosion_mon_zombie_skittyweavy_sickly_stop", "explosion_mon_zombie_skittyweavy_sickly_stop_random", "explosion_mon_zombie_skittyweavy_flee", "explosion_mon_zombie_skittyweavy_heal", "explosion_mon_zombie_skittyweavy_dmg", "explosion_mon_zombie_skittyweavy_target", "explosion_mon_zombie_skittyweavy_repleshy_heal", "explosion_mon_zombie_skittyweavy_repleshy_dmg", "explosion_mon_zombie_skittyweavy_repleshy_target", "explosion_mon_zombie_skittyweavy_sickly_heal", "explosion_mon_zombie_skittyweavy_sickly_target"],
+  "fg": [
+    "explosion_mon_zombie_skittyweavy_target"
+  ],
+  "bg": []
+}

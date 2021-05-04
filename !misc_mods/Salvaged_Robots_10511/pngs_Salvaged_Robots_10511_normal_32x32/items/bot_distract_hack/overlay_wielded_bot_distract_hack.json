@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_distract_hack",
+  "fg": [
+    "bot_distract_hack"
+  ],
+  "bg": [],
+  "rotates": true
+}

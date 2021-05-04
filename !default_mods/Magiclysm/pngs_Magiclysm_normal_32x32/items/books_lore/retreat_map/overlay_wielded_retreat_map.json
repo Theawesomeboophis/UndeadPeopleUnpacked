@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_retreat_map",
+  "fg": [
+    "retreat_map"
+  ],
+  "bg": [],
+  "rotates": false
+}

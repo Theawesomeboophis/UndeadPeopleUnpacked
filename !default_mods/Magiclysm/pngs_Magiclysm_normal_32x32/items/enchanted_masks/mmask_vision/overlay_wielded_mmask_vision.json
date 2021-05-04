@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mmask_vision",
+  "fg": [
+    "mmask_vision"
+  ],
+  "bg": [],
+  "rotates": false
+}

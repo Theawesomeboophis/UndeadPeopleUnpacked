@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gp_wheat",
+  "fg": [
+    "gp_wheat"
+  ],
+  "bg": [],
+  "rotates": false
+}

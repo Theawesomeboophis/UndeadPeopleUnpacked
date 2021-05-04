@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_can_forge",
+  "fg": [
+    "can_forge"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_crypt_map",
+  "fg": [
+    "crypt_map"
+  ],
+  "bg": [],
+  "rotates": false
+}

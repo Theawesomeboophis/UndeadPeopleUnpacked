@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_summon_alchemic_golem",
+  "fg": [
+    "summon_alchemic_golem"
+  ],
+  "bg": [],
+  "rotates": false
+}

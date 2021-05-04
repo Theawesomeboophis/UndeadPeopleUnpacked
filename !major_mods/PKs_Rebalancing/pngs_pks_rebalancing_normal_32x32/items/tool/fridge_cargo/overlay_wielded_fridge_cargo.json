@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_fridge_cargo",
+  "fg": [
+    "fridge_cargo"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mana_potion_greater",
+  "fg": [
+    "mana_potion_greater"
+  ],
+  "bg": [],
+  "rotates": false
+}

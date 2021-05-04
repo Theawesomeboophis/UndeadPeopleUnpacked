@@ -1,0 +1,15 @@
+{
+  "id": "overlay_wielded_mon_nosferatu_remilia_scarlet",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_nosferatu_remilia_scarlet_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_nosferatu_remilia_scarlet_2"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

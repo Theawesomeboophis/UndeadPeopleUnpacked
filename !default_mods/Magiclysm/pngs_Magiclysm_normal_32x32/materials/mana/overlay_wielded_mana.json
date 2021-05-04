@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mana",
+  "fg": [
+    "mana"
+  ],
+  "bg": [],
+  "rotates": false
+}

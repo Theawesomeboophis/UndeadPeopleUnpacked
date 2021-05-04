@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_totem_invis",
+  "fg": [
+    "totem_invis"
+  ],
+  "bg": [],
+  "rotates": false
+}

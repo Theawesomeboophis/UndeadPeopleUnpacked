@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_skitterbot_grab",
+  "fg": [
+    "bot_skitterbot_grab"
+  ],
+  "bg": [],
+  "rotates": true
+}

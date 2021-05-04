@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_shield_buckler",
+  "fg": [
+    "shield_buckler"
+  ],
+  "bg": [],
+  "rotates": false
+}

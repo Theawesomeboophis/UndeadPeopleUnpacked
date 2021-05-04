@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_jug_suck",
+  "fg": [
+    "jug_suck"
+  ],
+  "bg": [],
+  "rotates": false
+}

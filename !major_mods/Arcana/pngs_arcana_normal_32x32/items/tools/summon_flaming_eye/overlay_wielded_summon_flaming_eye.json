@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_summon_flaming_eye",
+  "fg": [
+    "summon_flaming_eye"
+  ],
+  "bg": [],
+  "rotates": false
+}

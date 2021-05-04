@@ -1,0 +1,18 @@
+{
+  "id": "overlay_wielded_afs_fridge",
+  "fg": [
+    "afs_fridge"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "afs_fridge_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

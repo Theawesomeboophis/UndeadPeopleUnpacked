@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_pellet",
+  "fg": [
+    "pellet"
+  ],
+  "bg": [],
+  "rotates": false
+}

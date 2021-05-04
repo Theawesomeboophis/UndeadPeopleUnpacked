@@ -1,0 +1,7 @@
+{
+  "id": ["explosion_mon_sflesh_fleshling_tiny_devour", "explosion_mon_sflesh_fleshling_smol_devour", "explosion_mon_sflesh_fleshling_med_devour", "explosion_mon_sflesh_fleshling_big_devour", "explosion_mon_sflesh_fleshling_huge_devour", "explosion_mon_sflesh_fleshling_tiny_evo_target", "explosion_mon_sflesh_fleshling_stap", "explosion_mon_sflesh_fleshling_grow", "explosion_mon_sflesh_fleshling_tiny_evo_target_random", "explosion_mon_sflesh_fleshling_smol_evo", "explosion_mon_sflesh_fleshling_smol_evo_target", "explosion_mon_sflesh_fleshling_smol_evo_target_random", "explosion_mon_sflesh_fleshling_med_evo", "explosion_mon_sflesh_fleshling_med_evo_target", "explosion_mon_sflesh_fleshling_med_evo_target_random", "explosion_mon_sflesh_fleshling_big_evo"],
+  "fg": [
+    "mon_sflesh_fleshling_tiny_devour"
+  ],
+  "bg": []
+}

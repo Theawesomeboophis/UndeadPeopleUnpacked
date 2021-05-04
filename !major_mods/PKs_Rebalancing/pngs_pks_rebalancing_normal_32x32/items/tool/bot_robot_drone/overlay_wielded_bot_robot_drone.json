@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_robot_drone",
+  "fg": [
+    "bot_robot_drone"
+  ],
+  "bg": [],
+  "rotates": false
+}

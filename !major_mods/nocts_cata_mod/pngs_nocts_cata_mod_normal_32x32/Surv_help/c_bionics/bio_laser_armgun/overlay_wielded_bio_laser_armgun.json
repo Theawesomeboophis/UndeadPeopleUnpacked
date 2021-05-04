@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_laser_armgun",
+  "fg": [
+    "bio_laser_armgun"
+  ],
+  "bg": [],
+  "rotates": false
+}

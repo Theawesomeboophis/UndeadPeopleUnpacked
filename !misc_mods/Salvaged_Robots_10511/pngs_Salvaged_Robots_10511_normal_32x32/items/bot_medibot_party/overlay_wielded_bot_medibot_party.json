@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_medibot_party",
+  "fg": [
+    "bot_medibot_party"
+  ],
+  "bg": [],
+  "rotates": true
+}

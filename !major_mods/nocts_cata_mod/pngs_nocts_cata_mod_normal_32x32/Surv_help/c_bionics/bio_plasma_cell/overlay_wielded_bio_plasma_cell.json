@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_plasma_cell",
+  "fg": [
+    "bio_plasma_cell"
+  ],
+  "bg": [],
+  "rotates": false
+}

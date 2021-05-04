@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_cannister_rack",
+  "fg": [
+    "cannister_rack"
+  ],
+  "bg": [],
+  "rotates": false
+}

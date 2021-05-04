@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_meat_shoggoth",
+  "fg": [
+    "meat_shoggoth"
+  ],
+  "bg": [],
+  "rotates": false
+}

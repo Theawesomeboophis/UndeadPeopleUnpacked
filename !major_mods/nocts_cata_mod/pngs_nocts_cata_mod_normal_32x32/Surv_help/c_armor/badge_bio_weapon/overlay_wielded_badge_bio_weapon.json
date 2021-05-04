@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_badge_bio_weapon",
+  "fg": [
+    "badge_bio_weapon"
+  ],
+  "bg": [],
+  "rotates": false
+}

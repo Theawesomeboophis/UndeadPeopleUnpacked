@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_flamethrower",
+  "fg": [
+    "bio_flamethrower"
+  ],
+  "bg": [],
+  "rotates": false
+}

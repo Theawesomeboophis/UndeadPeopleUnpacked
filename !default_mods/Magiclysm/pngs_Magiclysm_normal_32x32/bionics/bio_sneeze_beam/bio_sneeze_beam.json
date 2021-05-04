@@ -1,0 +1,10 @@
+{
+  "id": "bio_sneeze_beam",
+  "fg": [
+    "bio_sneeze_beam"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "overlay_wielded_afs_fridge",
+  "fg": [
+    "afs_fridge"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "afs_fridge_broken"
+      ],
+      "bg": [
+        "vp_fridge",
+        "fridge",
+        "afs_freezer",
+        "dc_fridge",
+        "vp_dc_fridge",
+        "f_afs_fridge_vehicle",
+        "f_afs_freezer_vehicle",
+        "vp_afs_freezer",
+        "afs_fridge"
+      ]
+    }
+  ]
+}

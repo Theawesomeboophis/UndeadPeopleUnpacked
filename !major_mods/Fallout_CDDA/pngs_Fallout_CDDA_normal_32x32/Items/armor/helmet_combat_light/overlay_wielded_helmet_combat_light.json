@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_helmet_combat_light",
+  "fg": [
+    "helmet_combat_light"
+  ],
+  "bg": [],
+  "rotates": false
+}

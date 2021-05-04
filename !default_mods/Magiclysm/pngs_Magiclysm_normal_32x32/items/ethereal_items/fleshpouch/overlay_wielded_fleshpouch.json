@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_fleshpouch",
+  "fg": [
+    "fleshpouch"
+  ],
+  "bg": [],
+  "rotates": true
+}

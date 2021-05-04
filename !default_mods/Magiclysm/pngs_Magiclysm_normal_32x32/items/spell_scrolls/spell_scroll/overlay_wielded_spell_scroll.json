@@ -1,0 +1,24 @@
+{
+  "id": [
+    "overlay_wielded_spell_scroll",
+    "overlay_wielded_spell_scroll_baleful_polymorph",
+    "overlay_wielded_spell_scroll_boneclub",
+    "overlay_wielded_spell_scroll_caustic_aura",
+    "overlay_wielded_spell_scroll_feralform",
+    "overlay_wielded_spell_scroll_flamebreath",
+    "overlay_wielded_spell_scroll_flamesword",
+    "overlay_wielded_spell_scroll_impactsling",
+    "overlay_wielded_spell_scroll_improved_knock",
+    "overlay_wielded_spell_scroll_knifeshot",
+    "overlay_wielded_spell_scroll_knock",
+    "overlay_wielded_spell_scroll_overcharge_eyes",
+    "overlay_wielded_spell_scroll_repelling_arc",
+    "overlay_wielded_spell_scroll_summon_floating_disk",
+    "overlay_wielded_spell_scroll_tornskin"
+  ],
+  "fg": [
+    "spell_scroll"
+  ],
+  "bg": [],
+  "rotates": false
+}

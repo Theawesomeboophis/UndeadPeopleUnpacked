@@ -1,0 +1,10 @@
+{
+  "id": "dkz_knightsword_salvaged",
+  "fg": [
+    "dkz_knightsword_salvaged"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

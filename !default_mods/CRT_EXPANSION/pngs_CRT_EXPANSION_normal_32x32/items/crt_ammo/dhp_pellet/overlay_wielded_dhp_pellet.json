@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_dhp_pellet",
+  "fg": [
+    "dhp_pellet"
+  ],
+  "bg": [],
+  "rotates": false
+}

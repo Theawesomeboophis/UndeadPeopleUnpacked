@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_nec_panier",
+  "fg": [
+    "nec_panier"
+  ],
+  "bg": [],
+  "rotates": false
+}

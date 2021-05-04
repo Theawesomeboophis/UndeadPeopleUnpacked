@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mana_dot_sight",
+  "fg": [
+    "mana_dot_sight"
+  ],
+  "bg": [],
+  "rotates": false
+}

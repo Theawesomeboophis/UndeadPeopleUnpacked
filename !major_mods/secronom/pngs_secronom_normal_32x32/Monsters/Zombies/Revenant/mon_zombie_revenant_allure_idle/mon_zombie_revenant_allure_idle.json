@@ -1,0 +1,9 @@
+{
+  "id": "mon_zombie_revenant_allure_idle",
+  "fg": [
+    "mon_zombie_revenant_allure"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

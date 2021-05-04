@@ -1,0 +1,10 @@
+{
+  "id": "dkz_weave_scrap",
+  "fg": [
+    "dkz_weave_scrap"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

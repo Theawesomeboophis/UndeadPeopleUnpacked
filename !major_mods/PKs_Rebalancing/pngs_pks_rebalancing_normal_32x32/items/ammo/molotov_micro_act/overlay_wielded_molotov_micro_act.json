@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_molotov_micro_act",
+  "fg": [
+    "molotov_micro_act"
+  ],
+  "bg": [],
+  "rotates": false
+}

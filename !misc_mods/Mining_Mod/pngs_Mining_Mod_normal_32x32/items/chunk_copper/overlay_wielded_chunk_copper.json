@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chunk_copper",
+  "fg": [
+    "chunk_copper"
+  ],
+  "bg": [],
+  "rotates": false
+}

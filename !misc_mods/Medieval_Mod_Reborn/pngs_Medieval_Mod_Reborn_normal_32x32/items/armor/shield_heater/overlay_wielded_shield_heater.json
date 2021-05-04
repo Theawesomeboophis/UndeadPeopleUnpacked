@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_shield_heater",
+  "fg": [
+    "shield_heater"
+  ],
+  "bg": [],
+  "rotates": false
+}

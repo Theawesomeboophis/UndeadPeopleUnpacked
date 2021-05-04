@@ -1,0 +1,20 @@
+{
+  "id": "overlay_wielded_afs_metal_rig",
+  "fg": [
+    "afs_metal_rig"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "afs_metal_rig_broken"
+      ],
+      "bg": [
+        "vp_afs_hauling_space"
+      ]
+    }
+  ]
+}
