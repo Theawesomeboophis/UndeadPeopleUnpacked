@@ -1,0 +1,10 @@
+{
+  "id": "mon_cherub_fly",
+  "fg": [
+    "mon_cherub_fly"
+  ],
+  "bg": [
+    "bg_big_normal_shadow"
+  ],
+  "rotates": false
+}

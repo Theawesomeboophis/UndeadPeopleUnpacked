@@ -1,0 +1,10 @@
+{
+  "id": "20_dread",
+  "fg": [
+    "20_dread"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

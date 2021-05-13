@@ -1,0 +1,63 @@
+{
+  "id": "t_chocolate_sh",
+  "fg": [
+    "t_chocolate_sh"
+  ],
+  "bg": ["bg_dirt"],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_chocolate_sh_center"
+      ],
+      "bg": ["bg_dirt"]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_chocolate_sh_corner_1",
+        "t_chocolate_sh_corner_2",
+        "t_chocolate_sh_corner_3",
+        "t_chocolate_sh_corner_4"
+      ],
+      "bg": ["bg_dirt"]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_chocolate_sh_t_connection_1",
+        "t_chocolate_sh_t_connection_2",
+        "t_chocolate_sh_t_connection_3",
+        "t_chocolate_sh_t_connection_4"
+      ],
+      "bg": ["bg_dirt"]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_chocolate_sh_edge_1",
+        "t_chocolate_sh_edge_2"
+      ],
+      "bg": ["bg_dirt"]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_chocolate_sh_end_piece_1",
+        "t_chocolate_sh_end_piece_2",
+        "t_chocolate_sh_end_piece_3",
+        "t_chocolate_sh_end_piece_4"
+      ],
+      "bg": ["bg_dirt"]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_chocolate_sh_unconnected"
+      ],
+      "bg": ["bg_dirt"]
+    }
+  ]
+}

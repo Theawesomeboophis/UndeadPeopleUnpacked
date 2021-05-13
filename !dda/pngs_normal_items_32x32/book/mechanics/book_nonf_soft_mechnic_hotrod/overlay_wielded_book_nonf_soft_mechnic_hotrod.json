@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_book_nonf_soft_mechnic_hotrod",
   "fg": [
-    "book_nonf_soft_mechnic_hotrod"
+    "overlay_wielded_book_temp"
   ],
   "bg": [],
   "rotates": false

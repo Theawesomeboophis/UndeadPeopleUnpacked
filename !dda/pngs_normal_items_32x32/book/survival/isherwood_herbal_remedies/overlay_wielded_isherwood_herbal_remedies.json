@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_isherwood_herbal_remedies",
   "fg": [
-    "isherwood_herbal_remedies"
+    "overlay_wielded_book_temp"
   ],
   "bg": [],
   "rotates": true

@@ -1,0 +1,103 @@
+------------------------------------------------------------------------------------------
+Missing Terrain:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Furniture:
+
+f_gridforge
+f_gridelectrolysis_kit
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Items:
+
+bot_haulerbot
+bot_turret_light
+bot_turret_longrange
+bot_turret_medium
+broken_haulerbot
+debug_active_relic_test
+debug_active_relic_test_on
+fake_gridelectrolysis_kit
+fake_gridforge
+fake_gridwelder
+fake_oven
+plastic_scrap
+
+
+has fakes:
+
+22_cphp
+bp_22_cphp
+broken_turret_light
+broken_turret_longrange
+broken_turret_medium
+ksub2000_turret_fake
+laser_cannon_turret_fake
+m14ebr_turret_fake
+m16a4_turret_fake
+reloaded_22_cphp
+survivor_hiking_backpack
+tÖttchen
+
+
+------------------------------------------------------------------------------------------
+Missing Monsters:
+
+
+
+has fakes:
+
+mon_turret_light
+mon_turret_medium
+mon_turret_longrange 
+
+------------------------------------------------------------------------------------------
+Missing Vehicle Parts:
+
+halfboard_horizontal_2_front
+halfboard_horizontal_2_rear
+xlhalfboard_horizontal_2_front
+xlhalfboard_horizontal_2_rear
+halfboard_vertical_2_left
+halfboard_vertical_2_right
+halfboard_vertical_T_right
+halfboard_vertical_T_left
+door_vertical_left
+door_vertical_right
+windshield_sw
+windshield_se
+windshield_horizontal_front_edge
+windshield_horizontal_rear
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Traps:
+
+
+
+has fakes:
+
+
+
+------------------------------------------------------------------------------------------
+Missing Fields:
+
+
+
+has fakes:
+
+

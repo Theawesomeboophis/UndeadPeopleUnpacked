@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_book_lockpick",
   "fg": [
-    "book_lockpick"
+    "overlay_wielded_book_temp"
   ],
   "bg": [],
   "rotates": false

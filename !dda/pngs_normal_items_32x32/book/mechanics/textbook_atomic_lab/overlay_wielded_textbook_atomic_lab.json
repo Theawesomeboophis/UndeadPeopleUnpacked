@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_textbook_atomic_lab",
   "fg": [
-    "textbook_atomic_lab"
+    "overlay_wielded_book_temp"
   ],
   "bg": [],
   "rotates": false
