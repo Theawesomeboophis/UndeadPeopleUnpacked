@@ -1,0 +1,10 @@
+{
+  "id": "20ga_shot",
+  "fg": [
+    "20ga_shot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

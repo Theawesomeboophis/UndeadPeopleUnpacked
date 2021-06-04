@@ -1,0 +1,10 @@
+{
+  "id": "t_hedgerow",
+  "fg": [
+    "t_hedgerow"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

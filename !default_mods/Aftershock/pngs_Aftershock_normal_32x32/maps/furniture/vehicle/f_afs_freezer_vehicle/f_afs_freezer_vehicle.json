@@ -1,0 +1,18 @@
+{
+  "id": "f_afs_freezer_vehicle",
+  "fg": [
+    "f_afs_freezer_vehicle"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "f_afs_freezer_vehicle_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

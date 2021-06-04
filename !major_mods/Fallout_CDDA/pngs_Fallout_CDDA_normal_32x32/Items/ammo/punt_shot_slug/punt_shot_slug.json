@@ -1,0 +1,10 @@
+{
+  "id": "punt_shot_slug",
+  "fg": [
+    "punt_shot_slug"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

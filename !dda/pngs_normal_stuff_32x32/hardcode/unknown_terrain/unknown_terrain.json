@@ -1,0 +1,75 @@
+{
+  "id": "unknown_terrain",
+  "fg": [
+    "unknown_terrain"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "unknown_terrain_center"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "unknown_terrain_corner_1",
+        "unknown_terrain_corner_2",
+        "unknown_terrain_corner_3",
+        "unknown_terrain_corner_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "unknown_terrain_t_connection_1",
+        "unknown_terrain_t_connection_2",
+        "unknown_terrain_t_connection_3",
+        "unknown_terrain_t_connection_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "unknown_terrain_edge_1",
+        "unknown_terrain_edge_2"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "unknown_terrain_end_piece_1",
+        "unknown_terrain_end_piece_2",
+        "unknown_terrain_end_piece_3",
+        "unknown_terrain_end_piece_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "unknown_terrain_unconnected"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    }
+  ]
+}

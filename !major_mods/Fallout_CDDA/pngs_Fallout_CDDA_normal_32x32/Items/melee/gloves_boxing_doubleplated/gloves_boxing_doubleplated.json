@@ -1,0 +1,10 @@
+{
+  "id": "gloves_boxing_doubleplated",
+  "fg": [
+    "gloves_boxing_doubleplated"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mon_acid_egg",
+  "fg": [
+    "mon_acid_egg"
+  ],
+  "bg": [],
+  "rotates": false
+}

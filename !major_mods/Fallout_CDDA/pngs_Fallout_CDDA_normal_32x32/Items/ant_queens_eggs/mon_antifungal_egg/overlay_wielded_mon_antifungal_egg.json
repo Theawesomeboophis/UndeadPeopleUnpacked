@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mon_antifungal_egg",
+  "fg": [
+    "mon_antifungal_egg"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_acid_egg",
+  "fg": [
+    "mon_acid_egg"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

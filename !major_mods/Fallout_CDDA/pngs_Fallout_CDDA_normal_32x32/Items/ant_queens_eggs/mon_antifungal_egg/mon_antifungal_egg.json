@@ -1,0 +1,10 @@
+{
+  "id": "mon_antifungal_egg",
+  "fg": [
+    "mon_antifungal_egg"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

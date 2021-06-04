@@ -1,0 +1,8 @@
+{
+  "id": "t_tree_xeno",
+  "fg": [
+    "t_tree_xeno"
+  ],
+  "bg": ["bg_big_dirt_frozen"],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_firework_incendiary",
+  "fg": [
+    "firework_incendiary"
+  ],
+  "bg": [],
+  "rotates": false
+}

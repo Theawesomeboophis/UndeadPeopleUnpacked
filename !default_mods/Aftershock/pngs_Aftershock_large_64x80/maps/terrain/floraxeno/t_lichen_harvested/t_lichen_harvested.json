@@ -1,0 +1,10 @@
+{
+  "id": "t_lichen_harvested",
+  "fg": [
+    "t_lichen_harvested"
+  ],
+  "bg": [
+    "bg_big_dirt_frozen"
+  ],
+  "rotates": false
+}

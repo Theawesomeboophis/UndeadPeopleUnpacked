@@ -1,0 +1,15 @@
+{
+  "id": "f_moxie_vent",
+  "fg": [
+   {
+      "weight": 30,
+      "sprite": "f_moxie_vent_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "f_moxie_vent_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

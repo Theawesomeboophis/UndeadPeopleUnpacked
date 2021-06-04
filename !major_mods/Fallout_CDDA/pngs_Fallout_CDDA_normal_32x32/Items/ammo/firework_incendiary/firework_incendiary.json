@@ -1,0 +1,10 @@
+{
+  "id": "firework_incendiary",
+  "fg": [
+    "firework_incendiary"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
