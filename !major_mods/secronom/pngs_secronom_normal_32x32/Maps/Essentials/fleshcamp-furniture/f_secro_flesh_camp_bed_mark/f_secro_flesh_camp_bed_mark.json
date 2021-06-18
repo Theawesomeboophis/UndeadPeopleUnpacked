@@ -1,0 +1,63 @@
+{
+  "id": "f_secro_flesh_camp_bed_mark",
+  "fg": [
+    "f_secro_flesh_camp_bed_mark"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_secro_flesh_camp_bed_mark_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_secro_flesh_camp_bed_mark_corner_1",
+        "f_secro_flesh_camp_bed_mark_corner_2",
+        "f_secro_flesh_camp_bed_mark_corner_3",
+        "f_secro_flesh_camp_bed_mark_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_secro_flesh_camp_bed_mark_t_connection_1",
+        "f_secro_flesh_camp_bed_mark_t_connection_2",
+        "f_secro_flesh_camp_bed_mark_t_connection_3",
+        "f_secro_flesh_camp_bed_mark_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_secro_flesh_camp_bed_mark_edge_1",
+        "f_secro_flesh_camp_bed_mark_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_secro_flesh_camp_bed_mark_end_piece_1",
+        "f_secro_flesh_camp_bed_mark_end_piece_2",
+        "f_secro_flesh_camp_bed_mark_end_piece_3",
+        "f_secro_flesh_camp_bed_mark_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_secro_flesh_camp_bed_mark_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

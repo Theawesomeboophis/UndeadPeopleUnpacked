@@ -1,0 +1,8 @@
+{
+  "id": ["fd_sflesh_fleshling_birth", "fd_sflesh_fleshling_scavengy_forms", "fd_sflesh_fleshling_scavengy_forms_limit", "fd_carrion_alpha_stop", "fd_grubbyzed_worm_limit", "fd_carrion_alpha_stop", "fd_grubbyzed_worm_limit"],
+  "fg": [
+    "secro_null"
+  ],
+  "bg": [],
+  "rotates": false
+}

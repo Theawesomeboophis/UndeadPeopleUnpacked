@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_corpse_saddler_used",
+  "fg": [
+    "corpse_saddler_used"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mon_zombie_swarmer_alpha",
+  "fg": ["mon_zombie_swarmer_alpha"],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

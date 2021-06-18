@@ -10,8 +10,7 @@ has fakes:
 ------------------------------------------------------------------------------------------
 Missing Furniture:
 
-f_gridforge
-f_gridelectrolysis_kit
+
 
 has fakes:
 
@@ -20,11 +19,9 @@ has fakes:
 ------------------------------------------------------------------------------------------
 Missing Items:
 
-bot_haulerbot
 bot_turret_light
 bot_turret_longrange
 bot_turret_medium
-broken_haulerbot
 debug_active_relic_test
 debug_active_relic_test_on
 fake_gridelectrolysis_kit
@@ -32,7 +29,6 @@ fake_gridforge
 fake_gridwelder
 fake_oven
 plastic_scrap
-
 
 has fakes:
 
@@ -49,7 +45,6 @@ reloaded_22_cphp
 survivor_hiking_backpack
 tÖttchen
 
-
 ------------------------------------------------------------------------------------------
 Missing Monsters:
 
@@ -57,7 +52,7 @@ Missing Monsters:
 
 has fakes:
 
-mon_turret_light
+mon_turret_light 
 mon_turret_medium
 mon_turret_longrange 
 

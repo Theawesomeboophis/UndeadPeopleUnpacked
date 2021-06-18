@@ -1,0 +1,10 @@
+{
+  "id": "bot_antimateriel",
+  "fg": [
+    "bot_antimateriel"
+  ],
+  "bg": [
+    "bg_shadow_turret_offset"
+  ],
+  "rotates": true
+}

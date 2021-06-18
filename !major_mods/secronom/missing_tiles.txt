@@ -5,239 +5,40 @@ Missing Terrain:
 
 has fakes:
 
-t_secro_dirt_flesh_camp
-t_secro_grass_flesh_camp
-t_secro_grass_long_flesh_camp
-t_secro_grass_tall_flesh_camp
-t_secro_shrub_flesh_camp
-t_secro_tree_young_flesh_camp
-t_secro_tree_flesh_camp
-t_secro_flesh_camp
-t_secro_flesh_camp_smoot
-t_secro_flesh_camp_wall
-t_secro_flesh_camp_wall_veins_smoot
-t_secro_flesh_camp_wall_veins
+
 
 ------------------------------------------------------------------------------------------
 Missing Furniture:
 
-f_secro_flesh_camp_bed
-f_secro_flesh_camp_floorstorage
-f_secro_flesh_camp_storage
-f_secro_flesh_camp_displaystorage
-f_secro_flesh_camp_liquidstorage
-f_secro_flesh_camp_light
-f_secro_flesh_camp_bed_mark
-f_secro_flesh_camp_floorstorage_mark
-f_secro_flesh_camp_storage_mark
-f_secro_flesh_camp_displaystorage_mark
-f_secro_flesh_camp_liquidstorage_mark
-f_secro_flesh_camp_light_mark
+
 
 has fakes:
 
-f_secro_boulder_small_flesh_camp
-f_secro_boulder_medium_flesh_camp
-f_secro_boulder_large_flesh_camp
+
 
 ------------------------------------------------------------------------------------------
 
 Missing Items:
 
-secro_flesh_bow_sword
-secro_flesh_bow_sword_mod_blade
-secro_flesh_bow_sword_mod_tendril
-secro_flesh_amalgam_transmitter
-secro_flesh_amalgam_transmitter_stop
-secro_flesh_amalgam_transmitter_stopall
-secro_flesh_amalgam_transmitter_attack
-secro_flesh_amalgam_transmitter_attackall
-secro_flesh_large
-secro_flesh_boneneedle
-secro_flesh_container_devices
-secro_flesh_container
-secro_flesh_container_pathogen
-bot_secro_laserturret_mod
-broken_bot_secroinforcer
-broken_bot_secroshocker
-broken_bot_secroriflewalker
-broken_bot_secrolauncher
-broken_secro_fleshmech_unlink
-broken_secro_fleshmech
-secro_flesh_splicer
-secro_flesh_splicer_zombie_blade_dna
-secro_flesh_splicer_zombie_WALKINGPOTATO_dna
-secro_flesh_splicer_zombie_mouth_dna
-secro_flesh_splicer_zombie_tendril_dna
-secro_flesh_splicer_zombie_titan_dna
-secro_flesh_splicer_zombie_unify_dna
-secro_flesh_splicer_zombie_blade_ccore
-secro_flesh_splicer_zombie_WALKINGPOTATO_ccore
-secro_flesh_splicer_zombie_mouth_ccore
-secro_flesh_splicer_zombie_tendril_ccore
-secro_flesh_splicer_zombie_titan_ccore
-secro_flesh_splicer_zombie_unify_ccore
-secro_flesh_camp_bed_mark
-secro_flesh_camp_floorstorage_mark
-secro_flesh_camp_storage_mark
-secro_flesh_camp_displaystorage_mark
-secro_flesh_camp_liquidstorage_mark
-secro_flesh_camp_light_mark
-zx1sniper
-lmilaser
-secro_tool_finfuse
-secro_sample_shifter
-secro_missionkey_sampler_enigma
-secro_power_armor_flesh_morphed_fite_blades
-secro_power_armor_flesh_morphed_fite_tentacles
-secro_power_armor_flesh_morphed_fite_fleshpound
-secro_power_armor_flesh_morphed_fite_jawarms
-secro_power_armor_flesh_morphed_jugg_shield
-secro_power_armor_flesh_morphed_gun_spit
-secro_power_armor_flesh_morphed_gun_bonelance
-mutagen_secronom_ex
-iv_mutagen_secronom_ex
-SECRO_TENDRIL_TENT_THRESHOLD_weapon
-SECRO_BLADE_SHARP_THRESHOLD_item
-SECRO_BLADE_SERRATED_THRESHOLD_item
-secro_power_armor_flesh_check
-secro_flesh_plate
-secro_flesh_plate_small
-secro_flesh_plate_large
-secro_vehicle_engine
-secro_vehicle_controls
-secro_flesh_fuel_bunker
-secro_flesh_wheel
-secro_power_armor_flesh_morphed_gun_bonelance_alt
-secro_power_armor_flesh_morphed_jugg_bonespikes
-secro_power_armor_flesh_morphed_coward_powerlegs
-secro_power_armor_flesh_created_fite_bspear
-secro_power_armor_flesh_created_gun_bonerifle
-secro_power_armor_flesh_created_jugg_bpick
-secro_power_armor_flesh_bor
-secro_power_armor_feed_item
-flesh_death_act
-flesh_death
-flesh_heap_death
-shifter_shadows
-shifter_illu_shadows
-fleshknot_tent_cluster
-fleshknot_tent_striker
-grubbyzed_spit
-grubbyzed_spit_big
-snatcher_mouth
-pellucid_mouth
-secro_fleshmech_gun_acid
-secro_fleshmech_gun_acid_large
-secro_fleshmech_gun_spikes_large
-secro_power_armor_flesh_morphed_gun_spit_alt
-secro_power_armor_flesh_biolight
+
 
 has fakes:
 
-corpse_saddler_used
-secro_power_armor_battery
-secro_power_armor_battery_cell
-secro_flesh_reinforced
-secro_fleshmech_battery
-bio_secro_fv
-bio_secro_fv_core
-broken_secro_laserturret
-broken_secro_electurret
-broken_secro_gravturret
-broken_secro_laserturret_mod
-secro_flesh_core
-secro_id_fvvault
-secro_id_frrom
-secro_power_armor_flesh
-secro_flesh_backpack
-secro_power_armor_module_core
-secro_flesh_frame
-secro_flesh_xl_chestrig
-secro_flesh_cloak
-secro_flesh_back_holster
-secro_flesh_baldric_holster
-secro_flesh_bootstrap
-secro_flesh_holster
-secro_flesh_survivor_vest
-secro_flesh_xl_survivor_vest
-secro_flesh_XL_holster
-secro_flesh_baldric
-secro_flesh_bootsheath
-secro_flesh_bscabbard
-secro_flesh_scabbard
-secro_flesh_sheath
-secro_flesh_spearsling
-secro_flesh_rucksack
-secro_flesh_bigback
-secro_power_armor_flesh_starter_act
-secro_power_armor_flesh_starter
-secro_power_armor_flesh_act
-secro_power_armor_module_core_act
-secro_power_armor_module_vessel_act
-secro_power_armor_module_vessel
-secro_power_armor_module_electric_act
-secro_power_armor_module_electric
-secro_power_armor_module_pulsar_act
-secro_power_armor_module_pulsar
-secro_power_armor_module_optics_act
-secro_power_armor_module_optics
-secro_power_armor_atk_on
-secro_power_armor_atk
-secro_power_armor_flesh_fite
-secro_power_armor_flesh_tank
-secro_power_armor_flesh_coward
-secro_power_armor_flesh_range
-secro_power_armor_flesh_infect
-secro_fleshmech_gun_spikes
-secro_power_armor_flesh_unstable
-secro_power_armor_flesh_npc
+
 
 ------------------------------------------------------------------------------------------
 Missing Monsters:
 
-mon_sflesh_fleshling_scavengy_explosive
-mon_sflesh_fleshling_scavengy_tent
-mon_sflesh_fleshling_scavengy_sticky
-mon_szombie_vessel
-mon_szombie_vessel_inactive
-mon_secro_fleshmech_unlink
-mon_secro_fleshmech
+
 
 has fakes:
 
-mon_shifter_illu
-mon_secrodragon_woke_armed
-mon_zombieworm_onger
-mon_carrion_alpha_rally
-mon_zombie_swarmer
-mon_zombie_swarmer_alpha
-mon_zombie_swarmer_alpha_rally
+
 
 ------------------------------------------------------------------------------------------
 Missing Vehicle Parts:
 
-secro_flesh_armor
-secro_flesh_board
-secro_flesh_halfboard
-secro_flesh_storage_small
-secro_flesh_storage_med
-secro_flesh_storage_large
-secro_flesh_engine
-secro_flesh_frame
-secro_flesh_aisle
-secro_flesh_aisle_light
-secro_flesh_roof
-secro_flesh_seat
-secro_flesh_seatbelt
-secro_flesh_door
-secro_flesh_biglight
-secro_vehicle_controls
-secro_flesh_fuel_bunker
-secro_flesh_lstorage_small
-secro_flesh_lstorage_med
-secro_flesh_lstorage_large
-secro_flesh_wheel_leg
+
 
 has fakes:
 
@@ -255,75 +56,13 @@ has fakes:
 ------------------------------------------------------------------------------------------
 Missing Fields:
 
-fd_gravtur_magnet
-fd_sflesh_fleshling_birth
-fd_sflesh_fleshling_scavengy_forms
-fd_sflesh_fleshling_scavengy_forms_limit
-fd_carrion_alpha_stop
-fd_grubbyzed_worm_limit
+
 
 has fakes:
 
-fd_shifter_fog
-fd_shifter_fog_trail
-fd_grubbyzed_goo
-fd_snatcher_snatch_trail
-fd_sflesh_strands
+
 
 ------------------------------------------------------------------------------------------
 Missing Mutations:
 
-SECRO_TENDRIL
-SECRO_TENDRIL_THICK
-SECRO_TENDRIL_TENT
-SECRO_TENDRIL_THICK_THRESHOLD
-SECRO_TENDRIL_TENT_THRESHOLD
-SECRO_BLADE_L
-SECRO_BLADE_L_SHARP
-SECRO_BLADE_L_SERRATED
-SECRO_BLADE_SHARP_THRESHOLD
-SECRO_BLADE_SERRATED_THRESHOLD
-SECRO_TITAN
-SECRO_TITAN2
-SECRO_TITAN_OK
-SECRO_TITAN_NOTOK
-SECRO_SPIDER
-SECRO_SPIDER_OK
-SECRO_SPIDER_NOTOK
-SECRO_SPIDER_VERYOK
-SECRO_LICKER
-SECRO_LICKER_NOTOK
-SECRO_LICKER_DEF
-SECRO_LICKER_DEF_OK
-SECRO_LICKER_ATK
-SECRO_LICKER_ATK_OK
-SECRO_LICKER_DEF_THRESHOLD
-SECRO_LICKER_ATK_THRESHOLD
-SECRO_UNKNOWN_WING_START
-SECRO_UNKNOWN_WING_MEMB
-SECRO_UNKNOWN_WING_BONY
-SECRO_UNKNOWN_WING_NOTOK
-SECRO_UNKNOWN_HAIR_START
-SECRO_UNKNOWN_HAIR_EYES
-SECRO_UNKNOWN_HAIR_SUCK
-THRESH_SECRONOM_FLESH
-SECRONOM_FLESH_DEBUG
-SECRONOM_FLESH_BIO
-SECRONOM_FLESH_BIO_mobile
-SECRONOM_FLESH_STARTER
-SECRONOM_FLESH_traverse
-SECRONOM_FLESH_transmit
-SECRONOM_FLESH_BIO_spread1
-SECRONOM_FLESH_BIO_spread2
-SECRONOM_FLESH_BIO_spread3
-SECRONOM_FLESH_BIO_construction
-SECRONOM_FLESH_BIO_construction_wide
-SECRONOM_FLESH_BIO_construction_advance
-SECRONOM_FLESH_BIO_construction_pp
-SECRONOM_FLESH_BIO_construction_fuse
-SECRONOM_FLESH_SPAWN
-SECRONOM_FLESH_SPAWN_ARTIFICE_weaver1
-SECRONOM_FLESH_SPAWN_ARTIFICE_weaver2
-SECRONOM_FLESH_SPAWN_ARTIFICE_weaver3
-SECRO_WEARING_FLESH_VESSEL
-SECRO_FLESH_VESSEL_1
+

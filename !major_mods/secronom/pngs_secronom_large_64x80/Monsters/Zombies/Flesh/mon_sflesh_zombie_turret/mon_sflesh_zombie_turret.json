@@ -3,5 +3,5 @@
   "fg": [
     "mon_sflesh_zombie_turret"
   ],
-  "bg": []
+  "bg": ["bg_big_large_shadow"]
 }
