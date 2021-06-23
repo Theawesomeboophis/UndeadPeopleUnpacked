@@ -1,9 +1,15 @@
 {
   "id": "circsaw_on",
   "fg": [
-    "circsaw_on"
+    {
+      "weight": 1,
+      "sprite": "circsaw_on_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "circsaw_on_2"
+    }
   ],
-  "bg": [
-    "bg_shadow_item"
-  ]
+  "bg": [],
+  "animated": true
 }

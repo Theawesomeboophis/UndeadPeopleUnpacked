@@ -1,5 +1,5 @@
 {
-  "id": "f_oven",
+  "id": ["f_oven", "fake_oven"],
   "fg": [
     "f_oven"
   ],

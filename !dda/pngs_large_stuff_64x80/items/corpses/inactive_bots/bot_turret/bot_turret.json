@@ -1,5 +1,5 @@
 {
-  "id": "bot_turret",
+  "id": ["bot_turret", "bot_turret_light"],
   "fg": [
     "bot_turret"
   ],

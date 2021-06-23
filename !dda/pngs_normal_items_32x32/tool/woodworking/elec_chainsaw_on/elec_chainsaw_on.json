@@ -1,8 +1,15 @@
 {
   "id": "elec_chainsaw_on",
   "fg": [
-    "elec_chainsaw_on"
+    {
+      "weight": 1,
+      "sprite": "elec_chainsaw_on_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "elec_chainsaw_on_2"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "animated": true
 }

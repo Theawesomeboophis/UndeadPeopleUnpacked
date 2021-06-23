@@ -1,5 +1,5 @@
 {
-  "id": "f_gridwelder",
+  "id": ["f_gridwelder", "fake_gridwelder"],
   "fg": [
     "f_gridwelder"
   ],

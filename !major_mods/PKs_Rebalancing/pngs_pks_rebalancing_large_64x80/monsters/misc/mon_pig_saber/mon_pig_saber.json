@@ -3,6 +3,6 @@
   "fg": [
     "mon_pig_saber"
   ],
-  "bg": [],
+  "bg": ["bg_big_normal_shadow"],
   "rotates": false
 }

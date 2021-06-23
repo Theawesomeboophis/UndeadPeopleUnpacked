@@ -1,10 +1,15 @@
 {
   "id": "mon_necco",
   "fg": [
-    "mon_necco"
+    {
+      "weight": 30,
+      "sprite": "mon_necco_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_necco_2"
+    }
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
-  "rotates": false
+  "bg": ["bg_shadow_normal"],
+  "animated": true
 }
