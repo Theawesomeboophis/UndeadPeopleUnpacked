@@ -1,5 +1,5 @@
 {
-  "id": "f_machinery_light",
+  "id": ["f_machinery_light", "t_machinery_light"],
   "fg": [
     "f_machinery_light"
   ],

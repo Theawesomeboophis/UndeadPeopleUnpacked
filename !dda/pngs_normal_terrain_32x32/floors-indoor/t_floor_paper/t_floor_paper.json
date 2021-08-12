@@ -1,5 +1,5 @@
 {
-  "id": "t_floor_paper",
+  "id": ["t_floor_paper", "t_floor_paper_noroof"],
   "fg": [
     "t_floor_paper"
   ],

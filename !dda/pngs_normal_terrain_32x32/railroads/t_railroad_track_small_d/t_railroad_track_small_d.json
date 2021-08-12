@@ -1,5 +1,5 @@
 {
-  "id": "t_railroad_track_small_d",
+  "id": ["t_railroad_track_small_d", "subway"],
   "fg": [
     "t_railroad_track_small_d"
   ],

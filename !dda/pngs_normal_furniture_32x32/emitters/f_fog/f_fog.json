@@ -1,7 +1,7 @@
 {
   "id": "f_fog",
   "fg": [
-    "f_fog"
+    "null"
   ],
   "bg": [],
   "rotates": true,
@@ -10,52 +10,52 @@
     {
       "id": "center",
       "fg": [
-        "f_fog_center"
+        "null"
       ],
       "bg": []
     },
     {
       "id": "corner",
       "fg": [
-        "f_fog_corner_1",
-        "f_fog_corner_2",
-        "f_fog_corner_3",
-        "f_fog_corner_4"
+        "null",
+        "null",
+        "null",
+        "null"
       ],
       "bg": []
     },
     {
       "id": "t_connection",
       "fg": [
-        "f_fog_t_connection_1",
-        "f_fog_t_connection_2",
-        "f_fog_t_connection_3",
-        "f_fog_t_connection_4"
+        "null",
+        "null",
+        "null",
+        "null"
       ],
       "bg": []
     },
     {
       "id": "edge",
       "fg": [
-        "f_fog_edge_1",
-        "f_fog_edge_2"
+        "null",
+        "null"
       ],
       "bg": []
     },
     {
       "id": "end_piece",
       "fg": [
-        "f_fog_end_piece_1",
-        "f_fog_end_piece_2",
-        "f_fog_end_piece_3",
-        "f_fog_end_piece_4"
+        "null",
+        "null",
+        "null",
+        "null"
       ],
       "bg": []
     },
     {
       "id": "unconnected",
       "fg": [
-        "f_fog_unconnected"
+        "null"
       ],
       "bg": []
     }

@@ -1,5 +1,5 @@
 {
-  "id": "t_wall_rammed_earth",
+  "id": ["t_wall_rammed_earth", "t_soil"],
   "fg": [
     "t_wall_rammed_earth"
   ],

@@ -1,5 +1,5 @@
 {
-  "id": "t_rock",
+  "id": ["t_rock"],
   "fg": [
     "t_rock"
   ],

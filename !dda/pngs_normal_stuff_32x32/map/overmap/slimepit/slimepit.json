@@ -1,0 +1,11 @@
+[{
+  "id": "slimepit_top",
+  "fg": ["slimepit_top"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "slimepit_down",
+  "fg": ["slimepit_down"],
+  "bg": [],
+  "rotates": false
+}]

@@ -1,0 +1,102 @@
+[{
+  "id": ["airliner_1a", "airliner_2a", "airliner_3a", "airliner_1f", "airliner_1g", "airliner_1i", "airliner_1j", "airliner_3j", "airliner_3h", "airliner_3g"],
+  "fg": ["bg_grass"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_1b"],
+  "fg": ["airliner_1b"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_2b"],
+  "fg": ["airliner_2b"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_3b"],
+  "fg": ["airliner_3b"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_1c"],
+  "fg": ["airliner_1c"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_2c"],
+  "fg": ["airliner_2c"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_3c"],
+  "fg": ["airliner_3c"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_1d"],
+  "fg": ["airliner_1d"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_2d"],
+  "fg": ["airliner_2d"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_3d"],
+  "fg": ["airliner_3d"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_1e"],
+  "fg": ["airliner_1e"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_2e"],
+  "fg": ["airliner_2e"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_3e"],
+  "fg": ["airliner_3e"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_2f", "airliner_2g", "airliner_2j", "airliner_2h", "airliner_2i" ],
+  "fg": ["airliner_2f"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_3f"],
+  "fg": ["airliner_3f"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_1h"],
+  "fg": ["airliner_1h"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["airliner_3i"],
+  "fg": ["airliner_3i"],
+  "bg": [],
+  "rotates": false
+}]

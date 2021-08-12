@@ -1,5 +1,5 @@
 {
-  "id": "t_console_broken",
+  "id": ["t_console_broken", "t_console_broken_test"],
   "fg": [
     "t_console_broken"
   ],

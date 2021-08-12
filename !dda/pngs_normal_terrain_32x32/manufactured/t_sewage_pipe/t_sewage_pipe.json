@@ -1,5 +1,5 @@
 {
-  "id": "t_sewage_pipe",
+  "id": ["t_sewage_pipe", "sewer"],
   "fg": [
     "t_sewage_pipe"
   ],

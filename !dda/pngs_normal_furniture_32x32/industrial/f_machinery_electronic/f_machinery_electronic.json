@@ -1,5 +1,5 @@
 {
-  "id": "f_machinery_electronic",
+  "id": ["f_machinery_electronic", "t_machinery_electronic"],
   "fg": [
     "f_machinery_electronic"
   ],
