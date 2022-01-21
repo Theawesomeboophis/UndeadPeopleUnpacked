@@ -41,7 +41,7 @@ Since most likely the one who's willing to work with tiles will end up having on
   ```"tile_info": [ { "width": 32, "height": 32 } ],```
 	
 3. Change width and height to the size of each individual tile in tileset, in pixels. UndeadPeople is 32x32, so this can be skipped
-4. Run script again. It will now run without any messages at all, but you'll notice that there are new folders where files were copied: 
+* Run script again. It will now run without any messages at all, but you'll notice that there are new folders where files were copied: 
 
 `pngs_Aftershock_normal_32x32`
 `pngs_Aftershock_large_64x80`
