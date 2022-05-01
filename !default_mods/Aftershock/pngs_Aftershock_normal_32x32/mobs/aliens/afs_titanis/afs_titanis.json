@@ -1,0 +1,8 @@
+{
+  "id": "afs_titanis",
+  "fg": [
+    "afs_titanis"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}
