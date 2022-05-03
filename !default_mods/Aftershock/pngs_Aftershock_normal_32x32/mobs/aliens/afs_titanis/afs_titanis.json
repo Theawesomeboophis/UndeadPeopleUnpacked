@@ -1,7 +1,7 @@
 {
-  "id": "mon_titanis",
+  "id": "afs_titanis",
   "fg": [
-    "mon_titanis"
+    "afs_titanis"
   ],
   "bg": ["bg_shadow_normal"],
   "rotates": false
