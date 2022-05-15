@@ -1,5 +1,5 @@
 {
-  "id": "overlay_wielded_mossberg_500_security",
+  "id": ["overlay_wielded_mossberg_500_security", "overlay_wielded_mossberg_500_var_mossberg_500_security"],
   "fg": [
     "overlay_wielded_mossberg_500_security"
   ],

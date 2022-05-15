@@ -1,5 +1,5 @@
 {
-  "id": "scar_l",
+  "id": ["scar_l", "m27_assault_rifle_var_scar_l"],
   "fg": [
     "scar_l"
   ],

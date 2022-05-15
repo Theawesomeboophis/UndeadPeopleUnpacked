@@ -1,5 +1,5 @@
 {
-  "id": "remington_1100",
+  "id": ["remington_1100", "remington_870_var_remington_1100"],
   "fg": [
     "remington_1100"
   ],
