@@ -1,1 +1,0 @@
-python decompose.py !dda_grim_reality_unp
