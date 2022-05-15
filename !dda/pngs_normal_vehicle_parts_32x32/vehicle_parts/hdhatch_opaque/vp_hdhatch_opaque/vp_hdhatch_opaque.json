@@ -12,9 +12,7 @@
       "fg": [
         "vp_hdhatch_opaque_broken"
       ],
-      "bg": [
-        "vp_hdhatch_opaque"
-      ]
+      "bg": []
     },
     {
       "id": "open",
