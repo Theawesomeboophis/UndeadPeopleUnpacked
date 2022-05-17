@@ -1,5 +1,5 @@
 {
-  "id": "acr",
+  "id": ["acr", "m16_auto_rifle_var_acr"],
   "fg": [
     "acr"
   ],

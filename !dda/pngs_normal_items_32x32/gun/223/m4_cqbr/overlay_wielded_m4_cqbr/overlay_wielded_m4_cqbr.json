@@ -1,5 +1,5 @@
 {
-  "id": "overlay_wielded_m4_cqbr",
+  "id": ["overlay_wielded_m4_cqbr", "overlay_wielded_m4_carbine_var_m4_cqbr"],
   "fg": [
     "overlay_wielded_m4_cqbr"
   ],

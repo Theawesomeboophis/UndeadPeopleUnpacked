@@ -4,7 +4,11 @@
   "bg": [],
   "rotates": false
 },{
-  "id": "slimepit_down",
+  "id": [
+    "slimepit_bottom",
+    "slimepit_down",
+    "slimepit"
+  ],
   "fg": ["slimepit_down"],
   "bg": [],
   "rotates": false

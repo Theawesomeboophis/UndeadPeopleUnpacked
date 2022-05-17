@@ -1,1 +1,0 @@
-python compose_new.py !dda_test > testcase.log

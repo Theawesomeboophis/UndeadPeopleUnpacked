@@ -1,5 +1,5 @@
 {
-  "id": "vp_clothboard_nw",
+  "id": ["vp_clothboard_nw", "vp_clothboard_nw_edge"],
   "fg": [
     "vp_clothboard_nw"
   ],
