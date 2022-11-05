@@ -1,1 +1,8 @@
-
+{
+  "id": "half_barrel_bomb_act",
+  "fg": [
+    "half_barrel_bomb_act"
+  ],
+  "bg": [],
+  "rotates": false
+}
