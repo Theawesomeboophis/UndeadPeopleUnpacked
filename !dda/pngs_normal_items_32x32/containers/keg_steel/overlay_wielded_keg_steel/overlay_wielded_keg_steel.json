@@ -1,8 +1,9 @@
 {
   "id": "overlay_wielded_keg_steel",
   "fg": [
-    "keg_steel"
+    "overlay_wielded_keg_steel"
   ],
   "bg": [],
   "rotates": false
 }
+
