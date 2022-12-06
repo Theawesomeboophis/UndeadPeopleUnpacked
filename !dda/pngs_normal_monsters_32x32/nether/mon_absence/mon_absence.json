@@ -1,0 +1,10 @@
+{
+  "id": "mon_absence",
+  "fg": [
+    "mon_absence"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
