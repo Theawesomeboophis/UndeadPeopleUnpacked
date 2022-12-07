@@ -1,7 +1,7 @@
 {
-  "id": "mon_starer_axe",
+  "id": "mon_starer_crowbar",
   "fg": [
-    "mon_starer_axe"
+    "mon_starer_crowbar"
   ],
   "bg": [
     "bg_shadow_normal"
