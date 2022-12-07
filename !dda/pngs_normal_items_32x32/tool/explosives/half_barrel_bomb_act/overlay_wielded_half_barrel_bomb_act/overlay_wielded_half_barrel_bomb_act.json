@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_half_barrel_bomb_act",
   "fg": [
-    "overlay_wielded_half_barrel_bomb"
+    "overlay_wielded_half_barrel_bomb_act"
   ],
   "bg": [],
   "rotates": false
