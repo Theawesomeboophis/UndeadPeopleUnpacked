@@ -1,0 +1,11 @@
+{
+  "id": "mon_exodii_quad",
+  "fg": [
+    { "weight": 111, "sprite": "mon_exodii_quad_1" },
+    { "weight": 111, "sprite": "mon_exodii_quad_2" }
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

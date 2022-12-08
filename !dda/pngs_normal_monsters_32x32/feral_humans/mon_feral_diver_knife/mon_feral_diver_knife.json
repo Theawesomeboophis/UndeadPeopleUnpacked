@@ -1,0 +1,12 @@
+{
+  "id": "mon_feral_diver_knife",
+  "fg": [
+    { "weight": 111, "sprite": "mon_feral_diver_knife_1" },
+    { "weight": 111, "sprite": "mon_feral_diver_knife_2" }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}
