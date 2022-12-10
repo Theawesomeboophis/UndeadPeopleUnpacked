@@ -1,0 +1,16 @@
+{
+  "id": [
+    "BotanicalGarden_1a_roof",
+    "BotanicalGarden_1b_roof"
+  ],
+  "fg": [
+    "BotanicalGarden_1a_roof_1",
+    "BotanicalGarden_1a_roof_2",
+    "BotanicalGarden_1a_roof_3",
+    "BotanicalGarden_1a_roof_4"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}
