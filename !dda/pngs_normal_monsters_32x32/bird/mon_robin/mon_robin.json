@@ -1,9 +1,9 @@
 {
-  "id": ["mon_robin"],
+  "id": [
+    "mon_robin"
+  ],
   "fg": [
-    {
-      "sprite": "mon_robin"
-    }
+    "mon_robin"
   ],
   "bg": [
     "bg_shadow_normal"
