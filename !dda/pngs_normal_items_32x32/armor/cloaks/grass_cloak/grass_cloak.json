@@ -1,0 +1,9 @@
+{
+  "id": "grass_cloak",
+  "fg": [
+    "grass_cloak"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}
