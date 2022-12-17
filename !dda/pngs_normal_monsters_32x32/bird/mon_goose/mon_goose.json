@@ -1,7 +1,7 @@
 {
-  "id": "mon_impossible_shape",
+  "id": "mon_goose",
   "fg": [
-    "mon_impossible_shape"
+    "mon_goose"
   ],
   "bg": [
     "bg_shadow_normal"

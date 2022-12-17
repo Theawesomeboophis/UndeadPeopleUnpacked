@@ -1,7 +1,0 @@
-{
-  "id": "mon_spawn_raptor_unstable",
-  "fg": "mon_spawn_raptor_unstable",
-  "bg": ["bg_shadow_normal"],
-  "rotates": false,
-  "animated": false
-}
