@@ -3,5 +3,6 @@
   "fg": [
     "overlay_wielded_nodachi_fake"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }

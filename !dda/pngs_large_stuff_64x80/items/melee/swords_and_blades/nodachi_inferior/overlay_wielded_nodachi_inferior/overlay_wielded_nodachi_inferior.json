@@ -3,5 +3,6 @@
   "fg": [
     "overlay_wielded_nodachi_inferior"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }
