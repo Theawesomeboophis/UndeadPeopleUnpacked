@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "city_block2_4", "city_block2_flr2_4", "city_block2_roof_4" ],
+    "fg": [ "city_block2_4_1", "city_block2_4_2", "city_block2_4_3", "city_block2_4_4" ],
+    "bg": [  ],
+    "rotates": true
+  }
+]
