@@ -22558,7 +22558,7 @@
         { "id": "f_cellphone_booster", "fg": 11840, "rotates": false },
         { "id": "f_chimney", "fg": 11841, "rotates": false },
         { "id": "f_roof_turbine_vent", "fg": 11842, "rotates": false },
-        { "id": "f_small_satelitte_dish", "fg": 11843, "rotates": false },
+        { "id": "f_small_satellite_dish", "fg": 11843, "rotates": false },
         { "id": "f_vent_pipe", "fg": 11844, "rotates": false },
         { "id": "vp_roof", "fg": 11845, "rotates": true },
         { "id": "f_hay", "fg": 11846, "rotates": false },
