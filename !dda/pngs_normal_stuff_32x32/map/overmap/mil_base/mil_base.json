@@ -27,7 +27,7 @@
     "rotates": true
   },
   {
-    "id": [ "mil_base_minefield_s" ],
+    "id": [ "mil_base_minefield_s", "mil_base_2a", "mil_base_3a", "mil_base_5a", "mil_base_6a" ],
     "fg": [
       { "weight": 25, "sprite": "mil_base_minefield_s_1" },
       { "weight": 25, "sprite": "mil_base_minefield_s_2" },
@@ -46,7 +46,7 @@
     "rotates": true
   },
   {
-    "id": [ "mil_base_minefield_se" ],
+    "id": [ "mil_base_minefield_se", "mil_base_1a" ],
     "fg": [ "mil_base_minefield_se" ],
     "rotates": true
   },
@@ -98,6 +98,11 @@
   {
     "id": [ "mil_base_1b" ],
     "fg": [ "mil_base_1b" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_4b" ],
+    "fg": [ "mil_base_4b" ],
     "rotates": true
   },
   {
