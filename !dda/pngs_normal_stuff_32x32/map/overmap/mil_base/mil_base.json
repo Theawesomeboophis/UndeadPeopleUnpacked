@@ -101,11 +101,6 @@
     "rotates": false
   },
   {
-    "id": [ "mil_base_4b" ],
-    "fg": [ "mil_base_4b" ],
-    "rotates": false
-  },
-  {
     "id": [ "mil_base_8b" ],
     "fg": [ "mil_base_8b" ],
     "rotates": false
