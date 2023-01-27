@@ -1,0 +1,118 @@
+[
+  {
+    "id": [ "mil_base_minefield_w" ],
+    "fg": [
+      { "weight": 25, "sprite": "mil_base_minefield_w_1" },
+      { "weight": 25, "sprite": "mil_base_minefield_w_2" },
+      { "weight": 25, "sprite": "mil_base_minefield_w_3" }
+    ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_minefield_n" ],
+    "fg": [
+      { "weight": 25, "sprite": "mil_base_minefield_n_1" },
+      { "weight": 25, "sprite": "mil_base_minefield_n_2" },
+      { "weight": 25, "sprite": "mil_base_minefield_n_3" }
+    ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_minefield_e" ],
+    "fg": [
+      { "weight": 25, "sprite": "mil_base_minefield_e_1" },
+      { "weight": 25, "sprite": "mil_base_minefield_e_2" },
+      { "weight": 25, "sprite": "mil_base_minefield_e_3" }
+    ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_minefield_s", "mil_base_1a", "mil_base_2a", "mil_base_3a", "mil_base_5a", "mil_base_6a", "mil_base_7a", "mil_base_8a" ],
+    "fg": [
+      { "weight": 25, "sprite": "mil_base_minefield_s_1" },
+      { "weight": 25, "sprite": "mil_base_minefield_s_2" },
+      { "weight": 25, "sprite": "mil_base_minefield_s_3" }
+    ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_minefield_nw" ],
+    "fg": [ "mil_base_minefield_nw" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_minefield_ne", "mil_base_minefield_end" ],
+    "fg": [ "mil_base_minefield_ne" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_minefield_se" ],
+    "fg": [ "mil_base_minefield_se" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_minefield_sw" ],
+    "fg": [ "mil_base_minefield_sw" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_1c", "mil_base_1d", "mil_base_1e", "mil_base_1f", "mil_base_1h", "mil_base_1i", "mil_base_1j" ],
+    "fg": [ "mil_base_1c" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_2b", "mil_base_3b", "mil_base_5b", "mil_base_6b", "mil_base_7b" ],
+    "fg": [ "mil_base_2b" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_8c", "mil_base_8d", "mil_base_8e", "mil_base_8i", "mil_base_8j" ],
+    "fg": [ "mil_base_8c" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_2k", "mil_base_3k", "mil_base_4k", "mil_base_6k", "mil_base_7k" ],
+    "fg": [ "mil_base_2k" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_1g" ],
+    "fg": [ "mil_base_1g" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_5k" ],
+    "fg": [ "mil_base_5k" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_8f", "mil_base_8h" ],
+    "fg": [ "mil_base_8f" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_8g" ],
+    "fg": [ "mil_base_8g" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_1b" ],
+    "fg": [ "mil_base_1b" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_8b" ],
+    "fg": [ "mil_base_8b" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_8k" ],
+    "fg": [ "mil_base_8k" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_1k" ],
+    "fg": [ "mil_base_1k" ],
+    "rotates": false
+  }
+]
