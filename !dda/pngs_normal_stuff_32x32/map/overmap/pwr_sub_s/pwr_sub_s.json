@@ -1,5 +1,5 @@
 {
-  "id": [ "pwr_sub_s", "small_power_substation_roof" ],
+  "id": [ "pwr_sub_s" ],
   "fg": ["pwr_sub_s"],
   "bg": [],
   "rotates": false
