@@ -1,0 +1,8 @@
+      {
+          "id": [
+            "house_02_roof"
+          ],
+          "fg": [ [ "house_02_roof_1" ], [ "house_02_roof_2" ], [ "house_02_roof_3" ], [ "house_02_roof_4" ] ],
+          "bg": [ "open_air" ],
+          "rotates": true
+        }

@@ -1,6 +1,13 @@
 {
-  "id": ["generic_city_house_basement"],
-  "fg": ["generic_city_house_basement"],
+          "id": [
+            "generic_city_house_basement",
+            "bunker_basement",
+            "bunker_basement_1",
+            "shelter_under",
+            "lmoe_under",
+            "lmoe_under_empty"
+          ],
+  "fg": ["generic_city_house_basement_1", "generic_city_house_basement_2", "generic_city_house_basement_3", "generic_city_house_basement_4" ],
   "bg": [],
   "rotates": false
 }

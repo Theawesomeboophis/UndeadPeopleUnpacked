@@ -1,2 +1,2 @@
-        { "id": [ "s_pizza_parlor_roof", "s_pizza_parlor_roof_1" ], "fg": 19392, "bg": 19346, "rotates": false },
+      { "id": [ "s_pizza_parlor_roof", "s_pizza_parlor_roof_1" ],
  "fg": [ "s_pizza_parlor_roof" ], "bg": [ "open_air" ], "rotates": false }

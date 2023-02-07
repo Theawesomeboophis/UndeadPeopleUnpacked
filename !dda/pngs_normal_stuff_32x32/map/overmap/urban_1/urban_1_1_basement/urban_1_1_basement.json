@@ -1,0 +1,27 @@
+[
+{
+          "id": [
+            "urban_1_1_basement",
+            "urban_2_1_basement",
+            "urban_3_1_basement",
+            "urban_4_1",
+            "urban_5_1_basement",
+            "urban_6_1_basement"
+          ],
+  "fg": ["urban_1_1_basement_1", "urban_1_1_basement_2", "urban_1_1_basement_3", "urban_1_1_basement_4" ],
+  "bg": [],
+  "rotates": false
+},
+{
+          "id": [
+            "urban_1_2_basement",
+            "urban_2_2_basement",
+            "urban_3_2_basement",
+            "urban_4_2",
+            "urban_5_2_basement",
+            "urban_6_2_basement"
+          ],  "fg": ["urban_1_2_basement_1", "urban_1_2_basement_2", "urban_1_2_basement_3", "urban_1_2_basement_4" ],
+  "bg": [],
+  "rotates": false
+}
+]

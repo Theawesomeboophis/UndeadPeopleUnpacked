@@ -1,0 +1,3 @@
+        {
+          "id": [ "urban_1_3", "urban_1_5", "urban_2_3", "urban_2_5", "urban_3_3", "urban_3_5", "urban_5_3", "urban_5_5", "urban_4_5", "urban_4_7", "urban_6_3", "urban_7_3", "urban_6_5", "urban_7_5" ],
+ "fg": [ "urban_1_3_1", "urban_1_3_2", "urban_1_3_3", "urban_1_3_4" ], "bg": [ "open_air" ], "rotates": false }

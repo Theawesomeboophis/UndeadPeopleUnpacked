@@ -1,0 +1,6 @@
+{
+  "id": ["house_02"],
+  "fg": ["house_02_1", "house_02_2", "house_02_3", "house_02_4" ],
+  "bg": [],
+  "rotates": true
+}
