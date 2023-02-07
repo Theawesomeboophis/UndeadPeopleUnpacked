@@ -1,6 +1,6 @@
 [
-        { "id": [ "s_baseballfield_a1" ], "fg": [ "s_baseballfield_a1_1", "s_baseballfield_a1_2", "s_baseballfield_a1_3", "s_baseballfield_a1_4" ], "rotates": true },
-        { "id": [ "s_baseballfield_a2" ], "fg": [ "s_baseballfield_a2_1", "s_baseballfield_a2_2", "s_baseballfield_a2_3", "s_baseballfield_a2_4" ], "rotates": true },
-        { "id": [ "s_baseballfield_b1" ], "fg": [ "s_baseballfield_b1_1", "s_baseballfield_b1_2", "s_baseballfield_b1_3", "s_baseballfield_b1_4" ], "rotates": true },
-        { "id": [ "s_baseballfield_b2" ], "fg": [ "s_baseballfield_b2_1", "s_baseballfield_b2_2", "s_baseballfield_b2_3", "s_baseballfield_b2_4" ], "rotates": true }
+        { "id": [ "s_baseballfield_a1" ], "fg": [ [ "s_baseballfield_a1_1" ], [ "s_baseballfield_a1_2" ], [ "s_baseballfield_a1_3" ], [ "s_baseballfield_a1_4" ] ], "rotates": true },
+        { "id": [ "s_baseballfield_a2" ], "fg": [ [ "s_baseballfield_a2_1" ], [ "s_baseballfield_a2_2" ], [ "s_baseballfield_a2_3" ], [ "s_baseballfield_a2_4" ] ], "rotates": true },
+        { "id": [ "s_baseballfield_b1" ], "fg": [ [ "s_baseballfield_b1_1" ], [ "s_baseballfield_b1_2" ], [ "s_baseballfield_b1_3" ], [ "s_baseballfield_b1_4" ] ], "rotates": true },
+        { "id": [ "s_baseballfield_b2" ], "fg": [ [ "s_baseballfield_b2_1" ], [ "s_baseballfield_b2_2" ], [ "s_baseballfield_b2_3" ], [ "s_baseballfield_b2_4" ] ], "rotates": true }
 ]
