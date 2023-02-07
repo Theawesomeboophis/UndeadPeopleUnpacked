@@ -1,0 +1,6 @@
+{
+"id": [ "office_cubical", "office_cubical_1", "small_office" ], 
+  "fg": ["office_cubical"],
+  "bg": [],
+  "rotates": false
+}
