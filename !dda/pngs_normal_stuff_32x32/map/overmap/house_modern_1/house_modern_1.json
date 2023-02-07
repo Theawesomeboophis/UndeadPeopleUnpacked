@@ -3,7 +3,7 @@
             "house_modern_1"
         ],
         "fg": [
-            "house_modern_1_1", "house_modern_1_2", "house_modern_1_3", "house_modern_1_4"
+            [ "house_modern_1_1" ], [ "house_modern_1_2" ], [ "house_modern_1_3" ], [ "house_modern_1_4" ]
         ],
         "bg": [],
         "rotates": true
