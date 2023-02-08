@@ -1,3 +1,9 @@
         {
           "id": [ "house_modern_1_roof" ],
- "fg": [ [ "house_modern_1_roof_1" ], [ "house_modern_1_roof_2" ], [ "house_modern_1_roof_3" ], [ "house_modern_1_roof_4" ] ], "bg": [ "open_air" ], "rotates": false }
+      "fg": [
+            { "weight": 25, "sprite": [ "house_modern_1_roof_1" ] },
+            { "weight": 25, "sprite": [ "house_modern_1_roof_2" ] },
+            { "weight": 25, "sprite": [ "house_modern_1_roof_3" ] },
+            { "weight": 25, "sprite": [ "house_modern_1_roof_4" ] }
+          ],
+ "bg": [ "open_air" ], "rotates": false }
