@@ -174,7 +174,12 @@
             "house_suicide_roof",
             "house_inner_garden_roof"
           ],
-          "fg": [ [ "house_roof_1" ], [ "house_roof_2" ], [ "house_roof_3" ], [ "house_roof_4" ] ],
+                "fg": [
+            { "weight": 25, "sprite": [ "house_roof_1" ] },
+            { "weight": 25, "sprite": [ "house_roof_2" ] },
+            { "weight": 25, "sprite": [ "house_roof_3" ] },
+            { "weight": 25, "sprite": [ "house_roof_4" ] }
+          ],
           "bg": [ "open_air" ],
           "rotates": true
         }
