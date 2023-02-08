@@ -2,7 +2,12 @@
           "id": [
             "house_02_roof"
           ],
-          "fg": [ [ "house_02_roof_1" ], [ "house_02_roof_2" ], [ "house_02_roof_3" ], [ "house_02_roof_4" ] ],
+                         "fg": [
+            { "weight": 25, "sprite": [ "house_02_roof_1" ] },
+            { "weight": 25, "sprite": [ "house_02_roof_2" ] },
+            { "weight": 25, "sprite": [ "house_02_roof_3" ] },
+            { "weight": 25, "sprite": [ "house_02_roof_4" ] }
+          ],
           "bg": [ "open_air" ],
           "rotates": true
         }
