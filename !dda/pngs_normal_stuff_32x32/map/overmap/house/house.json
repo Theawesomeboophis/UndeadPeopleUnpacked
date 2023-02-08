@@ -1,4 +1,3 @@
-[
     {
         "id": [
             "duplex",
@@ -100,15 +99,6 @@
             "necropolis_a_63",
             "rural_house1",
             "rural_house2",
-            "urban_2_4",
-            "urban_2_5",
-            "urban_3_4",
-            "urban_4_5",
-            "urban_4_6",
-            "urban_5_4",
-            "urban_6_4",
-            "urban_6_5",
-            "urban_6_6",
             "urban_8_1",
             "urban_8_2",
             "urban_8_3",
@@ -187,22 +177,4 @@
         ],
         "bg": [],
         "rotates": true
-    },
-    {
-        "id": [
-            "urban_6_1",
-            "urban_3_1",
-            "urban_3_2",
-            "urban_7_1",
-            "urban_4_4"
-        ],
-        "fg": [
-            "house_3",
-            "house_4",
-            "house_1",
-            "house_2"
-        ],
-        "bg": [],
-        "rotates": true
     }
-]
