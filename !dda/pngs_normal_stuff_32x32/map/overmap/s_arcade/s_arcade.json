@@ -1,3 +1,3 @@
 { 
-          "id": [ "s_arcade_roof", "cs_internet_cafe_roof", "cs_internet_cafe_upper_roof" ],
+          "id": [ "s_arcade" ],
 "fg": [ "s_arcade" ], "rotates": false }
