@@ -1,8 +1,13 @@
 {
-  "id": "microwave",
+  "id": [
+    [ "microwave" ],
+    [ "vac_oven_small" ]
+  ],
   "fg": [
     "microwave"
   ],
-  "bg": [],
+  "bg": [
+    
+  ],
   "rotates": false
 }
