@@ -1,6 +1,6 @@
 {
-  "id": ["stripclub"],
-  "fg": ["stripclub"],
+"id": [ "stripclub", "stripclub_1", "stripclub_2" ], 
+ "fg": ["stripclub"],
   "bg": [],
   "rotates": false
 }

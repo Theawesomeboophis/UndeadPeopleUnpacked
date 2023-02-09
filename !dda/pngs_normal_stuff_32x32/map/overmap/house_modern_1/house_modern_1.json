@@ -1,0 +1,13 @@
+    {
+        "id": [
+            "house_modern_1"
+        ],
+                 "fg": [
+            { "weight": 25, "sprite": [ "house_modern_1_1" ] },
+            { "weight": 25, "sprite": [ "house_modern_1_2" ] },
+            { "weight": 25, "sprite": [ "house_modern_1_3" ] },
+            { "weight": 25, "sprite": [ "house_modern_1_4" ] }
+          ],
+        "bg": [],
+        "rotates": true
+    }
