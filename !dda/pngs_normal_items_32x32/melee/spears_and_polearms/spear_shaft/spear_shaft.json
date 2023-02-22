@@ -1,0 +1,10 @@
+{
+  "id": "spear_shaft",
+  "fg": [
+    "spear_shaft"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

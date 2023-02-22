@@ -1,6 +1,10 @@
-{
-  "id": "open_air",
-  "fg": ["open_air"],
-  "bg": [],
-  "rotates": false
-}
+        {
+          "id": [ "open_air", "cs_private_park_roof" ],
+          "fg": [
+            { "weight": 25, "sprite": [ "open_air" ] },
+            { "weight": 25, "sprite": [ "open_air_1" ] },
+            { "weight": 25, "sprite": [ "open_air_2" ] },
+            { "weight": 25, "sprite": [ "open_air_3" ] }
+          ],
+          "rotates": false
+        }
