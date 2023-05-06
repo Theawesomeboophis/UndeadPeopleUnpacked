@@ -1,0 +1,35 @@
+Xotto, Waldo, Raga, Deon and many other derivative authors: These authors helped create the foundation of this tileset and many others like it.
+SDG: Former Maintainer of tileset.
+Firestorm: Help in learning how to build and edit tileset.
+Chaosvolt: Collaborator and advisor, has helped a lot in the continued maintenance of tileset.
+Hanazumary: Various submitted sprites.
+The Entire Cataclysm Subreddit: For continued support and understanding.
+SzQ: Without him, updating would be almost inplausible, he helped compile and edit latest update, Various Sprites.
+Lyca0n: Bug Fixes and Various Sprites.
+Jazz of the soul: Ladder Up Down Update.
+Olanti-P: Weather Overmap Sprites from BN, Updated Unpacked.
+LyleSy: Dinos, Unpacked Updates, Backlog Help, Spritework
+Adalynn: Foot Locker recharging station.
+Ash: Discord Server Necromancer and Portal Storm Sprite.
+Anton 2689: Gun Sprites.
+Kaelum: Works on Unpacked.
+YuRukia: Map Fix
+Mer1ck: Foxmod Support
+Coligad: Various Sprites, Tefnut Expansion Support.
+Alphyn: Unpacked Sprites, Various Currency Sprites.
+Survivor: Various Submissions to the discord, monster sprites.
+Seawhite: Many Sprites.
+Maleclypse: Bugfixes and Advice.
+NakedJake: Resprites of Various Sprites.
+Sephyr: Wall Wiring Sprite.
+Goodgulf_PL: Unpacked sprites ( will be ported in the future after backlog).
+
+Ports from MSHOCKXOTTO+ TILESET below this line.
+
+#MSXotto+ was imported from Cataclysm:Dark Days Ahead under Creative Commons Attribution-ShareAlike 3.0 Unported License(http://creativecommons.org/licenses/by-sa/3.0/) 
+#as of https://github.com/CleverRaven/Cataclysm-DDA/commits/60ff294b9613ae6cddcb250e84f7e66921e5f3ad/gfx/MshockXotto%2B, see original for attribution details.
+
+As of this writing May 6, 2023, MSXHOCKXOTTO+ TILESET is hosted here https://github.com/I-am-Erk/CDDA-Tilesets/tree/master/gfx/MShockXotto%2B
+
+f_flagpole by mlange-42 https://github.com/I-am-Erk/CDDA-Tilesets/pull/1648
+
