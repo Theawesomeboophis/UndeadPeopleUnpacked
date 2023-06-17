@@ -1,5 +1,26 @@
 {
   "id": "t_pavement_y",
-  "fg": ["t_pavement_y"],
-      "bg": ["t_pavement"]
+  "fg": [
+    {
+      "weight": 250,
+      "sprite": "t_pavement_y_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_y_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_y_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_y_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_y_5"
+    }
+  ],
+  "bg": ["t_pavement"]
 }
