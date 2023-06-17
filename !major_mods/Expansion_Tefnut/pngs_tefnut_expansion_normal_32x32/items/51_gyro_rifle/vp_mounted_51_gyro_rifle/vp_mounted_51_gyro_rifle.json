@@ -1,0 +1,20 @@
+{
+  "id": "vp_mounted_51_gyro_rifle",
+  "fg": [
+    "vp_mounted_51_gyro_rifle"
+   ],
+  "bg": [
+    "bg_car"
+   ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+     "id": "broken",
+     "fg": [
+       "broken"
+      ],
+     "bg": []
+    }
+  ]
+}
