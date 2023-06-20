@@ -1,1 +1,4 @@
 .DS_Store
+
+# Files generated using !COMPOSE_MAIN.bat
+\!dda/generated_packed

@@ -1,2 +1,2 @@
-python compose.py !dda
+python compose.py !dda !dda/generated_packed
 pause
