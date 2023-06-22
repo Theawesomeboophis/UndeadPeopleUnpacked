@@ -33,20 +33,20 @@ For details see [simple video guide for Windows users](https://www.youtube.com/w
 ## Automatic Composing
 (The following applies only to Windows and the main vanilla tileset in `!dda` at this time.)
 
-If it doesn't exist yet, `!COMPOSE_MAIN.bat` creates the config file `!compose_main.ini` and sets default values for the source and output directories.
+If it doesn't exist yet, `!COMPOSE_MAIN.bat` creates the config file `!compose_main.ini` and sets default values for the source and output directories:
 ```
 sources_path=!dda\
 output_path=!dda\generated_packed\
 ```
 After composing the permanent tileset files (`fallback.png`, `tileset.txt`, ...) are copied to `generated_packed\` and `tile_config.json` gets linted using `json_formatter.exe` so that the folder now contains a complete and usuable build of the tileset.
 
-Optionally, you can also add the tileset's location within your game files to `game_path` in `!compose_main.ini`. If the value is non-empty, the script automatically updates it as well to make testing changes in game quicker. For example, in my case it looks like this:
+Optionally, you can also add the tileset's location within your game files to `game_path` in `!compose_main.ini`. If the value is non-empty, the script automatically updates it as well to make testing changes in-game quicker. For example, in my case it looks like this:
 ```
 sources_path=!dda\
 output_path=!dda\generated_packed\
 game_path=D:\Games\Cataclysm Dark Days Ahead\dda\userdata\gfx\MSX++UnDeadPeopleEdition
 ```
-If you're using the [Catapult Launcher](https://github.com/qrrk/Catapult) it's recommended to use the `userdata\gfx\` directory like in this example instead of the one in the actual game files. This makes sure that your UndeadPeople tileset doesn't get removed when updating to another experimental game version.
+If you're using the [Catapult Launcher](https://github.com/qrrk/Catapult) it's recommended to use the `userdata\gfx\` directory like in this example instead of the one in the actual game files. This makes sure that your *UndeadPeople* tileset doesn't get removed when updating to another experimental game version.
 
 Both the `generated_packed\` folder and `!compose_main.ini` file are part of `.gitignore` so that your local generated files and game path don't accidentally get pushed upstream.
 
