@@ -1,6 +1,6 @@
 {
     "id": ["salon_roof"],
     "fg": ["salon_roof"], 
-    "bg": [], 
+    "bg": ["open_air"], 
     "rotates": false 
 }
