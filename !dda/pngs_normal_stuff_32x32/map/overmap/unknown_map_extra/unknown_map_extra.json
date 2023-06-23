@@ -3,10 +3,8 @@
     "unknown_map_extra"
   ],
   "fg": [
-    ""
+    "unknown_map_extra"
   ],
-  "bg": [
-    ""
-  ],
+  "bg": [],
   "rotates": false
 }

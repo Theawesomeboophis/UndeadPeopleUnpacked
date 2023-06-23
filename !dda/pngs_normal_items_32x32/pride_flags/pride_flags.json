@@ -1,0 +1,138 @@
+[
+    {
+        "id": "pride_flag_var_agender_pride_flag",
+        "fg": [
+        "pride_flag_var_agender_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_aromantic_pride_flag",
+        "fg": [
+            "pride_flag_var_aromantic_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_asexual_pride_flag",
+        "fg": [
+            "pride_flag_var_asexual_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_bear_pride_flag",
+        "fg": [
+            "pride_flag_var_bear_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_bisexual_pride_flag",
+        "fg": [
+            "pride_flag_var_bisexual_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_genderfluid_pride_flag",
+        "fg": [
+            "pride_flag_var_genderfluid_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_genderqueer_pride_flag",
+        "fg": [
+            "pride_flag_var_genderqueer_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_intersex_pride_flag",
+        "fg": [
+            "pride_flag_var_intersex_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_labrys_lesbian_pride_flag",
+        "fg": [
+            "pride_flag_var_labrys_lesbian_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_leather_pride_flag",
+        "fg": [
+            "pride_flag_var_leather_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_lesbian_pride_flag",
+        "fg": [
+            "pride_flag_var_lesbian_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_nonbinary_pride_flag",
+        "fg": [
+            "pride_flag_var_nonbinary_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_pangender_pride_flag",
+        "fg": [
+            "pride_flag_var_pangender_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_polysexual_pride_flag",
+        "fg": [
+            "pride_flag_var_polysexual_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_progress_pride_flag",
+        "fg": [
+            "pride_flag_var_progress_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_rainbow_pride_flag",
+        "fg": [
+            "pride_flag_var_rainbow_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "pride_flag_var_transgender_pride_flag",
+        "fg": [
+            "pride_flag_var_transgender_pride_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    }
+]

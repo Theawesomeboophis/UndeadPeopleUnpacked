@@ -1,6 +1,20 @@
-{
-  "id": ["communitygarden"],
-  "fg": ["communitygarden"],
-  "bg": [],
-  "rotates": false
-}
+[
+  {
+    "id": ["communitygarden"],
+    "fg": ["communitygarden"],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": ["communitygarden_2"],
+    "fg": ["communitygarden_2"],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": ["communitygarden_3"],
+    "fg": ["communitygarden_3"],
+    "bg": [],
+    "rotates": false
+  }
+]
