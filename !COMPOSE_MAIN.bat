@@ -8,7 +8,7 @@ if not exist !compose_main.ini (
 
 :: .ini reading: https://stackoverflow.com/a/4518146
 @call:ini "!compose_main.ini" sources_path SRC
-@call:ini "!compose_main.ini" output_path= OUT
+@call:ini "!compose_main.ini" output_path OUT
 @call:ini "!compose_main.ini" game_path GME
 
 :: Compose
