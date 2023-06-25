@@ -1,0 +1,9 @@
+{
+  "id": [ "gyro_pistol" ],
+  "fg": [
+    "gyro_pistol"
+   ],
+  "bg": [
+    "bg_shadow_item"
+   ]
+}
