@@ -1,0 +1,66 @@
+[
+    {
+        "id": [
+            "s_lightindustry_00_roof",
+            "s_lightindustry_scen_00_roof"        
+        ],
+        "fg": [
+            "s_lightindustry_h_roof_SW",
+            "s_lightindustry_v_roof_SE",
+            "s_lightindustry_h_roof_NE",
+            "s_lightindustry_v_roof_NW"
+        ],
+        "bg": [
+            "open_air"
+        ],
+        "rotates": true
+    },
+    {
+        "id": [
+            "s_lightindustry_01_roof",
+            "s_lightindustry_scen_01_roof"        
+        ],
+        "fg": [
+            "s_lightindustry_h_roof_SE",
+            "s_lightindustry_v_roof_NE",
+            "s_lightindustry_h_roof_NW",
+            "s_lightindustry_v_roof_SW"
+        ],
+        "bg": [
+            "open_air"
+        ],
+        "rotates": true
+    },
+    {
+        "id": [
+            "s_lightindustry_10_roof",
+            "s_lightindustry_scen_10_roof"        
+        ],
+        "fg": [
+            "s_lightindustry_h_roof_NW",
+            "s_lightindustry_v_roof_SW",
+            "s_lightindustry_h_roof_SE",
+            "s_lightindustry_v_roof_NE"
+        ],
+        "bg": [
+            "open_air"
+    ],
+    "rotates": true
+    },
+    {
+        "id": [
+            "s_lightindustry_11_roof",
+            "s_lightindustry_scen_11_roof"        
+        ],
+        "fg": [
+            "s_lightindustry_h_roof_NE",
+            "s_lightindustry_v_roof_NW",
+            "s_lightindustry_h_roof_SW",
+            "s_lightindustry_v_roof_SE"
+        ],
+        "bg": [
+            "open_air"
+        ],
+        "rotates": true
+    }
+]
