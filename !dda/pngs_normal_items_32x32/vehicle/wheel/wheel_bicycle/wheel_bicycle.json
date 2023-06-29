@@ -1,8 +1,18 @@
-{
-  "id": "wheel_bicycle",
-  "fg": [
-    "wheel_bicycle"
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+  {
+    "id": "wheel_bicycle",
+    "fg": [
+      "wheel_bicycle"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "tire_bicycle",
+    "fg": [
+      "tire_bicycle"
+    ],
+    "bg": [],
+    "rotates": false
+  }
+]
