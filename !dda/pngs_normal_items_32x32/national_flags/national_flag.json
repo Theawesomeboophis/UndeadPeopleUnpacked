@@ -1,0 +1,371 @@
+[
+    {
+        "id": "national_flag_var_armenian_flag",
+        "fg": [
+            "armenian_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_belgian_flag",
+        "fg": [
+            "belgium_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_beninian_flag",
+        "fg": [
+            "benin_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_botswanian_flag",
+        "fg": [
+            "botswana_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_canadian_flag",
+        "fg": [
+            "canada_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_chad_flag",
+        "fg": [
+            "chad_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_chilean_flag",
+        "fg": [
+            "chile_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_chinese_flag",
+        "fg": [
+            "china_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_colombian_flag",
+        "fg": [
+            "colombia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_comoros_flag",
+        "fg": [
+            "comoros_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_cuban_flag",
+        "fg": [
+            "cuba_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_czech_flag",
+        "fg": [
+            "czechia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },    
+    {
+        "id": "national_flag_var_congo_flag",
+        "fg": [
+            "congo_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_democratic_congo_flag",
+        "fg": [
+            "demo_congo_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_danish_flag",
+        "fg": [
+            "denmark_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_djiboutian_flag",
+        "fg": [
+            "djibouti_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_estonian_flag",
+        "fg": [
+            "estonia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_french_flag",
+        "fg": [
+            "france_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_gabonese_flag",
+        "fg": [
+            "gabon_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_gambian_flag",
+        "fg": [
+            "gambia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_georgian_flag",
+        "fg": [
+            "georgia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_german_flag",
+        "fg": [
+            "germany_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_greek_flag",
+        "fg": [
+            "greece_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_guinean_flag",
+        "fg": [
+            "guinea_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_hungarian_flag",
+        "fg": [
+            "hungary_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_indonesian_flag",
+        "fg": [
+            "indonesia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_irish_flag",
+        "fg": [
+            "irish_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_italian_flag",
+        "fg": [
+            "italy_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_ivory_coast_flag",
+        "fg": [
+            "ivory_coast_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_japanese_flag",
+        "fg": [
+            "japan_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_latvian_flag",
+        "fg": [
+            "latvia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_liberian_flag",
+        "fg": [
+            "liberia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_lithuanian_flag",
+        "fg": [
+            "lithuania_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_madagascan_flag",
+        "fg": [
+            "madagascar_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_malaysian_flag",
+        "fg": [
+            "malaysia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_malian_flag",
+        "fg": [
+            "mali_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_mauritanian_flag",
+        "fg": [
+            "mauritius_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_dutch_flag",
+        "fg": [
+            "netherlands_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_nigerian_flag",
+        "fg": [
+            "nigeria_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_macedonian_flag",
+        "fg": [
+            "north_macedonia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_norwegian_flag",
+        "fg": [
+            "norway_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_pakistani_flag",
+        "fg": [
+            "pakistan_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_polish_flag",
+        "fg": [
+            "poland_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_romanian_flag",
+        "fg": [
+            "romania_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_ukrainian_flag",
+        "fg": [
+            "ukraine_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_russian_flag",
+        "fg": [
+            "russia_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    }
+
+]

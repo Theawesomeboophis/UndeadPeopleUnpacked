@@ -1,5 +1,5 @@
 .DS_Store
-
+/temp
 # Files generated using !COMPOSE_MAIN.bat
 \!dda/generated_packed
 # Local config file for !COMPOSE_MAIN.bat
