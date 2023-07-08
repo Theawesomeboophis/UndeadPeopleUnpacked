@@ -1,7 +1,9 @@
 {
-  "id": "overlay_worn_maid_dress_miniskirt",
+  "id": "maid_dress_miniskirt",
   "fg": [
-    "overlay_worn_maid_dress_miniskirt"
+    "maid_dress_miniskirt"
    ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+   ]
 }
