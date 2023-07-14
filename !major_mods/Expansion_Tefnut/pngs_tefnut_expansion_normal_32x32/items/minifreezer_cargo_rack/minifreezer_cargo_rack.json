@@ -1,5 +1,5 @@
 {
-  "id": "minifreezer_cargo_rack",
+  "id": [ "minifreezer_cargo_rack", "overlay_wielded_minifreezer_cargo_rack" ],
   "fg": [
     "minifreezer_cargo_rack"
    ],
