@@ -1,9 +1,7 @@
 {
-  "id": [ "6x50mm_casing" ],
+  "id": [ "6x50mm_casing", "7x58mm_casing" ],
   "fg": [
     "6x50mm_casing"
    ],
-  "bg": [
-    "bg_shadow_item"
-   ]
+  "bg": []
 }
