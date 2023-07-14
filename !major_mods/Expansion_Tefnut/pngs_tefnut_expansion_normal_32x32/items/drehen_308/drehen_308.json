@@ -3,5 +3,7 @@
   "fg": [
     "drehen_308"
    ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }
