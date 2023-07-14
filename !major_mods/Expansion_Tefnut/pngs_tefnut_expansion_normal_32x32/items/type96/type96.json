@@ -3,5 +3,7 @@
   "fg": [
     "type96"
    ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }
