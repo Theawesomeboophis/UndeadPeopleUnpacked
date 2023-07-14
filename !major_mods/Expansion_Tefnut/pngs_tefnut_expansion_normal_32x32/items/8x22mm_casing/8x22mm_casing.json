@@ -3,7 +3,5 @@
   "fg": [
     "8x22mm_casing"
    ],
-  "bg": [
-    "bg_shadow_item"
-   ]
+  "bg": []
 }
