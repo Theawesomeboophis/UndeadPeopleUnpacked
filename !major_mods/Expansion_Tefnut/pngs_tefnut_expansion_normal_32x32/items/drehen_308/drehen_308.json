@@ -1,9 +1,7 @@
 {
-  "id": [ "drehen_308" ],
+  "id": [ "drehen_308", "drehen_556", "drehen_50", "drehen_700", "drehen_12", "drehen_8" ],
   "fg": [
     "drehen_308"
    ],
-  "bg": [
-    "bg_shadow_item"
-   ]
+  "bg": []
 }
