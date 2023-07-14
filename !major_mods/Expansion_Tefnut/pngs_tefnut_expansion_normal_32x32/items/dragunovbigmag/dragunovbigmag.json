@@ -3,5 +3,7 @@
   "fg": [
     "dragunovbigmag"
    ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }
