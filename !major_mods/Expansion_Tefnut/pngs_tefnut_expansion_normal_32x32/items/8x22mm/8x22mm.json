@@ -3,5 +3,7 @@
   "fg": [
     "8x22mm_fmj"
    ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }
