@@ -1,9 +1,7 @@
 {
-  "id": [ "55_boys_mk1" ],
+  "id": [ "55_boys_mk1", "55_boys_mk2", "55_boys_APCR" ],
   "fg": [
     "55_boys_mk1"
    ],
-  "bg": [
-    "bg_shadow_item"
-   ]
+  "bg": []
 }
