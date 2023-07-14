@@ -1,13 +1,9 @@
 {
-  "id": [
-    "fatigues_us"
-   ],
+  "id": [ "fatigues_us", "fatigues_ija" ],
   "fg": [
     "fatigues_us"
    ],
-  "bg": [
-    "bg_shadow_item"
-   ]
+  "bg": []
 }
 
 
