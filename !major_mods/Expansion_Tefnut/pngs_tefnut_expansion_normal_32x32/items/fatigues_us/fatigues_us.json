@@ -3,7 +3,9 @@
   "fg": [
     "fatigues_us"
    ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ]
 }
 
 
