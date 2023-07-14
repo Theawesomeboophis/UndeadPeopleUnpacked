@@ -3,7 +3,5 @@
   "fg": [
     "transplastic_chunk"
    ],
-  "bg": [
-    "bg_shadow_item"
-   ]
+  "bg": []
 }
