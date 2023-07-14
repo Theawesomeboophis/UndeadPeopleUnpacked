@@ -1,9 +1,7 @@
 {
-  "id": [ "type2mag" ],
+  "id": [ "type2mag", "type96mag", "type99mag", "type100mag" ],
   "fg": [
     "type2mag"
    ],
-  "bg": [
-    "bg_shadow_item"
-   ]
+  "bg": []
 }
