@@ -1,5 +1,5 @@
 {
-  "id": "small_makeshift_rotor",
+  "id": [ "small_makeshift_rotor", "overlay_wielded_small_makeshift_rotor" ],
   "fg": [
     "small_makeshift_rotor"
    ],
