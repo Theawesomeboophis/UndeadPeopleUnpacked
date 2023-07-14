@@ -3,7 +3,5 @@
   "fg": [
     "51_gyro_casing"
    ],
-  "bg": [
-    "bg_shadow_item"
-   ]
+  "bg": []
 }
