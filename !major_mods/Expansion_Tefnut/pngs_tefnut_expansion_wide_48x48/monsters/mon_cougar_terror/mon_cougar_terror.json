@@ -1,0 +1,10 @@
+{
+  "id": "mon_cougar_terror",
+  "fg": [
+    "mon_cougar_terror"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

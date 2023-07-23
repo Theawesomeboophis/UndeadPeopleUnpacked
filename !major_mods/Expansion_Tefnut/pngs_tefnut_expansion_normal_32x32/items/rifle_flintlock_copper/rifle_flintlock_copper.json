@@ -1,0 +1,9 @@
+{
+  "id": "rifle_flintlock_copper",
+  "fg": [
+    "rifle_flintlock_copper"
+   ],
+  "bg": [
+    "bg_shadow_item"
+   ]
+}

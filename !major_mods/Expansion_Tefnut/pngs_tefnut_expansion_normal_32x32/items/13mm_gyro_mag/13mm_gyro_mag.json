@@ -1,0 +1,9 @@
+{
+  "id": "13mm_gyro_mag",
+  "fg": [
+    "13mm_gyro_mag"
+   ],
+  "bg": [
+    "bg_shadow_item"
+   ]
+}

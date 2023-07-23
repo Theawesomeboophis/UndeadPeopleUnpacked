@@ -1,0 +1,9 @@
+{
+  "id": "rebel_flag",
+  "fg": [
+    "rebel_flag"
+   ],
+  "bg": [
+    "bg_shadow_item"
+   ]
+}

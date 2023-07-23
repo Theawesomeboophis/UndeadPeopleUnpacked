@@ -1,0 +1,9 @@
+{
+  "id": "gravity_gun",
+  "fg": [
+    "gravity_gun"
+   ],
+  "bg": [
+    "bg_shadow_item"
+   ]
+}

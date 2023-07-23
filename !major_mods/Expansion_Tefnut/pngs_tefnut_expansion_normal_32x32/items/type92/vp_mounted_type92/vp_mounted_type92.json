@@ -1,0 +1,20 @@
+{
+  "id": "vp_mounted_type92",
+  "fg": [
+    "vp_mounted_type92"
+   ],
+  "bg": [
+    "bg_car"
+   ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+     "id": "broken",
+     "fg": [
+       "broken"
+      ],
+     "bg": []
+    }
+  ]
+}
