@@ -1,5 +1,5 @@
 {
-  "id": "mie_goreng",
+  "id": [ "mie_goreng", "maggi_goreng" ],
   "fg": [
     "mie_goreng"
    ],
