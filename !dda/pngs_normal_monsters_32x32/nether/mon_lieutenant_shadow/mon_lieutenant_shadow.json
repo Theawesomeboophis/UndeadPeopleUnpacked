@@ -1,0 +1,18 @@
+{
+    "id": "mon_lieutenant_shadow",
+    "fg": [
+      {
+        "weight": 50,
+        "sprite": "mon_lieutenant_shadow_2"
+      },
+      {
+        "weight": 50,
+        "sprite": "mon_lieutenant_shadow_1"
+      },
+      {
+        "weight": 50,
+        "sprite": "mon_lieutenant_shadow_3"
+      }
+    ],
+    "animated": true
+  }
