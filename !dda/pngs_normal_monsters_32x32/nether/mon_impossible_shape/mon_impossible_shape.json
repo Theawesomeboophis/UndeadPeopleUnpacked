@@ -1,1 +1,10 @@
-
+{
+  "id": "mon_impossible_shape",
+  "fg": [
+    "mon_impossible_shape"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
