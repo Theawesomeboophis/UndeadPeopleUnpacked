@@ -1,8 +1,26 @@
-{
-  "id": "wheel",
-  "fg": [
-    "wheel"
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+  {
+    "id": "wheel",
+    "fg": [
+      "wheel"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "deflated_wheel",
+    "fg": [
+      "deflated_wheel"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "wheel_rim_medium",
+    "fg": [
+      "wheel_rim_medium"
+    ],
+    "bg": [],
+    "rotates": false
+  }
+]

@@ -14,5 +14,21 @@
     ],
     "bg": [],
     "rotates": false
+  },
+  {
+    "id": "deflated_wheel_bicycle",
+    "fg": [
+      "deflated_wheel_bicycle"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "wheel_rim_bicycle",
+    "fg": [
+      "wheel_rim_bicycle"
+    ],
+    "bg": [],
+    "rotates": false
   }
 ]
