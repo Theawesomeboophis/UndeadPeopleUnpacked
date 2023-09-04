@@ -1,0 +1,9 @@
+{
+  "id": "keychain",
+  "fg": [
+    "keychain"
+   ],
+  "bg": [
+    "bg_shadow_item"
+   ]
+}
