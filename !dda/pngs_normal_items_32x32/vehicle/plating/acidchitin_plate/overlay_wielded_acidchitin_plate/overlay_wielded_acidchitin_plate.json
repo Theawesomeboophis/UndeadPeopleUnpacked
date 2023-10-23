@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_acidchitin_plate",
   "fg": [
-    "acidchitin_plate"
+    "overlay_wielded_acidchitin_plate"
   ],
   "bg": [],
   "rotates": false
