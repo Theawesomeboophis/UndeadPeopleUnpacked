@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_mil_plate",
   "fg": [
-    "omil_plate"
+    "overlay_wielded_mil_plate"
   ],
   "bg": [],
   "rotates": false
