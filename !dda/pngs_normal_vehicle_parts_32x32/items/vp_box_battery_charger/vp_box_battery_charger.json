@@ -1,0 +1,22 @@
+{
+  "id": "vp_box_battery_charger",
+  "fg": [
+    "vp_box_battery_charger"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bg_car_damage"
+      ],
+      "bg": [
+        "box_battery_charger"
+      ]
+    }
+  ]
+}
