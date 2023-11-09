@@ -1,7 +1,7 @@
 {
   "id": "gunpowder_artillery",
   "fg": [
-    "gunpowder_artillery"
+    "gunpowder"
   ],
   "bg": [],
   "rotates": false

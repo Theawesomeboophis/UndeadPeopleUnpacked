@@ -1,0 +1,10 @@
+{
+  "id": "mon_mosasaurus",
+  "fg": [
+    "mon_mosasaurus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,9 @@
+{
+  "id":"mon_null_mutant",
+  "fg": [
+    "mon_null_mutant"
+   ],
+  "bg": [
+    "bg_shadow_normal"
+   ]
+}

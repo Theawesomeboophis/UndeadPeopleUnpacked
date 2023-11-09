@@ -1,0 +1,3 @@
+ {
+          "id": [ "public_works_NE_roof", "public_works_NW_roof", "public_works_SE_roof", "public_works_SW_roof" ],
+ "fg": [ "public_works_NE_roof" ], "bg": [ "open_air" ], "rotates": false }

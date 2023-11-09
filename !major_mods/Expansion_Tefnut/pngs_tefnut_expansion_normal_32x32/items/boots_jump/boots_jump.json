@@ -1,0 +1,9 @@
+{
+  "id": "boots_jump",
+  "fg": [
+    "boots_jump"
+   ],
+  "bg": [
+    "bg_shadow_item"
+   ]
+}

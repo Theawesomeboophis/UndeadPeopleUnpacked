@@ -1,8 +1,26 @@
-{
-  "id": "overlay_wielded_wheel_motorbike",
-  "fg": [
-    "wheel_motorbike"
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+  {
+    "id": "overlay_wielded_wheel_motorbike",
+    "fg": [
+      "wheel_motorbike"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_wielded_deflated_wheel_motorbike",
+    "fg": [
+      "deflated_wheel_motorbike"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_wielded_wheel_rim_motorbike",
+    "fg": [
+      "wheel_rim_motorbike"
+    ],
+    "bg": [],
+    "rotates": false
+  }
+]

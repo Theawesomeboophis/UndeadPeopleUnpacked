@@ -1,5 +1,5 @@
 [{
-  "id": ["pond_field", "pond_forest", "hot_springs", "pond_swamp"],
+  "id": ["pond_field", "pond_forest", "hot_springs", "natural_spring", "pond_swamp"],
   "fg": ["pond"],
   "bg": [],
   "rotates": false

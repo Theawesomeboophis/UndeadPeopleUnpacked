@@ -1,0 +1,3 @@
+        {
+      "id": [ "bus_stat_0_roof", "bus_stat_1_roof", "mine_entrance_loading_zone_roof", "cs_gardening_allotment_roof" ],
+ "fg": [ "bus_stat_0_roof" ], "bg": [ "open_air" ], "rotates": false }

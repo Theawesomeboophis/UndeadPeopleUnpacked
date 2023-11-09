@@ -1,5 +1,9 @@
 {
-  "id": "molle_pack",
+  "id": [
+    "molle_pack",
+    "molle_large_rucksack",
+    "molle_medium_rucksack"
+  ],
   "fg": [
     "molle_pack"
   ],

@@ -1,0 +1,9 @@
+{
+  "id": [ "8x22mm_fmj", "8x22mm_jhp", "8x22mm_p" ],
+  "fg": [
+    "8x22mm_fmj"
+   ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

@@ -1,22 +1,92 @@
-### Tileset Composition and Decomposition
-
-Before we start, let's go through things that are mentioned in base game [TILESET.md](https://github.com/cataclysmbnteam/Cataclysm-BN/blob/upload/doc/TILESET.md):
+# Working with Scripts
+## General Workflow
+Before we start, let's go through things that are mentioned in base game [TILESET.md](https://github.com/cataclysmbnteam/Cataclysm-BN/blob/upload/doc/TILESET.md) (which also contains explanations for how tilesets are formatted and is recommended to read for new contributors):
 
 > tilesets that are submitted as fully composited tilesheets are called legacy tilesets, and tilesets that submitted as individual sprite image files are compositing tilesets.
 
-I'm finding this choose of terminology confusing since "legacy" here is only tied to submission method but not to the actual tileset themselves. Better names incoming:
+I'm finding this choice of terminology confusing since "legacy" here is only tied to submission method but not to the actual tilesets themselves. Better names incoming:
 
 * Composed: tilesets as we see them within compiled game and/or mods
 * Decomposed: tilesets in form of many separate files and folders
 
-This goes in line with scripts that do the work: `compose.py` and `decompose.py` and is intuitive that way: to "combine" many separate tiles into one-sheet-tileset, we'd choose `compose.py`, and to "slice" one-sheet-tileset to many images - `decompose.py`
 
-Since most likely the one who's willing to work with tiles will end up having only Composed ones on hands, from mods or downloaded game, we'll start on process of decomposition.
+This goes in line with scripts that do the work: `compose.py` and `decompose.py` and is intuitive that way: to "combine" many separate tiles into one-sheet-tileset, we'd choose `compose.py`, and to "slice" one-sheet-tileset to many images - `decompose.py`. See the sections on [Manual Composing](#Manual-Composing) and [Decomposing](#Decomposing) for details.
 
-# DECOMPOSING
+Mind that the *UndeadPeopleUnpacked* repository **already contains decomposed and organized files** within the `!dda`, `!default_mods`, etc. directories, which means that running the decompose script isn't usually necessary. These are the files you'll want to edit and create pull requests for when making changes to the tileset itself. 
 
-1. Installing pyvips: [simple video guide for Windows users](https://www.youtube.com/watch?v=O5iBsdAd1_w) and [text instructions for everyone](https://pypi.org/project/pyvips/)
-2. Preparing existing Composed tileset for decomposition:
+It's not recommended to manually edit the *composed tilesheets* directly, unless you want to test changes to a few specific tiles without having to wait for the entire composing process to finish. In this case, don't forget to **add your changes to the actual decomposed tiles** afterwards, or they may get lost the next time you compose.
+
+If you're on Windows, you can also compose the main `!dda` tileset using the `!COMPOSE_MAIN.bat` script which automates all manual steps with one simple click, including updating the tileset within your game files. See [Automatic Composing](#Automatic-Composing) for details.
+
+You may also want to set the in-game keybinding `Reload tileset` to quickly apply the changes you've made.
+
+
+## Installation
+To run the scripts you need **Python**, the image processing library **libvips** and its Python wrapper **pyvips**.
+For details see [simple video guide for Windows users](https://www.youtube.com/watch?v=O5iBsdAd1_w) and [text instructions for everyone](https://pypi.org/project/pyvips/).
+
+### Some important notes:
+- Pyvips **does not support Python versions 3.8 and above** without specific configuration of the scripts. Use Python 3.7 instead for now.
+- There may also be issues with Anaconda virtual environments. Try using Python directly if you are getting errors.
+- Don't forget to add the path to your `vips-dev-<version>\bin\` directory to the enviroment variable `PATH` (or a new variable `LIBVIPS_PATH`).
+
+## Automatic Composing
+(The following applies only to Windows and the main vanilla tileset in `!dda` at this time.)
+
+If it doesn't exist yet, `!COMPOSE_MAIN.bat` creates the config file `!compose_main.ini` and sets default values for the source and output directories:
+```
+sources_path=!dda\
+output_path=!dda\generated_packed\
+```
+After composing the permanent tileset files (`fallback.png`, `tileset.txt`, ...) are copied to `generated_packed\` and `tile_config.json` gets linted using `json_formatter.exe` so that the folder now contains a complete and usuable build of the tileset.
+
+Optionally, you can also add the tileset's location within your game files to `game_path` in `!compose_main.ini`. If the value is non-empty, the script automatically updates it as well to make testing changes in-game quicker. For example, in my case it looks like this:
+```
+sources_path=!dda\
+output_path=!dda\generated_packed\
+game_path=D:\Games\Cataclysm Dark Days Ahead\dda\userdata\gfx\MSX++UnDeadPeopleEdition
+```
+If you're using the [Catapult Launcher](https://github.com/qrrk/Catapult) it's recommended to use the `userdata\gfx\` directory like in this example instead of the one in the actual game files. This makes sure that your *UndeadPeople* tileset doesn't get removed when updating to another experimental game version.
+
+Both the `generated_packed\` folder and `!compose_main.ini` file are part of `.gitignore` so that your local generated files and game path don't accidentally get pushed upstream.
+
+## Manual Composing
+
+1. Simply running `compose.py` and pointing the folder where Decomposed files and `tile_info.json` are located is enough and will produce Composed tileset as well as newly updated `tile_config.json`
+2. Resulting `tile_config.json` is actually not ready to be used by game:
+* First, it needs linting, which can be done at https://dev.narc.ro/cataclysm/format.html or with the included `json_formatter.exe` (see [JSON_STYLE.md](https://github.com/cataclysmbnteam/Cataclysm-BN/blob/upload/doc/JSON_STYLE.md))
+* Square brackets at the beginning and the end of the file should be restored
+* If there is no actual `fallback.png` present, it's section should be removed
+* Replace **"tile_info"** section with 
+
+  ```"type": "mod_tileset",
+  "compatibility": [
+    "Chibi_Ultica",
+    "UltimateCataclysm",
+    "MshockXottoplus",
+    "UNDEAD_PEOPLE",
+    "UNDEAD_PEOPLE_BASE",
+    "UNDEAD_PEOPLE_LEGACY",
+    "UlticaShell",
+    "MshockXottoplus12",
+    "MSX++DEAD_PEOPLE",
+    "MXplus12_for_cosmetics",
+    "MSXotto+"
+  ],```
+  
+  or something else that will make compatibility sense
+  
+* Lint again, just in case
+
+3. Remove original mod tileset files and replace them with newly composed. Renaming `tile_config.json` into `mod_tileset.json` is not strictly necessary for game to run. 
+Now go test it, spawn some zombear or something else from Aftershock mod to see if things are showing up correctly. They should. 
+If the game fails at loading, it will say what's wrong with config file - in this case this should be easily fixable.
+
+Composing is done.
+
+## Decomposing
+
+Preparing existing Composed tileset for decomposition:
 * As example, let's take `Aftershock` mod which is distributed with the game
 * To keep original files intact, we'll need to copy tileset files somewhere else
 * In this case: 
@@ -50,40 +120,6 @@ and new file `tile_info.json` which is crucial for composing process.
 `tile_config.json` contents has changed and now mentioning `fallback.png`, which section you should remove in case you'll want another decomposition process.
 
 Decomposing is done, you can now go and alter each individual Decomposed tile and it's corresponding .json file as you wish.
-
-# COMPOSING
-
-1. Simply running `compose.py` and pointing the folder where Decomposed files and `tile_info.json` are located is enough and will produce Composed tileset as well as newly updated `tile_config.json`
-2. Resulting `tile_config.json` is actually not ready to be used by game:
-* First, it needs linting, which can be done at https://dev.narc.ro/cataclysm/format.html (see [JSON_STYLE.md](https://github.com/cataclysmbnteam/Cataclysm-BN/blob/upload/doc/JSON_STYLE.md))
-* Square brackets at the beginning and the end of the file should be restored
-* If there is no actual `fallback.png` present, it's section should be removed
-* Replace **"tile_info"** section with 
-
-  ```"type": "mod_tileset",
-  "compatibility": [
-    "Chibi_Ultica",
-    "UltimateCataclysm",
-    "MshockXottoplus",
-    "UNDEAD_PEOPLE",
-    "UNDEAD_PEOPLE_BASE",
-    "UNDEAD_PEOPLE_LEGACY",
-    "UlticaShell",
-    "MshockXottoplus12",
-    "MSX++DEAD_PEOPLE",
-    "MXplus12_for_cosmetics",
-    "MSXotto+"
-  ],```
-  
-  or something else that will make compatibility sense
-  
-* Lint again, just in case
-
-3. Remove original mod tileset files and replace them with newly composed. Renaming `tile_config.json` into `mod_tileset.json` is not strictly necessary for game to run. 
-Now go test it, spawn some zombear or something else from Aftershock mod to see if things are showing up correctly. They should. 
-If the game fails at loading, it will say what's wrong with config file - in this case this should be easily fixable.
-
-Composing is done.
 
 # TODO: COMBINING TILESETS OF SEVERAL MODS
 

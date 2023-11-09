@@ -1,0 +1,10 @@
+{
+  "id": "pike_pole",
+  "fg": [
+    "pike_pole"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,5 +1,9 @@
 {
-  "id": "overlay_wielded_molle_pack",
+  "id": [
+    "overlay_wielded_molle_pack",
+    "overlay_wielded_molle_large_rucksack",
+    "overlay_wielded_molle_medium_rucksack"
+  ],
   "fg": [
     "molle_pack"
   ],

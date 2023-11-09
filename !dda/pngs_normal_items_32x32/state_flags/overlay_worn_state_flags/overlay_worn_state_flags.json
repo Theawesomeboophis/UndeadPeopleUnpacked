@@ -1,0 +1,50 @@
+[
+    {
+        "id": "overlay_worn_state_flag_var_connecticut_flag",
+        "fg": [
+        "overlay_worn_state_flag_var_connecticut_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "overlay_worn_state_flag_var_maine_flag",
+        "fg": [
+        "overlay_worn_state_flag_var_maine_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "overlay_worn_state_flag_var_massachusetts_flag",
+        "fg": [
+        "overlay_worn_state_flag_var_massachusetts_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "overlay_worn_state_flag_var_new_hampshire_flag",
+        "fg": [
+        "overlay_worn_state_flag_var_new_hampshire_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "overlay_worn_state_flag_var_rhode_island_flag",
+        "fg": [
+        "overlay_worn_state_flag_var_rhode_island_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "overlay_worn_state_flag_var_vermont_flag",
+        "fg": [
+        "overlay_worn_state_flag_var_vermont_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    }
+]

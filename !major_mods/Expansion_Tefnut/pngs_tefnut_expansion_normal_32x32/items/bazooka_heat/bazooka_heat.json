@@ -1,0 +1,9 @@
+{
+  "id": "bazooka_heat",
+  "fg": [
+    "bazooka_heat"
+   ],
+  "bg": [
+    "bg_shadow_item"
+   ]
+}

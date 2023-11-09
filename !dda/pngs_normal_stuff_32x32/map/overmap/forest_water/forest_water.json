@@ -1,6 +1,10 @@
 {
   "id": "forest_water",
-  "fg": ["forest_water_1"],
+  "fg": [
+    { "weight": 3, "sprite": "forest_water_1" },
+    { "weight": 3, "sprite": "forest_water_2" },
+    { "weight": 3, "sprite": "forest_water_3" }
+  ],
   "bg": "",
   "rotates": false
 }

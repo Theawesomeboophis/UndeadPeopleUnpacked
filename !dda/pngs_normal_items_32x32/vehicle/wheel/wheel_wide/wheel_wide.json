@@ -1,8 +1,26 @@
-{
-  "id": "wheel_wide",
-  "fg": [
-    "wheel_wide"
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+  {
+    "id": "wheel_wide",
+    "fg": [
+      "wheel_wide"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "deflated_wheel_wide",
+    "fg": [
+      "deflated_wheel_wide"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "wheel_rim_wide",
+    "fg": [
+      "wheel_rim_wide"
+    ],
+    "bg": [],
+    "rotates": false
+  }
+]

@@ -1,8 +1,26 @@
-{
-  "id": "overlay_wielded_wheel",
-  "fg": [
-    "wheel"
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+  {
+    "id": "overlay_wielded_wheel",
+    "fg": [
+      "wheel"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_wielded_deflated_wheel",
+    "fg": [
+      "deflated_wheel"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_wielded_wheel_rim_medium",
+    "fg": [
+      "wheel_rim_medium"
+    ],
+    "bg": [],
+    "rotates": false
+  }
+]

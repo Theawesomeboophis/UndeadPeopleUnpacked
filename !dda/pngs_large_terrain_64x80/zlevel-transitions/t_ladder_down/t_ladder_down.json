@@ -10,9 +10,7 @@
       "sprite": "t_ladder_down_2"
     }
   ],
-  "bg": [
-    "bg_big_flat_roof"
-  ],
+  "bg": [],
   "rotates": false,
   "animated": true
 }

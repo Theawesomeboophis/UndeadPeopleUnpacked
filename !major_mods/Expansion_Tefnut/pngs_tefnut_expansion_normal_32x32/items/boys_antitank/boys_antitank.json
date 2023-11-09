@@ -1,0 +1,9 @@
+{
+  "id": "boys_antitank",
+  "fg": [
+    "boys_antitank"
+   ],
+  "bg": [
+    "bg_shadow_item"
+    ]
+}

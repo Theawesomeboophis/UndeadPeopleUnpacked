@@ -1,0 +1,11 @@
+{
+  "id": ["urban_1_2", "urban_2_2", "urban_3_2", "urban_5_2", "urban_4_4", "urban_6_2", "urban_7_2"],
+    "fg": [
+            { "weight": 25, "sprite": [ "urban_1_2_1" ] },
+            { "weight": 25, "sprite": [ "urban_1_2_2" ] },
+            { "weight": 25, "sprite": [ "urban_1_2_3" ] },
+            { "weight": 25, "sprite": [ "urban_1_2_4" ] }
+          ],
+  "bg": [],
+  "rotates": false
+}

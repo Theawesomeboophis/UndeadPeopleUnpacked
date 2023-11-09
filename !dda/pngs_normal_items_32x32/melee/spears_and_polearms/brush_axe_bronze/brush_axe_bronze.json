@@ -1,0 +1,10 @@
+{
+  "id": "brush_axe_bronze",
+  "fg": [
+    "brush_axe_bronze"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
