@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_box_battery_charger",
+  "fg": [
+    "box_battery_charger"
+  ],
+  "bg": [],
+  "rotates": false
+}
