@@ -1,0 +1,10 @@
+{
+  "id": "mc_falx",
+  "fg": [
+    "mc_falx"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "lc_falx",
+  "fg": [
+    "lc_falx"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
