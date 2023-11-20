@@ -1,0 +1,10 @@
+{
+  "id": "mon_amalgamation_spotter",
+  "fg": [
+    "mon_amalgamation_spotter"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
