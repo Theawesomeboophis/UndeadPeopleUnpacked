@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_combo_cover",
+  "fg": [
+    "combo_cover"
+  ],
+  "bg": [],
+  "rotates": false
+}
