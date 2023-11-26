@@ -1,0 +1,10 @@
+{
+  "id": "hc_kriegsmesser",
+  "fg": [
+    "hc_kriegsmesser"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
