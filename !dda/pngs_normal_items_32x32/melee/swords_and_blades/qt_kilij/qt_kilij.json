@@ -1,0 +1,10 @@
+{
+  "id": "qt_kilij",
+  "fg": [
+    "qt_kilij"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
