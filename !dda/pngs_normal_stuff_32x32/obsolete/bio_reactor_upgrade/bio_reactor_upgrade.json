@@ -1,7 +1,7 @@
 {
   "id": "bio_reactor_upgrade",
   "fg": [
-    "bio_reactor_upgrade"
+    "bio_reactor"
   ],
   "bg": [],
   "rotates": false
