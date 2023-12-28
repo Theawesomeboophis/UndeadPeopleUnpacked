@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_barosaurus",
+  "fg": [
+    "corpse_mon_diplodocus"
+  ],
+  "bg": [],
+  "rotates": false
+}
