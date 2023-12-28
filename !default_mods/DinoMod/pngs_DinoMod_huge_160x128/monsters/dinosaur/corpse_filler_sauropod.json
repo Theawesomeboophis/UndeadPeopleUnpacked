@@ -1,0 +1,20 @@
+{
+  "id": [
+    "corpse_mon_sarahsaurus",
+    "corpse_mon_anchisaurus",
+    "corpse_mon_issi",
+    "corpse_mon_haplocanthosaurus",
+    "corpse_mon_amargasaurus",
+    "corpse_mon_brontosaurus",
+    "corpse_mon_camarasaurus",
+    "corpse_mon_brachiosaurus",
+    "corpse_mon_alamosaurus"
+  ],
+  "fg": [
+    "corpse_mon_apatosaurus"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}
