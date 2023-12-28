@@ -1,8 +1,14 @@
 {
-  "id": "corpse_mon_barosaurus",
+  "id": [
+    "corpse_mon_barosaurus",
+    "corpse_mon_barosaurus_juvenile",
+    "corpse_mon_diplodocus_juvenile"
+  ],
   "fg": [
     "corpse_mon_diplodocus"
   ],
-  "bg": [],
+  "bg": [
+    
+  ],
   "rotates": false
 }
