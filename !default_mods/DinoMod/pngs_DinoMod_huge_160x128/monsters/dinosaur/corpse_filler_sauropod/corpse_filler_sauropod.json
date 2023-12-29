@@ -1,0 +1,30 @@
+{
+  "id": [
+    "corpse_mon_sarahsaurus",
+    "corpse_mon_anchisaurus",
+    "corpse_mon_issi",
+    "corpse_mon_haplocanthosaurus",
+    "corpse_mon_amargasaurus",
+    "corpse_mon_brontosaurus",
+    "corpse_mon_camarasaurus",
+    "corpse_mon_brachiosaurus",
+    "corpse_mon_alamosaurus",
+    "corpse_mon_sarahsaurus_juvenile",
+    "corpse_mon_anchisaurus_juvenile",
+    "corpse_mon_issi_juvenile",
+    "corpse_mon_haplocanthosaurus_juvenile",
+    "corpse_mon_amargasaurus_juvenile",
+    "corpse_mon_brontosaurus_juvenile",
+    "corpse_mon_camarasaurus_juvenile",
+    "corpse_mon_brachiosaurus_juvenile",
+    "corpse_mon_alamosaurus_juvenile",
+    "corpse_mon_apatosaurus_juvenile"
+  ],
+  "fg": [
+    "corpse_mon_apatosaurus"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

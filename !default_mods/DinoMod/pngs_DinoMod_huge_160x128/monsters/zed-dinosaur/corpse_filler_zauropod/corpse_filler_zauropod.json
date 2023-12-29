@@ -1,0 +1,33 @@
+{
+  "id": [
+    "corpse_mon_zarahsaurus",
+    "corpse_mon_zanchisaurus",
+    "corpse_mon_zissi",
+    "corpse_mon_zaplocanthosaurus",
+    "corpse_mon_zamargasaurus",
+    "corpse_mon_zrontosaurus",
+    "corpse_mon_zamarasaurus",
+    "corpse_mon_zrachiosaurus",
+    "corpse_mon_zalamosaurus",
+    "corpse_mon_zarosaurus",
+    "corpse_mon_ziplodocus",
+    "corpse_mon_zarahsaurus_juvenile",
+    "corpse_mon_zanchisaurus_juvenile",
+    "corpse_mon_zissi_juvenile",
+    "corpse_mon_zaplocanthosaurus_juvenile",
+    "corpse_mon_zamargasaurus_juvenile",
+    "corpse_mon_zrontosaurus_juvenile",
+    "corpse_mon_zamarasaurus_juvenile",
+    "corpse_mon_zrachiosaurus_juvenile",
+    "corpse_mon_zalamosaurus_juvenile",
+    "corpse_mon_zarosaurus_juvenile",
+    "corpse_mon_ziplodocus_juvenile"
+  ],
+  "fg": [
+    "corpse_mon_apatosaurus"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}
