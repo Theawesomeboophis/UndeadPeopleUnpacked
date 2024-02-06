@@ -1,0 +1,11 @@
+[
+    {
+        "id": "corded_powerdrill",
+        "fg": "corded_powerdrill",
+        "bg": "bg_shadow_item"
+    },
+    {
+        "id": "overlay_wielded_corded_powerdrill",
+        "fg": "overlay_wielded_corded_powerdrill"
+    }
+]
