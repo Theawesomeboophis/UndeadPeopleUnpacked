@@ -1,0 +1,18 @@
+[
+    {
+        "id": "wind_turbine_pillar",
+        "fg": "wind_turbine_pillar"
+    },
+    {
+        "id": "wind_turbine_pillar_platform",
+        "fg": "wind_turbine_pillar_platform"
+    },
+    {
+        "id": "wind_turbine_nacelle",
+        "fg": "wind_turbine_nacelle"
+    },
+    {
+        "id": "wind_turbine_roof",
+        "fg": "wind_turbine_roof"
+    }
+]
