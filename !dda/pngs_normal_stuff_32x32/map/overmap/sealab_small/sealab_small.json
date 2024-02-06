@@ -1,6 +1,30 @@
-{
-  "id": "sealab_small_surface",
-  "fg": ["sealab_small"],
-  "bg": [],
-  "rotates": false
-}
+[
+  {
+    "id": "sealab_small_surface",
+    "fg": "sealab_small_surface"
+  },
+  {
+    "id": "sealab_small_roof",
+    "fg": "sealab_small_roof"
+  },
+  {
+    "id": "sealab_small_-1",
+    "fg": "sealab_small_-1"
+  },
+  {
+    "id": "sealab_small_-2",
+    "fg": "sealab_small_-2"
+  },
+  {
+    "id": "sealab_small_-3",
+    "fg": "sealab_small_-3"
+  },
+  {
+    "id": "sealab_small_-4",
+    "fg": "sealab_small_-4"
+  },
+  {
+    "id": "sealab_small_-5",
+    "fg": "sealab_small_-5"
+  }
+]
