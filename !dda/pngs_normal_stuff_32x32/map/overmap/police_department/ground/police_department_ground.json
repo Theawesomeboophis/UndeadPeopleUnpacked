@@ -1,0 +1,82 @@
+[
+    {
+        "id": "police_dept_u000",
+        "fg": [
+            "police_dept_u000_north",
+            "police_dept_u000_west",
+            "police_dept_u000_south",
+            "police_dept_u000_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_u010",
+        "fg": [
+            "police_dept_u010_north",
+            "police_dept_u010_west",
+            "police_dept_u010_south",
+            "police_dept_u010_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_u100",
+        "fg": [
+            "police_dept_u100_north",
+            "police_dept_u100_west",
+            "police_dept_u100_south",
+            "police_dept_u100_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_u110",
+        "fg": [
+            "police_dept_u110_north",
+            "police_dept_u110_west",
+            "police_dept_u110_south",
+            "police_dept_u110_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_d000",
+        "fg": [
+            "police_dept_d000_north",
+            "police_dept_d000_west",
+            "police_dept_d000_south",
+            "police_dept_d000_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_d010",
+        "fg": [
+            "police_dept_d010_north",
+            "police_dept_d010_west",
+            "police_dept_d010_south",
+            "police_dept_d010_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_d100",
+        "fg": [
+            "police_dept_d100_north",
+            "police_dept_d100_west",
+            "police_dept_d100_south",
+            "police_dept_d100_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_d110",
+        "fg": [
+            "police_dept_d110_north",
+            "police_dept_d110_west",
+            "police_dept_d110_south",
+            "police_dept_d110_east"
+        ],
+        "rotates": true
+    }
+]
