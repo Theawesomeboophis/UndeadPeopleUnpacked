@@ -1,26 +1,104 @@
-[{
-  "id": "anthill",
-  "fg": ["anthill"],
-  "bg": [],
-  "rotates": false
-},{
-  "id": "acid_anthill",
-  "fg": ["acid_anthill"],
-  "bg": [],
-  "rotates": false
-},{
-  "id": "ants_larvae",
-  "fg": ["ants_larvae"],
-  "bg": [],
-  "rotates": false
-},{
-  "id": "ants_food",
-  "fg": ["ants_food"],
-  "bg": [],
-  "rotates": false
-},{
-  "id": "ants_queen",
-  "fg": ["ants_queen"],
-  "bg": [],
-  "rotates": false
-}]
+[
+  {
+    "id": "anthill",
+    "fg": "anthill"
+  },
+  {
+    "id": [
+      "ants_larvae",
+      "acid_ants_larvae"
+    ],
+    "fg": [
+      "ants_larvae_n",
+      "ants_larvae_w",
+      "ants_larvae_s",
+      "ants_larvae_e"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "ants_food",
+      "acid_ants_food"
+    ],
+    "fg": [
+      "ants_food_n",
+      "ants_food_w",
+      "ants_food_s",
+      "ants_food_e"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "ants_queen",
+    "fg": [
+      "ants_queen_n",
+      "ants_queen_w",
+      "ants_queen_s",
+      "ants_queen_e"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "acid_ants_queen",
+    "fg": [
+      "acid_ants_queen_n",
+      "acid_ants_queen_w",
+      "acid_ants_queen_s",
+      "acid_ants_queen_e"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "ants",
+      "acid_ants"
+    ],
+    "fg": "ants_nesw",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "ants_nesw"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "ants_es",
+          "ants_ne",
+          "ants_nw",
+          "ants_sw"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "ants_esw",
+          "ants_nes",
+          "ants_new",
+          "ants_nsw"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "ants_ns",
+          "ants_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "ants_s",
+          "ants_e",
+          "ants_n",
+          "ants_w"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": "ants_nesw"
+      }
+    ]
+  }
+]
