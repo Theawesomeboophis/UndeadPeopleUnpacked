@@ -1,0 +1,88 @@
+[
+    {
+        "id": "c_cave_entrance",
+        "fg": "c_cave_entrance"
+    },
+    {
+        "id": "river_cave_nest",
+        "fg": [
+            "river_cave_nest_n",
+            "river_cave_nest_w",
+            "river_cave_nest_s",
+            "river_cave_nest_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": [
+            "river_cave_food",
+            "acid_river_cave_food"
+        ],
+        "fg": [
+            "river_cave_food_n",
+            "river_cave_food_w",
+            "river_cave_food_s",
+            "river_cave_food_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "river_cave_kraken",
+        "fg": [
+            "river_cave_kraken_n",
+            "river_cave_kraken_w",
+            "river_cave_kraken_s",
+            "river_cave_kraken_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "river_cave",
+        "fg": "river_cave_nesw",
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "center",
+                "fg": "river_cave_nesw"
+            },
+            {
+                "id": "corner",
+                "fg": [
+                    "river_cave_es",
+                    "river_cave_ne",
+                    "river_cave_nw",
+                    "river_cave_sw"
+                ]
+            },
+            {
+                "id": "t_connection",
+                "fg": [
+                    "river_cave_esw",
+                    "river_cave_nes",
+                    "river_cave_new",
+                    "river_cave_nsw"
+                ]
+            },
+            {
+                "id": "edge",
+                "fg": [
+                    "river_cave_ns",
+                    "river_cave_ew"
+                ]
+            },
+            {
+                "id": "end_piece",
+                "fg": [
+                    "river_cave_s",
+                    "river_cave_e",
+                    "river_cave_n",
+                    "river_cave_w"
+                ]
+            },
+            {
+                "id": "unconnected",
+                "fg": "river_cave_nesw"
+            }
+        ]
+    }
+]
