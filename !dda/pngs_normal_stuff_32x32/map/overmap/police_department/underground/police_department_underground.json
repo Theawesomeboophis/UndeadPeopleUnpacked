@@ -1,0 +1,36 @@
+[
+    {
+        "id": "police_dept_b00",
+        "fg": [
+            "police_dept_b_north",
+            "police_dept_b_west",
+            "police_dept_b_south",
+            "police_dept_b_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_b01",
+        "fg": [
+            "police_dept_b_south",
+            "police_dept_b_east",
+            "police_dept_b_north",
+            "police_dept_b_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_b11",
+        "fg": [
+            "police_dept_b_south",
+            "police_dept_b_east",
+            "police_dept_b_north",
+            "police_dept_b_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "police_dept_b10",
+        "fg": "police_dept_b_stairs"
+    }
+]
