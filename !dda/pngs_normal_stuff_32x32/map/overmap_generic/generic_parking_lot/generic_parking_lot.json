@@ -1,6 +1,7 @@
 {
     "id": [
-        "generic_parking_lot"
+        "generic_parking_lot",
+        "s_lot_no_sidewalk"
     ],
     "fg": [
         "generic_parking_lot"

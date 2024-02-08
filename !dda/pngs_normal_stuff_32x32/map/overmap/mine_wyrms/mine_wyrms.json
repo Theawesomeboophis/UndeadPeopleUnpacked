@@ -1,0 +1,34 @@
+[
+    {
+        "id": "mine_wyrms_east",
+        "fg": [
+            "mine_wyrms_east_n",
+            "mine_wyrms_east_w",
+            "mine_wyrms_east_s",
+            "mine_wyrms_east_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_wyrms_central",
+        "fg": [
+            "mine_wyrms_central_ns",
+            "mine_wyrms_central_ew"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_wyrms_west",
+        "fg": [
+            "mine_wyrms_west_n",
+            "mine_wyrms_west_w",
+            "mine_wyrms_west_s",
+            "mine_wyrms_west_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_wyrms_finale",
+        "fg": "mine_wyrms_finale"
+    }
+]

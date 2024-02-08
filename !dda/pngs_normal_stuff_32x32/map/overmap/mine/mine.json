@@ -1,0 +1,97 @@
+[
+    {
+        "id": "mine_entrance_loading_zone",
+        "fg": [
+            "mine_entrance_loading_zone_n",
+            "mine_entrance_loading_zone_w",
+            "mine_entrance_loading_zone_s",
+            "mine_entrance_loading_zone_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_entrance",
+        "fg": "mine_entrance"
+    },
+    {
+        "id": "mine_shaft_middle",
+        "fg": "mine_shaft_middle"
+    },
+    {
+        "id": "mine_shaft_middle_east",
+        "fg": "mine_shaft_middle_east"
+    },
+    {
+        "id": "mine_shaft_lower",
+        "fg": "mine_shaft_lower"
+    },
+    {
+        "id": "mine_shaft_lower_east",
+        "fg": [
+            "mine_shaft_lower_east_n",
+            "mine_shaft_lower_east_w",
+            "mine_shaft_lower_east_s",
+            "mine_shaft_lower_east_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_tunnel",
+        "fg": "mine_tunnel_nesw",
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "center",
+                "fg": "mine_tunnel_nesw"
+            },
+            {
+                "id": "corner",
+                "fg": [
+                    "mine_tunnel_es",
+                    "mine_tunnel_ne",
+                    "mine_tunnel_nw",
+                    "mine_tunnel_sw"
+                ]
+            },
+            {
+                "id": "t_connection",
+                "fg": [
+                    "mine_tunnel_esw",
+                    "mine_tunnel_nes",
+                    "mine_tunnel_new",
+                    "mine_tunnel_nsw"
+                ]
+            },
+            {
+                "id": "edge",
+                "fg": [
+                    "mine_tunnel_ns",
+                    "mine_tunnel_ew"
+                ]
+            },
+            {
+                "id": "end_piece",
+                "fg": [
+                    "mine_tunnel_s",
+                    "mine_tunnel_e",
+                    "mine_tunnel_n",
+                    "mine_tunnel_w"
+                ]
+            },
+            {
+                "id": "unconnected",
+                "fg": "mine_tunnel_nesw"
+            }
+        ]
+    },
+    {
+        "id": "mine_finale",
+        "fg": [
+            "mine_finale_n",
+            "mine_finale_w",
+            "mine_finale_s",
+            "mine_finale_e"
+        ],
+        "rotates": true
+    }
+]

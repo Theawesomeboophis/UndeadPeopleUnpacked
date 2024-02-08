@@ -1,0 +1,73 @@
+[
+    {
+        "id": "mine_amigara_east",
+        "fg": [
+            "mine_amigara_east_n",
+            "mine_amigara_east_w",
+            "mine_amigara_east_s",
+            "mine_amigara_east_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_amigara_central",
+        "fg": [
+            "mine_amigara_central_n",
+            "mine_amigara_central_w",
+            "mine_amigara_central_s",
+            "mine_amigara_central_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_amigara_west",
+        "fg": [
+            "mine_amigara_west_n",
+            "mine_amigara_west_w",
+            "mine_amigara_west_s",
+            "mine_amigara_west_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_amigara_-1_east",
+        "fg": [
+            "mine_amigara_-1_east_n",
+            "mine_amigara_-1_east_w",
+            "mine_amigara_-1_east_s",
+            "mine_amigara_-1_east_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_amigara_-1_central",
+        "fg": [
+            "mine_amigara_-1_central_n",
+            "mine_amigara_-1_central_w",
+            "mine_amigara_-1_central_s",
+            "mine_amigara_-1_central_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_amigara_-1_west",
+        "fg": [
+            "mine_amigara_-1_west_n",
+            "mine_amigara_-1_west_w",
+            "mine_amigara_-1_west_s",
+            "mine_amigara_-1_west_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_amigara_finale_central",
+        "fg": "mine_amigara_finale_central"
+    },
+    {
+        "id": [
+            "mine_amigara_finale_west",
+            "mine_amigara_finale_east"
+        ],
+        "fg": "mine_amigara_finale_we"
+    }
+]

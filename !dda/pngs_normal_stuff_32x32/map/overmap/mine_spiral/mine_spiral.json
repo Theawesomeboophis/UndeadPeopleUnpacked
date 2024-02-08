@@ -1,0 +1,70 @@
+[
+    {
+        "id": "mine_spiral_east",
+        "fg": [
+            "mine_spiral_east_n",
+            "mine_spiral_east_w",
+            "mine_spiral_east_s",
+            "mine_spiral_east_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_spiral_central",
+        "fg": [
+            "mine_spiral_central_n",
+            "mine_spiral_central_w",
+            "mine_spiral_central_s",
+            "mine_spiral_central_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_spiral_west",
+        "fg": [
+            "mine_spiral_west_n",
+            "mine_spiral_west_w",
+            "mine_spiral_west_s",
+            "mine_spiral_west_e"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "mine_spiral_-1_se",
+        "fg": "mine_spiral_-1_se"
+    },
+    {
+        "id": "mine_spiral_-1_s",
+        "fg": "mine_spiral_-1_s"
+    },
+    {
+        "id": "mine_spiral_-1_sw",
+        "fg": "mine_spiral_-1_sw"
+    },
+    {
+        "id": "mine_spiral_-1_ne",
+        "fg": "mine_spiral_-1_ne"
+    },
+    {
+        "id": "mine_spiral_-1_n",
+        "fg": "mine_spiral_-1_n"
+    },
+    {
+        "id": "mine_spiral_-1_nw",
+        "fg": "mine_spiral_-1_nw"
+    },
+    {
+        "id": "mine_spiral_finale_s",
+        "fg": "mine_spiral_finale_s"
+    },
+    {
+        "id": [
+            "mine_spiral_finale_n",
+            "mine_spiral_finale_ne",
+            "mine_spiral_finale_se",
+            "mine_spiral_finale_nw",
+            "mine_spiral_finale_sw"
+        ],
+        "fg": "mine_spiral_finale_n"
+    }
+]
