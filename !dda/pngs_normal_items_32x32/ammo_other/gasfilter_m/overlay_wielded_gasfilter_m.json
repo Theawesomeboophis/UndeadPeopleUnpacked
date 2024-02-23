@@ -1,5 +1,5 @@
 {
-  "id": "overlay_wielded_gasfilter_m",
+  "id": ["overlay_wielded_gasfilter_m", "overlay_wielded_gasfilter_med"],
   "fg": [
     "gasfilter_m"
   ],
