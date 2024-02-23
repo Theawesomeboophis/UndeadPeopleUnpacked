@@ -1,0 +1,10 @@
+{
+  "id": "mon_mutant_alpha_boss",
+  "fg": [
+    "mon_mutant_alpha_boss"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_box_snack",
+  "fg": [
+    "box_snack"
+  ],
+  "bg": [],
+  "rotates": false
+}
