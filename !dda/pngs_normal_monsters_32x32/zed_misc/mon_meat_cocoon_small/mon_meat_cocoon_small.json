@@ -1,0 +1,11 @@
+{
+  "id": "mon_meat_cocoon_small",
+  "fg": [
+    { "weight": 10, "sprite": "mon_meat_cocoon_small_1" },
+    { "weight": 10, "sprite": "mon_meat_cocoon_small_2" }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true
+}

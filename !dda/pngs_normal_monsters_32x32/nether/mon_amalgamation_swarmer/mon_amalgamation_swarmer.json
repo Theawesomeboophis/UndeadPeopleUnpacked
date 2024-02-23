@@ -1,0 +1,10 @@
+{
+  "id": "mon_amalgamation_swarmer",
+  "fg": [
+    "mon_amalgamation_swarmer"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

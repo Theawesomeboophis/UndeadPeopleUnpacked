@@ -1,8 +1,15 @@
 {
   "id": "mon_spawn_raptor_electric",
   "fg": [
-    "mon_spawn_raptor_electric"
+    { "weight": 10, "sprite": "mon_spawn_raptor_electric_1" },
+    { "weight": 10, "sprite": "mon_spawn_raptor_electric_2" },
+    { "weight": 10, "sprite": "mon_spawn_raptor_electric_3" },
+    { "weight": 10, "sprite": "mon_spawn_raptor_electric_4" },
+    { "weight": 10, "sprite": "mon_spawn_raptor_electric_5" },
+    { "weight": 10, "sprite": "mon_spawn_raptor_electric_6" }
   ],
-  "bg": ["bg_big_normal_shadow"],
-  "rotates": false
+  "bg": [
+    "bg_big_normal_shadow"
+  ],
+  "animated": true
 }

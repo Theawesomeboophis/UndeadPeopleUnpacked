@@ -1,0 +1,10 @@
+{
+  "id": "mon_fungal_wretch",
+  "fg": [
+    "mon_fungal_wretch"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
