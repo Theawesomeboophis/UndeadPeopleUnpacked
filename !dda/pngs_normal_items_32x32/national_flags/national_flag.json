@@ -8,6 +8,22 @@
         "rotates": false
     },
     {
+        "id": "national_flag_var_antiguan_flag",
+        "fg": [
+            "antiguan_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "national_flag_var_argentinian_flag",
+        "fg": [
+            "argentinian_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
         "id": "national_flag_var_belgian_flag",
         "fg": [
             "belgium_flag"
@@ -595,14 +611,6 @@
         "id": "national_flag_var_trinidad_and_tobago_flag",
         "fg": [
             "trinidad_and_tobago_flag"
-        ],
-        "bg": [],
-        "rotates": false
-    },
-    {
-        "id": "national_flag_var_antiguan_flag",
-        "fg": [
-            "antiguan_flag"
         ],
         "bg": [],
         "rotates": false
