@@ -1,5 +1,5 @@
 {
-  "id": "gasfilter_s",
+  "id": ["gasfilter_s", "gasfilter_sm"],
   "fg": [
     "gasfilter_s"
   ],
