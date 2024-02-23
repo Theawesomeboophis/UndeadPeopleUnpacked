@@ -1,7 +1,7 @@
 {
   "id": ["gasfilter_m", "gasfilter_med"],
   "fg": [
-    "gasfilter_s"
+    "gasfilter_m"
   ],
   "bg": [],
   "rotates": false
