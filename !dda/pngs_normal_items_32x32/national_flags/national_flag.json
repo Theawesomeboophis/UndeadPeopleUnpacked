@@ -600,6 +600,14 @@
         "rotates": false
     },
     {
+        "id": "national_flag_var_antiguan_flag",
+        "fg": [
+            "antiguan_flag"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
         "id": "national_flag_var_united_kingdom_flag",
         "fg": [
             "united_kingdom_flag"
