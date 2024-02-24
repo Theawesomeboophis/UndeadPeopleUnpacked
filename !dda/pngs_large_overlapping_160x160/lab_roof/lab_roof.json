@@ -1,0 +1,22 @@
+[
+    {
+        "id": "lab_security_z0N_roof",
+        "fg": [
+            "lab_roof_1_N",
+            "lab_roof_1_W",
+            "lab_roof_1_S",
+            "lab_roof_1_E"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_security_z0S_roof",
+        "fg": [
+            "lab_roof_2_N",
+            "lab_roof_2_W",
+            "lab_roof_2_S",
+            "lab_roof_2_E"
+        ],
+        "rotates": true
+    }
+]
