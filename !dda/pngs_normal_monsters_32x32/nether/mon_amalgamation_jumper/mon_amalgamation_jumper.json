@@ -1,0 +1,10 @@
+{
+  "id": "mon_amalgamation_jumper",
+  "fg": [
+    "mon_amalgamation_jumper"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_feral_sailor_mop",
+  "fg": [
+    "mon_feral_sailor_mop"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_amalgamation_corroder",
+  "fg": [
+    "mon_amalgamation_corroder"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

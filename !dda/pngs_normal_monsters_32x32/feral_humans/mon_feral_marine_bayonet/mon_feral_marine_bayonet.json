@@ -1,0 +1,10 @@
+{
+  "id": "mon_feral_marine_bayonet",
+  "fg": [
+    "mon_feral_marine_bayonet"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

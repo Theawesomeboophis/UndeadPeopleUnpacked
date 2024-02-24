@@ -3,8 +3,6 @@
   "fg": [
     "v29"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }

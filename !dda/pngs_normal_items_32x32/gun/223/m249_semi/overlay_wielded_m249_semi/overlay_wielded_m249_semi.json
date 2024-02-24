@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_m249_semi",
   "fg": [
-    "overlay_wielded_m249"
+    "overlay_wielded_m249_semi"
   ],
   "bg": [],
   "rotates": false
