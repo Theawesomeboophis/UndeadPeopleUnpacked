@@ -10,22 +10,8 @@
         "rotates": true
     },
     {
-        "id": "mine_entrance_loading_zone_roof",
-        "fg": [
-            "mine_entrance_loading_zone_roof_n",
-            "mine_entrance_loading_zone_roof_w",
-            "mine_entrance_loading_zone_roof_s",
-            "mine_entrance_loading_zone_roof_e"
-        ],
-        "rotates": true
-    },
-    {
         "id": "mine_entrance",
         "fg": "mine_entrance"
-    },
-    {
-        "id": "mine_entrance_roof",
-        "fg": "mine_entrance_roof"
     },
     {
         "id": "mine_shaft_middle",
