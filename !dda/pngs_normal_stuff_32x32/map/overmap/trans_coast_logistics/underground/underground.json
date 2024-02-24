@@ -1,0 +1,140 @@
+[
+    {
+        "id": "lab_security_z-1",
+        "fg": "lab_security_z-1"
+    },
+    {
+        "id": "lab_security_z-2",
+        "fg": "lab_security_z-2"
+    },
+    {
+        "id": "lab_security_z-3",
+        "fg": "lab_security_z-3"
+    },
+    {
+        "id": "lab_security_z-4",
+        "fg": "lab_security_z-4"
+    },
+    {
+        "id": "lab_security_z-5",
+        "fg": "lab_security_z-5"
+    },
+    {
+        "id": "lab_security_z-6_final_flr",
+        "fg": "lab_security_z-6_final_flr"
+    },
+    {
+        "id": [
+            "lab_2x1_CORE_-1E",
+            "lab_2x1_CORE_-1W"
+        ],
+        "fg": "lab_2x1_CORE_-1"
+    },
+    {
+        "id": [
+            "lab_2x2_cargo_NE",
+            "lab_2x2_cargo_SE",
+            "lab_2x2_cargo_SW",
+            "lab_2x2_cargo_NW"
+        ],
+        "fg": "lab_2x2_cargo"
+    },
+    {
+        "id": [
+            "underground_lab_cargo_stationA",
+            "underground_lab_cargo_stationB"
+        ],
+        "fg": "underground_lab_cargo_station"
+    }
+    ,
+    {
+        "id": "lab_1x1_RES_8_bedrooms_security",
+        "fg": "lab_1x1_RES_8_bedrooms_security"
+    },
+    {
+        "id": "lab_1x1_RES_8_bedrooms_maintenance",
+        "fg": "lab_1x1_RES_8_bedrooms_maintenance"
+    },
+    {
+        "id": [
+            "lab_1x1x2_RES_8_apartments_upper",
+            "lab_1x1x2_RES_8_apartments_lower"
+        ],
+        "fg": "lab_1x1x2_RES_8_apartments"
+    },
+    {
+        "id": [
+            "underground_lab_central_-5E",
+            "underground_lab_central_-5W",
+            "underground_lab_central_-6E",
+            "underground_lab_central_-6W",
+            "underground_lab_central_-7E",
+            "underground_lab_central_-7W"
+        ],
+        "fg": "underground_lab_central"
+    },
+    {
+        "id": [
+            "lab_maintenance_z-2&3_A",
+            "lab_maintenance_z-2&3_B"
+        ],
+        "fg": "lab_maintenance_z-2&3"
+    },
+    {
+        "id": [
+            "lab_res_8_NE",
+            "lab_res_8_SE",
+            "lab_res_8_SW",
+            "lab_res_8_NW",
+            "lab_res_8_SED",
+            "lab_res_8_SWD",
+            "lab_res_8_NWD",
+            "lab_res_8_NED"
+        ],
+        "fg": "lab_res_8"
+    },
+    {
+        "id": [
+            "lab_health_z-2_A",
+            "lab_health_z-2_B",
+            "lab_health_z-3_A",
+            "lab_health_z-3_B"
+        ],
+        "fg": "lab_health"
+    },
+    {
+        "id": "lab_1x1_RES_8_commons_SEC",
+        "fg": "lab_1x1_RES_8_commons_SEC"
+    },
+    {
+        "id": "lab_1x1_RES_8_commons_MAINT",
+        "fg": "lab_1x1_RES_8_commons_MAINT"
+    },
+    {
+        "id": [
+            "lab_CORE_2x1_2UP",
+            "lab_CORE_2x1_1UP",
+            "lab_CORE_2x1_2DN",
+            "lab_CORE_2x1_1DN"
+        ],
+        "fg": "lab_CORE_2x1"
+    },
+    {
+        "id": [
+            "lab_2x2_MUT_tier_1_NE",
+            "lab_2x2_MUT_tier_1_SE",
+            "lab_2x2_MUT_tier_1_SW",
+            "lab_2x2_MUT_tier_1_NW"
+        ],
+        "fg": "lab_2x2_MUT_tier_1"
+    },
+    {
+        "id": [
+            "lab_2x2_MUT_tier_2_NE",
+            "lab_2x2_MUT_tier_2_SE",
+            "lab_2x2_MUT_tier_2_SW",
+            "lab_2x2_MUT_tier_2_NW_final_flr"
+        ],
+        "fg": "lab_2x2_MUT_tier_2"
+    }
+]
