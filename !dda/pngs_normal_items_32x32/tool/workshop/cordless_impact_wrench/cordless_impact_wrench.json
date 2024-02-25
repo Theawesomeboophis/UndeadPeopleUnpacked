@@ -1,0 +1,10 @@
+{
+  "id": "cordless_impact_wrench",
+  "fg": [
+    "cordless_impact_wrench"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
