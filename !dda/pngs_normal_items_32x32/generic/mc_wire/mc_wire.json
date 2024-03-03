@@ -1,0 +1,10 @@
+{
+  "id": "mc_wire",
+  "fg": [
+    "mc_wire"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
