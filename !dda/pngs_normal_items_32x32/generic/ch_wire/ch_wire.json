@@ -1,0 +1,10 @@
+{
+  "id": "ch_wire",
+  "fg": [
+    "ch_wire"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

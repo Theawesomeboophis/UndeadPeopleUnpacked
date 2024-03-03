@@ -1,8 +1,10 @@
 {
   "id": "overlay_wielded_wire",
   "fg": [
-    "wire"
+    "overlay_wielded_wire"
   ],
-  "bg": [],
+  "bg": [
+    
+  ],
   "rotates": false
 }

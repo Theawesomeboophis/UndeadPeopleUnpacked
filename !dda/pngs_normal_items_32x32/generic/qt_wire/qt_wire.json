@@ -1,0 +1,10 @@
+{
+  "id": "qt_wire",
+  "fg": [
+    "qt_wire"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
