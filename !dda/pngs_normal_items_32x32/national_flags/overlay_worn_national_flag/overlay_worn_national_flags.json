@@ -106,5 +106,173 @@
     "fg": [ "overlay_worn_national_flag_var_belarusian_flag" ],
     "bg": [  ],
     "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_belgian_flag",
+    "fg": [ "overlay_worn_national_flag_var_belgian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_belizean_flag",
+    "fg": [ "overlay_worn_national_flag_var_belizean_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_beninian_flag",
+    "fg": [ "overlay_worn_national_flag_var_beninian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_bhutanese_flag",
+    "fg": [ "overlay_worn_national_flag_var_bhutanese_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_bolivian_flag",
+    "fg": [ "overlay_worn_national_flag_var_bolivian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_bosnian_flag",
+    "fg": [ "overlay_worn_national_flag_var_bosnian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_botswanian_flag",
+    "fg": [ "overlay_worn_national_flag_var_botswanian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_brazilian_flag",
+    "fg": [ "overlay_worn_national_flag_var_brazilian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_bruneian_flag",
+    "fg": [ "overlay_worn_national_flag_var_bruneian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_bulgarian_flag",
+    "fg": [ "overlay_worn_national_flag_var_bulgarian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_burkina_faso_flag",
+    "fg": [ "overlay_worn_national_flag_var_burkina_faso_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_burundian_flag",
+    "fg": [ "overlay_worn_national_flag_var_burundian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_cabo_verde_flag",
+    "fg": [ "overlay_worn_national_flag_var_cabo_verde_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_cambodian_flag",
+    "fg": [ "overlay_worn_national_flag_var_cambodian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_cameroon_flag",
+    "fg": [ "overlay_worn_national_flag_var_cameroon_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_canadian_flag",
+    "fg": [ "overlay_worn_national_flag_var_canadian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_central_african_flag",
+    "fg": [ "overlay_worn_national_flag_var_central_african_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_chad_flag",
+    "fg": [ "overlay_worn_national_flag_var_chad_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_chilean_flag",
+    "fg": [ "overlay_worn_national_flag_var_chilean_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_chinese_flag",
+    "fg": [ "overlay_worn_national_flag_var_chinese_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_columbian_flag",
+    "fg": [ "overlay_worn_national_flag_var_columbian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_comoros_flag",
+    "fg": [ "overlay_worn_national_flag_var_comoros_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_congo_flag",
+    "fg": [ "overlay_worn_national_flag_var_congo_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_costa_rican_flag",
+    "fg": [ "overlay_worn_national_flag_var_costa_rican_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_croatian_flag",
+    "fg": [ "overlay_worn_national_flag_var_croatian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_cuban_flag",
+    "fg": [ "overlay_worn_national_flag_var_cuban_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_cypriot_flag",
+    "fg": [ "overlay_worn_national_flag_var_cypriot_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_czech_flag",
+    "fg": [ "overlay_worn_national_flag_var_czech_flag" ],
+    "bg": [  ],
+    "rotates": false
   }
 ]
