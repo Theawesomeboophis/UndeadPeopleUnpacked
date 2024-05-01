@@ -6,12 +6,6 @@
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_aromantic_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_aromantic_pride_flag" ],
-    "bg": [  ],
-    "rotates": false
-  },
-  {
     "id": "overlay_worn_national_flag_var_albanian_flag",
     "fg": [ "overlay_worn_national_flag_var_albanian_flag" ],
     "bg": [  ],
