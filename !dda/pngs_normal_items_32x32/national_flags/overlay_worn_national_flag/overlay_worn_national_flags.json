@@ -1,7 +1,7 @@
 [
   {
-    "id": "overlay_worn_pride_flag_var_agender_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_agender_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_afghan_flag",
+    "fg": [ "overlay_worn_national_flag_var_afghan_flag" ],
     "bg": [  ],
     "rotates": false
   },
@@ -12,98 +12,98 @@
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_asexual_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_asexual_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_albanian_flag",
+    "fg": [ "overlay_worn_national_flag_var_albanian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_bear_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_bear_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_algerian_flag",
+    "fg": [ "overlay_worn_national_flag_var_algerian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_bisexual_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_bisexual_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_andorran_flag",
+    "fg": [ "overlay_worn_national_flag_var_andorran_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_genderfluid_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_genderfluid_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_angolan_flag",
+    "fg": [ "overlay_worn_national_flag_var_angolan_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_genderqueer_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_genderqueer_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_antiguan_flag",
+    "fg": [ "overlay_worn_national_flag_var_antiguan_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_intersex_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_intersex_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_argentinian_flag",
+    "fg": [ "overlay_worn_national_flag_var_argentinian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_labrys_lesbian_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_labrys_lesbian_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_armenian_flag",
+    "fg": [ "overlay_worn_national_flag_var_armenian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_leather_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_leather_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_australian_flag",
+    "fg": [ "overlay_worn_national_flag_var_australian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_lesbian_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_lesbian_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_austrian_flag",
+    "fg": [ "overlay_worn_national_flag_var_austrian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_nonbinary_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_nonbinary_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_azerbaijanian_flag",
+    "fg": [ "overlay_worn_national_flag_var_azerbaijanian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_pangender_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_pangender_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_bahamanian_flag",
+    "fg": [ "overlay_worn_national_flag_var_bahamanian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_pansexual_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_pansexual_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_bahrainian_flag",
+    "fg": [ "overlay_worn_national_flag_var_bahrainian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_polysexual_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_polysexual_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_bangladeshi_flag",
+    "fg": [ "overlay_worn_national_flag_var_bangladeshi_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_progress_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_progress_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_barbadian_flag",
+    "fg": [ "overlay_worn_national_flag_var_barbadian_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_rainbow_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_rainbow_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_basotho_flag",
+    "fg": [ "overlay_worn_national_flag_var_basotho_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": "overlay_worn_pride_flag_var_transgender_pride_flag",
-    "fg": [ "overlay_worn_pride_flag_var_transgender_pride_flag" ],
+    "id": "overlay_worn_national_flag_var_belarusian_flag",
+    "fg": [ "overlay_worn_national_flag_var_belarusian_flag" ],
     "bg": [  ],
     "rotates": false
   }
