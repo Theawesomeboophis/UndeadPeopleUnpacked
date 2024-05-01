@@ -340,5 +340,77 @@
     "fg": [ "overlay_worn_national_flag_var_ivory_coast_flag" ],
     "bg": [  ],
     "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_jamaican_flag",
+    "fg": [ "overlay_worn_national_flag_var_jamaican_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_japanese_flag",
+    "fg": [ "overlay_worn_national_flag_var_japanese_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_jordanian_flag",
+    "fg": [ "overlay_worn_national_flag_var_jordanian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_kazakhstani_flag",
+    "fg": [ "overlay_worn_national_flag_var_kazakhstani_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_kenyan_flag",
+    "fg": [ "overlay_worn_national_flag_var_kenyan_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_kiribati_flag",
+    "fg": [ "overlay_worn_national_flag_var_kiribati_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_kuwaiti_flag",
+    "fg": [ "overlay_worn_national_flag_var_kuwaiti_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_kyrgyz_flag",
+    "fg": [ "overlay_worn_national_flag_var_kyrgyz_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_laotian_flag",
+    "fg": [ "overlay_worn_national_flag_var_laotian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_latvian_flag",
+    "fg": [ "overlay_worn_national_flag_var_latvian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_lebanese_flag",
+    "fg": [ "overlay_worn_national_flag_var_lebanese_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_liberian_flag",
+    "fg": [ "overlay_worn_national_flag_var_liberian_flag" ],
+    "bg": [  ],
+    "rotates": false
   }
 ]
