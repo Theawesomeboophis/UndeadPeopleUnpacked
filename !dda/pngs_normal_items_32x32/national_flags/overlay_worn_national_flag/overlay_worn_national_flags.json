@@ -268,5 +268,77 @@
     "fg": [ "overlay_worn_national_flag_var_czech_flag" ],
     "bg": [  ],
     "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_danish_flag",
+    "fg": [ "overlay_worn_national_flag_var_danish_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_democratic_congo_flag",
+    "fg": [ "overlay_worn_national_flag_var_democratic_congo_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_dutch_flag",
+    "fg": [ "overlay_worn_national_flag_var_dutch_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_emirati_flag",
+    "fg": [ "overlay_worn_national_flag_var_emirati_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_filipino_flag",
+    "fg": [ "overlay_worn_national_flag_var_filipino_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_holy_see_flag",
+    "fg": [ "overlay_worn_national_flag_var_holy_see_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_iranian_flag",
+    "fg": [ "overlay_worn_national_flag_var_iranian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_iraqi_flag",
+    "fg": [ "overlay_worn_national_flag_var_iraqi_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_irish_flag",
+    "fg": [ "overlay_worn_national_flag_var_irish_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_israeli_flag",
+    "fg": [ "overlay_worn_national_flag_var_israeli_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_italian_flag",
+    "fg": [ "overlay_worn_national_flag_var_italian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "overlay_worn_national_flag_var_ivory_coast_flag",
+    "fg": [ "overlay_worn_national_flag_var_ivory_coast_flag" ],
+    "bg": [  ],
+    "rotates": false
   }
 ]
