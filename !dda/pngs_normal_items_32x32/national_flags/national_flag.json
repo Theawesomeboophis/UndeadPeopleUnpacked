@@ -126,6 +126,12 @@
     "rotates": false
   },
   {
+    "id": "national_flag_var_bissau_guinean_flag",
+    "fg": [ "national_flag_var_bissau_guinean_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
     "id": "national_flag_var_bolivian_flag",
     "fg": [ "national_flag_var_bolivian_flag" ],
     "bg": [  ],
@@ -282,6 +288,12 @@
     "rotates": false
   },
   {
+    "id": "national_flag_var_djiboutian_flag",
+    "fg": [ "national_flag_var_djiboutian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
     "id": "national_flag_var_dutch_flag",
     "fg": [ "national_flag_var_dutch_flag" ],
     "bg": [  ],
@@ -294,14 +306,92 @@
     "rotates": false
   },
   {
+    "id": "national_flag_var_estonian_flag",
+    "fg": [ "national_flag_var_estonian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
     "id": "national_flag_var_filipino_flag",
     "fg": [ "national_flag_var_filipino_flag" ],
     "bg": [  ],
     "rotates": false
   },
   {
+    "id": "national_flag_var_finnish_flag",
+    "fg": [ "national_flag_var_finnish_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_french_flag",
+    "fg": [ "national_flag_var_french_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_gabonese_flag",
+    "fg": [ "national_flag_var_gabonese_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_gambian_flag",
+    "fg": [ "national_flag_var_gambian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_georgian_flag",
+    "fg": [ "national_flag_var_georgian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_german_flag",
+    "fg": [ "national_flag_var_german_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_greek_flag",
+    "fg": [ "national_flag_var_greek_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_guinean_flag",
+    "fg": [ "national_flag_var_guinean_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
     "id": "national_flag_var_holy_see_flag",
     "fg": [ "national_flag_var_holy_see_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_honduran_flag",
+    "fg": [ "national_flag_var_honduran_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_hungarian_flag",
+    "fg": [ "national_flag_var_hungarian_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_icelandic_flag",
+    "fg": [ "national_flag_var_icelandic_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_indonesian_flag",
+    "fg": [ "national_flag_var_indonesian_flag" ],
     "bg": [  ],
     "rotates": false
   },
@@ -860,6 +950,12 @@
   {
     "id": "national_flag_var_thai_flag",
     "fg": [ "national_flag_var_thai_flag" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "national_flag_var_timorese_flag",
+    "fg": [ "national_flag_var_timorese_flag" ],
     "bg": [  ],
     "rotates": false
   },
