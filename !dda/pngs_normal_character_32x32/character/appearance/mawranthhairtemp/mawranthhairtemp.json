@@ -1,0 +1,308 @@
+[
+  {
+    "id": "overlay_female_mutation_beaded_var_black",
+    "fg": 0,
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_beaded_var_blond",
+    "fg": 1,
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_beaded_var_blue",
+    "fg": 2,
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_beaded_var_brown",
+    "fg": 3,
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_beaded_var_green",
+    "fg": 4,
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_beaded_var_pink",
+    "fg": 5,
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_beaded_var_red",
+    "fg": 6,
+    "rotates": false
+  },
+    {
+    "id": "overlay_male_mutation_beaded_var_black",
+    "fg": 0,
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_beaded_var_blond",
+    "fg": 1,
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_beaded_var_blue",
+    "fg": 2,
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_beaded_var_brown",
+    "fg": 3,
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_beaded_var_green",
+    "fg": 4,
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_beaded_var_pink",
+    "fg": 5,
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_beaded_var_red",
+    "fg": 6,
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_braid_var_black",
+    "fg": 7
+  },
+  {
+    "id": "overlay_female_mutation_braid_var_blond",
+    "fg": 8
+  },
+  {
+    "id": "overlay_female_mutation_braid_var_blue",
+    "fg": 9
+  },
+  {
+    "id": "overlay_female_mutation_braid_var_brown",
+    "fg": 10
+  },
+  {
+    "id": "overlay_female_mutation_braid_var_green",
+    "fg": 11
+  },
+  {
+    "id": "overlay_female_mutation_braid_var_pink",
+    "fg": 12
+  },
+  {
+    "id": "overlay_female_mutation_braid_var_red",
+    "fg": 13
+  },
+    {
+    "id": "overlay_male_mutation_braid_var_black",
+    "fg": 7
+  },
+  {
+    "id": "overlay_male_mutation_braid_var_blond",
+    "fg": 8
+  },
+  {
+    "id": "overlay_male_mutation_braid_var_blue",
+    "fg": 9
+  },
+  {
+    "id": "overlay_male_mutation_braid_var_brown",
+    "fg": 10
+  },
+  {
+    "id": "overlay_male_mutation_braid_var_green",
+    "fg": 11
+  },
+  {
+    "id": "overlay_male_mutation_braid_var_pink",
+    "fg": 12
+  },
+  {
+    "id": "overlay_male_mutation_braid_var_red",
+    "fg": 13
+  },
+  {
+    "id": "overlay_female_mutation_buns_var_black",
+    "fg": 14
+  },
+  {
+    "id": "overlay_female_mutation_buns_var_blond",
+    "fg": 15
+  },
+  {
+    "id": "overlay_female_mutation_buns_var_blue",
+    "fg": 16
+  },
+  {
+    "id": "overlay_female_mutation_buns_var_brown",
+    "fg": 17
+  },
+  {
+    "id": "overlay_female_mutation_buns_var_green",
+    "fg": 18
+  },
+  {
+    "id": "overlay_female_mutation_buns_var_pink",
+    "fg": 19
+  },
+  {
+    "id": "overlay_female_mutation_buns_var_red",
+    "fg": 20
+  },
+    {
+    "id": "overlay_male_mutation_buns_var_black",
+    "fg": 14
+  },
+  {
+    "id": "overlay_male_mutation_buns_var_blond",
+    "fg": 15
+  },
+  {
+    "id": "overlay_male_mutation_buns_var_blue",
+    "fg": 16
+  },
+  {
+    "id": "overlay_male_mutation_buns_var_brown",
+    "fg": 17
+  },
+  {
+    "id": "overlay_male_mutation_buns_var_green",
+    "fg": 18
+  },
+  {
+    "id": "overlay_male_mutation_buns_var_pink",
+    "fg": 19
+  },
+  {
+    "id": "overlay_male_mutation_buns_var_red",
+    "fg": 20
+  },
+  {
+    "id": "overlay_mutation_BLACK_HAIR_BUN",
+    "fg": 21
+  },
+  {
+    "id": "overlay_mutation_BROWN_HAIR_BUN",
+    "fg": 22
+  },
+  {
+    "id": "overlay_mutation_BLOND_HAIR_BUN",
+    "fg": 23
+  },
+  {
+    "id": "overlay_mutation_GREEN_HAIR_BUN",
+    "fg": 24
+  },
+  {
+    "id": "overlay_mutation_BLUE_HAIR_BUN",
+    "fg": 25
+  },
+  {
+    "id": "overlay_mutation_PINK_HAIR_BUN",
+    "fg": 26
+  },
+  {
+    "id": "overlay_mutation_RED_HAIR_BUN",
+    "fg": 27
+  },
+  {
+    "id": "overlay_mutation_BLACK_HAIR_BRAID",
+    "fg": 28
+  },
+  {
+    "id": "overlay_mutation_BROWN_HAIR_BRAID",
+    "fg": 29
+  },
+  {
+    "id": "overlay_mutation_BLOND_HAIR_BRAID",
+    "fg": 30
+  },
+  {
+    "id": "overlay_mutation_GREEN_HAIR_BRAID",
+    "fg": 31
+  },
+  {
+    "id": "overlay_mutation_BLUE_HAIR_BRAID",
+    "fg": 32
+  },
+  {
+    "id": "overlay_mutation_PINK_HAIR_BRAID",
+    "fg": 33
+  },
+  {
+    "id": "overlay_mutation_RED_HAIR_BRAID",
+    "fg": 34
+  },
+  {
+    "id": "overlay_mutation_BLACK_HAIR_PUFF",
+    "fg": 35
+  },
+  {
+    "id": "overlay_mutation_BROWN_HAIR_PUFF",
+    "fg": 36
+  },
+  {
+    "id": "overlay_mutation_BLOND_HAIR_PUFF",
+    "fg": 37
+  },
+  {
+    "id": "overlay_mutation_GREEN_HAIR_PUFF",
+    "fg": 38
+  },
+  {
+    "id": "overlay_mutation_BLUE_HAIR_PUFF",
+    "fg": 39
+  },
+  {
+    "id": "overlay_mutation_PINK_HAIR_PUFF",
+    "fg": 40
+  },
+  {
+    "id": "overlay_mutation_RED_HAIR_PUFF",
+    "fg": 41
+  },
+  {
+    "id": "overlay_mutation_BLACK_HAIR_BEADED",
+    "fg": 42
+  },
+  {
+    "id": "overlay_mutation_BROWN_HAIR_BEADED",
+    "fg": 43
+  },
+  {
+    "id": "overlay_mutation_BLOND_HAIR_BEADED",
+    "fg": 44
+  },
+  {
+    "id": "overlay_mutation_GREEN_HAIR_BEADED",
+    "fg": 45
+  },
+  {
+    "id": "overlay_mutation_BLUE_HAIR_BEADED",
+    "fg": 46
+  },
+  {
+    "id": "overlay_mutation_PINK_HAIR_BEADED",
+    "fg": 47
+  },
+  {
+    "id": "overlay_mutation_RED_HAIR_BEADED",
+    "fg": 48
+  },
+  {
+    "id": "overlay_mutation_TWINTAIL",
+    "fg": 49
+  },
+  {
+    "id": "overlay_mutation_SUPER_PRINCESS",
+    "fg": 50
+  },
+  {
+    "id": "overlay_mutation_DETECTIVE_HAIR",
+    "fg": 51
+  }
+]
