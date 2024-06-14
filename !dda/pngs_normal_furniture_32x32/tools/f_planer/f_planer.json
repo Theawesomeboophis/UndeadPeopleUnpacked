@@ -1,5 +1,5 @@
 {
-  "id": "f_planer",
+  "id": ["f_planer", "vp_ap_planer"],
   "fg": [
     "f_planer"
   ],
