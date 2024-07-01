@@ -1,7 +1,7 @@
 {
   "id": "ar10_makeshiftmag",
   "fg": [
-    "survivor223mag"
+    "ar10_makeshiftmag"
   ],
   "bg": [],
   "rotates": true
