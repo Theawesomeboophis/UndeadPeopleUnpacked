@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_electrolaser_conversion",
   "fg": [
-    "electrolaser_conversion"
+    "overlay_wielded_electrolaser_conversion"
   ],
   "bg": [],
   "rotates": false

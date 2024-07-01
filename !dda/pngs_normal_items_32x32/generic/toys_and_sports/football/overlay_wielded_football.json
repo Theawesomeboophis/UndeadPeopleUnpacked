@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_football",
   "fg": [
-    "football"
+    "overlay_wielded_football"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_knife_combat_mod",
   "fg": [
-    "overlay_wielded_knife_combat"
+    "knife_combat_mod"
   ],
   "bg": [],
   "rotates": false
