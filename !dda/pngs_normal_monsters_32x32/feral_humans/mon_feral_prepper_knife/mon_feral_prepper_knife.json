@@ -1,8 +1,8 @@
 {
   "id": "mon_feral_prepper",
   "fg": [
-    { "weight": 111, "sprite": "mon_feral_prepper_1" },
-    { "weight": 111, "sprite": "mon_feral_prepper_2" }
+    { "weight": 111, "sprite": "mon_feral_prepper_knife_1" },
+    { "weight": 111, "sprite": "mon_feral_prepper_knife_2" }
   ],
   "bg": [
     "bg_shadow_normal"
