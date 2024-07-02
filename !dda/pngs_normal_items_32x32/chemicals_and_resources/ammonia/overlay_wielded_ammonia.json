@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_ammonia",
   "fg": [
-    "ammonia"
+    "temp_chem_clear_liquid"
   ],
   "bg": [],
   "rotates": false
