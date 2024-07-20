@@ -1,7 +1,16 @@
 {
   "id": "mon_sp_rcrim",
   "fg": [
-    "mon_sp_rcrim"
+    {
+     "weight": 30,
+     "sprite": "mon_sp_rcrim_1"
+    },
+    {
+     "weight": 30,
+     "sprite": "mon_sp_rcrim_2"
+    }
    ],
-  "bg": []
+  "bg": [
+    "bg_shadow_normal"
+  ]
 }
