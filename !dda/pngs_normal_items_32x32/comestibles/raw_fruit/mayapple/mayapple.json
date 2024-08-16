@@ -1,0 +1,10 @@
+{
+  "id": "mayapple",
+  "fg": [
+    "mayapple"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
