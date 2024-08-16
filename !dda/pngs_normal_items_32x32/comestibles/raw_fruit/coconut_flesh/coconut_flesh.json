@@ -1,0 +1,10 @@
+{
+  "id": "coconut_flesh",
+  "fg": [
+    "coconut_flesh"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

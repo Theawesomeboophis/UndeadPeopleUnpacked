@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_banana",
   "fg": [
-    "banana"
+    "overlay_wielded_banana"
   ],
   "bg": [],
   "rotates": false
