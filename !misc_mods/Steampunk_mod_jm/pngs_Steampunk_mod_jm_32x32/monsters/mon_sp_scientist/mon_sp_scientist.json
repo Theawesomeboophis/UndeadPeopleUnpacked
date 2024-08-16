@@ -1,0 +1,16 @@
+{
+  "id": "mon_sp_scientist",
+  "fg": [
+    {
+     "weight": 30,
+     "sprite": "mon_sp_scientist_1"
+    },
+    {
+     "weight": 30,
+     "sprite": "mon_sp_scientist_2"
+    }
+   ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}
