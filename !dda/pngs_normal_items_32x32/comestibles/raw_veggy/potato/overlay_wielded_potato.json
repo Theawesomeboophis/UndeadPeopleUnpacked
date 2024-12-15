@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_potato",
   "fg": [
-    "potato"
+    "overlay_wielded_potato"
   ],
   "bg": [],
   "rotates": false
