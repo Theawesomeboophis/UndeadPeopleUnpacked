@@ -1,6 +1,8 @@
 {
   "id": "f_empty_spike",
   "fg": "f_empty_spike",
-  "bg": "bg_big_vitrified_floor",
+  "bg": [
+    
+  ],
   "rotates": false
 }

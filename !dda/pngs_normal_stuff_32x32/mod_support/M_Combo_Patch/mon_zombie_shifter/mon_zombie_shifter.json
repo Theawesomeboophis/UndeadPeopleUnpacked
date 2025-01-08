@@ -1,8 +1,0 @@
-{
-  "id": "mon_zombie_shifter",
-  "fg": [
-    "mon_zombie_shifter"
-  ],
-  "bg": ["bg_shadow_normal"],
-  "rotates": false
-}

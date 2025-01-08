@@ -1,6 +1,8 @@
 {
   "id": "f_impaled_officer",
   "fg": "f_impaled_officer",
-  "bg": "bg_big_vitrified_floor",
+  "bg": [
+    
+  ],
   "rotates": false
 }
