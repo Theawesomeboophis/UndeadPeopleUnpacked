@@ -1,0 +1,15 @@
+{
+  "id": "f_impaled_soldier",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "f_impaled_soldier_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "f_impaled_soldier_2"
+    }
+  ],
+  "bg": "bg_big_vitrified_floor",
+  "rotates": false
+}

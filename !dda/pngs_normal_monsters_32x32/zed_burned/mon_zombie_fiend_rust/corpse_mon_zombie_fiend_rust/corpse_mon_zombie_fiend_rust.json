@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_zombie_fiend_rust",
+  "fg": [
+    "corpse_mon_zombie_fiend"
+  ],
+  "bg": [],
+  "rotates": false
+}

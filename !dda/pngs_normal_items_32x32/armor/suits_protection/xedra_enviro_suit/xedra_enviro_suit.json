@@ -1,0 +1,15 @@
+[
+  {
+    "id": [ "overlay_worn_xedra_enviro_suit" ],
+    "fg": [ "overlay_worn_xedra_enviro_suit" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "overlay_worn_xedra_enviro_suit_casual" ],
+    "fg": [ "overlay_worn_xedra_enviro_suit_casual" ],
+    "bg": [  ],
+    "rotates": false
+  }
+]
+ 

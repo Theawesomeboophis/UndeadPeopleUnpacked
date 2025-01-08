@@ -1,5 +1,5 @@
 {
-          "id": ["road", "generic_road", "generic_mall_road", "generic_necropolis_road", "robofachq_surface_parking"],
+          "id": ["road", "generic_road", "generic_mall_road", "generic_necropolis_road" ],
           "fg": "road",
 		  "bg": "",
           "multitile": true,

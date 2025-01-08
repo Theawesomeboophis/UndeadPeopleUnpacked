@@ -1,0 +1,10 @@
+{
+  "id": "mon_fear_hawk",
+  "fg": [
+    "mon_fear_hawk"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

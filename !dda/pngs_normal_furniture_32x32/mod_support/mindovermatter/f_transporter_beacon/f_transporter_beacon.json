@@ -1,0 +1,10 @@
+{
+  "id": "f_transporter_beacon",
+  "fg": [
+    "telepad"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

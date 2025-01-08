@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_bot_nursebot",
+    "fg": [
+      { "weight": 1, "sprite": "overlay_wielded_bot_nursebot" },
+      { "weight": 1, "sprite": "overlay_wielded_bot_nursebot_1" },
+      { "weight": 1, "sprite": "overlay_wielded_bot_nursebot_2" }
+    ],
+  "bg": [],
+  "rotates": true
+}

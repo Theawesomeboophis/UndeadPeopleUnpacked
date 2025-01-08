@@ -1,0 +1,11 @@
+{
+  "id": "mon_zombie_blank",
+  "fg": [
+	{"weight": 10, "sprite": "mon_zombie_blank_1"}, 
+	{"weight": 10, "sprite": "mon_zombie_blank_2"},
+	{"weight": 10, "sprite": "mon_zombie_blank_3"}
+		 ],
+  "bg": [ ],
+  "animated": true,
+  "rotates": false
+}

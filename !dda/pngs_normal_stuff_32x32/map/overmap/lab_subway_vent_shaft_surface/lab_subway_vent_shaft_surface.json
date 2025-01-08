@@ -1,0 +1,13 @@
+{
+
+  "id": ["lab_subway_vent_shaft_surface"],
+  "fg": [
+    { "weight": 3, "sprite": "forest_1" },
+    { "weight": 3, "sprite": "forest_2" },
+    { "weight": 3, "sprite": "forest_3" }
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

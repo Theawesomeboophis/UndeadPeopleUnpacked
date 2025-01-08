@@ -3,8 +3,6 @@
   "fg": [
     "mon_rattlesnake_giant"
   ],
-  "bg": [
-    "bg_shadow_custom_2"
-  ],
+  "bg": [],
   "rotates": false
 }

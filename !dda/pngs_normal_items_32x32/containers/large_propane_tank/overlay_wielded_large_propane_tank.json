@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_large_propane_tank",
+  "fg": [
+    "large_propane_tank"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

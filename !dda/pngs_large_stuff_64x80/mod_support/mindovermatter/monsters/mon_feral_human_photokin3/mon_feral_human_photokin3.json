@@ -1,0 +1,12 @@
+{
+  "id": ["mon_feral_human_photokin3"],
+  "fg": [ 
+	{"weight": 10, "sprite": "mon_feral_human_photokin3_1"},
+	{"weight": 10, "sprite": "mon_feral_human_photokin3_2"}, 
+	{"weight": 10, "sprite": "mon_feral_human_photokin3_3"},
+	{"weight": 10, "sprite": "mon_feral_human_photokin3_4"}
+		 ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": ["mon_feral_psion_default", "mon_feral_human_bio", "mon_feral_human_teep3", "mon_feral_human_porter", "mon_feral_human_porter2", "mon_feral_human_porter3", "mon_feral_human_electrokin", "mon_feral_human_pyrokin"],
+  "fg": [
+    { "weight": 1, "sprite": "mon_feral_psion_default_8" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_9" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_10" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_11" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_12" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_13" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_14" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_15" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_16" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_17" }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

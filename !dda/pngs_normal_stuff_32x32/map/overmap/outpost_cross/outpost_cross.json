@@ -1,5 +1,5 @@
 {
-  "id": "outpost_cross",
+  "id": ["outpost_cross", "outpost"],
   "fg": ["outpost_cross"],
   "bg": [],
   "rotates": false

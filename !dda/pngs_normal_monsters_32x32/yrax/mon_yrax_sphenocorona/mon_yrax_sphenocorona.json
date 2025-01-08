@@ -1,0 +1,10 @@
+{
+  "id": ["mon_golden_monolith", "mon_yrax_sphenocorona"],
+  "fg": [
+	{"weight": 50, "sprite": "mon_yrax_sphenocorona_1"},
+	{"weight": 50, "sprite": "mon_yrax_sphenocorona_2"}
+		 ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

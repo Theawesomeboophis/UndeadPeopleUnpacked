@@ -1,0 +1,10 @@
+{
+  "id": "psionic_transporter_beacon",
+  "fg": [
+    "teleporter"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

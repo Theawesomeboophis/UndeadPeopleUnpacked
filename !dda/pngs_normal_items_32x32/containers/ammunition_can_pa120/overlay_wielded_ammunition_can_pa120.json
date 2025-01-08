@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_ammunition_can_pa120",
+  "fg": [
+    "ammunition_can_pa120"
+  ],
+  "bg": [],
+  "rotates": false
+}

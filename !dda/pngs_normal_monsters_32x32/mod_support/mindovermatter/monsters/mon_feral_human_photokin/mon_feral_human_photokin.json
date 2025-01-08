@@ -1,0 +1,15 @@
+{
+  "id": ["mon_feral_human_photokin"],
+  "fg": [
+    { "weight": 1, "sprite": "mon_feral_human_photokin_0" },
+    { "weight": 1, "sprite": "mon_feral_human_photokin_1" },
+    { "weight": 1, "sprite": "mon_feral_human_photokin_2" },
+    { "weight": 1, "sprite": "mon_feral_human_photokin_3" },
+    { "weight": 1, "sprite": "mon_feral_human_photokin_4" },
+    { "weight": 1, "sprite": "mon_feral_human_photokin_5" },
+    { "weight": 1, "sprite": "mon_feral_human_photokin_6" },
+    { "weight": 1, "sprite": "mon_feral_human_photokin_7" }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_black",
+    "fg": [ "overlay_mutation_hair_black_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_blond",
+    "fg": [ "overlay_mutation_hair_blond_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_blue",
+    "fg": [ "overlay_mutation_hair_blue_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_brown",
+    "fg": [ "overlay_mutation_hair_brown_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_gray",
+    "fg": [ "overlay_mutation_hair_gray_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_green",
+    "fg": [ "overlay_mutation_hair_green_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_pink",
+    "fg": [ "overlay_mutation_hair_pink_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_purple",
+    "fg": [ "overlay_mutation_hair_purple_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_red",
+    "fg": [ "overlay_mutation_hair_red_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_long_mohawk_var_white",
+    "fg": [ "overlay_mutation_hair_white_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

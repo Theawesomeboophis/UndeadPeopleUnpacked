@@ -1,0 +1,15 @@
+{
+  "id": ["mon_feral_human_bio2", "mon_feral_human_bio3", "mon_feral_human_teep", "mon_feral_human_teep2"],
+  "fg": [
+    { "weight": 1, "sprite": "mon_feral_psion_default_0" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_1" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_2" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_3" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_4" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_5" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_6" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_7" }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

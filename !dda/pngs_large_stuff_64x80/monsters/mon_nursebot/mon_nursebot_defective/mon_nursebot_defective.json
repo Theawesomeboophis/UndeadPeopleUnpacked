@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "mon_nursebot_defective" ],
+    "fg": [
+      { "weight": 1, "sprite": "mon_nursebot_defective" },
+      { "weight": 1, "sprite": "mon_nursebot_defective_1" },
+      { "weight": 1, "sprite": "mon_nursebot_defective_2" }
+    ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

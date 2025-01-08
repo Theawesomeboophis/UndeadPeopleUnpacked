@@ -1,8 +1,19 @@
 {
   "id": "overlay_wielded_joint_lit",
+  "fg": "overlay_wielded_cig_lit",
+  "animated": true,
   "fg": [
-    "joint_lit"
-  ],
-  "bg": [],
-  "rotates": false
+    {
+      "weight": 14,
+      "sprite": "overlay_wielded_cig_lit_1"
+    },
+    {
+      "weight": 14,
+      "sprite": "overlay_wielded_cig_lit_2"
+    },
+    {
+      "weight": 14,
+      "sprite": "overlay_wielded_cig_lit_3"
+    }
+  ]
 }

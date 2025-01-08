@@ -1,0 +1,6 @@
+{
+  "id": ["ammunition_can_50", "ammunition_can_fat_50"],
+  "fg": ["ammunition_can_50"],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

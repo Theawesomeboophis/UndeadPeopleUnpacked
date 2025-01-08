@@ -1,0 +1,10 @@
+{
+  "id": "mon_skeleton_master",
+  "fg": [
+    "mon_skeleton_master"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

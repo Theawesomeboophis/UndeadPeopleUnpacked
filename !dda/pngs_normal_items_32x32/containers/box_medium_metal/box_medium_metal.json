@@ -1,0 +1,6 @@
+{
+  "id": ["box_medium_metal"],
+  "fg": ["box_medium_metal"],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

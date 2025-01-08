@@ -1,0 +1,10 @@
+{
+  "id": "flag_jumpsuit",
+  "fg": [
+    "flag_jumpsuit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

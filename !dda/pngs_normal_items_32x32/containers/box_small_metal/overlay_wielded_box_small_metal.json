@@ -1,0 +1,8 @@
+{
+  "id": ["overlay_wielded_box_small_metal"],
+  "fg": [
+    "box_small_metal"
+  ],
+  "bg": [],
+  "rotates": false
+}
