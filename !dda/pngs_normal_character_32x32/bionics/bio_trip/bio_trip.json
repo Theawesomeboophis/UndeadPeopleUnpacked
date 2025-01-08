@@ -1,7 +1,7 @@
 {
   "id": "bio_trip",
   "fg": [
-    "cbm_fault"
+    "bio_trip"
   ],
   "bg": [],
   "rotates": false

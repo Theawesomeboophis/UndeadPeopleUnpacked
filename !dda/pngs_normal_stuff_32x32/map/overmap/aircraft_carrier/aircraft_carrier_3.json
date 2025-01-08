@@ -1,0 +1,26 @@
+[
+  {
+    "id": "aircraft_carrier_1a_3",
+    "fg": [ "aircraft_carrier_1a_3_south", "aircraft_carrier_1a_3_east", "aircraft_carrier_1a_3_north", "aircraft_carrier_1a_3_west" ],
+    "rotates": true,
+    "bg": ["open_air"]
+  },
+  {
+    "id": "aircraft_carrier_2a_3",
+    "fg": [ "aircraft_carrier_2a_3_south", "aircraft_carrier_2a_3_east", "aircraft_carrier_2a_3_north", "aircraft_carrier_2a_3_west" ],
+    "rotates": true,
+    "bg": ["open_air"]
+  },
+  {
+    "id": "aircraft_carrier_1a_4",
+    "fg": [ "aircraft_carrier_1a_3_south", "aircraft_carrier_1a_3_east", "aircraft_carrier_1a_3_north", "aircraft_carrier_1a_3_west" ],
+    "rotates": true,
+    "bg": ["open_air"]
+  },
+  {
+    "id": "aircraft_carrier_2a_4",
+    "fg": [ "aircraft_carrier_2a_3_south", "aircraft_carrier_2a_3_east", "aircraft_carrier_2a_3_north", "aircraft_carrier_2a_3_west" ],
+    "rotates": true,
+    "bg": ["open_air"]
+  }
+]

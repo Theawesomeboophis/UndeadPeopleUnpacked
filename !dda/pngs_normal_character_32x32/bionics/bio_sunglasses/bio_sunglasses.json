@@ -1,7 +1,7 @@
 {
   "id": "bio_sunglasses",
   "fg": [
-    "cbm_temp"
+    "bio_sunglasses"
   ],
   "bg": [],
   "rotates": false

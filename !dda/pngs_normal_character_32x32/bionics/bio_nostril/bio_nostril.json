@@ -1,7 +1,7 @@
 {
   "id": "bio_nostril",
   "fg": [
-    "cbm_fault"
+    "bio_nostril"
   ],
   "bg": [],
   "rotates": false

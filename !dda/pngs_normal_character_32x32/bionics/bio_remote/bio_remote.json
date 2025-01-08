@@ -1,7 +1,7 @@
 {
   "id": "bio_remote",
   "fg": [
-    "cbm_temp"
+    "bio_remote"
   ],
   "bg": [],
   "rotates": false

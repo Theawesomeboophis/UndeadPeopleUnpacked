@@ -1,7 +1,7 @@
 {
   "id": "bio_targeting",
   "fg": [
-    "cbm_temp"
+    "bio_targeting"
   ],
   "bg": [],
   "rotates": false

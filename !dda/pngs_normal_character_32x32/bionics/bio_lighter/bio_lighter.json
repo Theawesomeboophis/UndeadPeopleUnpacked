@@ -1,7 +1,7 @@
 {
   "id": "bio_lighter",
   "fg": [
-    "cbm_temp"
+    "bio_lighter"
   ],
   "bg": [],
   "rotates": false

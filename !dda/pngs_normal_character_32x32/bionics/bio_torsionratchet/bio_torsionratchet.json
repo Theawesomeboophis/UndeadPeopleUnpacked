@@ -1,7 +1,7 @@
 {
   "id": "bio_torsionratchet",
   "fg": [
-    "cbm_temp"
+    "bio_torsionratchet"
   ],
   "bg": [],
   "rotates": false

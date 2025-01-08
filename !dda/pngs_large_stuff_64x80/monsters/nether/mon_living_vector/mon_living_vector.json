@@ -1,0 +1,24 @@
+{
+  "id": "mon_living_vector",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_living_vector_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_living_vector_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_living_vector_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_living_vector_3"
+    }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

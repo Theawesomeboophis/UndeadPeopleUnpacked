@@ -1,10 +1,10 @@
 {
   "id": "mon_spider_cellar_leg",
   "fg": [
-    "mon_spider_cellar_leg"
-  ],
-  "bg": [
-    ""
-  ],
+	{"weight": 30, "sprite": "mon_spider_cellar_leg"},
+	{"weight": 30, "sprite": "mon_spider_cellar_leg_1"}
+		 ],
+  "bg": [],
+  "animated": true,
   "rotates": false
 }

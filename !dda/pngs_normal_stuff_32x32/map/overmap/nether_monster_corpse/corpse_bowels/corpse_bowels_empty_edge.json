@@ -1,0 +1,10 @@
+{
+  "id": "corpse_bowels_empty_edge",
+  "fg": [
+    "corpse_bowels_empty_edge_north",
+    "corpse_bowels_empty_edge_west",
+    "corpse_bowels_empty_edge_south",
+    "corpse_bowels_empty_edge_east"
+  ],
+  "rotates": true
+}

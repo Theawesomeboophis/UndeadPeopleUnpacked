@@ -1,7 +1,7 @@
 {
   "id": "bio_synaptic_regen",
   "fg": [
-    "cbm_temp"
+    "bio_synaptic_regen"
   ],
   "bg": [],
   "rotates": false

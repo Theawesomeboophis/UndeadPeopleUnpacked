@@ -1,0 +1,10 @@
+{
+  "id": "bot_dispatch",
+  "fg": [
+    "bot_dispatch"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

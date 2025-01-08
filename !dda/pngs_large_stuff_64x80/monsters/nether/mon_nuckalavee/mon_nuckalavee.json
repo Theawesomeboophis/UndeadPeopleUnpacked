@@ -1,0 +1,8 @@
+{
+  "id": "mon_nuckalavee",
+  "fg": [
+    "mon_nuckalavee"
+  ],
+  "bg": ["bg_big_normal_shadow"],
+  "rotates": false
+}

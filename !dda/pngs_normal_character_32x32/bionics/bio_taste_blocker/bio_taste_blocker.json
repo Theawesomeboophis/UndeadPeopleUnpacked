@@ -1,7 +1,7 @@
 {
   "id": "bio_taste_blocker",
   "fg": [
-    "cbm_temp"
+    "bio_taste_blocker"
   ],
   "bg": [],
   "rotates": false

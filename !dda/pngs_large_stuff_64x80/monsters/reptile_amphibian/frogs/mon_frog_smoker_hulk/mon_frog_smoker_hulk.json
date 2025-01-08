@@ -1,0 +1,8 @@
+{
+  "id": "mon_frog_smoker_hulk",
+  "fg": [
+    "mon_frog_smoker_hulk"
+  ],
+  "bg": ["bg_big_normal_shadow"],
+  "rotates": false
+}

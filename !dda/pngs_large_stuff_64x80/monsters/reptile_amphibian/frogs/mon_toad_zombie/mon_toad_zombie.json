@@ -1,0 +1,8 @@
+{
+  "id": "mon_toad_zombie",
+  "fg": [
+    "mon_toad_zombie"
+  ],
+  "bg": ["bg_big_normal_shadow"],
+  "rotates": false
+}

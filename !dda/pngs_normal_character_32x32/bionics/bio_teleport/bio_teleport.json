@@ -1,7 +1,7 @@
 {
   "id": "bio_teleport",
   "fg": [
-    "cbm_temp"
+    "bio_teleport"
   ],
   "bg": [],
   "rotates": false

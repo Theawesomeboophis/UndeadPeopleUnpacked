@@ -1,7 +1,7 @@
 {
   "id": "bio_weight",
   "fg": [
-    "cbm_temp"
+    "bio_weight"
   ],
   "bg": [],
   "rotates": false

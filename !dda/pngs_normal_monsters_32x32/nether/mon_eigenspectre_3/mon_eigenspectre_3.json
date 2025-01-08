@@ -1,0 +1,10 @@
+{
+  "id": "mon_eigenspectre_3",
+  "fg": [
+    "mon_eigenspectre_3_1"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

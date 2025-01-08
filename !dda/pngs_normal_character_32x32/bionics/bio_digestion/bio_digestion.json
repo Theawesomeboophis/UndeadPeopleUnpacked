@@ -1,7 +1,7 @@
 {
   "id": "bio_digestion",
   "fg": [
-    "cbm_temp"
+    "bio_digestion"
   ],
   "bg": [],
   "rotates": false

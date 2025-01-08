@@ -1,0 +1,6 @@
+{
+  "id": [ "orchard_roof", "orchard_roof_1" ],
+  "fg": [ "orchard_roof" ],
+  "bg": [ "open_air" ],
+  "rotates": false
+}

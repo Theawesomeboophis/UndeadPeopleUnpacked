@@ -1,7 +1,7 @@
 {
   "id": "bio_armor_head",
   "fg": [
-    "cbm_temp"
+    "bio_armor_head"
   ],
   "bg": [],
   "rotates": false

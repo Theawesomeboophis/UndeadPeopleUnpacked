@@ -1,7 +1,7 @@
 {
   "id": "bio_leaky",
   "fg": [
-    "cbm_fault"
+    "bio_leaky"
   ],
   "bg": [],
   "rotates": false

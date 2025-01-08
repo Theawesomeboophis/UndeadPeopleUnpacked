@@ -1,7 +1,7 @@
 {
   "id": "bio_jointservo",
   "fg": [
-    "cbm_fault"
+    "bio_jointservo"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "bio_face_mask",
   "fg": [
-    "cbm_temp"
+    "bio_face_mask"
   ],
   "bg": [],
   "rotates": false

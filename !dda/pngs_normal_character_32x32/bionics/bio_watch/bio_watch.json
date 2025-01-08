@@ -1,7 +1,7 @@
 {
   "id": "bio_watch",
   "fg": [
-    "cbm_temp"
+    "bio_watch"
   ],
   "bg": [],
   "rotates": false

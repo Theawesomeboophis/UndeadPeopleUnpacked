@@ -1,7 +1,7 @@
 {
   "id": "bio_chain_lightning",
   "fg": [
-    "cbm_temp"
+    "bio_chain_lightning"
   ],
   "bg": [],
   "rotates": false

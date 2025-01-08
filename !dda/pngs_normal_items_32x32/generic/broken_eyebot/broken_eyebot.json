@@ -3,8 +3,6 @@
   "fg": [
     "broken_eyebot"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }

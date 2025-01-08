@@ -1,0 +1,88 @@
+{
+  "id": "t_nm_floor_flesh",
+  "fg": [
+    { "weight": 10, "sprite": [ "t_nm_floor_flesh"] },
+	{ "weight": 10, "sprite": [ "t_nm_floor_flesh_1"] },
+	{ "weight": 10, "sprite": [ "t_nm_floor_flesh_2"] },
+	{ "weight": 10, "sprite": [ "t_nm_floor_flesh_3"] }
+  ],
+  "bg": [
+    "t_nm_cartilage"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+		{ "weight": 10, "sprite": [ "t_nm_floor_flesh"] },
+		{ "weight": 10, "sprite": [ "t_nm_floor_flesh_1"] },
+		{ "weight": 10, "sprite": [ "t_nm_floor_flesh_2"] },
+		{ "weight": 10, "sprite": [ "t_nm_floor_flesh_3"] }
+      ],
+      "bg": [
+        "t_nm_cartilage"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nm_floor_flesh_corner_nw",
+        "t_nm_floor_flesh_corner_sw",
+        "t_nm_floor_flesh_corner_se",
+        "t_nm_floor_flesh_corner_ne"
+      ],
+      "bg": [
+        "t_nm_cartilage"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+		"t_nm_floor_flesh_t_connection_n",
+		"t_nm_floor_flesh_t_connection_w",
+		"t_nm_floor_flesh_t_connection_s",
+		"t_nm_floor_flesh_t_connection_e"
+      ],
+      "bg": [
+        "t_nm_cartilage"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+		{ "weight": 10, "sprite": [ "t_nm_floor_flesh_edge_ns_1", "t_nm_floor_flesh_edge_ew_1" ] },
+		{ "weight": 10, "sprite": [ "t_nm_floor_flesh_edge_ns_2", "t_nm_floor_flesh_edge_ew_2" ] },
+		{ "weight": 10, "sprite": [ "t_nm_floor_flesh_edge_ns_3", "t_nm_floor_flesh_edge_ew_3" ] },
+		{ "weight": 10, "sprite": [ "t_nm_floor_flesh_edge_ns_4", "t_nm_floor_flesh_edge_ew_4" ] }
+      ],
+      "bg": [
+        "t_nm_cartilage"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+		"t_nm_floor_flesh_end_piece_n",
+		"t_nm_floor_flesh_end_piece_w",
+		"t_nm_floor_flesh_end_piece_s",
+		"t_nm_floor_flesh_end_piece_e"
+      ],
+      "bg": [
+        "t_nm_cartilage"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+	    "t_nm_floor_flesh_unconnected_1",
+		"t_nm_floor_flesh_unconnected_2",
+		"t_nm_floor_flesh_unconnected_3",
+		"t_nm_floor_flesh_unconnected_4"
+      ],
+      "bg": [
+        "t_nm_cartilage"
+      ]
+    }
+  ]
+}

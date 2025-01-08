@@ -1,0 +1,6 @@
+{
+  "id": "mon_nether_leech",
+  "fg": "mon_nether_leech",
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

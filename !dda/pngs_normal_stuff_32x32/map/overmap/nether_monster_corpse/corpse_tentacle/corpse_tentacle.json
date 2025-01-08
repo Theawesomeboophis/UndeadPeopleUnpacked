@@ -1,0 +1,36 @@
+{
+  "id": "corpse_tentacle",
+  "fg": "corpse_tentacle",
+  "multitile": true,
+"additional_tiles": [
+  {
+	"id": "corner",
+	"fg": [
+	  "corpse_tentacle_es",
+	  "corpse_tentacle_ne",
+	  "corpse_tentacle_nw",
+	  "corpse_tentacle_sw"
+	]
+  },
+  {
+	"id": "edge",
+	"fg": [
+	  "corpse_tentacle_ns",
+	  "corpse_tentacle_ew"
+	]
+  },
+  {
+	"id": "end_piece",
+	"fg": [
+	  "corpse_tentacle_end_s",
+	  "corpse_tentacle_end_e",
+	  "corpse_tentacle_end_n",
+	  "corpse_tentacle_end_w"
+	]
+  },
+  {
+	"id": "unconnected",
+	"fg": "corpse_tentacle"
+  }
+]
+}

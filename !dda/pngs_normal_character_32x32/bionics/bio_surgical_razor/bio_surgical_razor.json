@@ -1,7 +1,7 @@
 {
   "id": "bio_surgical_razor",
   "fg": [
-    "cbm_temp"
+    "bio_surgical_razor"
   ],
   "bg": [],
   "rotates": false

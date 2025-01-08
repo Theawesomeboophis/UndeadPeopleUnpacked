@@ -1,7 +1,7 @@
 {
   "id": "bio_lockpick",
   "fg": [
-    "cbm_temp"
+    "bio_lockpick"
   ],
   "bg": [],
   "rotates": false

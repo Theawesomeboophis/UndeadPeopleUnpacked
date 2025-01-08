@@ -1,7 +1,7 @@
 {
   "id": "bio_cloak",
   "fg": [
-    "cbm_temp"
+    "bio_cloak"
   ],
   "bg": [],
   "rotates": false

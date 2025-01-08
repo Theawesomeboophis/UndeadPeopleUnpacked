@@ -1,7 +1,7 @@
 {
   "id": "bio_probability_travel",
   "fg": [
-    "cbm_temp"
+    "bio_probability_travel"
   ],
   "bg": [],
   "rotates": false

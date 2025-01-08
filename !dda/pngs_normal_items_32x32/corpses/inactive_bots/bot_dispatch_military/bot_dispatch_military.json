@@ -1,0 +1,10 @@
+{
+  "id": "bot_dispatch_military",
+  "fg": [
+    "bot_dispatch_military"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

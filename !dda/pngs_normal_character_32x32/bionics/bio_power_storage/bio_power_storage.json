@@ -1,7 +1,7 @@
 {
   "id": "bio_power_storage",
   "fg": [
-    "cbm_temp"
+    "bio_power_storage"
   ],
   "bg": [],
   "rotates": false

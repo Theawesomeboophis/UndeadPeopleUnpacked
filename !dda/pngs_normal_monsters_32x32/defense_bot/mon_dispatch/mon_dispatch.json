@@ -1,0 +1,10 @@
+{
+  "id": "mon_dispatch",
+  "fg": [
+    "mon_dispatch"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

@@ -1,7 +1,7 @@
 {
   "id": "bio_noise",
   "fg": [
-    "cbm_temp"
+    "bio_noise"
   ],
   "bg": [],
   "rotates": false

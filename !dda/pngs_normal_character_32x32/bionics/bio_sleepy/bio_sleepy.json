@@ -1,7 +1,7 @@
 {
   "id": "bio_sleepy",
   "fg": [
-    "cbm_fault"
+    "bio_sleepy"
   ],
   "bg": [],
   "rotates": false

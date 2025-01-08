@@ -1,7 +1,7 @@
 {
   "id": "bio_leukocyte",
   "fg": [
-    "cbm_temp"
+    "bio_leukocyte"
   ],
   "bg": [],
   "rotates": false

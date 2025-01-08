@@ -1,7 +1,7 @@
 {
   "id": "bio_alarm",
   "fg": [
-    "cbm_temp"
+    "bio_alarm"
   ],
   "bg": [],
   "rotates": false

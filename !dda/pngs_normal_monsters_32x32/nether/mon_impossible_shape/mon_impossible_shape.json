@@ -1,10 +1,20 @@
 {
   "id": "mon_impossible_shape",
   "fg": [
-    "mon_impossible_shape"
+    {
+      "weight": 10,
+      "sprite": "mon_impossible_shape"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_impossible_shape_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_impossible_shape_3"
+    }
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
+  "bg": ["bg_shadow_normal"],
+  "animated": true,
   "rotates": false
 }

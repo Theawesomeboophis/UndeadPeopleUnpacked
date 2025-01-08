@@ -1,7 +1,7 @@
 {
   "id": "bio_syringe",
   "fg": [
-    "cbm_temp"
+    "bio_syringe"
   ],
   "bg": [],
   "rotates": false

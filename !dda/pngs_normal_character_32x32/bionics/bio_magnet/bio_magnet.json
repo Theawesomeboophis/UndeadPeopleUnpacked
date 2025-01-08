@@ -1,7 +1,7 @@
 {
   "id": "bio_magnet",
   "fg": [
-    "cbm_temp"
+    "bio_magnet"
   ],
   "bg": [],
   "rotates": false

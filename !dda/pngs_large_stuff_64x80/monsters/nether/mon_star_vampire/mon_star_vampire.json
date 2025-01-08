@@ -1,0 +1,8 @@
+{
+  "id": "mon_star_vampire",
+  "fg": [
+    "mon_star_vampire"
+  ],
+  "bg": ["bg_big_large_shadow"],
+  "rotates": false
+}

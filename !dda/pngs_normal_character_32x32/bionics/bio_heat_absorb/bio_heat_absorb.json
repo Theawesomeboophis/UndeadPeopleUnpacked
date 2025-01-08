@@ -1,7 +1,7 @@
 {
   "id": "bio_heat_absorb",
   "fg": [
-    "cbm_temp"
+    "bio_heat_absorb"
   ],
   "bg": [],
   "rotates": false
