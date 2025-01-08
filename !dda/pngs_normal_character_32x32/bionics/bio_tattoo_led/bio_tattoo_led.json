@@ -1,7 +1,7 @@
 {
   "id": "bio_tattoo_led",
   "fg": [
-    "cbm_temp"
+    "bio_tattoo_led"
   ],
   "bg": [],
   "rotates": false

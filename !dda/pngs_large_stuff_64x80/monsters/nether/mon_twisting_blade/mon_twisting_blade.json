@@ -1,0 +1,33 @@
+{
+  "id": "mon_twisting_blade",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_blade_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_blade_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_blade_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_blade_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_blade_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_blade_6"
+    }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+  
+}

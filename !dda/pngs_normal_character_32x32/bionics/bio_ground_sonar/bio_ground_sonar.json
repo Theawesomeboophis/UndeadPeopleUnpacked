@@ -1,7 +1,7 @@
 {
   "id": "bio_ground_sonar",
   "fg": [
-    "cbm_temp"
+    "bio_ground_sonar"
   ],
   "bg": [],
   "rotates": false

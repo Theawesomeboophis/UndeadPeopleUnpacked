@@ -1,7 +1,7 @@
 {
   "id": "bio_voice",
   "fg": [
-    "cbm_fault"
+    "bio_voice"
   ],
   "bg": [],
   "rotates": false

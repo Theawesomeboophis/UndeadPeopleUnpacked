@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_small_propane_tank",
+  "fg": [
+    "overlay_wielded_small_propane_tank"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

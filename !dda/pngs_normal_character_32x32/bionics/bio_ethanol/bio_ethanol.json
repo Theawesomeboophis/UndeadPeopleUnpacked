@@ -1,7 +1,7 @@
 {
   "id": "bio_ethanol",
   "fg": [
-    "cbm_temp"
+    "bio_ethanol"
   ],
   "bg": [],
   "rotates": false

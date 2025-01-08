@@ -1,0 +1,10 @@
+{
+  "id": "mon_skeleton_necro",
+  "fg": [
+    "mon_skeleton_necro"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

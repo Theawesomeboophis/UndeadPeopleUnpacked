@@ -1,7 +1,7 @@
 {
   "id": "bio_soporific",
   "fg": [
-    "cbm_temp"
+    "bio_soporific"
   ],
   "bg": [],
   "rotates": false

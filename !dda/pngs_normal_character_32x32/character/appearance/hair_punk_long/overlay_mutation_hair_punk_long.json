@@ -1,0 +1,62 @@
+[
+  {
+    "id": "overlay_mutation_hair_punk_long_var_black",
+    "fg": [ "overlay_female_mutation_hair_long_var_black" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_blond",
+    "fg": [ "overlay_female_mutation_hair_long_var_blond" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_blue",
+    "fg": [ "overlay_female_mutation_hair_long_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_brown",
+    "fg": [ "overlay_female_mutation_hair_long_var_brown" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_gray",
+    "fg": [ "overlay_female_mutation_hair_long_var_gray" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_green",
+    "fg": [ "overlay_female_mutation_hair_long_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_pink",
+    "fg": [ "overlay_female_mutation_hair_long_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_purple",
+    "fg": [ "overlay_female_mutation_hair_long_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_red",
+    "fg": [ "overlay_female_mutation_hair_long_var_red" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_punk_long_var_white",
+    "fg": [ "overlay_female_mutation_hair_long_var_white" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

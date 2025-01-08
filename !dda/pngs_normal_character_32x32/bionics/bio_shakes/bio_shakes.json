@@ -1,7 +1,7 @@
 {
   "id": "bio_shakes",
   "fg": [
-    "cbm_fault"
+    "bio_shakes"
   ],
   "bg": [],
   "rotates": false

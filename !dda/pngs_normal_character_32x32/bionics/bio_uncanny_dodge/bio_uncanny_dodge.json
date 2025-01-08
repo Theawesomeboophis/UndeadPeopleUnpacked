@@ -1,7 +1,7 @@
 {
   "id": "bio_uncanny_dodge",
   "fg": [
-    "cbm_temp"
+    "bio_uncanny_dodge"
   ],
   "bg": [],
   "rotates": false

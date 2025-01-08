@@ -1,0 +1,10 @@
+{
+  "id": "mon_skeleton_dusted",
+  "fg": [
+    "bg_shadow_normal_dusted"
+  ],
+  "bg": [
+    "mon_skeleton"
+  ],
+  "rotates": false
+}

@@ -5,6 +5,6 @@
         "2silos_roof"
     ],
     "fg": ["2silos_1"],
-    "bg": [],
+    "bg": ["open_air"],
     "rotates": false
 }

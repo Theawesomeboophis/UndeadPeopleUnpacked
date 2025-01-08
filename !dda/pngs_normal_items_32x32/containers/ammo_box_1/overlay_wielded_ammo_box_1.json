@@ -1,0 +1,8 @@
+{
+  "id": ["overlay_wielded_ammo_box_1", "overlay_wielded_ammo_box_army_5_shot", "overlay_wielded_ammo_box_army_20_223", "overlay_wielded_ammo_box_army_5_slug", "overlay_wielded_ammo_box_army_5_beanbag", "overlay_wielded_ammo_box_army_100_9mm_fmj", "overlay_wielded_ammo_box_army_20_300wm", "overlay_wielded_ammo_box_army_3_clips", "overlay_wielded_ammo_box_army_20_308", "overlay_wielded_ammo_box_army_30_300blk"],
+  "fg": [
+    "ammo_box_1"
+  ],
+  "bg": [],
+  "rotates": false
+}

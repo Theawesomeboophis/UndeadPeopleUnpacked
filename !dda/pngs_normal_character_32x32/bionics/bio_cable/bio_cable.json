@@ -1,7 +1,8 @@
 {
   "id": "bio_cable",
   "fg": [
-    "cbm_temp"
+    "bio_cable"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }

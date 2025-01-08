@@ -1,7 +1,7 @@
 {
   "id": "bio_painkiller",
   "fg": [
-    "cbm_temp"
+    "bio_painkiller"
   ],
   "bg": [],
   "rotates": false

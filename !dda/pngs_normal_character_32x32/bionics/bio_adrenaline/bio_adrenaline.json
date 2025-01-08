@@ -1,7 +1,7 @@
 {
   "id": "bio_adrenaline",
   "fg": [
-    "cbm_temp"
+    "bio_adrenaline"
   ],
   "bg": [],
   "rotates": false

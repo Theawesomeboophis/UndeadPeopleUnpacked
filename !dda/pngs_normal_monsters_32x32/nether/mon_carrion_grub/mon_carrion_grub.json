@@ -1,0 +1,6 @@
+{
+  "id": "mon_carrion_grub",
+  "fg": "mon_carrion_grub",
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_skeleton_fungalize",
+  "fg": [
+    "bg_shadow_normal_fungalize"
+  ],
+  "bg": [
+    "mon_skeleton"
+  ],
+  "rotates": false
+}

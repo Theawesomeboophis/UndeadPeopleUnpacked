@@ -1,8 +1,0 @@
-{
-  "id": "mon_zombie_cop_oat",
-  "fg": ["mon_zombie_cop_oat"],
-  "bg": [
-    "bg_shadow_normal"
-  ],
-  "rotates": false
-}

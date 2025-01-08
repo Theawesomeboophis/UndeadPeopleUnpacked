@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_crawler_fungal",
+  "fg": [
+    "mon_zombie_crawler_fungal"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

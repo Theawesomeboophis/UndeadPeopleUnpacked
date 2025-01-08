@@ -1,7 +1,7 @@
 {
   "id": "bio_fingerhack",
   "fg": [
-    "cbm_temp"
+    "bio_fingerhack"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "bio_gills",
   "fg": [
-    "cbm_temp"
+    "bio_gills"
   ],
   "bg": [],
   "rotates": false

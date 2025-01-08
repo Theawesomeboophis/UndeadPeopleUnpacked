@@ -1,0 +1,6 @@
+{
+  "id": "boat_rental_1_south",
+  "fg": ["boat_rental_1_south"],
+  "bg": [ "bg_grass" ],
+  "rotates": false
+}

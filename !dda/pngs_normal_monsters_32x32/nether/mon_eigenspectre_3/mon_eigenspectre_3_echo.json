@@ -1,0 +1,20 @@
+{
+  "id": "mon_eigenspectre_3_echo",
+  "fg": [
+	{"weight": 25, "sprite": "mon_eigenspectre_3_1"}, 
+	{"weight": 25, "sprite": "mon_eigenspectre_3_2"},
+	{"weight": 25, "sprite": "mon_eigenspectre_3_3"},
+	{"weight": 25, "sprite": "mon_eigenspectre_3_4"},
+	{"weight": 25, "sprite": "mon_eigenspectre_3_5"},
+	{"weight": 25, "sprite": "mon_eigenspectre_3_6"},
+	{"weight": 25, "sprite": "mon_eigenspectre_3_5"},
+	{"weight": 25, "sprite": "mon_eigenspectre_3_4"},
+	{"weight": 25, "sprite": "mon_eigenspectre_3_3"},
+	{"weight": 25, "sprite": "mon_eigenspectre_3_2"}
+		 ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}

@@ -1,7 +1,7 @@
 {
   "id": "bio_shock",
   "fg": [
-    "cbm_temp"
+    "bio_shock"
   ],
   "bg": [],
   "rotates": false

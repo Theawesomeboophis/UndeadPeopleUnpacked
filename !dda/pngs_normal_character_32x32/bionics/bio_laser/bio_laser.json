@@ -1,7 +1,7 @@
 {
   "id": "bio_laser",
   "fg": [
-    "cbm_temp"
+    "bio_laser"
   ],
   "bg": [],
   "rotates": false

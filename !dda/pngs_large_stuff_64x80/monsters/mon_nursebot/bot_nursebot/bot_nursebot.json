@@ -1,0 +1,10 @@
+{
+  "id": "bot_nursebot",
+    "fg": [
+      { "weight": 1, "sprite": "bot_nursebot" },
+      { "weight": 1, "sprite": "bot_nursebot_1" },
+      { "weight": 1, "sprite": "bot_nursebot_2" }
+    ],
+  "bg": [],
+  "rotates": true
+}

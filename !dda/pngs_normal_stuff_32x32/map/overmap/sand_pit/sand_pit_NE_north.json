@@ -1,0 +1,8 @@
+{
+  "id": [
+      "sand_pit_NE"
+    ],
+  "fg": ["t_sand_corner_4"],
+  "bg": ["bg_grass"],
+  "rotates": true
+}

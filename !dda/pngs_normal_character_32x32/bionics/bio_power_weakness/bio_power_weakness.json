@@ -1,7 +1,7 @@
 {
   "id": "bio_power_weakness",
   "fg": [
-    "cbm_temp"
+    "bio_power_weakness"
   ],
   "bg": [],
   "rotates": false

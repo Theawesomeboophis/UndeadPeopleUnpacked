@@ -1,0 +1,6 @@
+{
+  "id": ["ammo_box_2", "ammo_box_4", "ammo_box_army_10_338", "ammo_box_army_10_50bmg"],
+  "fg": ["ammo_box_2"],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

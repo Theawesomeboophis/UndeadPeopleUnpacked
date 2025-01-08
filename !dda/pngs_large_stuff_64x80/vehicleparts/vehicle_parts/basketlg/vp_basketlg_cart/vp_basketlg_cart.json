@@ -1,8 +1,30 @@
-{
-  "id": "vp_basketlg_cart",
-  "fg": [
-    "vp_basketlg_cart_1", "vp_basketlg_cart_2", "vp_basketlg_cart_3", "vp_basketlg_cart_4"
-  ],
-  "bg": [],
-  "rotates": true
-}
+[
+	{
+	  "id": [ "vp_basketlg_folding" ],
+	  "fg": [
+		"vp_basketlg_cart_1", "vp_basketlg_cart_2", "vp_basketlg_cart_3", "vp_basketlg_cart_4"
+	  ],
+	  "bg": [],
+	  "rotates": true,
+	  "multitile": true,
+	  "additional_tiles": [
+		{
+		  "id": "broken",
+		  "fg": [
+			"vp_basketlg_cart_broken_1", "vp_basketlg_cart_broken_2", "vp_basketlg_cart_broken_3", "vp_basketlg_cart_broken_4"
+		  ],
+		  "bg": []
+		}
+	  ]
+	},
+	{
+	  "id": [ "vp_basketlg_cart" ],
+	  "fg": [
+		"vp_basketlg_cart_1", "vp_basketlg_cart_2", "vp_basketlg_cart_3", "vp_basketlg_cart_4"
+	  ],
+	  
+	  "bg": [],
+	  "rotates": true,
+	  "multitile": true
+	}
+]

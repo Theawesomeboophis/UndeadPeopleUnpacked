@@ -17,6 +17,14 @@
       "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_fireplace", "weight": 2 } ] } ]
     },
     {
+      "context": "f_55gal_firebarrel",
+      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_brazier", "weight": 2 } ], "offset_x": 0, "offset_y": -14 } ]
+    },
+    {
+      "context": "f_30gal_firebarrel",
+      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_brazier", "weight": 2 } ], "offset_x": 0, "offset_y": -14 } ]
+    },
+    {
       "context": "f_flagpole",
       "item_variants": [
         {
@@ -81,6 +89,72 @@
           "offset_y": -47
         }
       ]
-    }
+    },
+    {
+      "context": "f_indoor_flagpole",
+      "item_variants": [
+        {
+          "item": "state_flag",
+          "sprite": [ { "id": "state_flag", "weight": 1 } ],
+          "layer": 90,
+		  "offset_x": 1, 
+		  "offset_y": -3
+        },
+        {
+          "item": "pride_flag",
+          "sprite": [ { "id": "pride_flag", "weight": 1 } ],
+          "layer": 90,
+		  "offset_x": 1, 
+		  "offset_y": -3
+        },
+        {
+          "item": "american_flag",
+          "sprite": [ { "id": "american_flag", "weight": 1 } ],
+          "layer": 90,
+		  "offset_x": -2, 
+		  "offset_y": -2
+        },
+        {
+          "item": "national_flag",
+          "sprite": [ { "id": "national_flag", "weight": 1 } ],
+          "layer": 90,
+		  "offset_x": 1, 
+		  "offset_y": -3
+        }
+      ]
+    },
+	{
+	  "context": [ "WALL" ],
+	  "item_variants": [
+		{
+		"item": "american_flag",
+		"sprite": [ { "id": "american_flag", "weight": 1 } ],
+		"layer": 90,
+		"offset_x": 0, 
+		"offset_y": 6
+		},
+		{
+		"item": "national_flag",
+		"sprite": [ { "id": "national_flag", "weight": 1 } ],
+		"layer": 90,
+		"offset_x": 0, 
+		"offset_y": 6
+		},
+		{
+		"item": "pride_flag",
+		"sprite": [ { "id": "pride_flag", "weight": 1 } ],
+		"layer": 90,
+		"offset_x": 0, 
+		"offset_y": 6
+		},
+		{
+		"item": "state_flag",
+		"sprite": [ { "id": "state_flag", "weight": 1 } ],
+		"layer": 90,
+		"offset_x": 0, 
+		"offset_y": 6
+		}
+	  ]
+	}
   ]
 }

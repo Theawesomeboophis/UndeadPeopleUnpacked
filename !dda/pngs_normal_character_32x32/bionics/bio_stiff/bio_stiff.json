@@ -1,7 +1,7 @@
 {
   "id": "bio_stiff",
   "fg": [
-    "cbm_temp"
+    "bio_stiff"
   ],
   "bg": [],
   "rotates": false

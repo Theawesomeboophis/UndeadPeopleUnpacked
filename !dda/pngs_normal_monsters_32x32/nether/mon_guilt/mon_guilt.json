@@ -1,0 +1,17 @@
+{
+  "id": "mon_guilt",
+  "fg": [
+    { "weight": 10, "sprite": "mon_shifting_mass_1" },
+    { "weight": 10, "sprite": "mon_shifting_mass_2" },
+    { "weight": 10, "sprite": "mon_shifting_mass_3" },
+    { "weight": 10, "sprite": "mon_shifting_mass_4" },
+    { "weight": 10, "sprite": "mon_shifting_mass_5" },
+    { "weight": 10, "sprite": "mon_shifting_mass_6" },
+    { "weight": 10, "sprite": "mon_shifting_mass_7" },
+    { "weight": 10, "sprite": "mon_shifting_mass_8" }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true
+}

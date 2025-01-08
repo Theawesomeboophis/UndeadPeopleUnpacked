@@ -1,0 +1,10 @@
+{
+  "id": "mon_nether_eater",
+  "fg": [
+    "mon_nether_eater"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

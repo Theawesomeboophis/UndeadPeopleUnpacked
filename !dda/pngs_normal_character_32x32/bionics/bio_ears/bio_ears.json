@@ -1,7 +1,7 @@
 {
   "id": "bio_ears",
   "fg": [
-    "cbm_temp"
+    "bio_ears"
   ],
   "bg": [],
   "rotates": false

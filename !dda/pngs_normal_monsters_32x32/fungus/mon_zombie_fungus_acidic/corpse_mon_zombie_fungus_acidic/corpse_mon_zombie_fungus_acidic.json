@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_zombie_fungus_acidic",
+  "fg": [
+    "corpse_mon_zombie_fungus"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "mon_zombie_strider",
+  "fg": [
+    "mon_zombie_strider"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

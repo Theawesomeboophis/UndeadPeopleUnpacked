@@ -1,0 +1,8 @@
+{
+  "id": "mon_gastro_bufo",
+  "fg": [
+    "mon_gastro_bufo"
+  ],
+  "bg": ["bg_big_normal_shadow"],
+  "rotates": false
+}

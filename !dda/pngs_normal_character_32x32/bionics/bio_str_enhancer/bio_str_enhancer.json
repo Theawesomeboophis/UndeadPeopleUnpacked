@@ -1,7 +1,7 @@
 {
   "id": "bio_str_enhancer",
   "fg": [
-    "cbm_temp"
+    "bio_str_enhancer"
   ],
   "bg": [],
   "rotates": false

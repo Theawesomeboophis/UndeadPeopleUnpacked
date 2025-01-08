@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_migo_plate",
+  "fg": [
+    "migo_plate"
+  ],
+  "bg": [],
+  "rotates": false
+}

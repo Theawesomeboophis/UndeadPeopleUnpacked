@@ -1,7 +1,7 @@
 {
   "id": "bio_deformity",
   "fg": [
-    "cbm_fault"
+    "bio_deformity"
   ],
   "bg": [],
   "rotates": false

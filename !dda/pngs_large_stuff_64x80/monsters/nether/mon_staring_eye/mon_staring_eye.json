@@ -1,0 +1,47 @@
+{
+  "id": [ "mon_staring_eye" ],
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_staring_eye_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_staring_eye_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_staring_eye_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "mon_staring_eye_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_staring_eye_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_staring_eye_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_staring_eye_7"
+    },   
+	{
+      "weight": 10,
+      "sprite": "mon_staring_eye_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_staring_eye_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_staring_eye_10"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

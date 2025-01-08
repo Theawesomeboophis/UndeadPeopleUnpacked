@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_acidic_dusted",
+  "fg": [
+    "bg_shadow_normal_dusted"
+  ],
+  "bg": [
+    "mon_zombie_acidic"
+  ],
+  "rotates": false
+}

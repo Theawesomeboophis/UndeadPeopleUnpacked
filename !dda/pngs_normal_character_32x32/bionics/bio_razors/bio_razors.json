@@ -1,7 +1,7 @@
 {
   "id": "bio_razors",
   "fg": [
-    "cbm_temp"
+    "bio_razors"
   ],
   "bg": [],
   "rotates": false

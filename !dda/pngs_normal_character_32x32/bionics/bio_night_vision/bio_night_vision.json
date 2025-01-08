@@ -1,7 +1,7 @@
 {
   "id": "bio_night_vision",
   "fg": [
-    "cbm_temp"
+    "bio_night_vision"
   ],
   "bg": [],
   "rotates": false

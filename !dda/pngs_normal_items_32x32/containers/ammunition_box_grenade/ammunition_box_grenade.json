@@ -1,0 +1,6 @@
+{
+  "id": ["ammunition_box_grenade"],
+  "fg": ["ammunition_box_grenade"],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

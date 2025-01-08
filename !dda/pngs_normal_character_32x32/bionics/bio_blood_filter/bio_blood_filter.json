@@ -1,7 +1,7 @@
 {
   "id": "bio_blood_filter",
   "fg": [
-    "cbm_temp"
+    "bio_blood_filter"
   ],
   "bg": [],
   "rotates": false

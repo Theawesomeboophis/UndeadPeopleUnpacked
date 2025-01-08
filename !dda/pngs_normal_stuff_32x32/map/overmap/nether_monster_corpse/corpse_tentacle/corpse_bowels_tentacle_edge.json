@@ -1,0 +1,10 @@
+{
+  "id": "corpse_bowels_tentacle_edge",
+  "fg": [
+    "corpse_bowels_tentacle_edge_north",
+    "corpse_bowels_tentacle_edge_west",
+    "corpse_bowels_tentacle_edge_south",
+    "corpse_bowels_tentacle_edge_east"
+  ],
+  "rotates": true
+}

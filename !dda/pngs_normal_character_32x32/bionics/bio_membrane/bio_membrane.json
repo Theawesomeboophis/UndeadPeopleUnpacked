@@ -1,7 +1,7 @@
 {
   "id": "bio_membrane",
   "fg": [
-    "cbm_temp"
+    "bio_membrane"
   ],
   "bg": [],
   "rotates": false

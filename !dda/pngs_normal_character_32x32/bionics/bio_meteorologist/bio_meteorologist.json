@@ -1,7 +1,7 @@
 {
   "id": "bio_meteorologist",
   "fg": [
-    "cbm_temp"
+    "bio_meteorologist"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": "bio_evap",
   "fg": [
-    "cbm_temp"
+    "bio_evap"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,14 @@
 {
   "id": "mon_mutant_evolved",
   "fg": [
-    "mon_mutant_evolved"
+    {
+      "weight": 10,
+      "sprite": "mon_mutant_evolved"
+    },
+    {
+      "weight": 5,
+      "sprite": "mon_mutant_evolved_1"
+    }
   ],
   "bg": [],
   "rotates": false

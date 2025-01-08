@@ -1,0 +1,10 @@
+{
+  "id": "mon_bestial_stalker",
+  "fg": [
+    "mon_bestial_stalker"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

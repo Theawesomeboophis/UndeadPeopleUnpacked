@@ -1,7 +1,7 @@
 {
   "id": "bio_climate",
   "fg": [
-    "cbm_temp"
+    "bio_climate"
   ],
   "bg": [],
   "rotates": false

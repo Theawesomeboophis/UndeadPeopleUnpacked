@@ -1,0 +1,6 @@
+{
+  "id": ["ammo_box_1", "ammo_box_army_5_shot", "ammo_box_army_20_223", "ammo_box_army_5_slug", "ammo_box_army_5_beanbag", "ammo_box_army_100_9mm_fmj", "ammo_box_army_20_300wm", "ammo_box_army_3_clips", "ammo_box_army_20_308", "ammo_box_army_30_300blk"],
+  "fg": ["ammo_box_1"],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

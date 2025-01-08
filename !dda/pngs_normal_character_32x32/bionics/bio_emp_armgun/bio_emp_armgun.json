@@ -1,7 +1,7 @@
 {
   "id": "bio_emp_armgun",
   "fg": [
-    "cbm_temp"
+    "bio_emp_armgun"
   ],
   "bg": [],
   "rotates": false
