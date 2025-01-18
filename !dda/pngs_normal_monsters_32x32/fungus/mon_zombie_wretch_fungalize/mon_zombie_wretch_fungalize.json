@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_wretch_fungalize",
+  "fg": [
+    "mon_zombie_wretch_fungalize"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
