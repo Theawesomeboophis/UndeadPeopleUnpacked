@@ -1,0 +1,35 @@
+{
+  "id": "art_tesseract",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_tesseract_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_tesseract_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_tesseract_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "art_tesseract_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_tesseract_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_tesseract_6"
+	  },
+    {
+      "weight": 10,
+      "sprite": "art_tesseract_7"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}
