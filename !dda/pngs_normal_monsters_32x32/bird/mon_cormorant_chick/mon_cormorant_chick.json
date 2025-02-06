@@ -1,0 +1,10 @@
+{
+  "id": "mon_cormorant_chick",
+  "fg": [
+    "mon_cormorant_chick"
+  ],
+  "bg": [
+	"bg_shadow_normal"
+  ],
+  "rotates": false
+}
