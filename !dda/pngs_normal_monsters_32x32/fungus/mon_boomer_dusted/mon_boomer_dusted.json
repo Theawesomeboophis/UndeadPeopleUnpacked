@@ -1,7 +1,7 @@
 {
   "id": "mon_boomer_dusted",
   "fg": [
-    "mon_boomer"
+    "mon_boomer_dusted"
   ],
   "bg": [
     "bg_shadow_normal"

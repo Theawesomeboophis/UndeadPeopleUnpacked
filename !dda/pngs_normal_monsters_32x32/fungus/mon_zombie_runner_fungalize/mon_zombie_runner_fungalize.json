@@ -1,29 +1,29 @@
 {
   "id": "mon_zombie_runner_fungalize",
   "fg": [
-    {
-      "weight": 3,
-      "sprite": "mon_zombie_runner_fungalize_1"
-    },
-    {
-      "weight": 3,
-      "sprite": "mon_zombie_runner_fungalize_2"
-    },
-    {
-      "weight": 3,
-      "sprite": "mon_zombie_runner_fungalize_3"
-    },
-    {
-      "weight": 3,
-      "sprite": "mon_zombie_runner_fungalize_4"
-    },
-    {
-      "weight": 3,
-      "sprite": "mon_zombie_runner_fungalize_5"
-    }
+    "bg_shadow_normal_fungalize_3"
   ],
   "bg": [
-    "bg_shadow_normal"
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_5"
+    }
   ],
   "rotates": false
 }

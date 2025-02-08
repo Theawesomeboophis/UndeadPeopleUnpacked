@@ -3,8 +3,6 @@
   "fg": [
     "mon_coot"
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
+  "bg": [],
   "rotates": false
 }

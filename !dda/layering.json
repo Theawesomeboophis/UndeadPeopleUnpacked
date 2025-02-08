@@ -124,7 +124,7 @@
       ]
     },
 	{
-	  "context": "WALL",
+	  "context": [ "WALL" ],
 	  "item_variants": [
 		{
 		"item": "american_flag",
