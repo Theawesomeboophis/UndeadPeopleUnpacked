@@ -1,61 +1,61 @@
 {
   "id": "mon_zombie_tough_fungalize",
   "fg": [
-    "bg_shadow_normal_fungalize_4"
-  ],
-  "bg": [
     {
       "weight": 3,
-      "sprite": "mon_zombie_tough_1"
+      "sprite": "mon_zombie_tough_fungalize_1"
     },
     {
       "weight": 3,
-      "sprite": "mon_zombie_tough_2"
+      "sprite": "mon_zombie_tough_fungalize_2"
     },
     {
       "weight": 3,
-      "sprite": "mon_zombie_tough_3"
+      "sprite": "mon_zombie_tough_fungalize_3"
     },
     {
       "weight": 3,
-      "sprite": "mon_zombie_tough_4"
+      "sprite": "mon_zombie_tough_fungalize_4"
     },
     {
       "weight": 3,
-      "sprite": "mon_zombie_tough_5"
+      "sprite": "mon_zombie_tough_fungalize_5"
     },
     {
       "weight": 2,
-      "sprite": "mon_zombie_tough_6"
+      "sprite": "mon_zombie_tough_fungalize_6"
     },
     {
       "weight": 1,
-      "sprite": "mon_zombie_tough_7"
+      "sprite": "mon_zombie_tough_fungalize_7"
     },
     {
       "weight": 1,
-      "sprite": "mon_zombie_tough_8"
+      "sprite": "mon_zombie_tough_fungalize_8"
     },
     {
       "weight": 1,
-      "sprite": "mon_zombie_tough_9"
+      "sprite": "mon_zombie_tough_fungalize_9"
     },
     {
       "weight": 1,
-      "sprite": "mon_zombie_tough_10"
+      "sprite": "mon_zombie_tough_fungalize_10"
     },
     {
       "weight": 1,
-      "sprite": "mon_zombie_tough_11"
+      "sprite": "mon_zombie_tough_fungalize_11"
     },
     {
       "weight": 1,
-      "sprite": "mon_zombie_tough_12"
+      "sprite": "mon_zombie_tough_fungalize_12"
     },
     {
       "weight": 1,
-      "sprite": "mon_zombie_tough_13"
+      "sprite": "mon_zombie_tough_fungalize_13"
     }
+  ],
+  "bg": [
+    "bg_shadow_normal"
   ],
   "rotates": false
 }

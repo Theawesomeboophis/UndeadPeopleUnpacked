@@ -1,0 +1,8 @@
+{
+  "id": ["mon_hummingbird_chick"],
+  "fg": ["mon_hummingbird_chick"],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

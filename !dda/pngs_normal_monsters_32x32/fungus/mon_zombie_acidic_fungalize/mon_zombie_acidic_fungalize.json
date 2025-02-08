@@ -1,10 +1,10 @@
 {
   "id": "mon_zombie_acidic_fungalize",
   "fg": [
-    "bg_shadow_normal_fungalize"
+    "mon_zombie_acidic_fungalize"
   ],
   "bg": [
-    "mon_zombie_acidic"
+    "bg_shadow_normal"
   ],
   "rotates": false
 }
