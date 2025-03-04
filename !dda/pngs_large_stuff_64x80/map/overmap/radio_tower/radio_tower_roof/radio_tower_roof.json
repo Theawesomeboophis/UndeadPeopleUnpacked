@@ -2,7 +2,7 @@
   {
     "id": [ "radio_tower_roof", "radio_tower_roof_1", "radio_tower_even", "radio_tower_odd", "radio_tower_top", "radio_tower_even_stair_only" ],
     "fg": [ "radio_tower_roof" ],
-    "bg": [  ],
+    "bg": ["bg_big_open_air"],
     "rotates": false
   }
 ]

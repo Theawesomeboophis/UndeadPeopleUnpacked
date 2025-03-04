@@ -1,0 +1,6 @@
+      {
+          "id": ["barber_shop_roof"],
+          "fg": [ "salon" ],
+          "bg": [ "open_air" ],
+          "rotates": false
+        }

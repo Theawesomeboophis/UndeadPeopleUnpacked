@@ -5,7 +5,15 @@
             "bunker_basement_1",
             "shelter_under",
             "lmoe_under",
-            "lmoe_under_empty"
+            "lmoe_under_empty",
+	        "loffice_tower_1",
+	        "loffice_tower_2",
+	        "loffice_tower_3",
+	        "loffice_tower_4",
+	        "office_skyscraper_1",
+	        "office_skyscraper_2",
+	        "office_skyscraper_3",
+	        "office_skyscraper_4"
           ],
                "fg": [
             { "weight": 25, "sprite": [ "generic_city_house_basement_1" ] },

@@ -1,0 +1,6 @@
+{
+  "id": [ "cs_car_dealership_roof" ],
+  "fg": [ "s_cardealer_roof" ],
+  "bg": [ "open_air" ],
+  "rotates": false
+}

@@ -5,7 +5,8 @@
   },
   {
     "id": "silo_roof",
-    "fg": "silo_roof"
+    "fg": "silo_roof",
+	"bg": ["open_air"]
   },
   {
     "id": "silo_1",

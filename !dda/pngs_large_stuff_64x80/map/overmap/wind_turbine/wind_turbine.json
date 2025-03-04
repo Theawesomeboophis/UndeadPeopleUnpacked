@@ -1,0 +1,27 @@
+[
+    {
+        "id": "wind_turbine_ground",
+        "fg": "wind_turbine_ground",
+		"bg": []
+    },
+    {
+        "id": "wind_turbine_pillar",
+        "fg": "wind_turbine_pillar",
+		"bg": ["bg_big_open_air"]
+    },
+    {
+        "id": "wind_turbine_pillar_platform",
+        "fg": "wind_turbine_pillar_platform",
+		"bg": ["bg_big_open_air"]
+    },
+    {
+        "id": "wind_turbine_nacelle",
+        "fg": "wind_turbine_nacelle",
+		"bg": ["bg_big_open_air"]
+    },
+    {
+        "id": "wind_turbine_roof",
+        "fg": "wind_turbine_roof",
+		"bg": ["bg_big_open_air"]
+    }
+]

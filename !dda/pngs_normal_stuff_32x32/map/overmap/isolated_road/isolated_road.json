@@ -1,0 +1,26 @@
+  [
+	{
+	  "id": ["isolated_house_farm_gunsmith", "isolated_house_farm_blacksmith"],
+	  "fg": ["cabin"],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": ["isolated_road_field_0", "isolated_road_field_1"],
+	  "fg": ["cabin_incomplete"],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": ["isolated_house_farm_roof_gunsmith", "isolated_house_farm_roof_blacksmith"],
+	  "fg": ["cabin_roof"],
+	  "bg": ["open_air"],
+	  "rotates": false
+	},
+	{
+	  "id": ["isolated_road_field_1_roof"],
+	  "fg": ["open_air"],
+	  "bg": [],
+	  "rotates": false
+	}
+  ]
