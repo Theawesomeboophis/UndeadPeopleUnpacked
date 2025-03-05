@@ -13,6 +13,13 @@
             "sugar_house_roof",
             "farm_2_roof",
             "hunter_shack_roof",
-            "hunter_shack_roof_1"
+            "hunter_shack_roof_1",
+            "orchard_stall_roof",
+            "orchard_processing_roof",
+            "dairy_farm_SE_roof",
+            "dairy_farm_SW_roof",
+            "cabin_strange_roof",
+            "riverside_dawelling_roof",
+            "riverside_dawelling1_roof"
           ],
  "fg": [ "cabin_roof" ], "bg": [ "open_air" ], "rotates": false }

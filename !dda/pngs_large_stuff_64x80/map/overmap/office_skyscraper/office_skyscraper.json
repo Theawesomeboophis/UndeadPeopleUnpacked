@@ -1,0 +1,91 @@
+[
+  {
+	"id": ["office_skyscraper_5"],
+	"fg": [
+	   "loffice_tower_5",
+	   "loffice_tower_7",
+	   "loffice_tower_8",
+	   "loffice_tower_6"
+	],
+	"rotates": true
+  },
+  {
+	"id": ["office_skyscraper_6"], 
+	"fg": [
+       "loffice_tower_6",
+	   "loffice_tower_5",
+	   "loffice_tower_7",
+	   "loffice_tower_8" 
+    ],
+	"rotates": true
+  },
+  {
+	"id": ["office_skyscraper_7"], 
+	"fg": [
+	   "loffice_tower_7",
+	   "loffice_tower_8",
+	   "loffice_tower_6",
+	   "loffice_tower_5" 
+    ],
+	"rotates": true
+  },
+  { 
+	"id": ["office_skyscraper_8"], 
+	"fg": [
+	   "loffice_tower_8",
+	   "loffice_tower_6",
+	   "loffice_tower_5",
+	   "loffice_tower_7"
+	],
+	"rotates": true
+  },
+  {
+	"id": ["office_skyscraper_9", "office_skyscraper_9b", "office_skyscraper_13", "office_skyscraper_apartments_111", "office_skyscraper_apartments_112"],
+	"fg": [
+	   "loffice_tower_9",
+	   "loffice_tower_11",
+	   "loffice_tower_12",
+	   "loffice_tower_10"
+	],
+	"bg": ["bg_big_open_air"],
+	"rotates": true
+  },
+  {
+	"id": ["office_skyscraper_10", "office_skyscraper_10b", "office_skyscraper_14", "office_skyscraper_apartments_011", "office_skyscraper_apartments_012"], 
+	"fg": [
+       "loffice_tower_10",
+	   "loffice_tower_9",
+	   "loffice_tower_11",
+	   "loffice_tower_12" 
+    ],
+	"bg": ["bg_big_open_air"],
+	"rotates": true
+  },
+  {
+	"id": ["office_skyscraper_11", "office_skyscraper_15", "office_skyscraper_apartments_101", "office_skyscraper_apartments_102"], 
+	"fg": [
+	   "loffice_tower_11",
+	   "loffice_tower_12",
+	   "loffice_tower_10",
+	   "loffice_tower_9" 
+    ],
+	"bg": ["bg_big_open_air"],
+	"rotates": true
+  },
+  { 
+	"id": ["office_skyscraper_12", "office_skyscraper_16", "office_skyscraper_apartments_001", "office_skyscraper_apartments_002"], 
+	"fg": [
+	   "loffice_tower_12",
+	   "loffice_tower_10",
+	   "loffice_tower_9",
+	   "loffice_tower_11"
+	],
+	"bg": ["bg_big_open_air"],
+	"rotates": true
+  },
+  {
+	"id": ["office_skyscraper_17", "office_skyscraper_18", "office_skyscraper_19", "office_skyscraper_20"],
+	"fg": ["bg_big_open_air"],
+	"rotates": false
+  }
+]

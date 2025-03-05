@@ -3,6 +3,6 @@
   "fg": [
     "triffid_grove_z2"
   ],
-  "bg": "open_air",
+  "bg": ["bg_big_open_air"],
   "rotates": false
 }

@@ -1,0 +1,11 @@
+[{
+  "id": ["gunshow_0", "gunshow_1"],
+  "fg": ["campground"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": ["gunshow_0_roof", "gunshow_1_roof"],
+  "fg": ["campground_roof"],
+  "bg": [],
+  "rotates": false
+}]

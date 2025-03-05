@@ -1,27 +1,91 @@
 [
   {
-    "id": [
-      "loffice_tower_7",
-      "loffice_tower_11",
-      "loffice_tower_15",
-      "loffice_tower_19",
-      "loffice_tower_5",
-      "loffice_tower_9",
-      "loffice_tower_9b",
-      "loffice_tower_13",
-      "loffice_tower_17",
-      "loffice_tower_8",
-      "loffice_tower_12",
-      "loffice_tower_16",
-      "loffice_tower_20",
-      "loffice_tower_6",
-      "loffice_tower_10",
-      "loffice_tower_10b",
-      "loffice_tower_14",
-      "loffice_tower_18"
+	"id": ["loffice_tower_5"],
+	"fg": [
+	   "loffice_tower_5",
+	   "loffice_tower_7",
+	   "loffice_tower_8",
+	   "loffice_tower_6"
+	],
+	"rotates": true
+  },
+  {
+	"id": ["loffice_tower_6"], 
+	"fg": [
+       "loffice_tower_6",
+	   "loffice_tower_5",
+	   "loffice_tower_7",
+	   "loffice_tower_8" 
     ],
-    "fg": [ "loffice_tower_1", "loffice_tower_2", "loffice_tower_3", "loffice_tower_4" ],
-    "bg": [  ],
-    "rotates": false
+	"rotates": true
+  },
+  {
+	"id": ["loffice_tower_7"], 
+	"fg": [
+	   "loffice_tower_7",
+	   "loffice_tower_8",
+	   "loffice_tower_6",
+	   "loffice_tower_5" 
+    ],
+	"rotates": true
+  },
+  { 
+	"id": ["loffice_tower_8"], 
+	"fg": [
+	   "loffice_tower_8",
+	   "loffice_tower_6",
+	   "loffice_tower_5",
+	   "loffice_tower_7"
+	],
+	"rotates": true
+  },
+  {
+	"id": ["loffice_tower_9", "loffice_tower_9b", "loffice_tower_13"],
+	"fg": [
+	   "loffice_tower_9",
+	   "loffice_tower_11",
+	   "loffice_tower_12",
+	   "loffice_tower_10"
+	],
+	"bg": ["bg_big_open_air"],
+	"rotates": true
+  },
+  {
+	"id": ["loffice_tower_10", "loffice_tower_10b", "loffice_tower_14"], 
+	"fg": [
+       "loffice_tower_10",
+	   "loffice_tower_9",
+	   "loffice_tower_11",
+	   "loffice_tower_12" 
+    ],
+	"bg": ["bg_big_open_air"],
+	"rotates": true
+  },
+  {
+	"id": ["loffice_tower_11", "loffice_tower_15"], 
+	"fg": [
+	   "loffice_tower_11",
+	   "loffice_tower_12",
+	   "loffice_tower_10",
+	   "loffice_tower_9" 
+    ],
+	"bg": ["bg_big_open_air"],
+	"rotates": true
+  },
+  { 
+	"id": ["loffice_tower_12", "loffice_tower_16"], 
+	"fg": [
+	   "loffice_tower_12",
+	   "loffice_tower_10",
+	   "loffice_tower_9",
+	   "loffice_tower_11"
+	],
+	"bg": ["bg_big_open_air"],
+	"rotates": true
+  },
+  {
+	"id": ["loffice_tower_17", "loffice_tower_18", "loffice_tower_19", "loffice_tower_20"],
+	"fg": ["bg_big_open_air"],
+	"rotates": false
   }
 ]
