@@ -1,12 +1,75 @@
 [
   {
+    "id": [ "mil_base_road_entrance", "mil_base_4a", "mil_base_4b", "mil_base_4c", "mil_base_4d", "mil_base_4e", "mil_base_4g", "mil_base_4h", "mil_base_4i" ],
+    "fg": [ "road_edge_1" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_4f"],
+    "fg": [ "road_t_connection_2" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_4j" ],
+    "fg": [ "road_corner_2" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_5f", "mil_base_5j", "mil_base_6j" ],
+    "fg": [ "road_edge_2" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_7j", "mil_base_6f" ],
+    "fg": [ "road_end_piece_4" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_7i" ],
+    "fg": [ "helipad" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_6g", "mil_base_7g", "mil_base_6h", "mil_base_7h", "mil_base_5a", "mil_base_6a", "mil_base_7a"],
+    "fg": [ "generic_parking_lot" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mil_base_8a" ],
+    "fg": [
+      { "weight": 25, "sprite": "mil_base_minefield_w_1" },
+      { "weight": 25, "sprite": "mil_base_minefield_w_2" },
+      { "weight": 25, "sprite": "mil_base_minefield_w_3" }
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_1a" ],
+    "fg": [ "mil_base_minefield_nw" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_2a", "mil_base_3a"],
+    "fg": [
+      { "weight": 25, "sprite": "mil_base_minefield_n_1" },
+      { "weight": 25, "sprite": "mil_base_minefield_n_2" },
+      { "weight": 25, "sprite": "mil_base_minefield_n_3" }
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "mil_base_1a1", "mil_base_2a1", "mil_base_3a1", "mil_base_4a1", "mil_base_5a1", "mil_base_6a1", "mil_base_7a1", "mil_base_8a1", "mil_base_1b1", "mil_base_2b1", "mil_base_3b1", "mil_base_4b1", "mil_base_5b1", "mil_base_6b1", "mil_base_7b1", "mil_base_8b1", "mil_base_1c1", "mil_base_4c1", "mil_base_8c1", "mil_base_1d1", "mil_base_4d1", "mil_base_8d1", "mil_base_1e1", "mil_base_4e1", "mil_base_8e1", "mil_base_1f1", "mil_base_8f1", "mil_base_1g1", "mil_base_4g1", "mil_base_8g1", "mil_base_1h1", "mil_base_4h1", "mil_base_8h1", "mil_base_1i1", "mil_base_4i1", "mil_base_8i1", "mil_base_1j1", "mil_base_4j1", "mil_base_8j1", "mil_base_1k1", "mil_base_2k1", "mil_base_3k1", "mil_base_4k1", "mil_base_5k1", "mil_base_6k1", "mil_base_7k1", "mil_base_8k1", "mil_base_4f1", "mil_base_5f1", "mil_base_5j1", "mil_base_6j1", "mil_base_7j1", "mil_base_6f1", "mil_base_7i1", "mil_base_6g1", "mil_base_7g1", "mil_base_6h1", "mil_base_7h1", "mil_base_1b2", "mil_base_2b2", "mil_base_3b2", "mil_base_4b2", "mil_base_5b2", "mil_base_6b2", "mil_base_7b2", "mil_base_8b2", "mil_base_1g2", "mil_base_2g2", "mil_base_3g2", "mil_base_8g2", "mil_base_1k2", "mil_base_2k2", "mil_base_3k2", "mil_base_4k2", "mil_base_8k2"],
+    "fg": [ "open_air" ],
+    "rotates": false
+  },
+  {
     "id": [ "mil_base_minefield_w" ],
     "fg": [
       { "weight": 25, "sprite": "mil_base_minefield_w_1" },
       { "weight": 25, "sprite": "mil_base_minefield_w_2" },
       { "weight": 25, "sprite": "mil_base_minefield_w_3" }
     ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_minefield_n" ],
@@ -15,7 +78,7 @@
       { "weight": 25, "sprite": "mil_base_minefield_n_2" },
       { "weight": 25, "sprite": "mil_base_minefield_n_3" }
     ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_minefield_e" ],
@@ -24,95 +87,95 @@
       { "weight": 25, "sprite": "mil_base_minefield_e_2" },
       { "weight": 25, "sprite": "mil_base_minefield_e_3" }
     ],
-    "rotates": false
+    "rotates": true
   },
   {
-    "id": [ "mil_base_minefield_s", "mil_base_1a", "mil_base_2a", "mil_base_3a", "mil_base_5a", "mil_base_6a", "mil_base_7a", "mil_base_8a" ],
+    "id": [ "mil_base_minefield_s" ],
     "fg": [
       { "weight": 25, "sprite": "mil_base_minefield_s_1" },
       { "weight": 25, "sprite": "mil_base_minefield_s_2" },
       { "weight": 25, "sprite": "mil_base_minefield_s_3" }
     ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_minefield_nw" ],
     "fg": [ "mil_base_minefield_nw" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_minefield_ne", "mil_base_minefield_end" ],
     "fg": [ "mil_base_minefield_ne" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_minefield_se" ],
     "fg": [ "mil_base_minefield_se" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_minefield_sw" ],
     "fg": [ "mil_base_minefield_sw" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_1c", "mil_base_1d", "mil_base_1e", "mil_base_1f", "mil_base_1h", "mil_base_1i", "mil_base_1j" ],
     "fg": [ "mil_base_1c" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_2b", "mil_base_3b", "mil_base_5b", "mil_base_6b", "mil_base_7b" ],
     "fg": [ "mil_base_2b" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_8c", "mil_base_8d", "mil_base_8e", "mil_base_8i", "mil_base_8j" ],
     "fg": [ "mil_base_8c" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_2k", "mil_base_3k", "mil_base_4k", "mil_base_6k", "mil_base_7k" ],
     "fg": [ "mil_base_2k" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_1g" ],
     "fg": [ "mil_base_1g" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_5k" ],
     "fg": [ "mil_base_5k" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_8f", "mil_base_8h" ],
     "fg": [ "mil_base_8f" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_8g" ],
     "fg": [ "mil_base_8g" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_1b" ],
     "fg": [ "mil_base_1b" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_8b" ],
     "fg": [ "mil_base_8b" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_8k" ],
     "fg": [ "mil_base_8k" ],
-    "rotates": false
+    "rotates": true
   },
   {
     "id": [ "mil_base_1k" ],
     "fg": [ "mil_base_1k" ],
-    "rotates": false
+    "rotates": true
   }
 ]
