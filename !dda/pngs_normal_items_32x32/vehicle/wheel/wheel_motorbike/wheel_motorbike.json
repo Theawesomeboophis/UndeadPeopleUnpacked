@@ -6,21 +6,5 @@
     ],
     "bg": [],
     "rotates": false
-  },
-  {
-    "id": "deflated_wheel_motorbike",
-    "fg": [
-      "deflated_wheel_motorbike"
-    ],
-    "bg": [],
-    "rotates": false
-  },
-  {
-    "id": "wheel_rim_motorbike",
-    "fg": [
-      "wheel_rim_motorbike"
-    ],
-    "bg": [],
-    "rotates": false
   }
 ]

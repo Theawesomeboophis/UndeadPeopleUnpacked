@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_wheel_armor",
   "fg": [
-    "wheel_armor"
+    "overlay_wielded_wheel_armor"
   ],
   "bg": [],
   "rotates": false
