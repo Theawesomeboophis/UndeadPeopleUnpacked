@@ -1,0 +1,6 @@
+    {
+        "id": ["solar_farm"],
+        "fg": ["f_solar_unit"],
+        "bg": ["field_3"],
+        "rotates": false
+    }

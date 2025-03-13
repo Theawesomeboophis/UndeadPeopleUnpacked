@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_wheel_barrow",
   "fg": [
-    "wheel_barrow"
+    "overlay_wielded_wheel_barrow"
   ],
   "bg": [],
   "rotates": false

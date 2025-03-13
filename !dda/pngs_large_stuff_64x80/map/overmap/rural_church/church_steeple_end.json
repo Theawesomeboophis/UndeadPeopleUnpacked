@@ -3,6 +3,6 @@
   "fg": [
     "church_steeple_end"
   ],
-  "bg": [],
+  "bg": ["bg_big_open_air"],
   "rotates": false
 }

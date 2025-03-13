@@ -1,8 +1,26 @@
-{
-  "id": "church",
-  "fg": [
-    "church"
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+    {
+        "id": "church",
+        "fg": "church",
+		"bg": [],
+        "rotates": false
+    },
+    {
+        "id": "church_roof",
+        "fg": "church_roof",
+		"bg": ["bg_big_open_air"],
+        "rotates": false
+    },
+    {
+        "id": "church_steeple",
+        "fg": "church_steeple",
+		"bg": ["bg_big_open_air"],
+        "rotates": false
+    },
+    {
+        "id": "church_steeple_end",
+        "fg": "church_steeple_end",
+		"bg": ["bg_big_open_air"],
+        "rotates": false
+    }
+]

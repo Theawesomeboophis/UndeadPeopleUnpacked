@@ -1,0 +1,11 @@
+    {
+        "id": ["house_fungus_01"],
+        "fg": [
+            "house_1",
+            "house_2",
+            "house_3",
+            "house_4"
+        ],
+        "bg": [],
+        "rotates": true
+    }

@@ -111,7 +111,7 @@
           "item": "american_flag",
           "sprite": [ { "id": "american_flag", "weight": 1 } ],
           "layer": 90,
-		  "offset_x": -2, 
+		  "offset_x": 2, 
 		  "offset_y": -2
         },
         {
@@ -124,7 +124,7 @@
       ]
     },
 	{
-	  "context": [ "WALL" ],
+	  "context": ["WALL"],
 	  "item_variants": [
 		{
 		"item": "american_flag",

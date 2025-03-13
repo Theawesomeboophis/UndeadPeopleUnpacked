@@ -1,0 +1,6 @@
+      {
+          "id": ["solar_farm_roof"],
+          "fg": ["f_solar_unit"],
+          "bg": ["open_air"],
+          "rotates": false
+      }
