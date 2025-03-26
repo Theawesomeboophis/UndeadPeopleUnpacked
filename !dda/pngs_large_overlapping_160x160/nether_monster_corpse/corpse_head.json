@@ -1,0 +1,30 @@
+[
+	{
+	  "id": "corpse_head_edge",
+	  "fg": [
+		"corpse_head_edge_north",
+		"corpse_head_edge_west",
+		"corpse_head_edge_south",
+		"corpse_head_edge_east"
+	  ],
+	  "rotates": true
+	},
+	{
+	  "id": "corpse_head_fin",
+	  "fg": [
+		"corpse_head_fin_north",
+		"corpse_head_fin_west",
+		"corpse_head_fin_south",
+		"corpse_head_fin_east"
+	  ],
+	  "rotates": true
+	},
+	{
+	  "id": "corpse_neck_center",
+	  "fg": [
+		"corpse_neck_center_ns",
+		"corpse_neck_center_ew"
+	  ],
+	  "rotates": true
+	}
+]
