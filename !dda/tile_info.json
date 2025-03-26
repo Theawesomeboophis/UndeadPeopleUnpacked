@@ -47,11 +47,11 @@
 }
 ,
 {
-"large_extra.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -32 }
+"huge.png": { "sprite_width": 160, "sprite_height": 128, "sprite_offset_x": -48, "sprite_offset_y": -48 }
 }
 ,
 {
-"huge.png": { "sprite_width": 160, "sprite_height": 128, "sprite_offset_x": -48, "sprite_offset_y": -48 }
+"large_overlapping.png": { "sprite_width": 160, "sprite_height": 160, "sprite_offset_x": -64, "sprite_offset_y": -64 }
 }
 ,
 {
