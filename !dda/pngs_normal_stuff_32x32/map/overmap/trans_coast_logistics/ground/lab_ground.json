@@ -1,0 +1,248 @@
+[
+    {
+        "id": "lab_surface_parking_blockA0",
+        "fg": [
+            "lab_surface_parking_blockA0_east",
+            "lab_surface_parking_blockA0_north",
+            "lab_surface_parking_blockA0_west",
+            "lab_surface_parking_blockA0_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockA1",
+        "fg": [
+            "lab_surface_parking_blockA1_east",
+            "lab_surface_parking_blockA1_north",
+            "lab_surface_parking_blockA1_west",
+            "lab_surface_parking_blockA1_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockA2",
+        "fg": [
+            "lab_surface_parking_blockA2_east",
+            "lab_surface_parking_blockA2_north",
+            "lab_surface_parking_blockA2_west",
+            "lab_surface_parking_blockA2_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_res_8_SWD_ground",
+        "fg": [
+            "lab_res_8_SWD_ground_north",
+            "lab_res_8_SWD_ground_west",
+            "lab_res_8_SWD_ground_south",
+            "lab_res_8_SWD_ground_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_res_8_SED_ground",
+        "fg": [
+            "lab_res_8_SED_ground_north",
+            "lab_res_8_SED_ground_west",
+            "lab_res_8_SED_ground_south",
+            "lab_res_8_SED_ground_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockB0",
+        "fg": [
+            "lab_surface_parking_blockB0_east",
+            "lab_surface_parking_blockB0_north",
+            "lab_surface_parking_blockB0_west",
+            "lab_surface_parking_blockB0_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockB1",
+        "fg": [
+            "lab_surface_parking_blockB1_east",
+            "lab_surface_parking_blockB1_north",
+            "lab_surface_parking_blockB1_west",
+            "lab_surface_parking_blockB1_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_security_z0S",
+        "fg": [
+            "lab_security_z0S_north",
+            "lab_security_z0S_west",
+            "lab_security_z0S_south",
+            "lab_security_z0S_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_CORE_2x1_SED_ground",
+        "fg": [
+            "lab_CORE_2x1_SED_ground_north",
+            "lab_CORE_2x1_SED_ground_west",
+            "lab_CORE_2x1_SED_ground_south",
+            "lab_CORE_2x1_SED_ground_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_CORE_2x1_SWD_ground",
+        "fg": [
+            "lab_CORE_2x1_EC_ground_north",
+            "lab_CORE_2x1_EC_ground_west",
+            "lab_CORE_2x1_EC_ground_south",
+            "lab_CORE_2x1_EC_ground_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockC0",
+        "fg": [
+            "lab_surface_parking_blockC0_east",
+            "lab_surface_parking_blockC0_north",
+            "lab_surface_parking_blockC0_west",
+            "lab_surface_parking_blockC0_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockC1",
+        "fg": [
+            "lab_surface_parking_blockC1_east",
+            "lab_surface_parking_blockC1_north",
+            "lab_surface_parking_blockC1_west",
+            "lab_surface_parking_blockC1_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_security_z0",
+        "fg": [
+            "lab_security_z0_north",
+            "lab_security_z0_west",
+            "lab_security_z0_south",
+            "lab_security_z0_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_CORE_2x1_WC_ground",
+        "fg": [
+            "lab_CORE_2x1_WC_ground"
+        ]
+    },
+    {
+        "id": "lab_CORE_2x1_EC_ground",
+        "fg": [
+            "lab_CORE_2x1_EC_ground_north",
+            "lab_CORE_2x1_EC_ground_west",
+            "lab_CORE_2x1_EC_ground_south",
+            "lab_CORE_2x1_EC_ground_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockD0",
+        "fg": [
+            "lab_surface_parking_blockD0_east",
+            "lab_surface_parking_blockD0_north",
+            "lab_surface_parking_blockD0_west",
+            "lab_surface_parking_blockD0_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockD1",
+        "fg": [
+            "lab_surface_parking_blockD1_east",
+            "lab_surface_parking_blockD1_north",
+            "lab_surface_parking_blockD1_west",
+            "lab_surface_parking_blockD1_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_security_z0N",
+        "fg": [
+            "lab_security_z0N_north",
+            "lab_security_z0N_west",
+            "lab_security_z0N_south",
+            "lab_security_z0N_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_CORE_2x1_NED_ground",
+        "fg": [
+            "lab_CORE_2x1_NED_ground_north",
+            "lab_CORE_2x1_NED_ground_west",
+            "lab_CORE_2x1_NED_ground_south",
+            "lab_CORE_2x1_NED_ground_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_CORE_2x1_NWD_ground",
+        "fg": [
+            "lab_CORE_2x1_EC_ground_north",
+            "lab_CORE_2x1_EC_ground_west",
+            "lab_CORE_2x1_EC_ground_south",
+            "lab_CORE_2x1_EC_ground_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockE0",
+        "fg": [
+            "lab_surface_parking_blockE0_east",
+            "lab_surface_parking_blockE0_north",
+            "lab_surface_parking_blockE0_west",
+            "lab_surface_parking_blockE0_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockE1",
+        "fg": [
+            "lab_surface_parking_blockE1_east",
+            "lab_surface_parking_blockE1_north",
+            "lab_surface_parking_blockE1_west",
+            "lab_surface_parking_blockE1_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_parking_blockE2",
+        "fg": [
+            "lab_surface_parking_blockE2_east",
+            "lab_surface_parking_blockE2_north",
+            "lab_surface_parking_blockE2_west",
+            "lab_surface_parking_blockE2_south"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_res_8_SEU_ground",
+        "fg": [
+            "lab_res_8_SEU_ground_north",
+            "lab_res_8_SEU_ground_west",
+            "lab_res_8_SEU_ground_south",
+            "lab_res_8_SEU_ground_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_res_8_SWU_ground",
+        "fg": [
+            "lab_res_8_SWU_ground_north",
+            "lab_res_8_SWU_ground_west",
+            "lab_res_8_SWU_ground_south",
+            "lab_res_8_SWU_ground_east"
+        ],
+        "rotates": true
+    }
+]
