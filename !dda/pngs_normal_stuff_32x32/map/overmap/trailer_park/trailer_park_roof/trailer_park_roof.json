@@ -1,0 +1,34 @@
+[
+	{
+	  "id": [
+		"prefab_roof"
+	  ],
+	  "fg": [ "prefab_roof_1", "prefab_roof_2", "prefab_roof_3", "prefab_roof_4" ],
+	  "bg": [ "open_air" ],
+	  "rotates": true
+	},
+	{
+	  "id": [
+		"trailer_hub_10_roof"
+	  ],
+	  "fg": [ "house_02_roof_1", "house_02_roof_2", "house_02_roof_3", "house_02_roof_4" ],
+	  "bg": [ "open_air" ],
+	  "rotates": true
+	},
+	{
+	  "id": [
+		"trailer_public_10_roof"
+	  ],
+	  "fg": [ "pavilion_roof" ],
+	  "bg": [ "open_air" ],
+	  "rotates": false
+	},
+	{
+	  "id": [
+		"trailer_public_00_roof"
+	  ],
+	  "fg": [ "open_air" ],
+	  "bg": [],
+	  "rotates": false
+	}
+]
