@@ -6,6 +6,6 @@
 },{
   "id": ["gunshow_0_roof", "gunshow_1_roof"],
   "fg": ["campground_roof"],
-  "bg": [],
+  "bg": ["open_air"],
   "rotates": false
 }]

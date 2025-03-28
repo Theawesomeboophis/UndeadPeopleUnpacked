@@ -1,0 +1,6 @@
+{
+  "id": "toxic_dump_roof",
+  "fg": ["toxic_dump_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+}

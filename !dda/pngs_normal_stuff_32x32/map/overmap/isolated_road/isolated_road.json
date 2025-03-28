@@ -1,19 +1,31 @@
   [
 	{
-	  "id": ["isolated_house_farm_gunsmith", "isolated_house_farm_blacksmith"],
-	  "fg": ["cabin"],
+	  "id": ["isolated_house_farm_gunsmith"],
+	  "fg": ["cabin_prepper"],
+	  "bg": ["ranch_camp_ne"],
+	  "rotates": false
+	},
+	{
+	  "id": ["isolated_house_farm_blacksmith"],
+	  "fg": ["cabin_prepper"],
+	  "bg": ["ranch_camp_sw"],
+	  "rotates": false
+	},
+	{
+	  "id": ["isolated_road_field_0"],
+	  "fg": ["ranch_camp_nw"],
 	  "bg": [],
 	  "rotates": false
 	},
 	{
-	  "id": ["isolated_road_field_0", "isolated_road_field_1"],
-	  "fg": ["cabin_incomplete"],
+	  "id": ["isolated_road_field_1"],
+	  "fg": ["ranch_camp_se"],
 	  "bg": [],
 	  "rotates": false
 	},
 	{
 	  "id": ["isolated_house_farm_roof_gunsmith", "isolated_house_farm_roof_blacksmith"],
-	  "fg": ["cabin_roof"],
+	  "fg": ["cabin_prepper"],
 	  "bg": ["open_air"],
 	  "rotates": false
 	},

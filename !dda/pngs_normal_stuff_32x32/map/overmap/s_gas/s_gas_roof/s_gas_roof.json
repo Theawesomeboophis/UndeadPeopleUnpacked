@@ -1,3 +1,3 @@
 {
-"id": [ "s_gas_roof", "s_gas_roof_1", "s_gas_rural_roof" ],
+"id": [ "s_gas_0_0_roof", "s_gas_1_0_roof", "s_gas_0_1_roof", "s_gas_1_1_roof", "s_gas_roof", "s_gas_roof_1", "s_gas_rural_roof" ],
  "fg": [ "s_gas_roof" ], "bg": [ "open_air" ], "rotates": false }

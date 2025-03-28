@@ -1,0 +1,74 @@
+[
+    {
+        "id": [
+            "ranch_camp_57_silocap"
+        ],
+        "fg": ["2silos_1"],
+        "bg": ["open_air"],
+        "rotates": false
+    },
+    {
+        "id": [
+            "ranch_camp_57_silo"
+        ],
+        "fg": ["2silos_1"],
+        "bg": ["open_air"],
+        "rotates": false
+    },
+    {
+        "id": [
+            "ranch_camp_57_roof"
+        ],
+        "fg": ["2silos_1"],
+        "bg": ["open_air"],
+        "rotates": false
+    },
+    {
+        "id": [
+            "ranch_camp_74_roof"
+        ],
+        "fg": ["open_air"],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "ranch_camp_75_roof"
+        ],
+        "fg": ["open_air"],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "ranch_camp_65_roof"
+        ],
+        "fg": ["open_air"],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "ranch_camp_66_roof"
+        ],
+        "fg": ["barn_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    },
+    {
+        "id": [
+            "ranch_camp_67_roof"
+        ],
+        "fg": ["barn_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    },
+    {
+        "id": [
+            "ranch_camp_68_roof"
+        ],
+        "fg": ["cabin_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]
