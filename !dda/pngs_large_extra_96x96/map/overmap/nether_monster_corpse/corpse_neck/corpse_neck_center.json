@@ -1,8 +1,0 @@
-{
-  "id": "corpse_neck_center",
-  "fg": [
-    "corpse_neck_center_ns",
-    "corpse_neck_center_ew"
-  ],
-  "rotates": true
-}

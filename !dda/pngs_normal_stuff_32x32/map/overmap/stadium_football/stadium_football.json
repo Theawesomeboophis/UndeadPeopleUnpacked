@@ -198,8 +198,14 @@
 	  "rotates": true
 	},
 	{
-	  "id": [ "stadium_football_0_0", "stadium_football_0_1", "stadium_football_0_2", "stadium_football_0_3", "stadium_football_0_4", "stadium_football_0_5", "stadium_football_1_0", "stadium_football_2_0", "stadium_football_3_0", "stadium_football_4_0", "stadium_football_5_0", "stadium_football_6_0", "stadium_football_7_0", "stadium_football_0_6", "stadium_football_1_6", "stadium_football_2_6", "stadium_football_3_6", "stadium_football_4_6", "stadium_football_5_6", "stadium_football_6_6", "stadium_football_7_6", "stadium_football_8_6", "stadium_football_8_5", "stadium_football_8_4", "stadium_football_8_3", "stadium_football_8_2", "stadium_football_8_1", "stadium_football_8_0" ],
+	  "id": [ "stadium_football_0_0", "stadium_football_0_1", "stadium_football_0_2", "stadium_football_0_3", "stadium_football_0_4", "stadium_football_0_5", "stadium_football_1_0", "stadium_football_3_0", "stadium_football_4_0", "stadium_football_5_0", "stadium_football_7_0", "stadium_football_0_6", "stadium_football_1_6", "stadium_football_2_6", "stadium_football_3_6", "stadium_football_4_6", "stadium_football_5_6", "stadium_football_6_6", "stadium_football_7_6", "stadium_football_8_6", "stadium_football_8_5", "stadium_football_8_4", "stadium_football_8_3", "stadium_football_8_2", "stadium_football_8_1", "stadium_football_8_0" ],
 	  "fg": ["stadium_football"],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": ["stadium_football_2_0", "stadium_football_6_0"],
+	  "fg": ["road_center"],
 	  "bg": [],
 	  "rotates": false
 	}

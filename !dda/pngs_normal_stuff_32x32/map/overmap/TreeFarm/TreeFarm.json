@@ -1,6 +1,13 @@
-{
-  "id": ["TreeFarm_1a"],
-  "fg": ["TreeFarm_1a"],
-  "bg": [],
-  "rotates": false
-}
+[
+  {
+    "id": ["TreeFarm_1a"],
+	"fg": ["TreeFarm_1a", "TreeFarm_1a2", "TreeFarm_1a2", "TreeFarm_1a"],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": ["TreeFarm_1b"],
+	"fg": ["TreeFarm_1b"],
+    "bg": []
+  }
+]

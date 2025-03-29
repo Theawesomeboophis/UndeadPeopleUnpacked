@@ -1,8 +1,0 @@
-{
-  "id": [
-      "sand_pit_E_down"
-    ],
-  "fg": ["t_sand_t_connection_4"],
-  "bg": ["empty_rock"],
-  "rotates": true
-}

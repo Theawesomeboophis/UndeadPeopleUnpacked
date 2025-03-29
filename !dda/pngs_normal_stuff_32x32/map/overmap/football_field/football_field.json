@@ -1,21 +1,21 @@
 [{
   "id": "football_field_a1",
-  "fg": ["football_field_corner_1","football_field_corner_4","football_field_corner_3","football_field_corner_2"],
+  "fg": ["football_field_corner_1","football_field_corner_2","football_field_corner_3","football_field_corner_4"],
   "bg": [],
   "rotates": true
 },{
   "id": "football_field_a5",
-  "fg": ["football_field_corner_4","football_field_corner_3","football_field_corner_2","football_field_corner_1"],
+  "fg": ["football_field_corner_4","football_field_corner_1","football_field_corner_2","football_field_corner_3"],
   "bg": [],
   "rotates": true
 },{
   "id": "football_field_c1",
-  "fg": ["football_field_corner_2","football_field_corner_1","football_field_corner_4","football_field_corner_3"],
+  "fg": ["football_field_corner_2","football_field_corner_3","football_field_corner_4","football_field_corner_1"],
   "bg": [],
   "rotates": true
 },{
   "id": "football_field_c5",
-  "fg": ["football_field_corner_3","football_field_corner_2","football_field_corner_1","football_field_corner_4"],
+  "fg": ["football_field_corner_3","football_field_corner_4","football_field_corner_1","football_field_corner_2"],
   "bg": [],
   "rotates": true
 },{
@@ -33,4 +33,8 @@
   "fg": ["football_field_2","football_field_1","football_field_2","football_field_1"],
   "bg": [],
   "rotates": true
+},{
+  "id": ["football_field_B1", "football_field_B5", "football_field_C5"],
+  "fg": ["open_air"],
+  "bg": []
 }]

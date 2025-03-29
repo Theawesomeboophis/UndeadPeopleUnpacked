@@ -27,7 +27,7 @@
   {
     "id": [ "mil_base_7i" ],
     "fg": [ "helipad" ],
-    "rotates": true
+    "rotates": false
   },
   {
     "id": [ "mil_base_6g", "mil_base_7g", "mil_base_6h", "mil_base_7h", "mil_base_5a", "mil_base_6a", "mil_base_7a"],

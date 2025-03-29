@@ -1,0 +1,88 @@
+[
+  {
+	"id": ["prefab"],
+	"fg": [ "prefab_1", "prefab_2", "prefab_3", "prefab_4" ],
+	"bg": [],
+	"rotates": true
+  },
+  {
+    "id": [
+	    "trailer_hub_10"
+      ],
+	"fg": ["house_02_1", "house_02_2", "house_02_3", "house_02_4"],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": [
+	    "trailer_public_10"
+      ],
+	"fg": ["pavilion"],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+	    "trailer_public_00"
+      ],
+	"fg": ["cs_city_dump_small"],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+	    "trailer_hub_01"
+      ],
+	"fg": ["road_center"],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+		"trailer_road"
+      ],
+	"fg": ["trailer_road_1", "trailer_road_2"],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": [
+	    "trailer_road_3way"
+      ],
+	"fg": ["trailer_road_3way_1", "trailer_road_3way_2", "trailer_road_3way_3", "trailer_road_3way_4"],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": [
+		"trailer_road_2parkway"
+      ],
+	"fg": ["trailer_road_2parkway_1", "trailer_road_2parkway_2"],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": [
+		"trailer_road_1parkway"
+      ],
+	"fg": ["trailer_road_1parkway_1", "trailer_road_1parkway_2", "trailer_road_1parkway_3", "trailer_road_1parkway_4"],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": [
+	    "trailer_hub_11"
+      ],
+	"fg": ["trailer_hub_11"],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": [
+	    "trailer_road_turn"
+      ],
+	"fg": ["trailer_road_turn_1", "trailer_road_turn_2", "trailer_road_turn_3", "trailer_road_turn_4"],
+    "bg": [],
+    "rotates": true
+  }
+]

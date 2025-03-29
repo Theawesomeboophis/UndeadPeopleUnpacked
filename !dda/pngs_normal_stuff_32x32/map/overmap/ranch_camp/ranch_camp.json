@@ -47,9 +47,26 @@
             "ranch_camp_71",
             "ranch_camp_76"
         ],
-        "fg": ["ranch_camp"],
+        "fg": [
+            {
+                "weight": 1,
+                "sprite": "ranch_camp"
+            },
+            {
+                "weight": 1,
+                "sprite": "ranch_camp_2"
+            },
+            {
+                "weight": 1,
+                "sprite": "ranch_camp_3"
+            },
+            {
+                "weight": 1,
+                "sprite": "ranch_camp_4"
+            }
+        ],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
@@ -61,17 +78,17 @@
             "ranch_camp_7",
             "ranch_camp_8"
         ],
-        "fg": ["ranch_camp_n"],
+        "fg": ["ranch_camp_n", "ranch_camp_w", "ranch_camp_s", "ranch_camp_e"],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
             "ranch_camp_1"
         ],
-        "fg": ["ranch_camp_nw"],
+        "fg": ["ranch_camp_nw", "ranch_camp_sw", "ranch_camp_se", "ranch_camp_ne"],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
@@ -83,18 +100,18 @@
             "ranch_camp_55",
             "ranch_camp_64"
         ],
-        "fg": ["ranch_camp_w"],
+        "fg": ["ranch_camp_w", "ranch_camp_s", "ranch_camp_e", "ranch_camp_n" ],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
             "ranch_camp_73",
             "ranch_camp_78"
         ],
-        "fg": ["ranch_camp_sw"],
+        "fg": ["ranch_camp_sw", "ranch_camp_se", "ranch_camp_ne", "ranch_camp_nw"],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
@@ -102,18 +119,18 @@
             "ranch_camp_79",
             "ranch_camp_80"
         ],
-        "fg": ["ranch_camp_s"],
+        "fg": ["ranch_camp_s", "ranch_camp_e", "ranch_camp_n", "ranch_camp_w"],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
             "ranch_camp_75",
             "ranch_camp_81"
         ],
-        "fg": ["ranch_camp_se"],
+        "fg": ["ranch_camp_se", "ranch_camp_ne", "ranch_camp_nw", "ranch_camp_sw"],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
@@ -125,17 +142,17 @@
             "ranch_camp_27",
             "ranch_camp_18"
         ],
-        "fg": ["ranch_camp_e"],
+        "fg": ["ranch_camp_e", "ranch_camp_n", "ranch_camp_w", "ranch_camp_s"],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
             "ranch_camp_9"
         ],
-        "fg": ["ranch_camp_ne"],
+        "fg": ["ranch_camp_ne", "ranch_camp_nw", "ranch_camp_sw", "ranch_camp_se"],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
@@ -143,7 +160,7 @@
         ],
         "fg": ["ranch_entrance"],
         "bg": [],
-        "rotates": false
+        "rotates": true
     },
     {
         "id": [
@@ -157,7 +174,7 @@
         "id": [
             "ranch_camp_68"
         ],
-        "fg": ["generic_rural_building"],
+        "fg": ["cabin"],
         "bg": [],
         "rotates": false
     },
