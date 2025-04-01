@@ -1,7 +1,7 @@
 {
   "id": "mon_zombie_crawler_dusted",
   "fg": [
-    "mon_zombie_crawler"
+    "mon_zombie_crawler_dusted"
   ],
   "bg": [
     "bg_shadow_normal"

@@ -3,8 +3,6 @@
   "fg": [
     "mon_moorhen"
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
+  "bg": [],
   "rotates": false
 }

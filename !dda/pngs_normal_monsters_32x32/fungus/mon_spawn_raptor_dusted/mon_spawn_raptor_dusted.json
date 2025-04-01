@@ -1,7 +1,7 @@
 {
   "id": "mon_spawn_raptor_dusted",
   "fg": [
-    "mon_spawn_raptor"
+    "mon_spawn_raptor_dusted"
   ],
   "bg": ["bg_big_normal_shadow"],
   "rotates": false
