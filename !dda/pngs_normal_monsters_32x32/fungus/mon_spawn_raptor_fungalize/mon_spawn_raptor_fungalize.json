@@ -1,8 +1,0 @@
-{
-  "id": "mon_spawn_raptor_fungalize",
-  "fg": [
-    "mon_spawn_raptor_fungalize"
-  ],
-  "bg": ["bg_big_normal_shadow"],
-  "rotates": false
-}
