@@ -1,24 +1,24 @@
 [
     {
-        "id": "church",
+        "id": ["church", "church_1"],
         "fg": "church",
 		"bg": [],
         "rotates": false
     },
     {
-        "id": "church_roof",
+        "id": ["church_roof", "church_2ndfloor_1"],
         "fg": "church_roof",
 		"bg": ["bg_big_open_air"],
         "rotates": false
     },
     {
-        "id": "church_steeple",
+        "id": ["church_steeple", "church_3rdfloor_1"],
         "fg": "church_steeple",
 		"bg": ["bg_big_open_air"],
         "rotates": false
     },
     {
-        "id": "church_steeple_end",
+        "id": ["church_steeple_end", "church_roof_1", "church_steeple_roof"],
         "fg": "church_steeple_end",
 		"bg": ["bg_big_open_air"],
         "rotates": false
