@@ -10,6 +10,6 @@
       "sprite": "mon_mutant_evolved_1"
     }
   ],
-  "bg": [],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false
 }

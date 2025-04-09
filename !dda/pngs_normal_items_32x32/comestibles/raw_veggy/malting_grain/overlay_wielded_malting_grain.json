@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_malting_grain",
+  "fg": [
+    "malting_grain"
+  ],
+  "bg": [],
+  "rotates": false
+}

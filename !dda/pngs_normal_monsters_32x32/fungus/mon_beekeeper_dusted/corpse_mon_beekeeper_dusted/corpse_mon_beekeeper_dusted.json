@@ -1,7 +1,7 @@
 {
   "id": "corpse_mon_beekeeper_dusted",
   "fg": [
-    "corpse_mon_beekeeper_dusted"
+    "corpse_mon_beekeeper"
   ],
   "bg": [],
   "rotates": false

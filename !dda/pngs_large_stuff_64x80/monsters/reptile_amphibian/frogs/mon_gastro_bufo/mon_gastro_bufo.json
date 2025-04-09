@@ -3,6 +3,6 @@
   "fg": [
     "mon_gastro_bufo"
   ],
-  "bg": ["bg_big_normal_shadow"],
+  "bg": ["bg_big_huge_shadow"],
   "rotates": false
 }

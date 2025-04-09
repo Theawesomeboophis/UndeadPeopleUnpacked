@@ -1,8 +1,16 @@
 {
   "id": "mon_exodii_turret",
   "fg": [
-    "mon_exodii_turret"
+    {
+      "weight": 101,
+      "sprite": "mon_exodii_turret"
+    },
+    {
+      "weight": 101,
+      "sprite": "mon_exodii_turret_2"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }

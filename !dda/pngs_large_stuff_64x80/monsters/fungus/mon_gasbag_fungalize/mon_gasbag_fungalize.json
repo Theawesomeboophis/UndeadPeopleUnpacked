@@ -3,6 +3,6 @@
   "fg": [
     "mon_gasbag_fungalize"
   ],
-  "bg": [ ],
+  "bg": ["bg_big_normal_shadow"],
   "rotates": false
 }

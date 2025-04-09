@@ -1,0 +1,8 @@
+{
+  "id": [ "mon_fry_mutant", "mon_fry_mutant_salmon" ],
+  "fg": [
+    "mon_fish_tiny"
+  ],
+  "bg": [],
+  "rotates": false
+}

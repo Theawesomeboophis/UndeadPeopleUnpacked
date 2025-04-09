@@ -1,0 +1,10 @@
+[
+	{
+	  "id": [ "vp_metal_tray", "metal_tray" ],
+	  "fg": [
+		"vp_metal_tray_1", "vp_metal_tray_2", "vp_metal_tray_3", "vp_metal_tray_4"
+	  ],
+	  "bg": [],
+	  "rotates": true
+	}
+]

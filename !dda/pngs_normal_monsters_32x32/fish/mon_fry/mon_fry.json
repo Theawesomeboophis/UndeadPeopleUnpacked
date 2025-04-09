@@ -1,0 +1,8 @@
+{
+  "id": [ "mon_fry", "mon_fry_brown_trout", "mon_fry_brook_trout", "mon_fry_lake_trout", "mon_fry_rainbow_trout", "mon_fry_salmon", "mon_fry_kokanee_salmon", "mon_fry_whitefish", "mon_fry_whitefish_round", "mon_fry_lbass", "mon_fry_sbass", "mon_fry_pbass", "mon_fry_perch", "mon_fry_walleye", "mon_fry_sunfish", "mon_fry_pumpkinseed", "mon_fry_bluegill", "mon_fry_redbreast", "mon_fry_green_sunfish", "mon_fry_rock_bass", "mon_fry_calico_bass", "mon_fry_warmouth", "mon_fry_bullhead", "mon_fry_bullhead_yellow", "mon_fry_channel_catfish", "mon_fry_white_catfish", "mon_fry_pike", "mon_fry_pickerel", "mon_fry_pickerel_american", "mon_fry_muskellunge", "mon_fry_white_sucker", "mon_fry_carp", "mon_fry_grass_carp", "mon_fry_goldfish", "mon_fry_bowfin", "mon_fry_gar_longnose", "mon_fry_burbot", "mon_fry_sturgeon_lake", "mon_fry_sturgeon_shortnose", "mon_fry_fallfish", "mon_fry_crayfish", "mon_fry_mackerel", "mon_fry_flounder", "mon_fry_blackfish", "mon_fry_porgy", "mon_fry_bluefish", "mon_fry_cod", "mon_fry_haddock", "mon_fry_bluefin_tuna", "mon_fry_halibut", "mon_fry_pollock" ],
+  "fg": [
+    "mon_fry"
+  ],
+  "bg": [],
+  "rotates": false
+}

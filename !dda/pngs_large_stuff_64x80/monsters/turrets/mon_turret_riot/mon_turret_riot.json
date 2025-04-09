@@ -45,6 +45,6 @@
       "sprite": "mon_turret_riot_8"
     }
   ],
-  "bg": ["bg_shadow_turret_offset"],
+  "bg": [ ],
   "animated": true
 }

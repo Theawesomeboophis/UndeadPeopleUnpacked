@@ -1,7 +1,7 @@
 {
   "id": "mon_beekeeper_dusted",
   "fg": [
-    "mon_beekeeper_dusted"
+    "mon_beekeeper"
   ],
   "bg": [
     "bg_shadow_normal"

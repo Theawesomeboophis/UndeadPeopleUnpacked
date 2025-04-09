@@ -3,6 +3,6 @@
   "fg": [
     "mon_devourer"
   ],
-  "bg": [],
+  "bg": ["mon_devourer_shadow"],
   "rotates": false
 }

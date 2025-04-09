@@ -1,0 +1,19 @@
+[
+  {
+    "id": [
+	    "fema_housing"
+      ],
+	"fg": ["fema_housing_1", "fema_housing_2", "fema_housing_1", "fema_housing_4"],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": [
+	    "fema_storage",
+		"fema_military_building"
+      ],
+    "fg": ["fema_storage"],
+    "bg": [],
+    "rotates": false
+  }
+]

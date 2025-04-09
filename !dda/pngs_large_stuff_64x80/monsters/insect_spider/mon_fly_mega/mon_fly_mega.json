@@ -1,8 +1,15 @@
 {
   "id": "mon_fly_mega",
   "fg": [
-    "mon_fly_mega"
+    {
+      "weight": 30,
+      "sprite": "mon_fly_mega"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_fly_mega_2"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "animated": true
 }

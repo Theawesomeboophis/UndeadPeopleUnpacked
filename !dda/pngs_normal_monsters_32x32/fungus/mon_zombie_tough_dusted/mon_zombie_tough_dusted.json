@@ -1,9 +1,6 @@
 {
   "id": "mon_zombie_tough_dusted",
   "fg": [
-    "bg_shadow_normal_dusted_4"
-  ],
-  "bg": [
     {
       "weight": 3,
       "sprite": "mon_zombie_tough_1"
@@ -57,5 +54,6 @@
       "sprite": "mon_zombie_tough_13"
     }
   ],
+  "bg": ["bg_shadow_normal"],
   "rotates": false
 }

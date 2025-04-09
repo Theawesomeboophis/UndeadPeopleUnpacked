@@ -3,8 +3,6 @@
   "fg": [
     "mon_skitterbot"
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
+  "bg": [ ],
   "rotates": false
 }

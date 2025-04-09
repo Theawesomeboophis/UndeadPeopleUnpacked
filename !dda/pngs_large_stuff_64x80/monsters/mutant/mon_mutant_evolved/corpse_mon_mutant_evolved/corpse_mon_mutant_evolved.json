@@ -1,15 +1,6 @@
 {
   "id": "corpse_mon_mutant_evolved",
-  "fg": [
-    {
-      "weight": 10,
-      "sprite": "corpse_mon_mutant_evolved"
-    },
-    {
-      "weight": 5,
-      "sprite": "corpse_mon_mutant_evolved_1"
-    }
-  ],
+  "fg": ["corpse_mon_mutant_evolved"],
   "bg": [],
   "rotates": false
 }

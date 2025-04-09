@@ -1,7 +1,7 @@
 {
   "id": "corpse_mon_zombie_brute_dusted",
   "fg": [
-    "corpse_mon_zombie_brute_dusted"
+    "corpse_mon_zombie_brute"
   ],
   "bg": [],
   "rotates": false

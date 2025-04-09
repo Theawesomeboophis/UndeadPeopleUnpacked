@@ -3,6 +3,6 @@
   "fg": [
     "mon_slug_giant"
   ],
-  "bg": [],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false
 }
