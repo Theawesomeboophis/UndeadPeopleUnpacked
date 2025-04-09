@@ -1,0 +1,7 @@
+{
+  "id": ["standing_floodlight", "standing_directed_floodlight", "ap_standing_floodlight", "ap_standing_directed_floodlight"],
+  "fg": [
+    "standing_floodlight"
+  ],
+  "bg": []
+}
