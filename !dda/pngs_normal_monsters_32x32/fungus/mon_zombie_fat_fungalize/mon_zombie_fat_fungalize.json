@@ -1,0 +1,49 @@
+{
+  "id": "mon_zombie_fat_fungalize",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_9"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_fat_fungalize_10"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
