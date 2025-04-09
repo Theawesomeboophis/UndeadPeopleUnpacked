@@ -1,0 +1,8 @@
+{
+  "id": "rid_mon_pig",
+  "fg": [
+    "rid_mon_pig"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

@@ -55,6 +55,10 @@
 }
 ,
 {
+"huge_extra.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
+}
+,
+{
 "fallback.png": { "fallback": true }
 }
 ]
