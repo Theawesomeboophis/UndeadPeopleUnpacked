@@ -1,0 +1,10 @@
+{
+  "id": "mon_boomer_dusted",
+  "fg": [
+    "mon_boomer"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
