@@ -1,0 +1,14 @@
+{
+  "id": "mon_amalgamation_zapper",
+  "fg": [
+    { "weight": 10, "sprite": "mon_amalgamation_zapper_1" },
+    { "weight": 10, "sprite": "mon_amalgamation_zapper_2" },
+    { "weight": 10, "sprite": "mon_amalgamation_zapper_3" },
+    { "weight": 10, "sprite": "mon_amalgamation_zapper_4" },
+    { "weight": 10, "sprite": "mon_amalgamation_zapper_5" },
+    { "weight": 10, "sprite": "mon_amalgamation_zapper_6" },
+    { "weight": 10, "sprite": "mon_amalgamation_zapper_7" }
+  ],
+  "bg": [],
+  "animated": true
+}

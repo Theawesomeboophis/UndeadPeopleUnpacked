@@ -3,6 +3,6 @@
   "fg": [
     "mon_toad_bone"
   ],
-  "bg": ["bg_big_normal_shadow"],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false
 }

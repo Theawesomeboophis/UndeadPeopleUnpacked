@@ -3,6 +3,6 @@
   "fg": [
     "mon_pattern_giganfrog"
   ],
-  "bg": ["bg_big_normal_shadow"],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false
 }

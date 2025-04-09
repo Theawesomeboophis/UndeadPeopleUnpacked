@@ -16,6 +16,14 @@
     {
       "weight": 10,
       "sprite": "mon_living_vector_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_living_vector_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_living_vector_3"
     }
   ],
   "bg": [],
