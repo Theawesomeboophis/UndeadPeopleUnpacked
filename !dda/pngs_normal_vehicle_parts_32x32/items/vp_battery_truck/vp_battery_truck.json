@@ -3,4 +3,6 @@
   "fg": [
     "vp_battery_truck"
   ],
-  "bg": []}
+  "bg": [],
+  "rotates": false
+}

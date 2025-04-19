@@ -54,10 +54,10 @@
     },
     {
       "id": "unconnected",
-      "fg": [
+      "fg": [],
+      "bg": [
         "f_generator_broken_unconnected"
-      ],
-      "bg": []
+      ]
     }
   ]
 }

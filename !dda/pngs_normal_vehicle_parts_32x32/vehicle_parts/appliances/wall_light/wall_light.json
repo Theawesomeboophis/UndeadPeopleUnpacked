@@ -1,5 +1,5 @@
 {
-  "id": "wall_light",
+  "id": ["wall_light", "ap_wall_light", "vp_ap_wall_light"],
   "fg": [
     "wall_light"
   ],
