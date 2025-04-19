@@ -1,0 +1,8 @@
+{
+  "id": ["ap_military_generator", "military_generator", "f_military_generator"],
+  "fg": [
+    "f_military_generator"
+  ],
+  "bg": [],
+  "rotates": false
+}

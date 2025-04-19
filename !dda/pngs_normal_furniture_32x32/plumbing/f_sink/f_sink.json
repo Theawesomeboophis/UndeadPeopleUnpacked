@@ -11,5 +11,60 @@
     }
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_sink_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_sink_corner_1",
+        "f_sink_corner_2",
+        "f_sink_corner_3",
+        "f_sink_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_sink_t_connection_1",
+        "f_sink_t_connection_2",
+        "f_sink_t_connection_3",
+        "f_sink_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_sink_edge_1",
+        "f_sink_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_sink_end_piece_1",
+        "f_sink_end_piece_2",
+        "f_sink_end_piece_3",
+        "f_sink_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_sink_unconnected", "f_sink_unconnected"
+      ],
+      "bg": []
+    }
+  ]
 }

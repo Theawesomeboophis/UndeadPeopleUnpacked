@@ -3,8 +3,6 @@
   "fg": [
     "vp_small_storage_battery"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }

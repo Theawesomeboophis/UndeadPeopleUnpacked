@@ -3,5 +3,6 @@
   "fg": [
     "vp_large_storage_battery_removable"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }
