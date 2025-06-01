@@ -1,0 +1,10 @@
+{
+  "id": ["smart_watch", "smart_watch_adv"],
+  "fg": [
+    "smart_watch"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
