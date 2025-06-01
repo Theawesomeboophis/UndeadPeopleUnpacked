@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_gartersnake",
+  "fg": [
+    "corpse_mon_rattlesnake"
+  ],
+  "bg": [],
+  "rotates": false
+}

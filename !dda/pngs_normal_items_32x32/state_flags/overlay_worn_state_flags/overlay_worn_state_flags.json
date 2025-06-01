@@ -46,5 +46,13 @@
         ],
         "bg": [],
         "rotates": false
+    },
+    {
+        "id": "overlay_worn_state_flag_var_new_england_flag",
+        "fg": [
+        "overlay_worn_state_flag_var_new_england_flag"
+        ],
+        "bg": [],
+        "rotates": false
     }
 ]
