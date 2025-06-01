@@ -1,7 +1,21 @@
-{
-  "id": [
-      "lodge_ground1", "lodge_ground2", "lodge_2ndfloor1", "lodge_2ndfloor2", "lodge_basement_residential1", "lodge_basement_residential2"],
-  "fg": ["plug_huntinglaunge"],
-  "bg": [],
-  "rotates": false
-}
+[
+	{
+	  "id": [
+		  "lodge_ground1", "lodge_ground2", "lodge_2ndfloor1", "lodge_2ndfloor2", "lodge_roof1", "lodge_roof2"],
+	  "fg": ["plug_huntinglaunge"],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": [
+		  "lodge_basement_residential1", "lodge_basement_residential2", "lodge_basement_residential4", "lodge_basement_residential3"],
+	   "fg": [
+	{ "weight": 25, "sprite": [ "generic_city_house_basement_1" ] },
+	{ "weight": 25, "sprite": [ "generic_city_house_basement_2" ] },
+	{ "weight": 25, "sprite": [ "generic_city_house_basement_3" ] },
+	{ "weight": 25, "sprite": [ "generic_city_house_basement_4" ] }
+       ],
+	   "bg": [],
+	   "rotates": false
+	}
+]

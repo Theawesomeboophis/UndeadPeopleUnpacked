@@ -1,18 +1,54 @@
-{
-  "id": [
-      "bandit_farm_3",
-      "bandit_farm_3_roof",
-      "bandit_farm_2",
-      "bandit_farm_2_roof",
-      "bandit_farm_1",
-      "bandit_farm_6",
-      "bandit_farm_5",
-      "bandit_farm_4",
-      "bandit_farm_9",
-      "bandit_farm_8",
-      "bandit_farm_7"
-    ],
-  "fg": ["house_farm"],
-  "bg": [],
-  "rotates": false
-}
+[
+    {
+        "id": ["bandit_farm_1"],
+        "fg": ["ranch_camp_ne", "ranch_camp_nw", "ranch_camp_sw", "ranch_camp_se"],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": ["bandit_farm_2"],
+        "fg": ["bandit_camp"],
+        "bg": []
+    },
+    {
+        "id": ["bandit_farm_3"],
+        "fg": ["bandit_camp"],
+        "bg": []
+    },
+    {
+        "id": ["bandit_farm_4"],
+        "fg": ["ranch_camp_e", "ranch_camp_n", "ranch_camp_w", "ranch_camp_s"],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": ["bandit_farm_5"],
+        "fg": ["ranch_camp"],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": ["bandit_farm_6"],
+        "fg": ["ranch_camp_w", "ranch_camp_s", "ranch_camp_e", "ranch_camp_n"],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": ["bandit_farm_7"],
+        "fg": ["ranch_camp_se", "ranch_camp_ne", "ranch_camp_nw", "ranch_camp_sw"],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": ["bandit_farm_8"],
+        "fg": ["ranch_camp_s", "ranch_camp_e", "ranch_camp_n", "ranch_camp_w"],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": ["bandit_farm_9"],
+        "fg": ["ranch_camp_sw", "ranch_camp_se", "ranch_camp_ne", "ranch_camp_nw"],
+        "bg": [],
+        "rotates": true
+    }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "moving_creature",
+  "fg": [
+    "moving_creature"
+  ],
+  "bg": [],
+  "rotates": false
+}
