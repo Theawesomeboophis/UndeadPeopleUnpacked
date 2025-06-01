@@ -1,0 +1,8 @@
+{
+  "id": "overlay_male_mutation_hair_body_length_var_blue",
+  "fg": [
+    "overlay_female_mutation_hair_long_var_blue"
+  ],
+  "bg": [],
+  "rotates": false
+}
