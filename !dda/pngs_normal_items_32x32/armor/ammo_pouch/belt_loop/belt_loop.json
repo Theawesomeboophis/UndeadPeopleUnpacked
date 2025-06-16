@@ -1,0 +1,9 @@
+{
+  "id": ["belt_loop_small", "belt_loop_medium", "belt_loop_large"],
+  "fg": [
+    "belt_loop"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

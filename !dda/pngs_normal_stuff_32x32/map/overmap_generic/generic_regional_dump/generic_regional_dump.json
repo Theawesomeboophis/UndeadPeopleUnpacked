@@ -1,6 +1,9 @@
 {
   "id": [
-      "generic_regional_dump" ],
+      "generic_regional_dump",
+	  "dumpsite",
+	  "dumpsite_edge"
+  ],
   "fg": ["generic_regional_dump"],
   "bg": [],
   "rotates": false

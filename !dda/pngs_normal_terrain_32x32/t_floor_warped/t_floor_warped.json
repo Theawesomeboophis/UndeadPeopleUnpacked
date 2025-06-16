@@ -1,0 +1,27 @@
+{
+  "id": "t_floor_warped",
+  "fg": [
+	{
+	  "weight": 20,
+	  "sprite": "t_floor_warped_1"
+	},
+	{
+	  "weight": 20,
+	  "sprite": "t_floor_warped_2"
+	},
+	{
+	  "weight": 20,
+	  "sprite": "t_floor_warped_3"
+	},
+	{
+	  "weight": 20,
+	  "sprite": "t_floor_warped_4"
+	},
+	{
+	  "weight": 20,
+	  "sprite": "t_floor_warped_5"
+	}
+  ],
+  "bg": [],
+  "rotates": false
+}

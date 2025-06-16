@@ -1,0 +1,10 @@
+{
+  "id": "chestrig_var_flag_chestrig",
+  "fg": [
+    "chestrig_var_flag_chestrig"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,14 @@
+  {
+    "id": "mon_feral_cop",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_cop" },
+      { "weight": 1, "sprite": "mon_feral_cop_1" },
+      { "weight": 1, "sprite": "mon_feral_cop_2" },
+      { "weight": 1, "sprite": "mon_feral_cop_3" },
+      { "weight": 1, "sprite": "mon_feral_cop_4" },
+      { "weight": 1, "sprite": "mon_feral_cop_5" },
+      { "weight": 1, "sprite": "mon_feral_cop_6" },
+      { "weight": 1, "sprite": "mon_feral_cop_7" }
+    ],
+  "bg": ["bg_shadow_normal"]
+  }

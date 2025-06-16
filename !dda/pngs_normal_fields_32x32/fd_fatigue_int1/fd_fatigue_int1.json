@@ -2,31 +2,47 @@
   "id": "fd_fatigue_int1",
   "fg": [
     {
-      "weight": 1,
-      "sprite": "fd_fatigue_int1_1"
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_1"
     },
     {
-      "weight": 5,
-      "sprite": "fd_fatigue_int1_2"
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_2"
+    },  
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_3"
     },
     {
-      "weight": 10,
-      "sprite": "fd_fatigue_int1_3"
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_4"
+    },   
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_5"
+    },
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_6"
+    },
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_5"
     },
     {
-      "weight": 10,
-      "sprite": "fd_fatigue_int1_4"
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_4"
+    },  
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_3"
     },
     {
-      "weight": 5,
-      "sprite": "fd_fatigue_int1_5"
-    },
-    {
-      "weight": 10,
-      "sprite": "fd_fatigue_int1_6"
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_2"
     }
   ],
   "bg": [],
-  "animated": true,
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }
