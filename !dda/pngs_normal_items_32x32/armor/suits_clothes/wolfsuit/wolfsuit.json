@@ -1,5 +1,5 @@
 {
-  "id": "fursuit_var_wolfsuit",
+  "id": ["wolfsuit"],
   "fg": [
     "wolfsuit"
   ],
