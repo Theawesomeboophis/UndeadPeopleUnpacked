@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_caterpillar_moth",
+  "fg": [
+    "corpse_mon_caterpillar_butterfly"
+  ],
+  "bg": [ ],
+  "rotates": false
+}

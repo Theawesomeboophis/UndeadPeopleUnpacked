@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_moth_titan",
+  "fg": [
+    "corpse_mon_moth_giant"
+  ],
+  "bg": [ ],
+  "rotates": false
+}
