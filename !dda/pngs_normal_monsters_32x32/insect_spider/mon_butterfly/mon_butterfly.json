@@ -1,0 +1,10 @@
+{
+  "id": "mon_butterfly",
+  "fg": [
+    "mon_butterfly"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
