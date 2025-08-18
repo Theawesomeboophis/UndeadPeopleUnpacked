@@ -1,0 +1,10 @@
+{
+  "id": "303_sp",
+  "fg": [
+    "300_winmag"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
