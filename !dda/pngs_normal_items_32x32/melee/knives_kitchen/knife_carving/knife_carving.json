@@ -1,5 +1,8 @@
 {
-  "id": "knife_carving",
+  "id": [
+    "knife_carving",
+	"knife_large_var_knife_carving"
+  ],
   "fg": [
     "knife_carving"
   ],
