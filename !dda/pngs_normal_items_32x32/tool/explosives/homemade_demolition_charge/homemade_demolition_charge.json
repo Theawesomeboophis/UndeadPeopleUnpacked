@@ -1,0 +1,10 @@
+{
+  "id": "homemade_demolition_charge",
+  "fg": [
+    "homemade_demolition_charge"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
