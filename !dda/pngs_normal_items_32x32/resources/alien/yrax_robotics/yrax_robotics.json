@@ -1,0 +1,10 @@
+{
+  "id": "yrax_robotics",
+  "fg": [
+    "yrax_robotics"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

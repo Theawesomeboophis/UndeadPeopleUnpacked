@@ -1,0 +1,10 @@
+{
+  "id": "bp_30carbine_jsp",
+  "fg": [
+    "bp_30carbine_jsp"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

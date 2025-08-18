@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_yrax_sensor",
+  "fg": [
+    "yrax_sensor"
+  ],
+  "bg": [],
+  "rotates": false
+}
