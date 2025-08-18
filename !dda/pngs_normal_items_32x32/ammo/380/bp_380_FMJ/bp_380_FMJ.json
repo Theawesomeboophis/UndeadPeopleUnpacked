@@ -3,5 +3,8 @@
   "fg": [
     "bp_380_FMJ"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }

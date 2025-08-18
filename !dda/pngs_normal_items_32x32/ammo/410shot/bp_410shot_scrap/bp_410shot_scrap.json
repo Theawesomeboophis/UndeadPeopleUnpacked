@@ -1,0 +1,10 @@
+{
+  "id": ["bp_410shot_scrap"],
+  "fg": [
+    "bp_410shot_scrap"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
