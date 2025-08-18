@@ -3,6 +3,8 @@
   "fg": [
     "reloaded_4570_bp"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }
