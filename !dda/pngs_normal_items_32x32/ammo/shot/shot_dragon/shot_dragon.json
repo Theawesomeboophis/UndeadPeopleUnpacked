@@ -1,7 +1,10 @@
 {
   "id": "shot_dragon",
   "fg": [
-    "bp_shot_dragon"
+    "shot_dragon"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }
