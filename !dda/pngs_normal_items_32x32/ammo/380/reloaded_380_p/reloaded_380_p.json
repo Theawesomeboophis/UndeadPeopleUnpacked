@@ -3,5 +3,8 @@
   "fg": [
     "reloaded_380_p"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }

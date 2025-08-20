@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_grenade_inc",
   "fg": [
-    "grenade_inc"
+    "overlay_wielded_grenade_inc"
   ],
   "bg": [],
   "rotates": false

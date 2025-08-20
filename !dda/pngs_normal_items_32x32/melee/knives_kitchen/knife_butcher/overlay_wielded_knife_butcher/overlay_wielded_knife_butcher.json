@@ -1,5 +1,8 @@
 {
-  "id": "overlay_wielded_knife_butcher",
+  "id": [
+    "overlay_wielded_knife_butcher",
+	"overlay_wielded_knife_huge_var_knife_butcher"
+  ],
   "fg": [
     "overlay_wielded_knife_butcher"
   ],

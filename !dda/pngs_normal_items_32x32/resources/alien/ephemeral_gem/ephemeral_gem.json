@@ -1,0 +1,7 @@
+{
+  "id": "ephemeral_gem",
+  "fg": [
+    "ephemeral_gem"
+  ],
+  "bg": ["bg_shadow_item"]
+}

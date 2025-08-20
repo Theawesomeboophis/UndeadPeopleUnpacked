@@ -1,0 +1,10 @@
+{
+  "id": "bp_45colt_cowboy",
+  "fg": [
+    "bp_45colt_cowboy"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

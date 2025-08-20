@@ -1,5 +1,8 @@
 {
-  "id": "overlay_wielded_knife_meat_cleaver",
+  "id": [
+    "overlay_wielded_knife_meat_cleaver",
+	"overlay_wielded_knife_cleaver_var_knife_meat_cleaver"
+  ],
   "fg": [
     "overlay_wielded_knife_meat_cleaver"
   ],

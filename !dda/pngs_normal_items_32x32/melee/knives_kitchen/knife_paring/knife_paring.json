@@ -1,5 +1,8 @@
 {
-  "id": "knife_paring",
+  "id": [
+    "knife_paring",
+	"knife_small_var_knife_paring"
+  ],
   "fg": [
     "knife_paring"
   ],
