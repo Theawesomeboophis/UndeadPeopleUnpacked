@@ -1,0 +1,10 @@
+{
+  "id": "mon_feral_sailor_wrench",
+  "fg": [
+    "mon_feral_sailor_wrench"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
