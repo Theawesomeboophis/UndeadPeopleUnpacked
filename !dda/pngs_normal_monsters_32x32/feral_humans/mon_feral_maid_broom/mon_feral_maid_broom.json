@@ -1,0 +1,12 @@
+{
+  "id": "mon_feral_maid_broom",
+  "fg": [
+    { "weight": 111, "sprite": "mon_feral_maid_broom_1" },
+    { "weight": 111, "sprite": "mon_feral_maid_broom_2" }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

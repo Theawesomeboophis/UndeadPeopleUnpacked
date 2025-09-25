@@ -1,0 +1,13 @@
+{
+  "id": "mon_feral_fancy_rapier",
+  "fg": [
+    { "weight": 111, "sprite": "mon_feral_fancy_rapier_1" },
+    { "weight": 111, "sprite": "mon_feral_fancy_rapier_2" },
+    { "weight": 111, "sprite": "mon_feral_fancy_rapier_3" }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

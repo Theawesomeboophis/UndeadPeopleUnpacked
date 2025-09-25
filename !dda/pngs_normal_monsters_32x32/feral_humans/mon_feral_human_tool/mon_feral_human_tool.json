@@ -1,0 +1,12 @@
+{
+  "id": "mon_feral_human_tool",
+  "fg": [
+    { "weight": 111, "sprite": "mon_feral_human_tool_1" },
+    { "weight": 111, "sprite": "mon_feral_human_tool_2" }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}
