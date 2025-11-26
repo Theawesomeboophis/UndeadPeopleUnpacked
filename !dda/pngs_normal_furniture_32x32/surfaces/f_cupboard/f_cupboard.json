@@ -55,7 +55,7 @@
     {
       "id": "unconnected",
       "fg": [
-        "f_cupboard_unconnected", "f_cupboard_unconnected"
+        "f_cupboard_unconnected", "f_cupboard_unconnected", "f_cupboard_unconnected", "f_cupboard_unconnected_1"
       ],
       "bg": []
     }
