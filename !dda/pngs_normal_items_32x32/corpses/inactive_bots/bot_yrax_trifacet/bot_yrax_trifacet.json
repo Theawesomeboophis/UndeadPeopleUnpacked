@@ -1,0 +1,8 @@
+{
+  "id": ["bot_yrax_trifacet"],
+  "fg": [
+    "bot_yrax_trifacet"
+  ],
+  "bg": ["bg_shadow_item"],
+  "rotates": true
+}
