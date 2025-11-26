@@ -1,0 +1,20 @@
+{
+  "id": "mon_yrax_apeirogon",
+  "fg": ["mon_yrax_apeirogon"],
+  "bg": [
+    { "weight": 60, "sprite": "mon_yrax_apeirogon_1" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_2" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_3" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_4" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_5" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_6" },
+    { "weight": 60, "sprite": "mon_yrax_apeirogon_7" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_6" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_5" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_4" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_3" },
+    { "weight": 30, "sprite": "mon_yrax_apeirogon_2" }
+  ],
+  "animated": true,
+  "rotates": false
+}

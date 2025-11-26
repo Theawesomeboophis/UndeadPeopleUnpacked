@@ -1,0 +1,13 @@
+
+{
+  "id": "mon_yrax_delta",
+  "fg": [
+	{"weight": 50, "sprite": "mon_yrax_delta"}, 
+	{"weight": 25, "sprite": "mon_yrax_delta_1"}, 
+	{"weight": 50, "sprite": "mon_yrax_delta_2"},
+	{"weight": 25, "sprite": "mon_yrax_delta_3"}
+		 ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mon_yrax_sphenocorona",
+  "fg": [
+	{"weight": 50, "sprite": "mon_yrax_sphenocorona_1"}, 
+	{"weight": 25, "sprite": "mon_yrax_sphenocorona_2"},
+	{"weight": 25, "sprite": "mon_yrax_sphenocorona_3"}, 
+	{"weight": 50, "sprite": "mon_yrax_sphenocorona_4"},
+	{"weight": 25, "sprite": "mon_yrax_sphenocorona_3"},
+	{"weight": 25, "sprite": "mon_yrax_sphenocorona_2"}
+		 ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

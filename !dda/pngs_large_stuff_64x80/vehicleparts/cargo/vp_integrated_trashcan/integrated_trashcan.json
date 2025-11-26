@@ -1,0 +1,8 @@
+{
+  "id": "vp_integrated_trashcan",
+  "fg": [
+    "vp_integrated_trashcan", "vp_integrated_trashcan_left", "vp_integrated_trashcan_up", "vp_integrated_trashcan_right"
+  ],
+  "bg": [],
+  "rotates": true
+}
