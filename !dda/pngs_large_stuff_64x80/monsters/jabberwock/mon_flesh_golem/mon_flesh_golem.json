@@ -3,6 +3,6 @@
   "fg": [
     "mon_flesh_golem"
   ],
-  "bg": [],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false
 }

@@ -1,0 +1,10 @@
+{
+  "id": "t_apiary",
+  "fg": [
+    "t_apiary"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

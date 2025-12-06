@@ -1,7 +1,10 @@
 {
-  "id": "teargas_spray",
+  "id": "teargas_sprayer",
   "fg": [
     "teargas_spray"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }
