@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_triple_stacker_pouch",
+  "fg": [
+    "triple_stacker_pouch"
+  ],
+  "bg": [],
+  "rotates": false
+}
