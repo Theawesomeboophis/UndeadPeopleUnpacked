@@ -1,0 +1,8 @@
+{
+  "id": "ballistic_vest_light_operator",
+  "fg": [
+    "ballistic_vest_light"
+  ],
+  "bg": [],
+  "rotates": false
+}
