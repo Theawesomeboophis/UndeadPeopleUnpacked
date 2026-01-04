@@ -1,0 +1,8 @@
+{
+  "id": "flashlight_pouch",
+  "fg": [
+    "chestpouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

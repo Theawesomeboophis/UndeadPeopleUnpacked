@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_sustainment_pouch",
+  "fg": [
+    "tool_pouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

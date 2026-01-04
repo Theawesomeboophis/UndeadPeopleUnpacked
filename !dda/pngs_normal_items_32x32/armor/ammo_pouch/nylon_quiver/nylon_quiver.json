@@ -1,0 +1,10 @@
+{
+  "id": "nylon_quiver",
+  "fg": [
+    "nylon_quiver"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

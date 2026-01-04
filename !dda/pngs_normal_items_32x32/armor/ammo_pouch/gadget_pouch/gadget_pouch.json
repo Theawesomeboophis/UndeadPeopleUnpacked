@@ -1,0 +1,8 @@
+{
+  "id": "gadget_pouch",
+  "fg": [
+    "chestpouch"
+  ],
+  "bg": [],
+  "rotates": false
+}
