@@ -3,5 +3,6 @@
   "fg": [
     "overlay_worn_robofac_head_rig"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }
