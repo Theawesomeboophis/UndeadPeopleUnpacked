@@ -1,0 +1,10 @@
+{
+  "id": "shark_plushie",
+  "fg": [
+    "shark_plushie"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

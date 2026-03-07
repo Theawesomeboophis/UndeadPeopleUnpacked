@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_teddy_bear",
   "fg": [
-    "teddy_bear"
+    "overlay_wielded_teddy_bear"
   ],
   "bg": [],
   "rotates": false
