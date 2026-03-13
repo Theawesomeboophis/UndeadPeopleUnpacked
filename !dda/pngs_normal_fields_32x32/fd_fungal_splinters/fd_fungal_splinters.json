@@ -1,0 +1,81 @@
+{
+  "id": "fd_fungal_splinters",
+  "fg": [
+    "fd_fungal_splinters"
+  ],
+  "bg": ["fd_spores"],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "fd_fungal_splinters_center"
+      ],
+      "bg": ["fd_spores_center"]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_fungal_splinters_corner_1",
+        "fd_fungal_splinters_corner_2",
+        "fd_fungal_splinters_corner_3",
+        "fd_fungal_splinters_corner_4"
+      ],
+      "bg": [
+        "fd_spores_corner_1",
+        "fd_spores_corner_2",
+        "fd_spores_corner_3",
+        "fd_spores_corner_4"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_fungal_splinters_t_connection_1",
+        "fd_fungal_splinters_t_connection_2",
+        "fd_fungal_splinters_t_connection_3",
+        "fd_fungal_splinters_t_connection_4"
+      ],
+      "bg": [
+        "fd_spores_t_connection_1",
+        "fd_spores_t_connection_2",
+        "fd_spores_t_connection_3",
+        "fd_spores_t_connection_4"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_fungal_splinters_edge_1",
+        "fd_fungal_splinters_edge_2"
+      ],
+      "bg": [
+        "fd_spores_edge_1",
+        "fd_spores_edge_2"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_fungal_splinters_end_piece_1",
+        "fd_fungal_splinters_end_piece_2",
+        "fd_fungal_splinters_end_piece_3",
+        "fd_fungal_splinters_end_piece_4"
+      ],
+      "bg": [
+        "fd_spores_end_piece_1",
+        "fd_spores_end_piece_2",
+        "fd_spores_end_piece_3",
+        "fd_spores_end_piece_4"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_fungal_splinters_unconnected"
+      ],
+      "bg": ["fd_spores_unconnected"]
+    }
+  ]
+}

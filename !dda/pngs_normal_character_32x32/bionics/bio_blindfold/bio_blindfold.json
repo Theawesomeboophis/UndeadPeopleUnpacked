@@ -1,7 +1,7 @@
 {
   "id": "bio_blindfold",
   "fg": [
-    "cbm_temp"
+    "bio_blindfold"
   ],
   "bg": [],
   "rotates": false

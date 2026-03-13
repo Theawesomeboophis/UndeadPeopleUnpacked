@@ -1,7 +1,7 @@
 {
   "id": "bio_ups",
   "fg": [
-    "cbm_temp"
+    "bio_ups"
   ],
   "bg": [],
   "rotates": false

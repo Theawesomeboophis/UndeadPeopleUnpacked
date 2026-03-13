@@ -1,7 +1,7 @@
 {
   "id": "bio_water_extractor",
   "fg": [
-    "cbm_temp"
+    "bio_water_extractor"
   ],
   "bg": [],
   "rotates": false
