@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_lever_shotgun",
   "fg": [
-    "remington_870"
+    "overlay_wielded_lever_shotgun"
   ],
   "bg": [],
   "rotates": false
