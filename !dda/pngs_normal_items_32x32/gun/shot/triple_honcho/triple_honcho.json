@@ -1,0 +1,10 @@
+{
+  "id": "triple_honcho",
+  "fg": [
+    "triple_honcho"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
