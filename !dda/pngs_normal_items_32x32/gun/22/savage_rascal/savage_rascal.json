@@ -1,0 +1,10 @@
+{
+  "id": ["savage_rascal"],
+  "fg": [
+    "savage_rascal"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

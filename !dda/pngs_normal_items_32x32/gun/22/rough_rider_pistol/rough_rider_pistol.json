@@ -1,0 +1,10 @@
+{
+  "id": ["rough_rider_pistol"],
+  "fg": [
+    "rough_rider_pistol"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

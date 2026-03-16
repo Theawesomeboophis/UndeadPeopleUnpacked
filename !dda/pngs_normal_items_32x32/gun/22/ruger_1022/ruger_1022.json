@@ -1,8 +1,10 @@
 {
-  "id": "ruger_1022",
+  "id": ["ruger_1022", "ruger1022"],
   "fg": [
     "ruger_1022"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

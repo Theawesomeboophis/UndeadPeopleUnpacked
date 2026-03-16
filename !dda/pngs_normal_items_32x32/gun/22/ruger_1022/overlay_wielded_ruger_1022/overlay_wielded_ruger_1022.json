@@ -1,5 +1,5 @@
 {
-  "id": "overlay_wielded_ruger_1022",
+  "id": ["overlay_wielded_ruger_1022", "overlay_wielded_ruger1022"],
   "fg": [
     "overlay_wielded_ruger_1022"
   ],

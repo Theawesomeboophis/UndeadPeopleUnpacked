@@ -1,0 +1,10 @@
+{
+  "id": ["rio_bravo"],
+  "fg": [
+    "rio_bravo"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
