@@ -1,0 +1,10 @@
+{
+  "id": "m26_mass_standalone",
+  "fg": [
+    "m26_mass_standalone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

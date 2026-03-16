@@ -1,0 +1,10 @@
+{
+  "id": ["ruger_mk4"],
+  "fg": [
+    "ruger_mk4"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

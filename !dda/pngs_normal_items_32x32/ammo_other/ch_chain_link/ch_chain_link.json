@@ -1,7 +1,7 @@
 {
   "id": "ch_chain_link",
   "fg": [
-    "chain_link"
+    "ch_chain_link"
   ],
   "bg": [],
   "rotates": false

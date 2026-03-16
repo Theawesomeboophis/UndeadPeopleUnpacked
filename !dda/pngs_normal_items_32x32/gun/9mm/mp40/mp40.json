@@ -1,8 +1,10 @@
 {
   "id": "mp40",
   "fg": [
-    "hk_mp5"
+    "mp40"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

@@ -1,0 +1,10 @@
+{
+  "id": "shotgun_triple",
+  "fg": [
+    "shotgun_d"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

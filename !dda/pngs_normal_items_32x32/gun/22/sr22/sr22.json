@@ -1,0 +1,10 @@
+{
+  "id": ["sr22"],
+  "fg": [
+    "sr22"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

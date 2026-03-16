@@ -1,0 +1,10 @@
+{
+  "id": "ar12_shotgun_var_boss25",
+  "fg": [
+    "ar12_shotgun_var_boss25"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

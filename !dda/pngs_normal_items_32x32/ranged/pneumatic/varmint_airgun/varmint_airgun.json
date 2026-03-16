@@ -1,0 +1,10 @@
+{
+  "id": "varmint_airgun",
+  "fg": [
+    "varmint_airgun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

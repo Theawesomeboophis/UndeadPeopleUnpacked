@@ -1,0 +1,10 @@
+{
+  "id": ["marlin60"],
+  "fg": [
+    "marlin60"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,8 +1,10 @@
 {
   "id": "m4_carlgustav",
   "fg": [
-    "m3_carlgustav"
+    "m4_carlgustav"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }
