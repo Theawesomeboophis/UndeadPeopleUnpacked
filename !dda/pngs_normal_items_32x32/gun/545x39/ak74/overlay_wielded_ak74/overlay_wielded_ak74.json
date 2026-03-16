@@ -1,5 +1,7 @@
 {
-  "id": "overlay_wielded_ak74",
+  "id": [
+    "overlay_wielded_ak74", "overlay_wielded_ak74_semi"
+  ],
   "fg": [
     "overlay_wielded_ak74"
   ],
