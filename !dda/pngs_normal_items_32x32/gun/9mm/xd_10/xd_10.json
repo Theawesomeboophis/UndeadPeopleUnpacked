@@ -1,8 +1,10 @@
 {
   "id": "xd_10",
   "fg": [
-    "glock_19"
+    "xd_10"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

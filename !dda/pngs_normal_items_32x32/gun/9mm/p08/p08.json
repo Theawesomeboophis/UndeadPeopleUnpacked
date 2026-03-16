@@ -1,8 +1,10 @@
 {
   "id": "p08",
   "fg": [
-    "glock_17"
+    "p08"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

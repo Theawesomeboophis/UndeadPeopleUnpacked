@@ -1,8 +1,10 @@
 {
   "id": "px4",
   "fg": [
-    "glock_17"
+    "px4"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }
