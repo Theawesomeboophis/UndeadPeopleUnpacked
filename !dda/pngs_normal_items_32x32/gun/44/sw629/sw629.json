@@ -1,7 +1,13 @@
 {
-  "id": "sw629",
+  "id": [
+    "sw_629",
+    "sw629"
+  ],
   "fg": [
     "sw629"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }
