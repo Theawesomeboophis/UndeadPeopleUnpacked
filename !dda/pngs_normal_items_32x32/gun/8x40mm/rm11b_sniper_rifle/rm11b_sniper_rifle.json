@@ -3,5 +3,8 @@
   "fg": [
     "rm11b_sniper_rifle"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }
