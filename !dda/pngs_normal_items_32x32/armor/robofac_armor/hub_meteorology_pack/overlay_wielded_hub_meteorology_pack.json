@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_hub_meteorology_pack",
   "fg": [
-    "hub_meteorology_pack"
+    "overlay_wielded_hub_meteorology_pack"
   ],
   "bg": [],
   "rotates": true
