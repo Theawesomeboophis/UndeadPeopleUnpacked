@@ -54,10 +54,11 @@
     },
     {
       "id": "unconnected",
-      "fg": [],
-      "bg": [
-        "f_exodii_generator_3_unconnected"
-      ]
+      "fg": [
+        "f_exodii_generator_3_unconnected",
+		"f_exodii_generator_3_unconnected"
+      ],
+      "bg": []
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "id": [ "f_oil_press_industrial", "ap_oil_press_industrial" ],
+  "fg": [
+    "f_oil_press_industrial_1"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_oil_press_industrial_1"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_1"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_2",
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_4"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_oil_press_industrial_2",
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_4",
+        "f_oil_press_industrial_1"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_oil_press_industrial_2",
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_2",
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_4",
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_4",
+        "f_oil_press_industrial_1"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_2",
+        "f_oil_press_industrial_1",
+        "f_oil_press_industrial_4"
+      ]
+    }
+  ]
+}
