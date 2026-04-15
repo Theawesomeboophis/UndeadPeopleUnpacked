@@ -2,18 +2,74 @@
   "id": "f_toilet",
   "fg": [
     {
-      "weight": 1000,
+      "weight": 25,
       "sprite": "f_toilet"
     },
     {
-      "weight": 100,
+      "weight": 1,
       "sprite": "f_toilet_broken"
     },
     {
-      "weight": 10,
+      "weight": 1,
       "sprite": "f_toilet_broken_1"
     }
   ],
-  "bg": [],
-  "rotates": false
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_toilet"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_toilet_3",
+        "f_toilet",
+        "f_toilet",
+        "f_toilet_3"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_toilet_3",
+        "f_toilet_2",
+        "f_toilet",
+        "f_toilet_4"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_toilet_2",
+        "f_toilet",
+        "f_toilet_4",
+        "f_toilet_3"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_toilet_2",
+        "f_toilet",
+        "f_toilet_2",
+        "f_toilet",
+        "f_toilet_4",
+        "f_toilet_3",
+        "f_toilet_4",
+        "f_toilet_3"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_toilet",
+        "f_toilet_2",
+        "f_toilet_3",
+        "f_toilet_4"
+      ]
+    }
+  ]
 }

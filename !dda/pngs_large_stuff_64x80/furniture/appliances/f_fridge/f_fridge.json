@@ -1,8 +1,34 @@
 {
-  "id": "f_fridge",
-  "fg": [
-    "f_fridge"
+  "id": [
+    "f_fridge",
+	"ap_fridge",
+    "f_display_fridge",
+    "ap_display_fridge",
+    "f_heavy_duty_fridge",
+	"ap_heavy_duty_fridge",
+    "f_minifridge",
+	"ap_minifridge",
+    "big_portable_fridge",
+	"ap_big_portable_fridge",
+	"f_glass_fridge_double",
+	"ap_glass_fridge_double",
+	"ap_apartment_freezer",
+	"f_minifreezer",
+	"ap_minifreezer",
+	"f_chest_minifreezer",
+	"ap_chest_minifreezer",
+	"chest_minifreezer",
+	"ap_chest_freezer",
+	"f_heavy_duty_freezer",
+	"ap_heavy_duty_freezer",
+	"f_display_freezer",
+	"ap_display_freezer",
+	"big_portable_freezer",
+	"ap_big_portable_freezer",
+	"f_glass_freezer",
+	"ap_glass_freezer"
   ],
-  "bg": [],
-  "rotates": false
+  "rotates": true,
+  "fg": [ "f_fridge", "f_fridge_2", "f_fridge_3", "f_fridge_4" ],
+  "bg": ""
 }

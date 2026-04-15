@@ -1,8 +1,6 @@
 {
-  "id": ["f_oven", "fake_oven"],
-  "fg": [
-    "f_oven"
-  ],
-  "bg": [],
-  "rotates": false
+  "id": ["f_oven", "ap_oven", "fake_oven"],
+  "rotates": true,
+  "fg": [ "f_oven", "f_oven_2", "f_oven_3", "f_oven_4" ],
+  "bg": ""
 }

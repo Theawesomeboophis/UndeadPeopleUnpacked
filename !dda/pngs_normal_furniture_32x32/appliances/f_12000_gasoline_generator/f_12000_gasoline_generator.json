@@ -1,5 +1,5 @@
 {
-  "id": ["ap_12000_gasoline_generator", "12000_gasoline_generator", "f_12000_gasoline_generator"],
+  "id": ["vp_ap_12000_gasoline_generator", "ap_12000_gasoline_generator", "12000_gasoline_generator", "f_12000_gasoline_generator"],
   "fg": [
     "f_12000_gasoline_generator"
   ],

@@ -1,8 +1,64 @@
 {
-  "id": ["f_gas_oven"],
+  "id": "f_gas_oven",
   "fg": [
     "f_gas_oven"
   ],
-  "bg": [],
-  "rotates": false
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_gas_oven"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_gas_oven_3",
+        "f_gas_oven",
+        "f_gas_oven",
+        "f_gas_oven_3"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_gas_oven_3",
+        "f_gas_oven_2",
+        "f_gas_oven",
+        "f_gas_oven_4"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_gas_oven_2",
+        "f_gas_oven",
+        "f_gas_oven_4",
+        "f_gas_oven_3"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_gas_oven_2",
+        "f_gas_oven",
+        "f_gas_oven_2",
+        "f_gas_oven",
+        "f_gas_oven_4",
+        "f_gas_oven_3",
+        "f_gas_oven_4",
+        "f_gas_oven_3"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_gas_oven",
+        "f_gas_oven_2",
+        "f_gas_oven_3",
+        "f_gas_oven_4"
+      ]
+    }
+  ]
 }
