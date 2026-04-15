@@ -1,0 +1,10 @@
+{
+  "id": "psl",
+  "fg": [
+    "psl"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
