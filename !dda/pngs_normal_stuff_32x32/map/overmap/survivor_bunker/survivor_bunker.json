@@ -1,0 +1,14 @@
+[
+	{
+	  "id": [ "survivor_bunker_f0", "ws_survivor_bunker_f0" ],
+	  "fg": [ "survivor_bunker" ],
+	  "bg": [ "field_3" ],
+	  "rotates": false
+	},
+	{
+	  "id": [ "survivor_bunker_f-1", "ws_survivor_bunker_f" ],
+	  "fg": [ "mine_shaft_middle" ],
+	  "bg": [],
+	  "rotates": false
+	}
+]

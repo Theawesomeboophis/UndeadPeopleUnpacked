@@ -1,0 +1,24 @@
+[
+    {
+        "id": "lab_surface_brick_basementE1",
+        "fg": [
+            "lab_surface_brick_basementE1_south",
+            "lab_surface_brick_basementE1_east",
+            "lab_surface_brick_basementE1_north",
+            "lab_surface_brick_basementE1_west"
+        ],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_basementD1_hidden_lab_stairs",
+        "fg": [
+            "lab_surface_brick_basementD1_hidden_lab_stairs_south",
+            "lab_surface_brick_basementD1_hidden_lab_stairs_east",
+            "lab_surface_brick_basementD1_hidden_lab_stairs_north",
+            "lab_surface_brick_basementD1_hidden_lab_stairs_west"
+        ],
+        "bg": [],
+        "rotates": true
+    }
+]
