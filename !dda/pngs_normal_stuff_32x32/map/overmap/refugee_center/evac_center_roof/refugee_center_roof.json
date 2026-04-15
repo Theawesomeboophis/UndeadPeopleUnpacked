@@ -130,5 +130,14 @@
             "open_air"
         ],
         "rotates": true
+    },
+    {
+        "id": [
+            "evac_center_12_z2",
+            "evac_center_13_z2",
+            "evac_center_14_z2"
+        ],
+        "fg": ["open_air"],
+        "bg": []
     }
 ]

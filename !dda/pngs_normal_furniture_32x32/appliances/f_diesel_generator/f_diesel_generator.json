@@ -1,5 +1,5 @@
 {
-  "id": ["ap_diesel_generator", "diesel_generator", "f_diesel_generator"],
+  "id": ["vp_ap_diesel_generator", "ap_diesel_generator", "diesel_generator", "f_diesel_generator"],
   "fg": [
     "f_diesel_generator"
   ],

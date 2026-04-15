@@ -1,0 +1,42 @@
+[
+{
+  "id": [
+    "farm_dairy_twd_1",
+    "farm_dairy_twd_2",
+    "farm_dairy_twd_9",
+    "farm_dairy_twd_10"
+  ],
+  "fg": ["generic_pasture"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "farm_dairy_twd_5",
+    "farm_dairy_twd_6",
+    "farm_dairy_twd_12"
+  ],
+  "fg": ["barn"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "farm_dairy_twd_3",
+    "farm_dairy_twd_4"
+  ],
+  "fg": ["cabin"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "farm_dairy_twd_7",
+    "farm_dairy_twd_8",
+    "farm_dairy_twd_11"
+  ],
+  "fg": ["bg_dirt"],
+  "bg": [],
+  "rotates": false
+}
+]

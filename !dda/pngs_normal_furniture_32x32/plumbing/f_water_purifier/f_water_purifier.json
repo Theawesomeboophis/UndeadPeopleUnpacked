@@ -1,5 +1,8 @@
 {
-  "id": "f_water_purifier",
+  "id": [
+    "f_water_purifier",
+	"ap_water_purifier"
+  ],
   "fg": [
     "f_water_purifier"
   ],

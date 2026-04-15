@@ -1,0 +1,21 @@
+{
+  "id": "nether_creature_sense",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "nether_creature_sense"
+    },
+    {
+      "weight": 30,
+      "sprite": "nether_creature_sense_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "nether_creature_sense_3"
+    }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+  
+}

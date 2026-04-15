@@ -1,0 +1,252 @@
+[
+    {
+        "id": "lab_surface_brick_blockA0",
+        "fg": [
+            "lab_surface_brick_blockA0_north",
+            "lab_surface_brick_blockA0_west",
+            "lab_surface_brick_blockA0_south",
+            "lab_surface_brick_blockA0_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockB0",
+        "fg": [
+            "lab_surface_brick_blockB0_north",
+            "lab_surface_brick_blockB0_west",
+            "lab_surface_brick_blockB0_south",
+            "lab_surface_brick_blockB0_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockC0",
+        "fg": [
+            "lab_surface_brick_blockC0_north",
+            "lab_surface_brick_blockC0_west",
+            "lab_surface_brick_blockC0_south",
+            "lab_surface_brick_blockC0_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockD0",
+        "fg": [
+            "lab_surface_brick_blockD0_north",
+            "lab_surface_brick_blockD0_west",
+            "lab_surface_brick_blockD0_south",
+            "lab_surface_brick_blockD0_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockE0",
+        "fg": [
+            "lab_surface_brick_blockE0_north",
+            "lab_surface_brick_blockE0_west",
+            "lab_surface_brick_blockE0_south",
+            "lab_surface_brick_blockE0_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockA1",
+        "fg": [
+            "lab_surface_brick_blockA1_north",
+            "lab_surface_brick_blockA1_west",
+            "lab_surface_brick_blockA1_south",
+            "lab_surface_brick_blockA1_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockB1",
+        "fg": [
+            "lab_surface_brick_blockB1_north",
+            "lab_surface_brick_blockB1_west",
+            "lab_surface_brick_blockB1_south",
+            "lab_surface_brick_blockB1_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockC1",
+        "fg": [
+            "lab_surface_brick_blockC1_north",
+            "lab_surface_brick_blockC1_west",
+            "lab_surface_brick_blockC1_south",
+            "lab_surface_brick_blockC1_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockD1",
+        "fg": [
+            "lab_surface_brick_blockD1_north",
+            "lab_surface_brick_blockD1_west",
+            "lab_surface_brick_blockD1_south",
+            "lab_surface_brick_blockD1_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockE1",
+        "fg": [
+            "lab_surface_brick_blockE1_north",
+            "lab_surface_brick_blockE1_west",
+            "lab_surface_brick_blockE1_south",
+            "lab_surface_brick_blockE1_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockA2",
+        "fg": [
+            "lab_surface_brick_blockA2_north",
+            "lab_surface_brick_blockA2_west",
+            "lab_surface_brick_blockA2_south",
+            "lab_surface_brick_blockA2_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockB2",
+        "fg": [
+            "lab_surface_brick_blockB2_north",
+            "lab_surface_brick_blockB2_west",
+            "lab_surface_brick_blockB2_south",
+            "lab_surface_brick_blockB2_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockC2",
+        "fg": [
+            "lab_surface_brick_blockC2_north",
+            "lab_surface_brick_blockC2_west",
+            "lab_surface_brick_blockC2_south",
+            "lab_surface_brick_blockC2_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockD2",
+        "fg": [
+            "lab_surface_brick_blockD2_north",
+            "lab_surface_brick_blockD2_west",
+            "lab_surface_brick_blockD2_south",
+            "lab_surface_brick_blockD2_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockE2",
+        "fg": [
+            "lab_surface_brick_blockE2_north",
+            "lab_surface_brick_blockE2_west",
+            "lab_surface_brick_blockE2_south",
+            "lab_surface_brick_blockE2_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockA3",
+        "fg": [
+            "lab_surface_brick_blockA3_north",
+            "lab_surface_brick_blockA3_west",
+            "lab_surface_brick_blockA3_south",
+            "lab_surface_brick_blockA3_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockB3",
+        "fg": [
+            "lab_surface_brick_blockB3_north",
+            "lab_surface_brick_blockB3_west",
+            "lab_surface_brick_blockB3_south",
+            "lab_surface_brick_blockB3_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockC3",
+        "fg": [
+            "lab_surface_brick_blockC3_north",
+            "lab_surface_brick_blockC3_west",
+            "lab_surface_brick_blockC3_south",
+            "lab_surface_brick_blockC3_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockD3",
+        "fg": [
+            "lab_surface_brick_blockD3_north",
+            "lab_surface_brick_blockD3_west",
+            "lab_surface_brick_blockD3_south",
+            "lab_surface_brick_blockD3_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockE3",
+        "fg": [
+            "lab_surface_brick_blockE3_north",
+            "lab_surface_brick_blockE3_west",
+            "lab_surface_brick_blockE3_south",
+            "lab_surface_brick_blockE3_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockA4",
+        "fg": [
+            "lab_surface_brick_blockA4_north",
+            "lab_surface_brick_blockA4_west",
+            "lab_surface_brick_blockA4_south",
+            "lab_surface_brick_blockA4_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockB4",
+        "fg": [
+            "lab_surface_brick_blockB4_north",
+            "lab_surface_brick_blockB4_west",
+            "lab_surface_brick_blockB4_south",
+            "lab_surface_brick_blockB4_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockC4",
+        "fg": [
+            "lab_surface_brick_blockC4_north",
+            "lab_surface_brick_blockC4_west",
+            "lab_surface_brick_blockC4_south",
+            "lab_surface_brick_blockC4_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockD4",
+        "fg": [
+            "lab_surface_brick_blockD4_north",
+            "lab_surface_brick_blockD4_west",
+            "lab_surface_brick_blockD4_south",
+            "lab_surface_brick_blockD4_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "lab_surface_brick_blockE4",
+        "fg": [
+            "lab_surface_brick_blockE4_north",
+            "lab_surface_brick_blockE4_west",
+            "lab_surface_brick_blockE4_south",
+            "lab_surface_brick_blockE4_east"
+        ],
+        "rotates": true
+    }
+]

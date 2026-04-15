@@ -1,0 +1,23 @@
+[
+{
+  "id": [
+    "farm_dairy_twd_second_floor_5",
+    "farm_dairy_twd_second_floor_6",
+    "farm_dairy_twd_second_floor_12"
+  ],
+  "fg": ["barn_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+},
+{
+  "id": [
+    "farm_dairy_twd_second_floor_3",
+    "farm_dairy_twd_second_floor_4",
+    "farm_dairy_twd_3_roof",
+    "farm_dairy_twd_4_roof"
+  ],
+  "fg": ["cabin_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+}
+]

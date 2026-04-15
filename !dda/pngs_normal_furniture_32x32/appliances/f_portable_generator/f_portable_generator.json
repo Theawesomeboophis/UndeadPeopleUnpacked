@@ -1,5 +1,5 @@
 {
-  "id": ["ap_portable_generator", "portable_generator", "f_portable_generator"],
+  "id": ["vp_ap_portable_generator", "ap_portable_generator", "portable_generator", "f_portable_generator"],
   "fg": [
     "f_portable_generator"
   ],

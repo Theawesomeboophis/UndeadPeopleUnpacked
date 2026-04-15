@@ -1,7 +1,7 @@
 {
   "id": "f_spinwheel_cordage",
   "fg": [
-    "f_spinwheel"
+    "f_spinwheel_cordage"
   ],
   "bg": [],
   "rotates": false

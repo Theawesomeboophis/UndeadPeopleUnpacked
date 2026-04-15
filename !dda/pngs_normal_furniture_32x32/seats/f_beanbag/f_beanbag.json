@@ -1,0 +1,8 @@
+{
+  "id": "f_beanbag",
+  "fg": [
+    "f_beanbag_s", "f_beanbag_w", "f_beanbag_n", "f_beanbag_e"
+  ],
+  "bg": [""],
+  "rotates": true
+}

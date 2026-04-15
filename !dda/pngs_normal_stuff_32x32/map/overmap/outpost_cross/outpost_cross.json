@@ -1,6 +1,14 @@
-{
-  "id": ["outpost_cross", "outpost"],
-  "fg": ["outpost_cross"],
-  "bg": [],
-  "rotates": false
-}
+[
+	{
+	  "id": ["outpost_cross", "outpost"],
+	  "fg": ["outpost_cross"],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": ["outpost_parking"],
+	  "fg": ["generic_parking_lot"],
+	  "bg": [],
+	  "rotates": false
+	}
+]

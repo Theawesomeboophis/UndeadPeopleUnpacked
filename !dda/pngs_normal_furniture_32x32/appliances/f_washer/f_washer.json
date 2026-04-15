@@ -1,8 +1,9 @@
 {
-  "id": "f_washer",
-  "fg": [
-    "f_washer"
+  "id": [
+    "f_washer",
+	"ap_washing_machine"
   ],
-  "bg": [],
-  "rotates": false
+  "rotates": true,
+  "fg": [ "f_washer", "f_washer_2", "f_washer_3", "f_washer_4" ],
+  "bg": ""
 }

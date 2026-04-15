@@ -1,5 +1,5 @@
 {
-  "id": ["ap_military_generator", "military_generator", "f_military_generator"],
+  "id": ["vp_ap_military_generator", "ap_military_generator", "military_generator", "f_military_generator"],
   "fg": [
     "f_military_generator"
   ],
