@@ -1,0 +1,11 @@
+{
+  "id": [
+    "f_catalytic_cracking_reactor",
+	"ap_catalytic_cracking_reactor"
+  ],
+  "fg": [
+    "f_catalytic_cracking_reactor"
+  ],
+  "bg": [],
+  "rotates": false
+}
