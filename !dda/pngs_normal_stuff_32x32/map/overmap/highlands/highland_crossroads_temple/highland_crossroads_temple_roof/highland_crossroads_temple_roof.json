@@ -1,0 +1,14 @@
+[
+{
+  "id": ["highland_crossroads_temple_above"],
+  "fg": ["highland_crossroads_temple_above"],
+  "bg": ["open_air"],
+  "rotates": false
+},
+{
+  "id": ["highland_crossroads_temple_above2"],
+  "fg": ["highland_crossroads_temple_above2"],
+  "bg": ["open_air"],
+  "rotates": false
+}
+]
