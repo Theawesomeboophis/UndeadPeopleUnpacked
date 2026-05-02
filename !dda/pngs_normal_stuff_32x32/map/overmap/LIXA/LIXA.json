@@ -1,0 +1,75 @@
+[
+    {
+        "id": [
+            "LIXA_road",
+			"LIXA_entry_2",
+            "LIXA_road_guard"
+        ],
+        "fg": [
+            "road_edge_1"
+        ],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": [
+			"LIXA_entry_1"
+        ],
+        "fg": [
+            "field_3"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "LIXA_road_guard_roof"
+        ],
+        "fg": ["open_air"],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": [
+			"LIXA_roof_1a",
+			"LIXA_roof_1b",
+			"LIXA_roof_2a",
+			"LIXA_roof_2b",
+			"LIXA_surface_1a",
+			"LIXA_surface_1b",
+			"LIXA_surface_2a",
+			"LIXA_surface_2b",
+			"LIXA_stairshaft_1a",
+			"LIXA_stairshaft_1b",
+			"LIXA_stairshaft_1c",
+			"LIXA_stairshaft_1d",
+			"LIXA_stairshaft_2a",
+			"LIXA_stairshaft_2b",
+			"LIXA_stairshaft_2c",
+			"LIXA_stairshaft_2d"
+        ],
+        "fg": [
+            "LIXA"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+			"LIXA_workfloor_1a",
+			"LIXA_workfloor_1b",
+			"LIXA_workfloor_2a",
+			"LIXA_workfloor_2b",
+			"LIXA_device_1",
+			"LIXA_device_2",
+			"LIXA_device_3",
+			"LIXA_device_2_roof",
+			"LIXA_device_3_roof"
+        ],
+        "fg": [
+            "lab"
+        ],
+        "bg": [],
+        "rotates": false
+    }
+]

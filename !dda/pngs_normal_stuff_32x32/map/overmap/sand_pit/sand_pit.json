@@ -61,19 +61,19 @@
 	},
 	{
 	  "id": ["sand_pit_NW_down"],
-	  "fg": ["sand_pit_NW_down_north", "sand_pit_NW_down_east", "sand_pit_NW_down_south", "sand_pit_NW_down_west"],
+	  "fg": ["sand_pit_NW_down_north", "sand_pit_NW_down_west", "sand_pit_NW_down_south", "sand_pit_NW_down_east"],
 	  "bg": [],
 	  "rotates": true
 	},
 	{
 	  "id": ["sand_pit_W_down"],
-	  "fg": ["sand_pit_W_down_north", "sand_pit_W_down_east", "sand_pit_W_down_south", "sand_pit_W_down_west"],
+	  "fg": ["sand_pit_W_down_north", "sand_pit_W_down_west", "sand_pit_W_down_south", "sand_pit_W_down_east"],
 	  "bg": [],
 	  "rotates": true
 	},
 	{
 	  "id": ["sand_pit_SW_down"],
-	  "fg": ["sand_pit_SW_down_north", "sand_pit_SW_down_east", "sand_pit_SW_down_south", "sand_pit_SW_down_west"],
+	  "fg": ["sand_pit_SW_down_north", "sand_pit_SW_down_west", "sand_pit_SW_down_south", "sand_pit_SW_down_east"],
 	  "bg": [],
 	  "rotates": true
 	}

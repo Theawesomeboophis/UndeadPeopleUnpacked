@@ -1,27 +1,43 @@
 [
-  { 
-	"id": ["sewage_treatment_1_0_0_west"], 
-	"fg": ["sewage_treatment_1_0_0_west"],
-    "bg": [],
-    "rotates": false
+  {
+	"id": ["sewage_treatment_0_0_0"],
+	"fg": [
+	   "sewage_treatment_0_0_0_north",
+	   "sewage_treatment_0_0_0_east",
+	   "sewage_treatment_0_0_0_south",
+	   "sewage_treatment_0_0_0_west"
+	],
+	"rotates": true
+  },
+  {
+	"id": ["sewage_treatment_1_0_0"], 
+	"fg": [
+       "sewage_treatment_1_0_0_north",
+	   "sewage_treatment_1_0_0_east",
+	   "sewage_treatment_1_0_0_south",
+	   "sewage_treatment_1_0_0_west" 
+    ],
+	"rotates": true
+  },
+  {
+	  "id": ["sewage_treatment_0_1_0"], 
+	  "fg": [
+		 "sewage_treatment_0_1_0_north",
+		 "sewage_treatment_0_1_0_east",
+		 "sewage_treatment_0_1_0_south",
+		 "sewage_treatment_0_1_0_west" 
+	],
+	"rotates": true
   },
   { 
-	"id": ["sewage_treatment_1_1_0_west"], 
-	"fg": ["sewage_treatment_1_1_0_west"],
-    "bg": [],
-    "rotates": false
-  },
-  { 
-	"id": ["sewage_treatment_0_1_0_west"], 
-	"fg": ["sewage_treatment_0_1_0_west"],
-    "bg": [],
-    "rotates": false
-  },
-  { 
-	"id": ["sewage_treatment_0_0_0_west"], 
-	"fg": ["sewage_treatment_0_0_0_west"],
-    "bg": [],
-    "rotates": false
+	"id": ["sewage_treatment_1_1_0"], 
+	"fg": [
+	   "sewage_treatment_1_1_0_north",
+	   "sewage_treatment_1_1_0_east",
+	   "sewage_treatment_1_1_0_south",
+	   "sewage_treatment_1_1_0_west"
+	],
+	"rotates": true
   },
   { 
 	"id": [

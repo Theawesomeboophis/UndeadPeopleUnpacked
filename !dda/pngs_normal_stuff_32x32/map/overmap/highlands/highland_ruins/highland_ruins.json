@@ -1,0 +1,27 @@
+{
+  "id": ["highland_ruins"],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "highland_ruins_5"
+    }
+  ],
+  "bg": "refctr_W_grass_1",
+  "rotates": false
+}

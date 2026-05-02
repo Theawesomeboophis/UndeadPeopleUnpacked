@@ -1,0 +1,8 @@
+[
+	{
+	  "id": ["shelter_roof", "shelter_roof_1", "shelter_roof_2", "shelter_roof_1b"],
+	  "fg": ["shelter_roof"],
+	  "bg": ["open_air"],
+	  "rotates": false
+	}
+]

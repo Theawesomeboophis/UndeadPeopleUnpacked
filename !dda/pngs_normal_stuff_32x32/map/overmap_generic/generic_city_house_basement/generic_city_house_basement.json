@@ -13,7 +13,9 @@
 	        "office_skyscraper_1",
 	        "office_skyscraper_2",
 	        "office_skyscraper_3",
-	        "office_skyscraper_4"
+	        "office_skyscraper_4",
+	        "cabin_strange_b",
+	        "urban_25_sewer_connector"
           ],
                "fg": [
             { "weight": 25, "sprite": [ "generic_city_house_basement_1" ] },

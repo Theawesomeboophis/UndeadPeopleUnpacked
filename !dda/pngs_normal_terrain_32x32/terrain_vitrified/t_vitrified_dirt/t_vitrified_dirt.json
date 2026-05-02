@@ -1,0 +1,31 @@
+{
+  "id": "t_vitrified_dirt",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_vitrified_dirt_5"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

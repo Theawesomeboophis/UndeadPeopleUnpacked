@@ -1,0 +1,1828 @@
+[
+    {
+        "id": "hw_clover_leaf_0_-5",
+        "fg": [
+            "hw_road_north"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_-4",
+        "fg": [
+            "hw_clover_leaf_-3_-4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-2_-4",
+        "fg": [
+            "hw_clover_leaf_-2_-4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_-4",
+        "fg": [
+            "hw_clover_leaf_-1_-4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_0_-4",
+        "fg": [
+            "hw_clover_leaf_0_-4"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_1_-4",
+        "fg": [
+            "hw_clover_leaf_1_-4"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_-4",
+        "fg": [
+            "hw_clover_leaf_2_-4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_3_-4",
+        "fg": [
+            "hw_clover_leaf_3_-4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_-4",
+        "fg": [
+            "hw_clover_leaf_4_-4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-4_-3",
+        "fg": [
+            "hw_clover_leaf_-4_-3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_-3",
+        "fg": [
+            "hw_clover_leaf_-3_-3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-2_-3",
+        "fg": [
+            "hw_clover_leaf_-2_-3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_-3",
+        "fg": [
+            "hw_clover_leaf_-1_-3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_0_-3",
+        "fg": [
+            "hw_clover_leaf_0_-3"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_1_-3",
+        "fg": [
+            "hw_clover_leaf_1_-3"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_-3",
+        "fg": [
+            "hw_clover_leaf_2_-3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_3_-3",
+        "fg": [
+            "hw_clover_leaf_3_-3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_-3",
+        "fg": [
+            "hw_clover_leaf_4_-3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_5_-3",
+        "fg": [
+            "hw_clover_leaf_5_-3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-4_-2",
+        "fg": [
+            "hw_clover_leaf_-4_-2"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_-2",
+        "fg": [
+            "hw_clover_leaf_-3_-2"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_-2",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_0_-2",
+        "fg": [
+            "hw_road_north"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_1_-2",
+        "fg": [
+            "hw_road_south"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_-2",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_-2",
+        "fg": [
+            "hw_clover_leaf_4_-2"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_5_-2",
+        "fg": [
+            "hw_clover_leaf_5_-2"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-4_-1",
+        "fg": [
+            "hw_clover_leaf_-4_-1"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_-1",
+        "fg": [
+            "hw_clover_leaf_-3_-1"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-2_-1",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_-1",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_-1",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_3_-1",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_-1",
+        "fg": [
+            "hw_clover_leaf_4_-1"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_5_-1",
+        "fg": [
+            "hw_clover_leaf_5_-1"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-4_0",
+        "fg": [
+            "hw_clover_leaf_-4_0"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_0",
+        "fg": [
+            "hw_clover_leaf_-3_0"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-2_0",
+        "fg": [
+            "hw_road_east"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_0",
+        "fg": [
+            "hw_road_east"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_0",
+        "fg": [
+            "hw_road_east"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_0",
+        "fg": [
+            "hw_clover_leaf_4_0"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_5_0",
+        "fg": [
+            "hw_clover_leaf_5_0"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_6_0",
+        "fg": [
+            "hw_road_east"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-5_1",
+        "fg": [
+            "hw_road_west"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-4_1",
+        "fg": [
+            "hw_clover_leaf_-4_1"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_1",
+        "fg": [
+            "hw_clover_leaf_-3_1"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-2_1",
+        "fg": [
+            "hw_road_west"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_1",
+        "fg": [
+            "hw_road_west"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_1",
+        "fg": [
+            "hw_road_west"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_1",
+        "fg": [
+            "hw_clover_leaf_4_1"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_5_1",
+        "fg": [
+            "hw_clover_leaf_5_1"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-4_2",
+        "fg": [
+            "hw_clover_leaf_-4_2"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_2",
+        "fg": [
+            "hw_clover_leaf_-3_2"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-2_2",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_2",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_2",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_3_2",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_2",
+        "fg": [
+            "hw_clover_leaf_4_2"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_5_2",
+        "fg": [
+            "hw_clover_leaf_5_2"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-4_3",
+        "fg": [
+            "hw_clover_leaf_-4_3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_3",
+        "fg": [
+            "hw_clover_leaf_-3_3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_3",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_3",
+        "fg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_3",
+        "fg": [
+            "hw_clover_leaf_4_3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_5_3",
+        "fg": [
+            "hw_clover_leaf_5_3"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-4_4",
+        "fg": [
+            "hw_clover_leaf_-4_4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_4",
+        "fg": [
+            "hw_clover_leaf_-3_4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-2_4",
+        "fg": [
+            "hw_clover_leaf_-2_4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_4",
+        "fg": [
+            "hw_clover_leaf_-1_4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_0_4",
+        "fg": [
+            "hw_clover_leaf_0_4"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_1_4",
+        "fg": [
+            "hw_clover_leaf_1_4"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_4",
+        "fg": [
+            "hw_clover_leaf_2_4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_3_4",
+        "fg": [
+            "hw_clover_leaf_3_4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_4",
+        "fg": [
+            "hw_clover_leaf_4_4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_5_4",
+        "fg": [
+            "hw_clover_leaf_5_4"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-3_5",
+        "fg": [
+            "hw_clover_leaf_-3_5"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-2_5",
+        "fg": [
+            "hw_clover_leaf_-2_5"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_-1_5",
+        "fg": [
+            "hw_clover_leaf_-1_5"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_0_5",
+        "fg": [
+            "hw_clover_leaf_0_5"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_1_5",
+        "fg": [
+            "hw_clover_leaf_1_5"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_2_5",
+        "fg": [
+            "hw_clover_leaf_2_5"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_3_5",
+        "fg": [
+            "hw_clover_leaf_3_5"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_4_5",
+        "fg": [
+            "hw_clover_leaf_4_5"
+        ],
+        "bg": [
+		{
+		  "weight": 3,
+		  "sprite": "field_1"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_2"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_3"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_4"
+		},
+		{
+		  "weight": 3,
+		  "sprite": "field_5"
+		}
+	  ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_1_6",
+        "fg": [
+            "hw_road_south"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_bridge_-1_0",
+        "fg": [
+            "hw_road_east"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_bridge_0_0",
+        "fg": [
+            "hw_road_east"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_bridge_2_0",
+        "fg": [
+            "hw_road_east"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_bridge_-1_1",
+        "fg": [
+            "hw_road_west"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_bridge_0_1",
+        "fg": [
+            "hw_road_west"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_clover_leaf_bridge_2_1",
+        "fg": [
+            "hw_road_west"
+        ],
+        "rotates": false
+    }
+]

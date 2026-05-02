@@ -1,54 +1,51 @@
 [
   {
-	"id": ["sewage_treatment_0_0_roof"], 
+	"id": ["sewage_treatment_0_0_roof"],
 	"fg": ["sewage_treatment_0_0_roof"],
-	"bg": ["open_air"],
-	"rotates": false
+	"bg": ["open_air"]
   },
   {
-	"id": ["sewage_treatment_0_1_roof"], 
-	"fg": ["sewage_treatment_0_0_roof"],
+	"id": ["sewage_treatment_1_0_roof"], 
+	"fg": [
+       "sewage_treatment_1_0_roof_north",
+	   "sewage_treatment_1_0_roof_east",
+	   "sewage_treatment_1_0_roof_south",
+	   "sewage_treatment_1_0_roof_west" 
+    ],
 	"bg": ["open_air"],
-	"rotates": false
+	"rotates": true
+  },
+  {
+	  "id": ["sewage_treatment_0_1_roof"], 
+	  "fg": [
+		 "sewage_treatment_0_1_roof_north",
+		 "sewage_treatment_0_1_roof_east",
+		 "sewage_treatment_0_1_roof_south",
+		 "sewage_treatment_0_1_roof_west" 
+	],
+	"bg": ["open_air"],
+	"rotates": true
   },
   { 
 	"id": ["sewage_treatment_1_1_roof"], 
-	"fg": ["sewage_treatment_0_0_roof"],
+	"fg": [
+	   "sewage_treatment_1_1_roof_north",
+	   "sewage_treatment_1_1_roof_east",
+	   "sewage_treatment_1_1_roof_south",
+	   "sewage_treatment_1_1_roof_west"
+	],
 	"bg": ["open_air"],
-	"rotates": false
-  },
-  { 
-	"id": ["sewage_treatment_1_0_roof"], 
-	"fg": ["sewage_treatment_0_0_roof"],
-	"bg": ["open_air"],
-	"rotates": false
-  },
-  {
-	"id": ["sewage_treatment_0_0_0_roof"],
-	"fg": ["open_air"]
-  },
-  {
-	"id": ["sewage_treatment_1_0_0_roof"], 
-	"fg": ["sewage_treatment_0_0_roof"],
-	"bg": ["open_air"],
-	"rotates": false
-  },
-  {
-	"id": ["sewage_treatment_0_1_0_roof"], 
-	"fg": ["sewage_treatment_0_0_roof"],
-	"bg": ["open_air"],
-	"rotates": false
-  },
-  { 
-	"id": ["sewage_treatment_1_1_0_roof"], 
-	"fg": ["sewage_treatment_0_0_roof"],
-	"bg": ["open_air"],
-	"rotates": false
+	"rotates": true
   },
   { 
 	"id": ["sewage_treatment_1_0_upper_roof"], 
-	"fg": ["sewage_treatment_0_0_roof"],
+	"fg": [
+	   "sewage_treatment_1_0_upper_roof_north",
+	   "sewage_treatment_1_0_upper_roof_east",
+	   "sewage_treatment_1_0_upper_roof_south",
+	   "sewage_treatment_1_0_upper_roof_west"
+	],
 	"bg": ["open_air"],
-	"rotates": false
+	"rotates": true
   }
 ]

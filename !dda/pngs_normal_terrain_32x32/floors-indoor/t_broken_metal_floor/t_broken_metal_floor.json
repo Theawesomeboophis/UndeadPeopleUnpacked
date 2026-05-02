@@ -1,0 +1,8 @@
+{
+  "id": "t_broken_metal_floor",
+  "fg": [
+          { "weight": 100, "sprite": "t_broken_metal_floor_1" },
+          { "weight": 100, "sprite": "t_broken_metal_floor_2" }
+  ],
+  "bg": []
+}

@@ -1,0 +1,14 @@
+[
+	{
+	  "id": ["balthazar_bunker_01_1"],
+	  "fg": ["balthazar_bunker_01_1_1", "balthazar_bunker_01_1_4", "balthazar_bunker_01_1_3", "balthazar_bunker_01_1_2"],
+	  "bg": ["open_air"],
+	  "rotates": true
+	},
+	{
+	  "id": ["balthazar_bunker_01_2"],
+	  "fg": ["balthazar_bunker_01_2_1", "balthazar_bunker_01_2_4", "balthazar_bunker_01_2_3", "balthazar_bunker_01_2_2"],
+	  "bg": ["open_air"],
+	  "rotates": true
+	}
+]

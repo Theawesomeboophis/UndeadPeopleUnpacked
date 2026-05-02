@@ -1,0 +1,12 @@
+[
+    {
+        "id": "hw_road_bridge",
+        "fg": [
+            "hw_road_west",
+            "hw_road_south",
+            "hw_road_west",
+            "hw_road_north"
+        ],
+        "rotates": true
+    }
+]

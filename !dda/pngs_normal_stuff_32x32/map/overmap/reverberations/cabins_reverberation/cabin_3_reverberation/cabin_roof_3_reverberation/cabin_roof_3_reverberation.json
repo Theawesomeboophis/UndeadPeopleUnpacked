@@ -1,0 +1,15 @@
+[
+    {
+	  "id": [
+		"cabin_roof_3_reverberation"
+	  ],
+
+        "fg": [
+            "cabin_roof"
+        ],
+        "bg": [
+            "open_air"
+        ],
+        "rotates": false
+    }
+]

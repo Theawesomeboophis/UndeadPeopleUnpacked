@@ -1,6 +1,6 @@
 {
-          "id": [ "garage_gas_roof", "garage_gas_roof_1", "garage_gas_roof_2", "garage_gas_roof_3" ],
+  "id": ["garage_gas_roof"],
   "fg": ["garage_gas_roof"],
-  "bg": [],
+  "bg": ["open_air"],
   "rotates": false
 }

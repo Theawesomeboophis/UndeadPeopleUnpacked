@@ -1,0 +1,72 @@
+[
+    {
+        "id": "hw_rest_area_parking_-2_2",
+        "fg": [
+            "road_corner_2",
+            "road_corner_1",
+            "road_corner_4",
+            "road_corner_3"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_rest_area_parking_-1_3",
+        "fg": [
+            "road_corner_2",
+            "road_corner_1",
+            "road_corner_4",
+            "road_corner_3"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_rest_area_parking_-1_-2",
+        "fg": [
+            "road_corner_1",
+            "road_corner_4",
+            "road_corner_3",
+            "road_corner_2"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_rest_area_parking_-2_-1",
+        "fg": [
+            "road_corner_1",
+            "road_corner_4",
+            "road_corner_3",
+            "road_corner_2"
+        ],
+        "rotates": true
+    },
+    {
+        "id": [
+            "hw_rest_area_parking_-1_0",
+            "hw_rest_area_parking_-2_0"
+        ],
+        "fg": [
+            "generic_parking_lot"
+        ],
+        "rotates": false
+    },
+    {
+        "id": "hw_rest_area_parking_-1_2",
+        "fg": [
+            "road_t_connection_4",
+            "road_t_connection_3",
+            "road_t_connection_2",
+            "road_t_connection_1"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_rest_area_parking_-1_-1",
+        "fg": [
+            "road_t_connection_4",
+            "road_t_connection_3",
+            "road_t_connection_2",
+            "road_t_connection_1"
+        ],
+        "rotates": true
+    }
+]

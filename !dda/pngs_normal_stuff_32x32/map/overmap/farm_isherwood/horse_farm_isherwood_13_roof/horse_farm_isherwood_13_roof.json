@@ -1,0 +1,11 @@
+[
+{
+  "id": [
+    "horse_farm_isherwood_13_roof",
+	"horse_farm_isherwood_13_2ndfloor"
+  ],
+  "fg": ["cabin_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+}
+]

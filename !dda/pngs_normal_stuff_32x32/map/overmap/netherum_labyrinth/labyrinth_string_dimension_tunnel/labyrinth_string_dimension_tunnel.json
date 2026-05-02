@@ -1,0 +1,14 @@
+[
+  {
+    "id": ["labyrinth_string_dimension_tunnel_start", "labyrinth_string_dimension_tunnel_end", "labyrinth_string_dimension_tunnel_left", "labyrinth_string_dimension_tunnel_right", "labyrinth_string_dimension_tunnel_over", "labyrinth_string_dimension_tunnel_under", "labyrinth_string_dimension_tunnel_portal"],
+    "fg": [
+	  { "weight": 100, "sprite": "t_nl_chasm_center_1" },
+	  { "weight": 100, "sprite": "t_nl_chasm_center_2" },
+	  { "weight": 100, "sprite": "t_nl_chasm_center_3" },
+	  { "weight": 100, "sprite": "t_nl_chasm_center_4" },
+	  { "weight": 100, "sprite": "t_nl_chasm_center_5" }
+	],
+    "bg": [],
+    "rotates": false
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "hw_supports1",
+        "fg": "hw_supports",
+		"bg": "river_center",
+        "rotates": true
+    },
+    {
+        "id": "hw_supports",
+        "fg": [
+            "hw_road_north",
+            "hw_road_east",
+            "hw_road_south",
+            "hw_road_west"
+        ],
+		"bg": "river_center",
+        "rotates": true
+    }
+]

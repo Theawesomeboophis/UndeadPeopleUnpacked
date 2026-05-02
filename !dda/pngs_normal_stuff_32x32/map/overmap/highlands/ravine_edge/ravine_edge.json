@@ -1,0 +1,19 @@
+{
+  "id": ["ravine_edge"],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "ravine_edge_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "ravine_edge_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "ravine_edge_3"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

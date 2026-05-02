@@ -1,0 +1,20 @@
+[
+  {
+    "id": ["garage_gas_roof_1"],
+    "fg": ["garage_gas_roof_1_north", "garage_gas_roof_1_east", "garage_gas_roof_1_north", "garage_gas_roof_1_east"],
+    "bg": ["open_air"],
+    "rotates": true
+  },
+  {
+    "id": ["garage_gas_roof_2"],
+    "fg": ["garage_gas_roof_2_north", "garage_gas_roof_2_west", "garage_gas_roof_2_south", "garage_gas_roof_2_east"],
+    "bg": ["open_air"],
+    "rotates": true
+  },
+  {
+    "id": ["garage_gas_roof_3"],
+    "fg": ["garage_gas_roof_3_north", "garage_gas_roof_3_west", "garage_gas_roof_3_south", "garage_gas_roof_3_east"],
+    "bg": ["open_air"],
+    "rotates": true
+  }
+]

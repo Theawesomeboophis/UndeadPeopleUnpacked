@@ -1,0 +1,52 @@
+[
+  {
+    "id": ["string_dimension_utility_tunnel_straight"],
+    "fg": [
+      "t_sewage_pipe_edge_1",
+      "t_sewage_pipe_edge_2"
+    ],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": ["string_dimension_utility_tunnel_corner"],
+    "fg": [
+        "t_sewage_pipe_corner_1",
+        "t_sewage_pipe_corner_4",
+        "t_sewage_pipe_corner_3",
+        "t_sewage_pipe_corner_2"
+    ],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": ["string_dimension_utility_tunnel_end"],
+    "fg": [
+        "t_sewage_pipe_end_piece_1",
+        "t_sewage_pipe_end_piece_4",
+        "t_sewage_pipe_end_piece_3",
+        "t_sewage_pipe_end_piece_2"
+    ],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": ["string_dimension_utility_tunnel_T"],
+    "fg": [
+        "t_sewage_pipe_t_connection_2",
+        "t_sewage_pipe_t_connection_1",
+        "t_sewage_pipe_t_connection_4",
+        "t_sewage_pipe_t_connection_3"
+    ],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": ["string_dimension_utility_tunnel_four_way"],
+    "fg": [
+        "t_sewage_pipe_center"
+    ],
+    "bg": [],
+    "rotates": true
+  }
+]

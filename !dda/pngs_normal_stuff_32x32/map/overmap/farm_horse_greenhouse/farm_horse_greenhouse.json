@@ -1,6 +1,16 @@
+[
 {
   "id": ["farm_horse_greenhouse"],
   "fg": ["farm_horse_greenhouse_1", "farm_horse_greenhouse_2"],
-  "bg": [],
+  "bg": ["field_4"],
   "rotates": true
+},
+{
+  "id": [
+    "generic_paddock"
+  ],
+  "fg": ["paddock"],
+  "bg": [],
+  "rotates": false
 }
+]

@@ -1,0 +1,9 @@
+{
+    "id": [
+		"labyrinth_hall",
+		"labyrinth_flooded_hall"
+    ],
+    "fg": ["labyrinth_hall"],
+    "bg": [],
+    "rotates": false
+}
