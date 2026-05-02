@@ -1,0 +1,11 @@
+[{
+  "id": ["dairy_farm_SE_roof"],
+  "fg": ["dairy_farm_SE_1_roof", "dairy_farm_SE_4_roof", "dairy_farm_SE_3_roof", "dairy_farm_SE_2_roof"],
+  "bg": ["open_air"],
+  "rotates": true
+},{
+  "id": ["dairy_farm_SW_roof"],
+  "fg": ["dairy_farm_SW_1_roof", "dairy_farm_SW_4_roof", "dairy_farm_SW_3_roof", "dairy_farm_SW_2_roof"],
+  "bg": ["open_air"],
+  "rotates": true
+}]

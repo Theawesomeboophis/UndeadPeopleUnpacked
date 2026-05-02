@@ -1,0 +1,57 @@
+[
+	{
+	  "id": ["balthazar_bunker_00"],
+	  "fg": ["balthazar_bunker_00_1", "balthazar_bunker_00_4", "balthazar_bunker_00_3", "balthazar_bunker_00_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["balthazar_bunker_01"],
+	  "fg": ["balthazar_bunker_01_1", "balthazar_bunker_01_4", "balthazar_bunker_01_3", "balthazar_bunker_01_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["balthazar_bunker_02"],
+	  "fg": ["balthazar_bunker_02_1", "balthazar_bunker_02_4", "balthazar_bunker_02_3", "balthazar_bunker_02_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["balthazar_bunker_03"],
+	  "fg": ["balthazar_bunker_03_1", "balthazar_bunker_03_4", "balthazar_bunker_03_3", "balthazar_bunker_03_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	
+	{
+	  "id": ["balthazar_bunker_00_-1"],
+	  "fg": ["robofachq_sub_a1"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["balthazar_bunker_01_-1"],
+	  "fg": ["robofachq_ai_a3"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["balthazar_bunker_02_-1"],
+	  "fg": ["robofachq_ai_a3"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["balthazar_bunker_03_-1"],
+	  "fg": ["robofachq_ai_a3"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["balthazar_bunker_02_-2"],
+	  "fg": ["robofachq_ai_a3"],
+	  "bg": [],
+	  "rotates": true
+	}
+]

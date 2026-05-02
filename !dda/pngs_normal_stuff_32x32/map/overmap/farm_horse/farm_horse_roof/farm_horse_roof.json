@@ -1,0 +1,31 @@
+[
+{
+  "id": [
+    "farm_horse_house_1_2ndfloor",
+    "farm_horse_house_1_roof"
+  ],
+  "fg": ["cabin_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+},
+{
+  "id": [
+    "farm_horse_stable_1_hayloft",
+    "farm_horse_stable_1_roof",
+	"farm_horse_carriage_house_1_roof"
+  ],
+  "fg": ["barn_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+},
+{
+  "id": [
+    "farm_horse_silo_1",
+	"farm_horse_roof",
+	"farm_horse_silo_roof"
+  ],
+  "fg": ["2silos_1"],
+  "bg": ["open_air"],
+  "rotates": false
+}
+]

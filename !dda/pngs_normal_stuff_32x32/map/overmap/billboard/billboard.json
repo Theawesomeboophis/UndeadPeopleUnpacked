@@ -1,0 +1,14 @@
+[
+    {
+        "id": "billboard_0",
+        "fg": ["billboard"],
+		"bg": ["field_3"],
+        "rotates": false
+    },
+    {
+        "id": ["billboard_1" ,"billboard_2"],
+        "fg": ["billboard_1"],
+	    "bg": ["open_air"],
+        "rotates": false
+    }
+]
