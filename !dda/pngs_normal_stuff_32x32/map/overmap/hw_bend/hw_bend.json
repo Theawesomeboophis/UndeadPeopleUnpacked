@@ -1,0 +1,162 @@
+[
+    {
+        "id": "hw_bend_4_0",
+        "fg": [
+            "hw_bend_4_0_north",
+            "hw_bend_4_0_east",
+            "hw_bend_4_0_south",
+            "hw_bend_4_0_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_3_0",
+        "fg": [
+            "hw_bend_3_0_north",
+            "hw_bend_3_0_east",
+            "hw_bend_3_0_south",
+            "hw_bend_3_0_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_2_0",
+        "fg": [
+            "hw_bend_2_0_north",
+            "hw_bend_2_0_east",
+            "hw_bend_2_0_south",
+            "hw_bend_2_0_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_4_1",
+        "fg": [
+            "hw_bend_4_1_north",
+            "hw_bend_4_1_east",
+            "hw_bend_4_1_south",
+            "hw_bend_4_1_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_3_1",
+        "fg": [
+            "hw_bend_3_1_north",
+            "hw_bend_3_1_east",
+            "hw_bend_3_1_south",
+            "hw_bend_3_1_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_2_1",
+        "fg": [
+            "hw_bend_2_1_north",
+            "hw_bend_2_1_east",
+            "hw_bend_2_1_south",
+            "hw_bend_2_1_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_1_1",
+        "fg": [
+            "hw_bend_1_1_north",
+            "hw_bend_1_1_east",
+            "hw_bend_1_1_south",
+            "hw_bend_1_1_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_3_2",
+        "fg": [
+            "hw_bend_3_2_north",
+            "hw_bend_3_2_east",
+            "hw_bend_3_2_south",
+            "hw_bend_3_2_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_2_2",
+        "fg": [
+            "hw_bend_2_2_north",
+            "hw_bend_2_2_east",
+            "hw_bend_2_2_south",
+            "hw_bend_2_2_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_1_2",
+        "fg": [
+            "hw_bend_1_2_north",
+            "hw_bend_1_2_east",
+            "hw_bend_1_2_south",
+            "hw_bend_1_2_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_0_2",
+        "fg": [
+            "hw_bend_0_2_north",
+            "hw_bend_0_2_east",
+            "hw_bend_0_2_south",
+            "hw_bend_0_2_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_2_3",
+        "fg": [
+            "hw_bend_2_3_north",
+            "hw_bend_2_3_east",
+            "hw_bend_2_3_south",
+            "hw_bend_2_3_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_1_3",
+        "fg": [
+            "hw_bend_1_3_north",
+            "hw_bend_1_3_east",
+            "hw_bend_1_3_south",
+            "hw_bend_1_3_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_0_3",
+        "fg": [
+            "hw_bend_0_3_north",
+            "hw_bend_0_3_east",
+            "hw_bend_0_3_south",
+            "hw_bend_0_3_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_1_4",
+        "fg": [
+            "hw_bend_1_4_north",
+            "hw_bend_1_4_east",
+            "hw_bend_1_4_south",
+            "hw_bend_1_4_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_bend_0_4",
+        "fg": [
+            "hw_bend_0_4_north",
+            "hw_bend_0_4_east",
+            "hw_bend_0_4_south",
+            "hw_bend_0_4_west"
+        ],
+        "rotates": true
+    }
+]
