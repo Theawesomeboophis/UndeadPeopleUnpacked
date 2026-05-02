@@ -1,0 +1,8 @@
+{
+  "id": "string_dimension_field_end",
+  "fg": "string_dimension_field_end",
+  "bg": [
+    "string_dimension_crossroads"
+  ],
+  "rotates": true
+}
