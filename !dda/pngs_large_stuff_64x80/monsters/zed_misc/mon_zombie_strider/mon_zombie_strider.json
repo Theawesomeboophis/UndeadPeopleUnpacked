@@ -3,6 +3,6 @@
   "fg": [
     "mon_zombie_strider"
   ],
-  "bg": ["bg_shadow_normal"],
+  "bg": ["bg_big_normal_shadow"],
   "rotates": false
 }

@@ -1,0 +1,6 @@
+{
+  "id": "mon_ferret",
+  "fg": "mon_ferret",
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_inner_cabins_revenant",
+  "fg": [
+    "mon_zombie_inner_cabins_revenant"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

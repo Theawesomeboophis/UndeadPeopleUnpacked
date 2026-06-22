@@ -1,0 +1,42 @@
+{
+  "id": "mon_civilian_parent_robofac_chop_shop",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_parent_7"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

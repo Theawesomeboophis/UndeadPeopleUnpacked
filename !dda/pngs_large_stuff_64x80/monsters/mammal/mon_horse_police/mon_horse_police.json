@@ -1,0 +1,10 @@
+{
+  "id": "mon_horse_police",
+  "fg": [
+    "mon_horse_police"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

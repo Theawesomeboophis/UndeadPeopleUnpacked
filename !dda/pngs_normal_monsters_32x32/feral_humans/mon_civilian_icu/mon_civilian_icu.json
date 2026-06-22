@@ -1,0 +1,36 @@
+{
+  "id": "mon_civilian_icu",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_icu"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_icu_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_icu_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_icu_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_icu_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_icu_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_icu_6"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": false
+}

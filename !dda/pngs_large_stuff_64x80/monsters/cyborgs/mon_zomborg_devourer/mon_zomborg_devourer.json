@@ -1,0 +1,8 @@
+{
+  "id": "mon_zomborg_devourer",
+  "fg": [
+    "mon_zomborg_devourer"
+  ],
+  "bg": ["mon_devourer_shadow"],
+  "rotates": false
+}
