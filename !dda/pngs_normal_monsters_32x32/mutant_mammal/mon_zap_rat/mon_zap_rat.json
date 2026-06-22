@@ -1,0 +1,14 @@
+{
+  "id": "mon_zap_rat",
+  "fg": [
+	{"weight": 10, "sprite": "mon_zap_rat_1"}, 
+	{"weight": 10, "sprite": "mon_zap_rat_2"},
+	{"weight": 10, "sprite": "mon_zap_rat_3"}, 
+	{"weight": 10, "sprite": "mon_zap_rat_4"}
+		 ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}
