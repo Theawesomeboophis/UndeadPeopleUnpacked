@@ -1,0 +1,38 @@
+{
+  "id": "mon_feral_human_crowbar_fungal_infected",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_fungal_infected_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_fungal_infected_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_fungal_infected_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_fungal_infected_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_fungal_infected_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_fungal_infected_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_fungal_infected_7"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}
