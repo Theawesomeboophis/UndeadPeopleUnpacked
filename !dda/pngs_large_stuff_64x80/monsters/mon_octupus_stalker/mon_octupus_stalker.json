@@ -3,6 +3,6 @@
   "fg": [
     "mon_octupus_stalker"
   ],
-  "bg": [],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false
 }

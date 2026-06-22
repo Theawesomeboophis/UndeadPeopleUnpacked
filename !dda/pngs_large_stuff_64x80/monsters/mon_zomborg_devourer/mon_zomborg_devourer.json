@@ -3,6 +3,6 @@
   "fg": [
     "mon_zomborg_devourer"
   ],
-  "bg": ["bg_big_huge_shadow"],
+  "bg": ["mon_devourer_shadow"],
   "rotates": false
 }
