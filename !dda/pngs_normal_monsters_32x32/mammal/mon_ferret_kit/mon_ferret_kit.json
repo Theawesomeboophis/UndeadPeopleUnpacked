@@ -1,0 +1,6 @@
+{
+  "id": "mon_ferret_kit",
+  "fg": "mon_ferret_kit",
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}
