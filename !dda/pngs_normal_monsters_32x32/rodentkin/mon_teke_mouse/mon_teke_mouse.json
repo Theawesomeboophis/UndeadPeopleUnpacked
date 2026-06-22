@@ -1,0 +1,16 @@
+{
+  "id": ["mon_teke_mouse"],
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_teke_mouse"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_teke_mouse_1"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

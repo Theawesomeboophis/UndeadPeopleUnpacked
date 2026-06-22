@@ -1,0 +1,10 @@
+{
+  "id": "mon_robofac_camspy",
+  "fg": [
+    "mon_robofac_camspy"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
