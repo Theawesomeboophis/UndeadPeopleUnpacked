@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_nl_antigravity_jump",
+  "fg": [
+    "overlay_wielded_bionic_general"
+  ],
+  "bg": [],
+  "rotates": false
+}
