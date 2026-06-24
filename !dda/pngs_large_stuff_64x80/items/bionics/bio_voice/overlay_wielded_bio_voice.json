@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_voice",
+  "fg": [
+    "overlay_wielded_cbm_debuff"
+  ],
+  "bg": [],
+  "rotates": false
+}
