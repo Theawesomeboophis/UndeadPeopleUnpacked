@@ -131,30 +131,36 @@
 		"sprite": [ { "id": "american_flag", "weight": 1 } ],
 		"layer": 90,
 		"offset_x": 0, 
-		"offset_y": 6
+		"offset_y": 10
 		},
 		{
 		"item": "national_flag",
 		"sprite": [ { "id": "national_flag", "weight": 1 } ],
 		"layer": 90,
 		"offset_x": 0, 
-		"offset_y": 6
+		"offset_y": 10
 		},
 		{
 		"item": "pride_flag",
 		"sprite": [ { "id": "pride_flag", "weight": 1 } ],
 		"layer": 90,
 		"offset_x": 0, 
-		"offset_y": 6
+		"offset_y": 10
 		},
 		{
 		"item": "state_flag",
 		"sprite": [ { "id": "state_flag", "weight": 1 } ],
 		"layer": 90,
 		"offset_x": 0, 
-		"offset_y": 6
+		"offset_y": 10
 		}
 	  ]
-	}
+	},
+    {
+      "context": "f_toilet",
+      "item_variants": [
+        { "item": "water", "sprite": [ { "id": "null", "weight": 1 } ], "layer": 90 }
+      ]
+    }
   ]
 }
