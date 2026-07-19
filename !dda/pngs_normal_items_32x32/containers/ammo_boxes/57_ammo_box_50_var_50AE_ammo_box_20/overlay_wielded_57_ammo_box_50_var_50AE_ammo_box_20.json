@@ -1,7 +1,7 @@
 {
   "id": ["overlay_wielded_57_ammo_box_50_var_50AE_ammo_box_20"],
   "fg": [
-    "57_ammo_box_50_var_50AE_ammo_box_20"
+    "overlay_wielded_57_ammo_box_50"
   ],
   "bg": [],
   "rotates": false

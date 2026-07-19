@@ -1,7 +1,7 @@
 {
   "id": ["overlay_wielded_762_ammo_box_50"],
   "fg": [
-    "762_ammo_box_50"
+    "overlay_wielded_357sig_ammo_box_50"
   ],
   "bg": [],
   "rotates": false

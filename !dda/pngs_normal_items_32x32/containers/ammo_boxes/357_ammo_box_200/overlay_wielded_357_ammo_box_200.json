@@ -1,7 +1,7 @@
 {
   "id": ["overlay_wielded_357_ammo_box_200"],
   "fg": [
-    "357_ammo_box_200"
+    "overlay_wielded_300_ammo_box_20"
   ],
   "bg": [],
   "rotates": false

@@ -1,7 +1,7 @@
 {
   "id": ["overlay_wielded_9mm_ammo_box_100_var_ammo_box_army_100_9mm_fmj"],
   "fg": [
-    "9mm_ammo_box_100_var_ammo_box_army_100_9mm_fmj"
+    "overlay_wielded_9mm_ammo_box_100_var_ammo_box_army_100_9mm_fmj"
   ],
   "bg": [],
   "rotates": false
