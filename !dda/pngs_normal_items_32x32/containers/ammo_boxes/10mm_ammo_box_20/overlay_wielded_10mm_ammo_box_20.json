@@ -1,7 +1,7 @@
 {
   "id": ["overlay_wielded_10mm_ammo_box_20"],
   "fg": [
-    "10mm_ammo_box_20"
+    "overlay_wielded_10mm_ammo_box_20"
   ],
   "bg": [],
   "rotates": false

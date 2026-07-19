@@ -1,0 +1,10 @@
+{
+  "id": ["bag_durasack_cement"],
+  "fg": [
+    "bag_durasack_cement"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

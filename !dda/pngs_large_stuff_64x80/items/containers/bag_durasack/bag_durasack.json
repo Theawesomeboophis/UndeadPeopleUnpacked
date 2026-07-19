@@ -1,0 +1,10 @@
+{
+  "id": ["bag_durasack"],
+  "fg": [
+    "bag_durasack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
