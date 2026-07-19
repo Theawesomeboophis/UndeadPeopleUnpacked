@@ -1,0 +1,10 @@
+{
+  "id": "pressurized_canister",
+  "fg": [
+    "pressurized_canister"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

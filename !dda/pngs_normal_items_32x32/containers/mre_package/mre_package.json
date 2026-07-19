@@ -1,0 +1,10 @@
+{
+  "id": "mre_package",
+  "fg": [
+    "mre_package"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

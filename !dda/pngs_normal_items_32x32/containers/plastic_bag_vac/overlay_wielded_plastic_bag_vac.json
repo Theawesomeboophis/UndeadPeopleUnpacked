@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_plastic_bag_vac",
   "fg": [
-    "plastic_bag_vac"
+    "overlay_wielded_bag_zipper"
   ],
   "bg": [],
   "rotates": false
