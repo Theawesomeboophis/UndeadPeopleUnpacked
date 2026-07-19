@@ -1,10 +1,8 @@
 {
   "id": "overlay_wielded_medium_propane_tank",
   "fg": [
-    "medium_propane_tank"
+    "overlay_wielded_medium_propane_tank"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }
