@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_balloon",
   "fg": [
-    "balloon"
+    "overlay_wielded_balloon"
   ],
   "bg": [],
   "rotates": false
