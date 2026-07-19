@@ -1,0 +1,6 @@
+{
+  "id": "tube_welding_rod",
+  "fg": "tube_welding_rod",
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}
