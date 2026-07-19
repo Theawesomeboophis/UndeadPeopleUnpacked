@@ -1,7 +1,7 @@
 {
   "id": ["overlay_wielded_308_ammo_box_20_var_ammo_box_army_20_308"],
   "fg": [
-    "308_ammo_box_20_var_ammo_box_army_20_308"
+    "overlay_wielded_40_ammo_box_20"
   ],
   "bg": [],
   "rotates": false

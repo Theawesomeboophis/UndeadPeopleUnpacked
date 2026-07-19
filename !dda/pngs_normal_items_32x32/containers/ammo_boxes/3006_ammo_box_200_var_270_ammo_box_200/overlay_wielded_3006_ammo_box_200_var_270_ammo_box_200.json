@@ -1,7 +1,7 @@
 {
   "id": ["overlay_wielded_3006_ammo_box_200_var_270_ammo_box_200"],
   "fg": [
-    "3006_ammo_box_200_var_270_ammo_box_200"
+    "overlay_wielded_380_ammo_box_20"
   ],
   "bg": [],
   "rotates": false

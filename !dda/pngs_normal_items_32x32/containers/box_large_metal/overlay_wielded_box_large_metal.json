@@ -1,7 +1,7 @@
 {
   "id": ["overlay_wielded_box_large_metal"],
   "fg": [
-    "box_large_metal"
+    "overlay_wielded_box_large_metal"
   ],
   "bg": [],
   "rotates": false

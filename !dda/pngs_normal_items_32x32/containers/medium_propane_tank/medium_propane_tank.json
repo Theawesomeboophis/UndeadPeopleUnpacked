@@ -3,6 +3,8 @@
   "fg": [
     "medium_propane_tank"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

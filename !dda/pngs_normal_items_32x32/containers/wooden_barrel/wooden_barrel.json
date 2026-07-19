@@ -3,8 +3,6 @@
   "fg": [
     "wooden_barrel"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }
