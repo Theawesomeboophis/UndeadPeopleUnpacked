@@ -1,0 +1,6 @@
+{
+  "id": "small_squeeze_tube_var_small_squeeze_tube_superglue",
+  "fg": "squeeze_tube_superglue",
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}
