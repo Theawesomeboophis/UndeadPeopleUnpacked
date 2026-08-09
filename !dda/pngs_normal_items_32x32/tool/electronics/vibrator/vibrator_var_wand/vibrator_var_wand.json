@@ -1,0 +1,10 @@
+{
+  "id": "vibrator_var_wand",
+  "fg": [
+    "vibrator"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

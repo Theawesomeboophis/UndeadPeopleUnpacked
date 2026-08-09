@@ -1,0 +1,12 @@
+{
+  "id": [
+    "vp_drum_concrete_mix",
+    "vp_wheel_mount_concrete_mix",
+    "vp_wheel_set_concrete_mix"
+  ],
+  "fg": [
+    "con_mix"
+  ],
+  "bg": [],
+  "rotates": false
+}

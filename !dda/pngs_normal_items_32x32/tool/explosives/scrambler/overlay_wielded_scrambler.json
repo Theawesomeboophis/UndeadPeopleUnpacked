@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_scrambler",
   "fg": [
-    "scrambler"
+    "overlay_wielded_scrambler"
   ],
   "bg": [],
   "rotates": false

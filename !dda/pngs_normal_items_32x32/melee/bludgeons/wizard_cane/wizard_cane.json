@@ -1,0 +1,10 @@
+{
+  "id": "wizard_cane",
+  "fg": [
+    "wizard_cane"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

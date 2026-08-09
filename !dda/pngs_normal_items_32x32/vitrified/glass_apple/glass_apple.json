@@ -1,0 +1,10 @@
+{
+  "id": "glass_apple",
+  "fg": [
+    "glass_apple"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

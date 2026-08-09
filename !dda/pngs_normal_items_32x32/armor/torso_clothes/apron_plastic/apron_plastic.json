@@ -1,0 +1,10 @@
+{
+  "id": "apron_plastic",
+  "fg": [
+    "apron_plastic"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

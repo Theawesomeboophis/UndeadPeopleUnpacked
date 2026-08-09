@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_insecticidalbomb_act",
   "fg": [
-    "insecticidalbomb_act"
+    "overlay_wielded_insecticidalbomb_act"
   ],
   "bg": [],
   "rotates": false

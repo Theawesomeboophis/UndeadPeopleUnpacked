@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_largebroketent",
   "fg": [
-    "largebroketent"
+    "overlay_wielded_largebroketent"
   ],
   "bg": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_landmine",
   "fg": [
-    "landmine"
+    "overlay_wielded_landmine"
   ],
   "bg": [],
   "rotates": false

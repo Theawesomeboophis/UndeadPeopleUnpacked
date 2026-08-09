@@ -1,0 +1,8 @@
+{
+  "id": "t_tree_apple_vitrified",
+  "fg": [
+    "t_tree_apple_vitrified"
+  ],
+  "bg": ["bg_big_vitrified_dirt"],
+  "rotates": false
+}

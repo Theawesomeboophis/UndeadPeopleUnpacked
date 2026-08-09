@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_pin_badge",
+  "fg": [
+    "pin_badge"
+  ],
+  "bg": [],
+  "rotates": false
+}

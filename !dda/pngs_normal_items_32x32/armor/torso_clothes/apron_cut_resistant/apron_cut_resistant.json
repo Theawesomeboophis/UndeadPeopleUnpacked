@@ -1,7 +1,7 @@
 {
   "id": "apron_cut_resistant",
   "fg": [
-    "apron_leather"
+    "apron_cut_resistant"
   ],
   "bg": [
     "bg_shadow_item"

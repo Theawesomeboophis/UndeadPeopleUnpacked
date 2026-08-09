@@ -1,0 +1,10 @@
+{
+  "id": "binder_top",
+  "fg": [
+    "binder_top"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

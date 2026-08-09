@@ -1,7 +1,7 @@
 {
   "id": "iv_mutagen_chimera",
   "fg": [
-    "mutagen_temp_red"
+    "iv_mutagen_chimera"
   ],
   "bg": [],
   "rotates": false

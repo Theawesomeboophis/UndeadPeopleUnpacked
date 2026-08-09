@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_smokebomb_act",
   "fg": [
-    "smokebomb_act"
+    "overlay_wielded_smokebomb_act"
   ],
   "bg": [],
   "rotates": false

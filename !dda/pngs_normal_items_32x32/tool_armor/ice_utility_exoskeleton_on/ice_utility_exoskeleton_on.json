@@ -1,0 +1,12 @@
+{
+  "id": [
+    "ice_utility_exoskeleton_on"
+  ],
+  "fg": [
+    "utility_exoskeleton_off"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

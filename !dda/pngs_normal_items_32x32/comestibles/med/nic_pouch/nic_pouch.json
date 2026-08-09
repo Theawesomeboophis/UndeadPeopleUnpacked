@@ -1,0 +1,10 @@
+{
+  "id": [ "nic_pouch" ],
+  "fg": [
+    "nic_pouch"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

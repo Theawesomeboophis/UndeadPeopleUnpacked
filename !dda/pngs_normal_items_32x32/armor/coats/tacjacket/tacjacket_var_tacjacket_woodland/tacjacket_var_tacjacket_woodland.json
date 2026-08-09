@@ -1,0 +1,10 @@
+{
+  "id": "tacjacket_var_tacjacket_woodland",
+  "fg": [
+    "tacjacket_var_tacjacket_woodland"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

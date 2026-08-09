@@ -1,0 +1,10 @@
+{
+  "id": "armguard_metal_sheets_bracer",
+  "fg": [
+    "armguard_metal_sheets_bracer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,7 +1,7 @@
 {
   "id": "toothbrush_dirty",
   "fg": [
-    "base_toiletries"
+    "toothbrush_dirty"
   ],
   "bg": [],
   "rotates": false

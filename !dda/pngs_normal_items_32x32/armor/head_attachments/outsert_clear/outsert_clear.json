@@ -1,0 +1,8 @@
+{
+  "id": [ "outsert_clear", "outsert_sunlight", "outsert_breach", "insert_vision_correction" ],
+  "fg": [
+    "lens_small"
+  ],
+  "bg": [],
+  "rotates": false
+}

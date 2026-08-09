@@ -1,0 +1,10 @@
+{
+  "id": "bodysuit_lycra_var_batman_suit_black",
+  "fg": [
+    "batman_suit_black"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

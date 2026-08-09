@@ -1,0 +1,10 @@
+{
+  "id": "t_alien_meadow_shrub_2_season_winter",
+  "fg": [
+    "t_alien_meadow_shrub_1"
+  ],
+  "bg": [
+    "t_alien_meadow_grass_center_9"
+  ],
+  "rotates": false
+}

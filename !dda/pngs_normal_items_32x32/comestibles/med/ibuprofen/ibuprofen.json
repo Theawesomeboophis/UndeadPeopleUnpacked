@@ -1,0 +1,10 @@
+{
+  "id": "ibuprofen",
+  "fg": [
+    "ibuprofen"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

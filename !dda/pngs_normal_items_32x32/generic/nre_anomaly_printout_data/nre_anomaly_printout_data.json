@@ -1,0 +1,10 @@
+{
+  "id": "nre_anomaly_printout_data",
+  "fg": [
+    "nre_anomaly_printout_data"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

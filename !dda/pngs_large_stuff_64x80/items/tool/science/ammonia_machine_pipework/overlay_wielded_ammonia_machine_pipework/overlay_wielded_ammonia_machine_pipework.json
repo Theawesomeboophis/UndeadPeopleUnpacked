@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_ammonia_machine_pipework",
+  "fg": [
+    "ammonia_machine_pipework"
+  ],
+  "bg": [],
+  "rotates": false
+}

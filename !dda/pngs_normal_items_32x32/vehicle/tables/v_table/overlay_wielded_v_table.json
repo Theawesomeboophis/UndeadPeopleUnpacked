@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_v_table",
   "fg": [
-    "v_table"
+    "overlay_wielded_v_table"
   ],
   "bg": [],
   "rotates": false

@@ -1,0 +1,10 @@
+{
+  "id": "shredded_rubber",
+  "fg": [
+    "shredded_rubber"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

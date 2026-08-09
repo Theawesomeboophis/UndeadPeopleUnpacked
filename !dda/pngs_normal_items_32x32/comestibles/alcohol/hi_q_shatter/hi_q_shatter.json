@@ -1,7 +1,8 @@
 {
   "id": "hi_q_shatter",
   "fg": [
-    "honey_gold"
+    "hi_q_shatter"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }

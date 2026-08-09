@@ -1,5 +1,8 @@
 {
-  "id": "large_space_heater",
+  "id": [
+    "ap_heater_large",
+    "large_space_heater"
+  ],
   "fg": [
     "large_space_heater"
   ],

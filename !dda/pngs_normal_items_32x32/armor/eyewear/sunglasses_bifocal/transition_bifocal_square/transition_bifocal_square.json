@@ -1,0 +1,10 @@
+{
+  "id": "sunglasses_bifocal_var_transition_bifocal_square",
+  "fg": [
+    "sunglasses"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

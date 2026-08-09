@@ -1,0 +1,10 @@
+{
+  "id": "t_highland_holy_tree",
+  "fg": [
+    "t_highland_holy_tree"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

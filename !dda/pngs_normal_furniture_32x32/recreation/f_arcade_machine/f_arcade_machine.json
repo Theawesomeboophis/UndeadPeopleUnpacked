@@ -1,5 +1,8 @@
 {
-  "id": "f_arcade_machine",
+  "id": [
+    "f_arcade_machine",
+    "ap_arcade_machine"
+  ],
   "fg": [
     "f_arcade_machine"
   ],

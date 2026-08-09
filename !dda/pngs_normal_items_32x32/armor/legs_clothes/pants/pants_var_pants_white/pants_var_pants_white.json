@@ -1,0 +1,10 @@
+{
+  "id": "pants_var_pants_white",
+  "fg": [
+    "pants_var_pants_white"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_connect_four",
+  "fg": [
+    "connect_four"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,7 +1,7 @@
 {
   "id": "mutagen_mouse",
   "fg": [
-    "mutagen_temp_green"
+    "mutagen_mouse"
   ],
   "bg": [],
   "rotates": false

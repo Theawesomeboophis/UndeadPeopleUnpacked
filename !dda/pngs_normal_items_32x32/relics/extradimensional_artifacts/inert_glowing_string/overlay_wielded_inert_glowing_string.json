@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_inert_glowing_string",
+  "fg": [
+    "inert_glowing_string"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": [
+    "ap_power_hammer",
+    "f_power_hammer"
+  ],
+  "fg": [
+    "f_power_hammer"
+  ],
+  "bg": [],
+  "rotates": false
+}

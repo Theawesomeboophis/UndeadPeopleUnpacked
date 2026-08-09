@@ -1,0 +1,10 @@
+{
+  "id": "bodysuit_lycra_var_samus_zero_suit_black",
+  "fg": [
+    "samus_zero_suit_black"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

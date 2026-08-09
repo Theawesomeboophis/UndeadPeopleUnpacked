@@ -1,0 +1,10 @@
+{
+  "id": "survivor_machete_qt",
+  "fg": [
+    "survivor_machete_qt"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

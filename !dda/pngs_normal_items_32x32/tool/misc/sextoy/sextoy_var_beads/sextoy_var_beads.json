@@ -1,0 +1,10 @@
+{
+  "id": "sextoy_var_beads",
+  "fg": [
+    "sextoy_var_beads"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

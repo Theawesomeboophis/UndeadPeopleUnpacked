@@ -1,0 +1,48 @@
+{
+  "id": "f_lixa_whiteboard",
+  "fg": "f_lixa_whiteboard",
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_lixa_whiteboard"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_lixa_whiteboard"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_lixa_whiteboard"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_lixa_whiteboard_edge_ew_faceS"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_lixa_whiteboard",
+        "f_lixa_whiteboard_end_piece_e_faceS",
+        "f_lixa_whiteboard",
+        "f_lixa_whiteboard_end_piece_w_faceS"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_lixa_whiteboard"
+      ]
+    }
+  ]
+}

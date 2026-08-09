@@ -1,0 +1,10 @@
+{
+  "id": "calming_stone",
+  "fg": [
+    "calming_stone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

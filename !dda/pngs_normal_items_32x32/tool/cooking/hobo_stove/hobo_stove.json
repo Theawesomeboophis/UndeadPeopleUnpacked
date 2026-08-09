@@ -3,8 +3,6 @@
   "fg": [
     "hobo_stove"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }

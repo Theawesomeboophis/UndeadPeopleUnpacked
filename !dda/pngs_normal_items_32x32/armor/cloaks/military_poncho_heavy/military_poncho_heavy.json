@@ -1,0 +1,9 @@
+{
+  "id": "military_poncho_heavy",
+  "fg": [
+    "military_poncho"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

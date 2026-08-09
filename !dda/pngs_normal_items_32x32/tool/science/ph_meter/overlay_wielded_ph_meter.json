@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_ph_meter",
   "fg": [
-    "ph_meter"
+    "overlay_wielded_ph_meter"
   ],
   "bg": [],
   "rotates": false

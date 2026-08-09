@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_id_industrial",
   "fg": [
-    "id_industrial"
+    "overlay_wielded_id_industrial"
   ],
   "bg": []
 }

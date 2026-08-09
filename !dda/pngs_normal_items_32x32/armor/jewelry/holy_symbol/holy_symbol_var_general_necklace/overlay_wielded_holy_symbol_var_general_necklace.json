@@ -1,0 +1,8 @@
+{
+  "id": ["overlay_wielded_holy_symbol_var_general_necklace", "overlay_wielded_holy_symbol_var_cross_necklace"],
+  "fg": [
+    "overlay_wielded_holy_symbol"
+  ],
+  "bg": [],
+  "rotates": false
+}

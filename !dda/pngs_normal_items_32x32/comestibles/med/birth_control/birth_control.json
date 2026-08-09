@@ -1,0 +1,10 @@
+{
+  "id": "birth_control",
+  "fg": [
+    "birth_control"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

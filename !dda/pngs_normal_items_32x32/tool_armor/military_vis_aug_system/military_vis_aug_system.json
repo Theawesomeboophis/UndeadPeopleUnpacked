@@ -1,0 +1,10 @@
+{
+  "id": "military_vis_aug_system",
+  "fg": [
+    "military_vis_aug_system"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

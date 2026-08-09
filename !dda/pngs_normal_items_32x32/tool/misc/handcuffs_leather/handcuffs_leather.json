@@ -1,0 +1,10 @@
+{
+  "id": "handcuffs_leather",
+  "fg": [
+    "handcuffs_leather"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

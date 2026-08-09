@@ -1,5 +1,8 @@
 {
-  "id": "f_autoclave",
+  "id": [
+    "f_autoclave",
+	"ap_autoclave"
+  ],
   "fg": [
     "f_autoclave"
   ],

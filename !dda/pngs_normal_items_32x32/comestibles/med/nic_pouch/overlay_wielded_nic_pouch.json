@@ -1,0 +1,8 @@
+{
+  "id": [ "overlay_wielded_nic_pouch" ],
+  "fg": [
+    "nic_pouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

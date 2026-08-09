@@ -1,5 +1,8 @@
 {
-  "id": "small_space_heater",
+  "id": [
+    "small_space_heater",
+    "ap_heater_small"
+  ],
   "fg": [
     "small_space_heater"
   ],

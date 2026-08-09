@@ -1,0 +1,10 @@
+{
+  "id": "imperfect_doll_features",
+  "fg": [
+    "imperfect_doll_features"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

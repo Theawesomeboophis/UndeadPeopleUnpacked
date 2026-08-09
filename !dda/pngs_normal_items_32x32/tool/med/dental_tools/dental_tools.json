@@ -1,0 +1,10 @@
+{
+  "id": "dental_tools",
+  "fg": [
+    "dental_tools"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

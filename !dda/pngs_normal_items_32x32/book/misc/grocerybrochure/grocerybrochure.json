@@ -1,0 +1,10 @@
+{
+  "id": "grocerybrochure",
+  "fg": [
+    "grocerybrochure"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

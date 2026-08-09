@@ -1,0 +1,11 @@
+{
+  "id": [
+    "welding_blanket",
+	"makeshift_welding_blanket"
+  ],
+  "fg": [
+    "welding_blanket"
+  ],
+  "bg": [],
+  "rotates": false
+}

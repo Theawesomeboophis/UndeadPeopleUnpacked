@@ -1,0 +1,10 @@
+{
+  "id": "nre_recorder",
+  "fg": [
+    "nre_recorder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

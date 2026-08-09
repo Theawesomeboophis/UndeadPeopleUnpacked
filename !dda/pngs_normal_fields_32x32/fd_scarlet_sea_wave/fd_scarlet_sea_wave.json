@@ -1,0 +1,31 @@
+{
+  "id": "fd_scarlet_sea_wave",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_scarlet_sea_wave_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_scarlet_sea_wave_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_scarlet_sea_wave_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_scarlet_sea_wave_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_scarlet_sea_wave_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_scarlet_sea_wave_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

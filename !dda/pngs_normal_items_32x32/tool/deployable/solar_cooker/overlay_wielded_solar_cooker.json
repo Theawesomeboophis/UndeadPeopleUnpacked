@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_solar_cooker",
+  "fg": [
+    "solar_cooker"
+  ],
+  "bg": [],
+  "rotates": false
+}

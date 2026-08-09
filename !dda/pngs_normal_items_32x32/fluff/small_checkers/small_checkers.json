@@ -1,0 +1,8 @@
+{
+  "id": "small_checkers",
+  "fg": [
+    "small_checkboard"
+  ],
+  "bg": [],
+  "rotates": false
+}

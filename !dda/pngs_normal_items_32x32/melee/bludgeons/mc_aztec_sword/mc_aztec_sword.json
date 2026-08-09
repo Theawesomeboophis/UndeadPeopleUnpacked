@@ -1,0 +1,10 @@
+{
+  "id": "mc_aztec_sword",
+  "fg": [
+    "mc_aztec_sword"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

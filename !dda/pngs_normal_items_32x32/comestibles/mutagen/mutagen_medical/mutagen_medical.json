@@ -1,7 +1,7 @@
 {
   "id": "mutagen_medical",
   "fg": [
-    "mutagen_temp_green"
+    "mutagen_medical"
   ],
   "bg": [],
   "rotates": false

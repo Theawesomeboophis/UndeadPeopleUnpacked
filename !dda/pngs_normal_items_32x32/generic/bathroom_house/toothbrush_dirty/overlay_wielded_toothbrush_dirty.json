@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_toothbrush_dirty",
   "fg": [
-    "base_toiletries"
+    "overlay_wielded_toothbrush_dirty"
   ],
   "bg": [],
   "rotates": false

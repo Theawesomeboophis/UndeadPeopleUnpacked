@@ -1,5 +1,5 @@
 {
-  "id": "homewrecker",
+  "id": [ "homewrecker", "hammer_sledge_crude" ],
   "fg": [
     "homewrecker"
   ],

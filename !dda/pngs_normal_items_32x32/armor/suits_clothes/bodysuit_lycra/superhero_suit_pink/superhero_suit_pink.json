@@ -1,0 +1,10 @@
+{
+  "id": "bodysuit_lycra_var_superhero_suit_pink",
+  "fg": [
+    "superhero_suit_pink"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

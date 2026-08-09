@@ -1,5 +1,5 @@
 {
-  "id": "chainmail_arms",
+  "id": [ "chainmail_arms", "base_chainmail_arms" ],
   "fg": [
     "chainmail_arms"
   ],

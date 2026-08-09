@@ -1,0 +1,10 @@
+{
+  "id": "mws_weather_data_incomplete",
+  "fg": [
+    "mws_weather_data_incomplete"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

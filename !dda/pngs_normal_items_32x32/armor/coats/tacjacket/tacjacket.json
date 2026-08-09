@@ -1,0 +1,10 @@
+{
+  "id": "tacjacket",
+  "fg": [
+    "tacjacket"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

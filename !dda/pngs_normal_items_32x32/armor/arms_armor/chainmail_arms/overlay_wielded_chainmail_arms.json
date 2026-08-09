@@ -1,5 +1,5 @@
 {
-  "id": "overlay_wielded_chainmail_arms",
+  "id": [ "overlay_wielded_chainmail_arms", "overlay_wielded_base_chainmail_arms" ],
   "fg": [
     "chainmail_arms"
   ],

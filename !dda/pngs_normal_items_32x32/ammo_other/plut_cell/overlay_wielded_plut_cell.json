@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_plut_cell",
   "fg": [
-    "plut_cell"
+    "overlay_wielded_plut_cell"
   ],
   "bg": [],
   "rotates": false

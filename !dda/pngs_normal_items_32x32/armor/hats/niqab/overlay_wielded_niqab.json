@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_niqab",
+  "fg": [
+    "niqab"
+  ],
+  "bg": [],
+  "rotates": true
+}

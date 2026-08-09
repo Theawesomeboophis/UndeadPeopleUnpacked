@@ -3,5 +3,6 @@
   "fg": [
     "holy_symbol_wood"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }

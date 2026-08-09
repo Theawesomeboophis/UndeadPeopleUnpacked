@@ -1,0 +1,10 @@
+{
+  "id": "t_vitrified_water_pump",
+  "fg": [
+    "t_vitrified_water_pump"
+  ],
+  "bg": [
+    "t_vitrified_floor"
+  ],
+  "rotates": false
+}

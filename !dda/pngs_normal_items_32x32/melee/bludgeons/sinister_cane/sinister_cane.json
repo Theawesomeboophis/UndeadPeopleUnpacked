@@ -1,0 +1,10 @@
+{
+  "id": "sinister_cane",
+  "fg": [
+    "sinister_cane"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

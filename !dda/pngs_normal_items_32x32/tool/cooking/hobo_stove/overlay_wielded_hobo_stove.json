@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_hobo_stove",
   "fg": [
-    "hobo_stove"
+    "overlay_wielded_hobo_stove"
   ],
   "bg": [],
   "rotates": false

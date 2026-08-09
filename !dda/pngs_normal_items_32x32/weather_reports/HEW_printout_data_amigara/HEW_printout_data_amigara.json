@@ -1,0 +1,10 @@
+{
+  "id": "HEW_printout_data_amigara",
+  "fg": [
+    "small_printout_portal_storm_data"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

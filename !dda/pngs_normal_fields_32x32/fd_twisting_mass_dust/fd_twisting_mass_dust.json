@@ -1,0 +1,19 @@
+{
+  "id": "fd_twisting_mass_dust",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "fd_twisting_mass_dust_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "fd_twisting_mass_dust_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "fd_twisting_mass_dust_3"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

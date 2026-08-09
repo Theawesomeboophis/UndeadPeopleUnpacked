@@ -1,0 +1,10 @@
+{
+  "id": "ch_armguard_metal",
+  "fg": [
+    "ch_armguard_metal"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

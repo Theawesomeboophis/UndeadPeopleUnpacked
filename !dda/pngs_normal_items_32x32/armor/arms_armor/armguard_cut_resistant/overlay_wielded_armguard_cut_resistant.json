@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_armguard_cut_resistant",
   "fg": [
-    "armguard_soft"
+    "armguard_cut_resistant"
   ],
   "bg": [],
   "rotates": false

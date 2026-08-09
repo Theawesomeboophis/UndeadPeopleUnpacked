@@ -1,0 +1,10 @@
+{
+  "id": "escape_stone",
+  "fg": [
+    "escape_stone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

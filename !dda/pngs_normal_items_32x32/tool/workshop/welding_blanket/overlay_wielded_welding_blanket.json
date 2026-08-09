@@ -1,0 +1,11 @@
+{
+  "id": [
+    "overlay_wielded_welding_blanket",
+	"overlay_wielded_makeshift_welding_blanket"
+  ],
+  "fg": [
+    "welding_blanket"
+  ],
+  "bg": [],
+  "rotates": false
+}

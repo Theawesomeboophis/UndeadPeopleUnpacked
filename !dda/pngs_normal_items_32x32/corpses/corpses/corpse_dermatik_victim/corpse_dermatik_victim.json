@@ -1,0 +1,27 @@
+{
+  "id": "corpse_dermatik_victim",
+  "fg": [
+        {
+          "weight": 60,
+          "sprite": "corpse_generic_male"
+        },
+        {
+          "weight": 60,
+          "sprite": "corpse_generic_female"
+        },
+        {
+          "weight": 10,
+          "sprite": "corpse_generic_boy"
+        },
+        {
+          "weight": 10,
+          "sprite": "corpse_generic_girl"
+        },
+        {
+          "weight": 30,
+          "sprite": "corpse_painful"
+        }
+      ],
+  "bg": [],
+  "rotates": false
+}

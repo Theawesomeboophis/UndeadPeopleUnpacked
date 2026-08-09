@@ -1,8 +1,8 @@
 {
   "id": "f_deckchair",
   "fg": [
-    "f_deckchair"
+    "f_deckchair_s", "f_deckchair_w", "f_deckchair_n", "f_deckchair"
   ],
   "bg": [],
-  "rotates": false
+  "rotates": true
 }

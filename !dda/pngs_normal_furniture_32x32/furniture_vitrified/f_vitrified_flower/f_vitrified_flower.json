@@ -1,0 +1,15 @@
+{
+  "id": "f_vitrified_flower",
+  "fg": [
+	{
+	  "weight": 50,
+	  "sprite": "f_vitrified_flower_1"
+	},
+	{
+	  "weight": 50,
+	  "sprite": "f_vitrified_flower_2"
+	}
+  ],
+  "bg": [],
+  "rotates": false
+}

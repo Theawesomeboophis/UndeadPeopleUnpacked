@@ -1,0 +1,10 @@
+{
+  "id": "t_alien_meadow_tree_1",
+  "fg": [
+    "t_alien_meadow_tree_1"
+  ],
+  "bg": [
+    "bg_big_alien_meadow"
+  ],
+  "rotates": false
+}

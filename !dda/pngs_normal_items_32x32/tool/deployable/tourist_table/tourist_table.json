@@ -3,7 +3,6 @@
   "fg": [
     "tourist_table"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ]
+  "bg": [],
+  "rotates": false
 }

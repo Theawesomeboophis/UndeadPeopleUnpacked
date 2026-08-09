@@ -1,0 +1,10 @@
+{
+  "id": "tacjacket_var_tacjacket_black_camo",
+  "fg": [
+    "tacjacket_var_tacjacket_black_camo"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

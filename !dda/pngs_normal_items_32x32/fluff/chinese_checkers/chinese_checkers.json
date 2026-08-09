@@ -1,0 +1,8 @@
+{
+  "id": "chinese_checkers",
+  "fg": [
+    "checkers"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": [
+    "f_glass_fridge_double",
+	"ap_glass_fridge_double"
+  ],
+  "rotates": true,
+  "fg": [ "f_glass_fridge_double_1", "f_glass_fridge_double_2", "f_glass_fridge_double_3", "f_glass_fridge_double_4" ],
+  "bg": ""
+}

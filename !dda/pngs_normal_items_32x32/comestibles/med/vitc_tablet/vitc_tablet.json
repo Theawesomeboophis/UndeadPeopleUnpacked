@@ -1,0 +1,10 @@
+{
+  "id": "vitc_tablet",
+  "fg": [
+    "vitc_tablet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

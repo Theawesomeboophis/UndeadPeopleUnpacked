@@ -1,0 +1,10 @@
+{
+  "id": "sunglasses_reading_var_transition_reading_square",
+  "fg": [
+    "sunglasses"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

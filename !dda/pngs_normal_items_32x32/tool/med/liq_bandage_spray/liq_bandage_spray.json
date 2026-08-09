@@ -1,0 +1,10 @@
+{
+  "id": "liq_bandage_spray",
+  "fg": [
+    "liq_bandage_spray"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

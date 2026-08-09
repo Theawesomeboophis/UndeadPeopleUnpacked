@@ -1,0 +1,10 @@
+{
+  "id": "string_dimension_biocoif",
+  "fg": [
+    "string_dimension_biocoif"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

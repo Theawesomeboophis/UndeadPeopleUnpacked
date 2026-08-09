@@ -1,0 +1,9 @@
+{
+  "id": "cloth_arms_padded",
+  "fg": [
+    "cloth_arms_padded"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

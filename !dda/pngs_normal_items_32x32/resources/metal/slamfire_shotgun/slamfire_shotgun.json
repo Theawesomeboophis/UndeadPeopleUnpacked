@@ -1,7 +1,7 @@
 {
   "id": "slamfire_shotgun",
   "fg": [
-    "pipe"
+    "slamfire_shotgun"
   ],
   "bg": [],
   "rotates": false

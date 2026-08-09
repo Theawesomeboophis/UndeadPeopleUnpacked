@@ -3,8 +3,6 @@
   "fg": [
     "kiln"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }

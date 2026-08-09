@@ -1,0 +1,10 @@
+{
+  "id": "large_printout_portal_storm_data",
+  "fg": [
+    "large_printout_portal_storm_data"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

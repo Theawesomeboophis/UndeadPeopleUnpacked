@@ -1,0 +1,10 @@
+{
+  "id": "t_vitrified_window_frame",
+  "fg": [
+    "t_vitrified_window_frame"
+  ],
+  "bg": [
+    "t_vitrified_floor"
+  ],
+  "rotates": false
+}

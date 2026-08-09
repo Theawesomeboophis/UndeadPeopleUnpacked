@@ -1,0 +1,8 @@
+{
+  "id": "egg_void_spider",
+  "fg": [
+    "egg_void_spider"
+  ],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

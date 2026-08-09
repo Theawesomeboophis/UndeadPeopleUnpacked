@@ -1,0 +1,23 @@
+{
+  "id": "overlay_worn_cape_sci_fi",
+  "fg": [
+    {
+      "weight": 200,
+      "sprite": "overlay_worn_cape_sci_fi_0"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_cape_sci_fi_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_cape_sci_fi_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_worn_cape_sci_fi_3"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "acetaminophen",
+  "fg": [
+    "acetaminophen"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
