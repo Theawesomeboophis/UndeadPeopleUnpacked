@@ -5,7 +5,8 @@
   },
   {
     "id": "sealab_small_roof",
-    "fg": "sealab_small_roof"
+    "fg": "sealab_small_roof",
+	"bg": "open_air"
   },
   {
     "id": "sealab_small_-1",

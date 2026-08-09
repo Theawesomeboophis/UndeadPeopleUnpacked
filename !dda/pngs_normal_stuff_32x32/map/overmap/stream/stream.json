@@ -1,0 +1,31 @@
+{
+  "id": [ 
+		  "stream",
+		  "stream_corner",
+		  "stream_end"
+  ],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "field_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_5"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,5 +1,8 @@
 {
-  "id": "knife_butcher",
+  "id": [
+    "knife_butcher",
+	"knife_huge_var_knife_butcher"
+  ],
   "fg": [
     "knife_butcher"
   ],

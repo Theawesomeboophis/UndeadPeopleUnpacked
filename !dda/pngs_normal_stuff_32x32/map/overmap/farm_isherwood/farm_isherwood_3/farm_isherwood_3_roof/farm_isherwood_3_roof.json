@@ -1,0 +1,6 @@
+[{
+  "id": ["farm_isherwood_3_roof", "farm_isherwood_3_hayloft"],
+  "fg": ["barn_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+}]

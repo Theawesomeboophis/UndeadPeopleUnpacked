@@ -1,0 +1,9 @@
+{
+  "id": "vp_nose_plate",
+  "fg": [
+    "vp_nose_plate_south", "vp_nose_plate_west", "vp_nose_plate_north", "vp_nose_plate_east"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true
+}

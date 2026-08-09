@@ -1,0 +1,10 @@
+{
+  "id": ["bp_410shot_slug"],
+  "fg": [
+    "bp_410shot_slug"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

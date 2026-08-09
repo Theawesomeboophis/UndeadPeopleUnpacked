@@ -1,7 +1,20 @@
 {
   "id": "fd_fatigue",
   "fg": [
-    "fd_fatigue"
+    {
+      "weight": 25,
+      "sprite": "fd_fatigue"
+    },
+    {
+      "weight": 25,
+      "sprite": "fd_fatigue_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "fd_fatigue_2"
+    }
   ],
-  "bg": []
+  "bg": [],
+  "animated": true,
+  "rotates": false
 }

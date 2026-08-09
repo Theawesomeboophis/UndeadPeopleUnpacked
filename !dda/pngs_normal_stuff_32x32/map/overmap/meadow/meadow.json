@@ -1,0 +1,27 @@
+{
+  "id": ["meadow_core"],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "meadow_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "meadow_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "meadow_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "meadow_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "meadow_5"
+    }
+  ],
+  "bg": [""],
+  "rotates": false
+}

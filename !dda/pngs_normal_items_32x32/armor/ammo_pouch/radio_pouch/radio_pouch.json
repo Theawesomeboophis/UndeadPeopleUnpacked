@@ -1,0 +1,8 @@
+{
+  "id": "radio_pouch",
+  "fg": [
+    "chestpouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

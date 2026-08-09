@@ -1,5 +1,8 @@
 {
-  "id": "knife_meat_cleaver",
+  "id": [
+    "knife_meat_cleaver",
+	"knife_cleaver_var_knife_meat_cleaver"
+  ],
   "fg": [
     "knife_meat_cleaver"
   ],

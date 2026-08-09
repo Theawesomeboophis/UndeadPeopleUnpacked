@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_mininuke",
   "fg": [
-    "mininuke"
+    "overlay_wielded_mininuke"
   ],
   "bg": [],
   "rotates": false

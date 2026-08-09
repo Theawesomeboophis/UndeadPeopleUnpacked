@@ -1,0 +1,10 @@
+{
+  "id": "swbodyguard",
+  "fg": [
+    "swbodyguard"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

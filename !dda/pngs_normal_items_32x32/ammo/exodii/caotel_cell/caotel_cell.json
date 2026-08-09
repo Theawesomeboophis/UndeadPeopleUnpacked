@@ -1,0 +1,10 @@
+{
+  "id": "caotel_cell",
+  "fg": [
+    "caotel_cell"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

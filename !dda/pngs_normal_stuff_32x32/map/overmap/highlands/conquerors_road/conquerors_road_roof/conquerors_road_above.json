@@ -1,0 +1,20 @@
+[
+{
+  "id": ["conquerors_road_above"],
+  "fg": ["conquerors_road_above"],
+  "bg": ["open_air"],
+  "rotates": false
+},
+{
+  "id": ["conquerors_road_above_1"],
+  "fg": ["conquerors_road_above_1"],
+  "bg": ["open_air"],
+  "rotates": false
+},
+{
+  "id": ["conquerors_road_top"],
+  "fg": ["conquerors_road_above_1"],
+  "bg": ["open_air"],
+  "rotates": false
+}
+]

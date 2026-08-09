@@ -1,0 +1,24 @@
+{
+  "id": ["mon_brute_pupa"],
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_brute_pupa"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_brute_pupa_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_brute_pupa_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_brute_pupa_3"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false,
+  "animated": true
+}

@@ -1,8 +1,5 @@
 {
-  "id": ["bot_turret"],
-  "fg": [
-    "bot_turret"
-  ],
-  "bg": [],
-  "rotates": true
+  "id": "bot_turret",
+  "fg": ["bot_turret"],
+  "bg": [ ]
 }

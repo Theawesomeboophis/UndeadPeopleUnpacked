@@ -1,0 +1,10 @@
+{
+  "id": "t_nl_shrub_glowberries",
+  "fg": [
+    "t_shrub_raspberry"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

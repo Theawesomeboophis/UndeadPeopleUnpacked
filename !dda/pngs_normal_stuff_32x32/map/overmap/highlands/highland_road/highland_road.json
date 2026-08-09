@@ -1,0 +1,14 @@
+{
+  "id": ["highland_road"],
+  "fg": "highland_road",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+	{ "id": "center", "fg": "highland_road_center", "bg": "" },
+	{ "id": "corner", "fg": [ "highland_road_turn_1", "highland_road_turn_4", "highland_road_turn_3", "highland_road_turn_2" ], "bg": "" },
+	{ "id": "t_connection", "fg": [ "highland_road_t_connection_1", "highland_road_t_connection_4", "highland_road_t_connection_3", "highland_road_t_connection_2" ], "bg": "" },
+	{ "id": "edge", "fg": [ "highland_road_1", "highland_road_2", "highland_road_1", "highland_road_2" ], "bg": "" },
+	{ "id": "end_piece", "fg": [ "highland_road_end_piece_1", "highland_road_end_piece_4", "highland_road_end_piece_3", "highland_road_end_piece_2" ], "bg": "" },
+	{ "id": "unconnected", "fg": "highland_road", "bg": "" }
+  ]
+}

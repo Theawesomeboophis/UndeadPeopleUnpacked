@@ -1,0 +1,8 @@
+{
+  "id": "string_dimension_plane_end",
+  "fg": "string_dimension_plane_end",
+  "bg": [
+    "string_dimension_crossroads"
+  ],
+  "rotates": true
+}

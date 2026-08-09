@@ -1,5 +1,8 @@
 {
-  "id": "f_air_compressor",
+  "id": [
+    "f_air_compressor",
+    "ap_air_compressor"
+  ],
   "fg": [
     "f_air_compressor"
   ],

@@ -1,0 +1,8 @@
+{
+  "id": "art_cloak",
+  "fg": "art_cloak",
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

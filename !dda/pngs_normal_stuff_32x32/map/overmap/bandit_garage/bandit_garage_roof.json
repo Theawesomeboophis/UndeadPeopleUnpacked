@@ -1,0 +1,6 @@
+{
+  "id": ["bandit_garage_1_roof", "bandit_garage_2_roof"],
+  "fg": ["bandit_garage"],
+  "bg": ["open_air"],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": ["case_cigar"],
+  "fg": ["case_cigar"],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

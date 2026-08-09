@@ -1,0 +1,8 @@
+{
+  "id": "mon_gasbag_fungalize",
+  "fg": [
+    "mon_gasbag_fungalize"
+  ],
+  "bg": ["bg_big_normal_shadow"],
+  "rotates": false
+}

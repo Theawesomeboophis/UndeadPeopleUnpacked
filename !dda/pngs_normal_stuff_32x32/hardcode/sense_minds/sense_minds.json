@@ -1,0 +1,21 @@
+{
+  "id": "sense_minds",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "sense_minds"
+    },
+    {
+      "weight": 30,
+      "sprite": "sense_minds_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "sense_minds_3"
+    }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+  
+}

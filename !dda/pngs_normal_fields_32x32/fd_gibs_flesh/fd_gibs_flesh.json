@@ -18,9 +18,9 @@
       "id": "corner",
       "fg": [
         "fd_gibs_flesh_corner_1",
-        "fd_gibs_flesh_corner_2",
+        "fd_gibs_flesh_corner_4",
         "fd_gibs_flesh_corner_3",
-        "fd_gibs_flesh_corner_4"
+        "fd_gibs_flesh_corner_2"
       ],
       "bg": []
     },
@@ -28,9 +28,9 @@
       "id": "t_connection",
       "fg": [
         "fd_gibs_flesh_t_connection_1",
-        "fd_gibs_flesh_t_connection_2",
+        "fd_gibs_flesh_t_connection_4",
         "fd_gibs_flesh_t_connection_3",
-        "fd_gibs_flesh_t_connection_4"
+        "fd_gibs_flesh_t_connection_2"
       ],
       "bg": []
     },
@@ -46,9 +46,9 @@
       "id": "end_piece",
       "fg": [
         "fd_gibs_flesh_end_piece_1",
-        "fd_gibs_flesh_end_piece_2",
+        "fd_gibs_flesh_end_piece_4",
         "fd_gibs_flesh_end_piece_3",
-        "fd_gibs_flesh_end_piece_4"
+        "fd_gibs_flesh_end_piece_2"
       ],
       "bg": []
     },

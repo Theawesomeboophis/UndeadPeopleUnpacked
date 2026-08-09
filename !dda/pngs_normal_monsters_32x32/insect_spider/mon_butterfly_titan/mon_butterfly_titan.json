@@ -1,0 +1,10 @@
+{
+  "id": "mon_butterfly_titan",
+  "fg": [
+    "mon_butterfly_giant"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

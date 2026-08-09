@@ -1,0 +1,32 @@
+[
+  {
+    "id": "unvitrified_farm_0",
+    "fg": "cabin",
+	"bg": [],
+	"rotates": false
+  },
+  {
+    "id": "unvitrified_farm_1",
+    "fg": "cabin_roof",
+	"bg": ["open_air"],
+	"rotates": false
+  },
+  {
+    "id": "unvitrified_farm_2",
+    "fg": "cabin_roof",
+	"bg": ["open_air"],
+	"rotates": false
+  },
+  {
+    "id": "unvitrified_orchard",
+    "fg": "orchard_tree_apple",
+	"bg": [],
+	"rotates": false
+  },
+  {
+    "id": "unvitrified_farm_neg_1",
+    "fg": "generic_city_house_basement_1",
+	"bg": [],
+	"rotates": false
+  }
+]

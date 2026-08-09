@@ -3,6 +3,6 @@
   "fg": [
     "mon_snail_giant"
   ],
-  "bg": [],
+  "bg": ["bg_big_huge_shadow"],
   "rotates": false
 }

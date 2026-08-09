@@ -12,9 +12,9 @@
       "id": "corner",
       "fg": [
         "t_wall_log_widened_corner_nw",
-        "t_wall_log_widened_corner_sw",
+        "t_wall_log_widened_corner_ne",
         "t_wall_log_widened_corner_se",
-        "t_wall_log_widened_corner_ne"
+        "t_wall_log_widened_corner_sw"
       ],
       "bg": "bg_dirt"
     },
@@ -22,9 +22,9 @@
       "id": "t_connection",
       "fg": [
         "t_wall_log_widened_t_connection_n",
-        "t_wall_log_widened_t_connection_w",
+        "t_wall_log_widened_t_connection_e",
         "t_wall_log_widened_t_connection_s",
-        "t_wall_log_widened_t_connection_e"
+        "t_wall_log_widened_t_connection_w"
       ],
       "bg": "bg_dirt"
     },
@@ -40,9 +40,9 @@
       "id": "end_piece",
       "fg": [
         "t_wall_log_widened_end_piece_n",
-        "t_wall_log_widened_end_piece_w",
+        "t_wall_log_widened_end_piece_e",
         "t_wall_log_widened_end_piece_s",
-        "t_wall_log_widened_end_piece_e"
+        "t_wall_log_widened_end_piece_w"
       ],
       "bg": "bg_dirt"
     },

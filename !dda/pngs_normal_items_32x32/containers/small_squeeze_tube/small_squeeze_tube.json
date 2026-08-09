@@ -1,0 +1,6 @@
+{
+  "id": "small_squeeze_tube",
+  "fg": "small_squeeze_tube",
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

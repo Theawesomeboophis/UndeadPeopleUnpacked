@@ -1,5 +1,7 @@
 {
-  "id": "overlay_wielded_robofac_jumpsuit",
+  "id": [
+    "overlay_wielded_robofac_jumpsuit", "overlay_wielded_jumpsuit_var_robofac"
+  ],
   "fg": [
     "robofac_jumpsuit"
   ],

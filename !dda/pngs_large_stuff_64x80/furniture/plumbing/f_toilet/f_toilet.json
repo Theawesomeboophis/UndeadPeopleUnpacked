@@ -1,19 +1,22 @@
-{
-  "id": "f_toilet",
-  "fg": [
-    {
-      "weight": 1000,
-      "sprite": "f_toilet"
-    },
-    {
-      "weight": 100,
-      "sprite": "f_toilet_broken"
-    },
-    {
-      "weight": 10,
-      "sprite": "f_toilet_broken_1"
-    }
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+	{
+	  "id": "f_toilet",
+	  "rotates": true,
+	  "fg": [ "f_toilet", "f_toilet_2", "f_toilet_3", "f_toilet_4" ],
+	  "bg": ""
+	},
+	{
+	  "id": "f_toilet_broken",
+	  "fg": [
+		{
+		  "weight": 1,
+		  "sprite": "f_toilet_broken"
+		},
+		{
+		  "weight": 1,
+		  "sprite": "f_toilet_broken_1"
+		}
+	  ],
+	  "bg": ""
+	}
+]

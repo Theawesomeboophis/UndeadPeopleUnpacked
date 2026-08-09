@@ -25,9 +25,9 @@
       "id": "corner",
       "fg": [
         "forest_trail_corner_1",
-        "forest_trail_corner_2",
+        "forest_trail_corner_4",
         "forest_trail_corner_3",
-        "forest_trail_corner_4"
+        "forest_trail_corner_2"
       ],
       "bg": ""
     },
@@ -35,9 +35,9 @@
       "id": "t_connection",
       "fg": [
         "forest_trail_t_connection_1",
-        "forest_trail_t_connection_2",
+        "forest_trail_t_connection_4",
         "forest_trail_t_connection_3",
-        "forest_trail_t_connection_4"
+        "forest_trail_t_connection_2"
       ],
       "bg": ""
     },
@@ -53,9 +53,9 @@
       "id": "end_piece",
       "fg": [
         "forest_trail_end_piece_1",
-        "forest_trail_end_piece_2",
+        "forest_trail_end_piece_4",
         "forest_trail_end_piece_3",
-        "forest_trail_end_piece_4"
+        "forest_trail_end_piece_2"
       ],
       "bg": ""
     },

@@ -101,9 +101,9 @@
       "id": "t_connection",
       "fg": [
         "t_water_sh_t_connection_1",
-        "t_water_sh_t_connection_2",
+        "t_water_sh_t_connection_4",
         "t_water_sh_t_connection_3",
-        "t_water_sh_t_connection_4"
+        "t_water_sh_t_connection_2"
       ],
       "bg": [
         "bg_stone_floor"

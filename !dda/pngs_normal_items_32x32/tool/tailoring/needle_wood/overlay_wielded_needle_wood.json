@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_needle_wood",
   "fg": [
-    "needle_wood"
+    "overlay_wielded_needle_bone"
   ],
   "bg": [],
   "rotates": false

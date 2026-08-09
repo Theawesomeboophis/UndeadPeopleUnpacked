@@ -21,9 +21,9 @@
       "id": "corner",
       "fg": [
         "t_water_pool_shallow_corner_1",
-        "t_water_pool_shallow_corner_2",
+        "t_water_pool_shallow_corner_4",
         "t_water_pool_shallow_corner_3",
-        "t_water_pool_shallow_corner_4"
+        "t_water_pool_shallow_corner_2"
       ],
       "bg": [
         "t_railroad_rubble",
@@ -34,9 +34,9 @@
       "id": "t_connection",
       "fg": [
         "t_water_pool_shallow_t_connection_1",
-        "t_water_pool_shallow_t_connection_2",
+        "t_water_pool_shallow_t_connection_4",
         "t_water_pool_shallow_t_connection_3",
-        "t_water_pool_shallow_t_connection_4"
+        "t_water_pool_shallow_t_connection_2"
       ],
       "bg": [
         "t_railroad_rubble",
@@ -58,9 +58,9 @@
       "id": "end_piece",
       "fg": [
         "t_water_pool_shallow_end_piece_1",
-        "t_water_pool_shallow_end_piece_2",
+        "t_water_pool_shallow_end_piece_4",
         "t_water_pool_shallow_end_piece_3",
-        "t_water_pool_shallow_end_piece_4"
+        "t_water_pool_shallow_end_piece_2"
       ],
       "bg": [
         "t_railroad_rubble",

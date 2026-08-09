@@ -11,9 +11,9 @@
       "id": "corner",
       "fg": [
         "explosion_weak_corner_1",
-        "explosion_weak_corner_2",
+        "explosion_weak_corner_4",
         "explosion_weak_corner_3",
-        "explosion_weak_corner_4"
+        "explosion_weak_corner_2"
       ],
       "bg": []
     },

@@ -15,5 +15,17 @@
   "fg": ["trailhead_shack_z0"],
   "bg": [],
   "rotates": false
+},
+{
+  "id": "trailhead_outhouse_z1",
+  "fg": ["open_air"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": "trailhead_shack_z1",
+  "fg": ["open_air"],
+  "bg": [],
+  "rotates": false
 }
 ]

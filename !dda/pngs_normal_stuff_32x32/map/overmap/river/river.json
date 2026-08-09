@@ -25,12 +25,12 @@
   "rotates": false
 },{
   "id": "river_west",
-  "fg": ["river_west"],
+  "fg": ["river_east"],
   "bg": ["bg_grass"],
   "rotates": false
 },{
   "id": "river_east",
-  "fg": ["river_east"],
+  "fg": ["river_west"],
   "bg": ["bg_grass"],
   "rotates": false
 },{
@@ -45,7 +45,7 @@
   "rotates": false
 },{
   "id": "river",
-  "fg": ["river_north", "river_west", "river_south", "river_east"],
+  "fg": ["river_north", "river_east", "river_south", "river_west"],
   "bg": ["bg_grass"],
   "rotates": true
 },{

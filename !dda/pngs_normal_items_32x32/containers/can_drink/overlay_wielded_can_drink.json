@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_can_drink",
   "fg": [
-    "can_drink"
+    "overlay_wielded_can_drink"
   ],
   "bg": [],
   "rotates": false

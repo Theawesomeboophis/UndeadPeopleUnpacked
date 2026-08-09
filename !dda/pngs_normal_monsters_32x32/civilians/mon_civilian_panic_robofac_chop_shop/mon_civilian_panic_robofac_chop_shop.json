@@ -1,0 +1,38 @@
+{
+  "id": "mon_civilian_panic_robofac_chop_shop",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_panic"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_panic_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_panic_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_panic_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_panic_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_panic_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_panic_6"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

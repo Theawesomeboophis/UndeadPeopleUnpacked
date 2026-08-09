@@ -1,0 +1,8 @@
+{
+    "id": [
+        "string_dimension_small_ziggurat_0"
+    ],
+    "fg": ["string_dimension_small_ziggurat_1"],
+    "bg": ["string_dimension_crossroads"],
+    "rotates": false
+}

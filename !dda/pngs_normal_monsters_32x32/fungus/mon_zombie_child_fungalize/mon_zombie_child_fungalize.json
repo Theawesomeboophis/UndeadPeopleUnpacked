@@ -1,0 +1,25 @@
+{
+  "id": "mon_zombie_child_fungalize",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_fungalize_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_fungalize_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_fungalize_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_child_fungalize_4"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "paint_can_steel",
+  "fg": [
+    "paint_can_steel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

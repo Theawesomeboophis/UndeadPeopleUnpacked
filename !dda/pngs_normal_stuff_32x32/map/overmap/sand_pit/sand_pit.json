@@ -1,0 +1,80 @@
+[
+	{
+	  "id": ["sand_pit_NW"],
+	  "fg": ["f_sand_mound_mid_unconnected"],
+	  "bg": ["field_3"],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_N"],
+	  "fg": [ "rural_road_end_piece_3", "rural_road_end_piece_2", "rural_road_end_piece_1", "rural_road_end_piece_4" ],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["sand_pit_NE"],
+	  "fg": ["f_gravel_mound_mid_unconnected"],
+	  "bg": ["field_3"],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_W"],
+	  "fg": ["f_sand_mound_mid_unconnected"],
+	  "bg": ["field_3"],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_M"],
+	  "fg": [ "rural_road_1", "rural_road_4", "rural_road_3", "rural_road_2" ],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["sand_pit_E"],
+	  "fg": ["f_gravel_mound_mid_unconnected"],
+	  "bg": ["field_3"],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_SW"],
+	  "fg": ["f_sand_mound_mid_unconnected"],
+	  "bg": ["field_3"],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_S"],
+	  "fg": [ "rural_road_1", "rural_road_4", "rural_road_3", "rural_road_2" ],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["sand_pit_SE"],
+	  "fg": ["f_gravel_mound_mid_unconnected"],
+	  "bg": ["field_3"],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_N_down", "sand_pit_NE_down", "sand_pit_M_down", "sand_pit_E_down", "sand_pit_S_down", "sand_pit_SE_down"],
+	  "fg": ["solid_earth"],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_NW_down"],
+	  "fg": ["cave_underground"],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_W_down"],
+	  "fg": ["cave_underground"],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": ["sand_pit_SW_down"],
+	  "fg": ["cave_underground"],
+	  "bg": [],
+	  "rotates": false
+	}
+]

@@ -1,0 +1,10 @@
+{
+  "id": "robofac_mobile_weather_station",
+  "fg": [
+    "robofac_mobile_weather_station"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

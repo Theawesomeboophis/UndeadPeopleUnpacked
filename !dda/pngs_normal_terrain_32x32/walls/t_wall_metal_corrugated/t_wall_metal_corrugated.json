@@ -4,7 +4,74 @@
     "t_wall_metal_corrugated"
   ],
   "bg": [
-    "bg_t_floor"
+    "bg_metal_block"
   ],
-  "rotates": false
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_wall_metal_corrugated_center"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_wall_metal_corrugated_corner_1",
+        "t_wall_metal_corrugated_corner_4",
+        "t_wall_metal_corrugated_corner_3",
+        "t_wall_metal_corrugated_corner_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_wall_metal_corrugated_t_connection_1",
+        "t_wall_metal_corrugated_t_connection_4",
+        "t_wall_metal_corrugated_t_connection_3",
+        "t_wall_metal_corrugated_t_connection_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_wall_metal_corrugated_edge_1",
+        "t_wall_metal_corrugated_edge_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_wall_metal_corrugated_end_piece_1",
+        "t_wall_metal_corrugated_end_piece_4",
+        "t_wall_metal_corrugated_end_piece_3",
+        "t_wall_metal_corrugated_end_piece_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_wall_metal_corrugated_unconnected"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    }
+  ]
 }

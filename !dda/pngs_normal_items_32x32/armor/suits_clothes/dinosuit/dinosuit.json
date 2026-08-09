@@ -1,5 +1,5 @@
 {
-  "id": "dinosuit",
+  "id": ["dinosuit"],
   "fg": [
     "dinosuit"
   ],

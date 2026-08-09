@@ -1,0 +1,10 @@
+{
+  "id": "mon_grebe",
+  "fg": [
+    "mon_grebe"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

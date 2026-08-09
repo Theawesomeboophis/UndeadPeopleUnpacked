@@ -3,8 +3,6 @@
   "fg": [
     "mon_stag_beetle_small"
   ],
-  "bg": [
-    ""
-  ],
+  "bg": [],
   "rotates": false
 }

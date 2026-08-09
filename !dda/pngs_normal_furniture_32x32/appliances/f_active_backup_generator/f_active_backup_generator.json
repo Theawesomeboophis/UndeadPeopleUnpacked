@@ -1,5 +1,5 @@
 {
-  "id": ["active_backup_generator", "f_active_backup_generator"],
+  "id": ["vp_ap_active_backup_generator", "active_backup_generator", "f_active_backup_generator"],
   "fg": [
     "f_active_backup_generator"
   ],

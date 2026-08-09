@@ -1,0 +1,8 @@
+[
+{
+  "id": ["farm_horse_greenhouse_roof"],
+  "fg": ["farm_horse_greenhouse_1_roof", "farm_horse_greenhouse_2_roof"],
+  "bg": ["open_air"],
+  "rotates": true
+}
+]

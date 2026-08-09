@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_charcoal_cooker",
   "fg": [
-    "charcoal_cooker"
+    "overlay_wielded_charcoal_cooker"
   ],
   "bg": []
 }

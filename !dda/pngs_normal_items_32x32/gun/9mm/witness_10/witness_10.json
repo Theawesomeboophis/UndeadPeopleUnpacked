@@ -1,8 +1,10 @@
 {
   "id": "witness_10",
   "fg": [
-    "cz75"
+    "witness_10"
   ],
-  "bg": [],
-  "rotates": true
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }

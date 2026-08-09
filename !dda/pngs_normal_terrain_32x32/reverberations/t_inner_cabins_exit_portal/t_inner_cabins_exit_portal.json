@@ -1,0 +1,44 @@
+{
+  "id": "t_inner_cabins_exit_portal",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal"
+    },
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "t_inner_cabins_exit_portal_8"
+    }
+  ],
+  "bg": ["bg_dirt"],
+  "animated": true,
+  "rotates": false
+}

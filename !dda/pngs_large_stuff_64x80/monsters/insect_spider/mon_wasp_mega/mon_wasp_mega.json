@@ -1,8 +1,15 @@
 {
   "id": "mon_wasp_mega",
   "fg": [
-    "mon_wasp_mega"
+    {
+      "weight": 30,
+      "sprite": "mon_wasp_mega"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_wasp_mega_2"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "animated": true
 }

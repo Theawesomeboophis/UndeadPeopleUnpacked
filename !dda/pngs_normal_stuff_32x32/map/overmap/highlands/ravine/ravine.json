@@ -1,0 +1,19 @@
+{
+  "id": ["ravine"],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "ravine_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "ravine_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "ravine_3"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

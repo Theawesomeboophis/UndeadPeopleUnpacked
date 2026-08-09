@@ -1,0 +1,39 @@
+{
+  "id": "art_duocylinder",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_duocylinder_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_duocylinder_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_duocylinder_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "art_duocylinder_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_duocylinder_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_duocylinder_6"
+	  },
+    {
+      "weight": 10,
+      "sprite": "art_duocylinder_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_duocylinder_8"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

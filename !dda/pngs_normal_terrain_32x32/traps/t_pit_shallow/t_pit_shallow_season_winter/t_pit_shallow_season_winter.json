@@ -18,9 +18,9 @@
       "id": "corner",
       "fg": [
         "t_pit_shallow_corner_1_season_winter",
-        "t_pit_shallow_corner_2_season_winter",
+        "t_pit_shallow_corner_4_season_winter",
         "t_pit_shallow_corner_3_season_winter",
-        "t_pit_shallow_corner_4_season_winter"
+        "t_pit_shallow_corner_2_season_winter"
       ],
       "bg": ["bg_dirt_season_winter"]
     },
@@ -28,9 +28,9 @@
       "id": "t_connection",
       "fg": [
         "t_pit_shallow_t_connection_1_season_winter",
-        "t_pit_shallow_t_connection_2_season_winter",
+        "t_pit_shallow_t_connection_4_season_winter",
         "t_pit_shallow_t_connection_3_season_winter",
-        "t_pit_shallow_t_connection_4_season_winter"
+        "t_pit_shallow_t_connection_2_season_winter"
       ],
       "bg": ["bg_dirt_season_winter"]
     },
@@ -46,9 +46,9 @@
       "id": "end_piece",
       "fg": [
         "t_pit_shallow_end_piece_1_season_winter",
-        "t_pit_shallow_end_piece_2_season_winter",
+        "t_pit_shallow_end_piece_4_season_winter",
         "t_pit_shallow_end_piece_3_season_winter",
-        "t_pit_shallow_end_piece_4_season_winter"
+        "t_pit_shallow_end_piece_2_season_winter"
       ],
       "bg": ["bg_dirt_season_winter"]
     },

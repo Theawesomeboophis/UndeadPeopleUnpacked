@@ -37,9 +37,9 @@
       "id": "corner",
       "fg": [
         "tr_lava_corner_1",
-        "tr_lava_corner_2",
+        "tr_lava_corner_4",
         "tr_lava_corner_3",
-        "tr_lava_corner_4"
+        "tr_lava_corner_2"
       ],
       "bg": []
     },
@@ -47,9 +47,9 @@
       "id": "t_connection",
       "fg": [
         "tr_lava_t_connection_1",
-        "tr_lava_t_connection_2",
+        "tr_lava_t_connection_4",
         "tr_lava_t_connection_3",
-        "tr_lava_t_connection_4"
+        "tr_lava_t_connection_2"
       ],
       "bg": []
     },
@@ -65,9 +65,9 @@
       "id": "end_piece",
       "fg": [
         "tr_lava_end_piece_1",
-        "tr_lava_end_piece_2",
+        "tr_lava_end_piece_4",
         "tr_lava_end_piece_3",
-        "tr_lava_end_piece_4"
+        "tr_lava_end_piece_2"
       ],
       "bg": []
     },

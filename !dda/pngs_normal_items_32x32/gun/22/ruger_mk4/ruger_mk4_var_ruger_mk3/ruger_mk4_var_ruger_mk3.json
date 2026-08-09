@@ -1,0 +1,10 @@
+{
+  "id": ["ruger_mk4_var_ruger_mk3"],
+  "fg": [
+    "ruger_mk4_var_ruger_mk3"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

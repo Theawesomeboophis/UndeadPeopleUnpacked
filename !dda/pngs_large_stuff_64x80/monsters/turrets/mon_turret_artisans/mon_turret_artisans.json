@@ -1,0 +1,15 @@
+{
+  "id": "mon_turret_artisans",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "mon_turret_artisans_1"
+    },
+    {
+      "weight": 100,
+      "sprite": "mon_turret_artisans_2"
+    }
+  ],
+  "bg": [ ],
+  "animated": true
+}

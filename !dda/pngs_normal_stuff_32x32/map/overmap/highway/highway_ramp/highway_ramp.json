@@ -1,0 +1,42 @@
+[
+    {
+        "id": "highway_ramp_up_0",
+        "fg": [
+            "hw_road_north",
+            "hw_road_east",
+            "hw_road_south",
+            "hw_road_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "highway_ramp_up_1",
+        "fg": [
+            "hw_road_south",
+            "hw_road_west",
+            "hw_road_north",
+            "hw_road_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "highway_ramp_down_0",
+        "fg": [
+            "hw_road_north",
+            "hw_road_west",
+            "hw_road_south",
+            "hw_road_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "highway_ramp_down_1",
+        "fg": [
+            "hw_road_south",
+            "hw_road_west",
+            "hw_road_north",
+            "hw_road_east"
+        ],
+        "rotates": true
+    }
+]

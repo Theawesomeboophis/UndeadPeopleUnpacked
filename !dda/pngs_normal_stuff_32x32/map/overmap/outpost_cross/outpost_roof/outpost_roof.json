@@ -1,0 +1,6 @@
+{
+  "id": ["outpost_roof", "bunker_roof"],
+  "fg": ["outpost_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+}

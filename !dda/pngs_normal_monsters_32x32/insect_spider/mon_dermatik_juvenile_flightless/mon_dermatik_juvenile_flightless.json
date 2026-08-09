@@ -1,0 +1,10 @@
+{
+  "id": "mon_dermatik_juvenile_flightless",
+  "fg": [
+    "mon_dermatik_juvenile_flightless"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

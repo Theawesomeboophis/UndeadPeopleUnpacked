@@ -1,0 +1,12 @@
+{
+    "id": [
+        "labyrinth_entrance",
+		"labyrinth_nl_exit_boiler",
+		"labyrinth_safehouse",
+		"labyrinth_flooded_entrance",
+		"labyrinth_overgrown_entrance"
+    ],
+    "fg": ["labyrinth_entrance"],
+    "bg": [],
+    "rotates": false
+}

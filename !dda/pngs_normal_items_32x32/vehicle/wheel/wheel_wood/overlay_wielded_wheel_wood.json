@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_wheel_wood",
   "fg": [
-    "wheel_wood"
+    "overlay_wielded_wheel_wood"
   ],
   "bg": [],
   "rotates": false

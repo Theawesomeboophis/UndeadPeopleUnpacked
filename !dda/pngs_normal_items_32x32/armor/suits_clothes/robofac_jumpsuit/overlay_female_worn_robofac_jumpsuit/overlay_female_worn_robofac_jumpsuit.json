@@ -1,5 +1,7 @@
 {
-  "id": "overlay_female_worn_robofac_jumpsuit",
+  "id": [
+    "overlay_female_worn_robofac_jumpsuit", "overlay_female_worn_jumpsuit_var_robofac"
+  ],
   "fg": [
     "overlay_female_worn_robofac_jumpsuit"
   ],

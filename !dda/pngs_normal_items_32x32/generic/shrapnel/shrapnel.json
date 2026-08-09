@@ -3,5 +3,6 @@
   "fg": [
     "shrapnel"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }

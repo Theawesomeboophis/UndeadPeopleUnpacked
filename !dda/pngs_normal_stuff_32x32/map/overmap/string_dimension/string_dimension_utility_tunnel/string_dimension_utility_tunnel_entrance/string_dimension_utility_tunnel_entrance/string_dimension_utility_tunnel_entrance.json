@@ -1,0 +1,6 @@
+{
+    "id": ["string_dimension_utility_tunnel_entrance"],
+    "fg": ["string_dimension_utility_tunnel_entrance"],
+    "bg": ["string_dimension_crossroads"],
+    "rotates": false
+}

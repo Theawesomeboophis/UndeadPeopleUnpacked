@@ -1,0 +1,10 @@
+{
+  "id": "quiver_takedown_bow",
+  "fg": [
+    "quiver_takedown_bow"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

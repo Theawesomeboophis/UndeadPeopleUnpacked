@@ -3,9 +3,9 @@
         "id": "mine_spiral_east",
         "fg": [
             "mine_spiral_east_n",
-            "mine_spiral_east_w",
+            "mine_spiral_east_e",
             "mine_spiral_east_s",
-            "mine_spiral_east_e"
+            "mine_spiral_east_w"
         ],
         "rotates": true
     },
@@ -13,9 +13,9 @@
         "id": "mine_spiral_central",
         "fg": [
             "mine_spiral_central_n",
-            "mine_spiral_central_w",
+            "mine_spiral_central_e",
             "mine_spiral_central_s",
-            "mine_spiral_central_e"
+            "mine_spiral_central_w"
         ],
         "rotates": true
     },
@@ -23,9 +23,9 @@
         "id": "mine_spiral_west",
         "fg": [
             "mine_spiral_west_n",
-            "mine_spiral_west_w",
+            "mine_spiral_west_e",
             "mine_spiral_west_s",
-            "mine_spiral_west_e"
+            "mine_spiral_west_w"
         ],
         "rotates": true
     },

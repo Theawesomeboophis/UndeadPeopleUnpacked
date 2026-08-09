@@ -1,0 +1,4 @@
+The game currently has no separate tiles for the Trans-Coast Logistics buildings.
+They are also not multi tiles. As such, the roof is implemented in the 
+large_overlapping tilesheet. This may break if the building layout changes
+in future updates.

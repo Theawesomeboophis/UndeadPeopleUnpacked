@@ -1,0 +1,6 @@
+{
+  "id": "mon_nl_surgicalbot_assist",
+  "fg": "mon_nl_surgicalbot_assist",
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

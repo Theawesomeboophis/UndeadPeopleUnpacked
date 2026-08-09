@@ -1,7 +1,7 @@
 {
-  "id": ["glock_40", "glock_20_var_glock_40"],
+  "id": "glock_40",
   "fg": [
-    "glock_17"
+    "glock_40"
   ],
   "bg": [],
   "rotates": false

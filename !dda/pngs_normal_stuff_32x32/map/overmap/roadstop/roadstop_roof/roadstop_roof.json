@@ -1,6 +1,20 @@
 [
-        {
-          "id": [ "roadstop_roof" ],
- "fg": [ "roadstop_roof" ], "bg": [ "open_air" ], "rotates": false },
-        { "id": [ "roadstop_b_roof" ], "fg": [ "roadstop_b_roof" ], "bg": [ "open_air" ], "rotates": false }
+	{
+	  "id": [ "roadstop_roof" ],
+	  "fg": [ "roadstop_roof" ],
+	  "bg": [ "open_air" ],
+	  "rotates": false
+	},
+	{
+	  "id": [ "roadstop_b_roof" ],
+	  "fg": [ "roadstop_b_roof" ],
+	  "bg": [ "open_air" ],
+	  "rotates": false
+	},
+	{
+	  "id": [ "roadstop_a_roof" ],
+	  "fg": [ "roadstop_a_roof" ],
+	  "bg": [ "open_air" ],
+	  "rotates": false
+	}
 ]

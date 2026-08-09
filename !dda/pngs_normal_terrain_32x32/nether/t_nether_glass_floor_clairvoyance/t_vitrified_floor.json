@@ -1,0 +1,77 @@
+{
+  "id": ["t_nether_glass_floor_clairvoyance"],
+  "fg": [
+    "t_vitrified_floor"
+  ],
+  "bg": [
+    "t_vitrified_dirt"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_vitrified_floor_center"
+      ],
+      "bg": [
+        "t_vitrified_dirt"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_vitrified_floor_corner_1",
+        "t_vitrified_floor_corner_4",
+        "t_vitrified_floor_corner_3",
+        "t_vitrified_floor_corner_2"
+      ],
+      "bg": [
+        "t_vitrified_dirt"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_vitrified_floor_t_connection_1",
+        "t_vitrified_floor_t_connection_4",
+        "t_vitrified_floor_t_connection_3",
+        "t_vitrified_floor_t_connection_2"
+      ],
+      "bg": [
+        "t_vitrified_dirt"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_vitrified_floor_edge_1",
+        "t_vitrified_floor_edge_2"
+      ],
+      "bg": [
+        "t_vitrified_dirt"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_vitrified_floor_end_piece_1",
+        "t_vitrified_floor_end_piece_4",
+        "t_vitrified_floor_end_piece_3",
+        "t_vitrified_floor_end_piece_2"
+      ],
+      "bg": [
+        "t_vitrified_dirt"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_vitrified_floor_unconnected"
+      ],
+      "bg": [
+        "t_vitrified_dirt"
+      ]
+    }
+  ]
+}

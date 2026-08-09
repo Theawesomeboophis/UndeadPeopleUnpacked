@@ -1,3 +1,4 @@
+[
 {
   "id": [
     "2farm_1",
@@ -9,14 +10,44 @@
     "2farm_16",
     "2farm_2",
     "2farm_5",
-    "2farm_6",
-    "2farm_6_1",
-    "2farm_6_2",
-    "2farm_6_3",
     "2farm_9",
     "2farm_roof_15"
   ],
   "fg": ["generic_pasture"],
   "bg": [],
   "rotates": false
+},
+{
+  "id": [
+    "2farm_4",
+    "2farm_8"
+  ],
+  "fg": ["generic_pasture"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "2farm_7"
+  ],
+  "fg": ["bg_dirt"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "2farm_3"
+  ],
+  "fg": ["barn"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "2farm_6"
+  ],
+  "fg": ["2silos"],
+  "bg": [],
+  "rotates": false
 }
+]

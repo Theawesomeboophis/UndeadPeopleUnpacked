@@ -1,0 +1,12 @@
+[
+    {
+        "id": [
+            "inner_cabins_cabin"
+        ],
+        "fg": [
+            "cabin"
+        ],
+        "bg": [],
+        "rotates": false
+    }
+]

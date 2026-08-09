@@ -1,0 +1,122 @@
+[
+	{
+	  "id": ["stadium_0_0"],
+	  "fg": ["stadium_0_0"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_1_0"],
+	  "fg": ["stadium_1_0"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_2_0"],
+	  "fg": ["stadium_2_0"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_3_0"],
+	  "fg": ["stadium_3_0"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_0_1"],
+	  "fg": ["stadium_0_1"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_1_1"],
+	  "fg": ["stadium_1_1"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_2_1"],
+	  "fg": ["stadium_2_1"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_3_1"],
+	  "fg": ["stadium_3_1"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_0_2"],
+	  "fg": ["stadium_0_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_1_2"],
+	  "fg": ["stadium_1_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_2_2"],
+	  "fg": ["stadium_2_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_3_2"],
+	  "fg": ["stadium_3_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_0_3"],
+	  "fg": ["stadium_0_3"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_1_3"],
+	  "fg": ["stadium_1_3"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_2_3"],
+	  "fg": ["stadium_2_3"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_3_3"],
+	  "fg": ["stadium_3_3"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_0_4"],
+	  "fg": ["stadium_0_4"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_1_4"],
+	  "fg": ["stadium_1_4"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_2_4"],
+	  "fg": ["stadium_2_4"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["stadium_3_4"],
+	  "fg": ["stadium_3_4"],
+	  "bg": [],
+	  "rotates": true
+	}
+]

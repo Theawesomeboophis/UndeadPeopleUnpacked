@@ -1,0 +1,42 @@
+{
+  "id": "mon_civilian_zombiegunner",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_zombiegunner"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_zombiegunner_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_zombiegunner_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_zombiegunner_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_zombiegunner_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_zombiegunner_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_zombiegunner_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_civilian_zombiegunner_7"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

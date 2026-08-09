@@ -1,0 +1,15 @@
+{
+  "id": "mon_wasp_guard_fungus",
+  "fg": [
+    {
+      "weight": 20,
+      "sprite": "mon_wasp_fungus_1"
+    },
+    {
+      "weight": 20,
+      "sprite": "mon_wasp_fungus_2"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "animated": true
+}

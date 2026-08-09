@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_can_food",
   "fg": [
-    "can_food"
+    "overlay_wielded_can_food"
   ],
   "bg": [],
   "rotates": false

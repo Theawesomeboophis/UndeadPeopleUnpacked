@@ -1,0 +1,8 @@
+{
+  "id": "art_harp",
+  "fg": "art_harp",
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

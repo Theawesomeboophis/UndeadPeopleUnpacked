@@ -1,0 +1,63 @@
+{
+  "id": "fd_spores",
+  "fg": [
+    "fd_spores"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "fd_spores_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_spores_corner_1",
+        "fd_spores_corner_4",
+        "fd_spores_corner_3",
+        "fd_spores_corner_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_spores_t_connection_1",
+        "fd_spores_t_connection_4",
+        "fd_spores_t_connection_3",
+        "fd_spores_t_connection_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_spores_edge_1",
+        "fd_spores_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_spores_end_piece_1",
+        "fd_spores_end_piece_4",
+        "fd_spores_end_piece_3",
+        "fd_spores_end_piece_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_spores_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

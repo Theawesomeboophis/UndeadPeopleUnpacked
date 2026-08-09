@@ -1,0 +1,10 @@
+{
+  "id": "load_bearing_vest_sling",
+  "fg": [
+    "chestrig"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

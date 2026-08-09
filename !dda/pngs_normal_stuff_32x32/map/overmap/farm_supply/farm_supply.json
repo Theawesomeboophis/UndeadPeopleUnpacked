@@ -1,0 +1,10 @@
+[
+{
+  "id": ["farm_supply_1", "farm_supply_2", "farm_supply_3", "farm_supply_4"],
+  "fg": ["farm_supply"]
+},
+{
+  "id": ["farm_supply_looted_1", "farm_supply_looted__2", "farm_supply_looted__3", "farm_supply_looted__4"],
+  "fg": ["farm_supply"]
+}
+]

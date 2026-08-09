@@ -1,8 +1,10 @@
 {
   "id": "lever_shotgun",
   "fg": [
-    "remington_870"
+    "lever_shotgun"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

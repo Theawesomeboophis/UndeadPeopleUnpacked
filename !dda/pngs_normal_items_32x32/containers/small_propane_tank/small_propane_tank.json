@@ -1,0 +1,10 @@
+{
+  "id": "small_propane_tank",
+  "fg": [
+    "small_propane_tank"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

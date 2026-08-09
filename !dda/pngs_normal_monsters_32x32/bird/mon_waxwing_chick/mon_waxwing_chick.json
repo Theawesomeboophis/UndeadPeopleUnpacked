@@ -1,0 +1,10 @@
+{
+  "id": "mon_waxwing_chick",
+  "fg": [
+    "mon_waxwing_chick"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

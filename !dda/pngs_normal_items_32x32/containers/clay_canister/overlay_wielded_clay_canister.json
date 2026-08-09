@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_clay_canister",
   "fg": [
-    "clay_canister"
+    "overlay_wielded_clay_canister"
   ],
   "bg": []
 }

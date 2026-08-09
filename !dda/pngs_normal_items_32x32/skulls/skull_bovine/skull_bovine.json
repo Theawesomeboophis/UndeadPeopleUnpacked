@@ -1,0 +1,10 @@
+{
+  "id": "skull_bovine",
+  "fg": [
+    "skull_bovine"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

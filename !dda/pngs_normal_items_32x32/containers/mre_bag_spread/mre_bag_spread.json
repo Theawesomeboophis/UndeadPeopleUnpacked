@@ -1,0 +1,10 @@
+{
+  "id": "mre_bag_spread",
+  "fg": [
+    "mre_bag_spread"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

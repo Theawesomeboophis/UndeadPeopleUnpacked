@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_broken_turret_riot",
   "fg": [
-    "broken_turret_riot"
+    "overlay_wielded_broken_turret_riot"
   ],
   "bg": [],
   "rotates": true

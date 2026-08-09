@@ -1,5 +1,8 @@
 {
-  "id": "overlay_wielded_knife_carving",
+  "id": [
+    "overlay_wielded_knife_carving",
+	"overlay_wielded_knife_large_var_knife_carving"
+  ],
   "fg": [
     "overlay_wielded_knife_carving"
   ],

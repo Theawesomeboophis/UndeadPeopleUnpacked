@@ -1,0 +1,124 @@
+[
+    {
+        "id": "hw_three_lane_merge_e",
+        "fg": [
+            "hw_road_south",
+            "hw_road_west",
+            "hw_road_north",
+            "hw_road_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_three_lane_merge_w",
+        "fg": [
+            "hw_road_north",
+            "hw_road_east",
+            "hw_road_south",
+            "hw_road_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_three_lane",
+        "fg": [
+            "hw_road_north",
+            "hw_road_east",
+            "hw_road_south",
+            "hw_road_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_diamond_interchange_0_-2",
+        "fg": [
+            "hw_diamond_interchange_north",
+            "hw_diamond_interchange_east",
+            "hw_diamond_interchange_south",
+            "hw_diamond_interchange_west"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_diamond_interchange_1_-2",
+        "fg": [
+            "hw_diamond_interchange_south",
+            "hw_diamond_interchange_west",
+            "hw_diamond_interchange_north",
+            "hw_diamond_interchange_east"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_diamond_interchange_2_-2",
+        "fg": [
+            "road_corner_4",
+            "road_corner_3",
+            "road_corner_2",
+            "road_corner_1"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_diamond_interchange_3_-1",
+        "fg": [
+            "road_corner_4",
+            "road_corner_3",
+            "road_corner_2",
+            "road_corner_1"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_diamond_interchange_-1_-2",
+        "fg": [
+            "road_corner_1",
+            "road_corner_4",
+            "road_corner_3",
+            "road_corner_2"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_diamond_interchange_-2_-1",
+        "fg": [
+            "road_corner_1",
+            "road_corner_4",
+            "road_corner_3",
+            "road_corner_2"
+        ],
+        "rotates": true
+    },
+    {
+        "id": [
+            "hw_diamond_interchange_2_0",
+            "hw_diamond_interchange_3_0",
+            "hw_diamond_interchange_-1_0",
+            "hw_diamond_interchange_-2_0"
+        ],
+        "fg": [
+            "road_center"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_diamond_interchange_2_-1",
+        "fg": [
+            "road_t_connection_2",
+            "road_t_connection_1",
+            "road_t_connection_4",
+            "road_t_connection_3"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "hw_diamond_interchange_-1_-1",
+        "fg": [
+            "road_t_connection_4",
+            "road_t_connection_3",
+            "road_t_connection_2",
+            "road_t_connection_1"
+        ],
+        "rotates": true
+    }
+]

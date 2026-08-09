@@ -1,0 +1,10 @@
+{
+  "id": "skull_canis_small",
+  "fg": [
+    "skull_canis_small"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

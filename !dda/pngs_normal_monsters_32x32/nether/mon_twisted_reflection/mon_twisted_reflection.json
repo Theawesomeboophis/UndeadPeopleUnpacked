@@ -1,0 +1,8 @@
+{
+  "id": "mon_twisted_reflection",
+  "fg": [
+    "mon_twisted_reflection"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "wasp_tower_even_1", "wasp_tower_roof_1", "wasp_tower_odd_1", "wasp_tower_even_2", "wasp_tower_odd_2", "wasp_tower_top"],
+    "fg": [ "wasp_tower_roof" ],
+    "bg": ["bg_big_open_air"],
+    "rotates": false
+  },
+  {
+    "id": ["wasp_tower_roof"],
+    "fg": ["bg_big_open_air"],
+    "bg": [],
+    "rotates": false
+  }
+]

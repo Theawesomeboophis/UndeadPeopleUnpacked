@@ -63,9 +63,9 @@
       "id": "corner",
       "fg": [
         "t_rock_corner_1",
-        "t_rock_corner_2",
+        "t_rock_corner_4",
         "t_rock_corner_3",
-        "t_rock_corner_4"
+        "t_rock_corner_2"
       ],
       "bg": [
         "bg_stone_floor"
@@ -75,9 +75,9 @@
       "id": "t_connection",
       "fg": [
         "t_rock_t_connection_1",
-        "t_rock_t_connection_2",
+        "t_rock_t_connection_4",
         "t_rock_t_connection_3",
-        "t_rock_t_connection_4"
+        "t_rock_t_connection_2"
       ],
       "bg": [
         "bg_stone_floor"
@@ -97,9 +97,9 @@
       "id": "end_piece",
       "fg": [
         "t_rock_end_piece_1",
-        "t_rock_end_piece_2",
+        "t_rock_end_piece_4",
         "t_rock_end_piece_3",
-        "t_rock_end_piece_4"
+        "t_rock_end_piece_2"
       ],
       "bg": [
         "bg_stone_floor"

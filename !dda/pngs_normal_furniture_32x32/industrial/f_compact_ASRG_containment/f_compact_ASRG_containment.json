@@ -1,8 +1,11 @@
 {
-  "id": "f_compact_ASRG_containment",
+  "id": [
+    "f_compact_ASRG_containment",
+	"ap_compact_ASRG_containment"
+  ],
   "fg": [
     "f_compact_ASRG_containment"
   ],
   "bg": [],
-  "rotates": true
+  "rotates": false
 }

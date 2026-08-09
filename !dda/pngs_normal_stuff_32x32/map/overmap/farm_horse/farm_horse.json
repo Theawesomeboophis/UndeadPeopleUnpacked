@@ -1,0 +1,112 @@
+[
+{
+  "id": [
+    "farm_horse_house_1"
+  ],
+  "fg": ["cabin"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "farm_horse_stable_1",
+	"farm_horse_carriage_house_1"
+  ],
+  "fg": ["barn"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "farm_horse_silo"
+  ],
+  "fg": ["2silos"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+    "paddock",
+	"paddock_L_gap",
+	"paddock_D_gap",
+	"farm_horse_ring_2",
+	"farm_horse_ring_3",
+	"farm_horse_ring_4",
+	"splitrail_fence_DL",
+	"splitrail_fence_UL",
+	"splitrail_fence_gap",
+	"splitrail_fence_butt",
+	"splitrail_fence_DR",
+	"splitrail_fence_UR",
+	"splitrail_fence_inner",
+	"paddock_L_butt",
+	"paddock_C",
+	"paddock_R_butt",
+	"paddock_UL",
+	"paddock_DL",
+	"paddock_UR",
+	"paddock_DR",
+	"paddock_d_U_butt",
+	"paddock_trailhead_1",
+	"paddock_trailhead_3",
+	"paddock_trailhead_4",
+	"paddock_trailhead_6",
+	"paddock_trailhead_7",
+	"paddock_trailhead_8",
+	"paddock_trailhead_9",
+	"paddock_special_1",
+	"paddock_special_2",
+	"paddock_special_3",
+	"paddock_special_4",
+	"paddock_d_D_butt",
+	"paddock_d_D_gap",
+	"paddock_d_U_gap",
+	"paddock_R_gap",
+	"paddock_end_UR",
+	"paddock_end_DR",
+	"paddock_end_UL",
+	"paddock_end_DL"
+  ],
+  "fg": ["generic_pasture"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+	"pasture",
+	"paddock_trailhead_2",
+	"paddock_trailhead_5"
+  ],
+  "fg": ["generic_pasture"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+	"farm_horse_track_1",
+	"farm_horse_track_2"
+  ],
+  "fg": ["fema_road"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+	"farm_horse_track_large_1",
+	"farm_horse_track_large_2",
+	"farm_horse_track_large_3",
+	"farm_horse_track_large_4"
+  ],
+  "fg": ["fema_road"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": [
+	"farm_horse_ring_1"
+  ],
+  "fg": ["bg_dirt"],
+  "bg": [],
+  "rotates": false
+}
+]

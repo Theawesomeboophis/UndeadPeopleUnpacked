@@ -1,0 +1,10 @@
+{
+  "id": "corpse_mon_zombie_dog_fungus",
+  "fg": [
+    "corpse_mon_zombie_dog_fungus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

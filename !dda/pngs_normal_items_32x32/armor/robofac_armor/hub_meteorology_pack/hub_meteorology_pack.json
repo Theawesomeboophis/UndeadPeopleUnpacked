@@ -1,0 +1,10 @@
+{
+  "id": "hub_meteorology_pack",
+  "fg": [
+    "hub_meteorology_pack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

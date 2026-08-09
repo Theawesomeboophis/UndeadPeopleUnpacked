@@ -1,0 +1,25 @@
+{
+  "id": "mon_zombie_tentacle",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_tentacle_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_tentacle_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_tentacle_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_tentacle_4"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

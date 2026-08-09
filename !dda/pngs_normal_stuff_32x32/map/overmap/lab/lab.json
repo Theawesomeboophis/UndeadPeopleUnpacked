@@ -11,7 +11,10 @@
         "rotates": false
     },
     {
-        "id": "microlab_generic_surface",
+        "id": [
+            "microlab_generic_surface",
+            "microlab_ratkin_surface_connector"
+        ],
         "fg": [
             "microlab_generic_surface"
         ],
@@ -21,7 +24,19 @@
     {
         "id": [
             "central_lab",
-            "lab"
+            "lab",
+            "lab_escape_cells",
+            "lab_escape_entrance",
+			"central_lab_hq_1",
+			"central_lab_hq_2",
+			"central_lab_hq_3",
+			"central_lab_hq_4",
+			"central_lab_hq_5",
+			"central_lab_hq_6",
+			"central_lab_hq_7",
+			"central_lab_hq_8",
+			"central_lab_hq_9",
+			"ice_lab"
         ],
         "fg": [
             "lab"
@@ -32,7 +47,8 @@
     {
         "id": [
             "lab_finale",
-            "central_lab_finale"
+            "central_lab_finale",
+            "ice_lab_finale"
         ],
         "fg": [
             "lab_finale"
@@ -44,7 +60,9 @@
         "id": [
             "lab_train_depot",
             "microlab_generic_sub_entry",
-            "microlab_sub_station"
+            "microlab_sub_station",
+            "microlab_ratkin_sub_entry",
+            "microlab_sub_station_ratkin"
         ],
         "fg": [
             "lab_train_depot"
@@ -57,7 +75,27 @@
             "microlab_generic",
             "microlab_generic_hallway_start",
             "microlab_generic_firebreak",
-            "microlab_generic_hallway"
+            "microlab_generic_hallway",
+            "microlab_generic_edge_room_connector",
+            "microlab_reactor",
+            "microlab_reactor_b",
+            "microlab_portal_dressroom",
+            "microlab_portal_MSU14",
+            "microlab_portal_security1",
+            "microlab_portal_security2",
+            "microlab_portal_security3",
+            "microlab_portal_security4",
+            "microlab_portal_security5",
+            "microlab_portal_security6",
+            "microlab_portal_security7",
+            "microlab_portal_security8",
+            "microlab_portal_security_hallway1",
+            "microlab_portal_security_hallway2",
+            "microlab_distorted_hallway_isolated",
+            "microlab_distorted_hallway",
+            "microlab_distorted_hallway_end",
+            "microlab_ratkin_edge",
+            "microlab_ratkin"
         ],
         "fg": [
             "microlab_generic"
@@ -69,7 +107,13 @@
         "id": [
             "microlab_generic_stairs_down",
             "microlab_generic_isolated_stairs_odd",
-            "central_lab_stairs"
+            "microlab_generic_isolated_stairs_up",
+            "microlab_generic_isolated_elevator_pit",
+            "central_lab_stairs",
+            "microlab_portal_elevator",
+            "microlab_portal_elevator_physics_glass",
+            "microlab_portal_MSU14_elevator",
+            "microlab_ratkin_vent_shaft_connector"
         ],
         "fg": [
             "central_lab_stairs"
@@ -80,7 +124,8 @@
     {
         "id": [
             "central_lab_core",
-            "lab_core"
+            "lab_core",
+            "ice_lab_core"
         ],
         "fg": [
             "central_lab_core"

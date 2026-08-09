@@ -1,0 +1,10 @@
+{
+  "id": "mon_skeleton_executioner",
+  "fg": [
+    "mon_skeleton_executioner"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

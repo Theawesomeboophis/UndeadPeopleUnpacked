@@ -6,9 +6,9 @@
     ],
     "fg": [
         "s_lightindustry_h_SW",
-        "s_lightindustry_v_SE",
+        "s_lightindustry_v_NW",
         "s_lightindustry_h_NE",
-        "s_lightindustry_v_NW"
+        "s_lightindustry_v_SE"
     ],
     "bg": [],
     "rotates": true
@@ -20,9 +20,9 @@
     ],
     "fg": [
         "s_lightindustry_h_SE",
-        "s_lightindustry_v_NE",
+        "s_lightindustry_v_SW",
         "s_lightindustry_h_NW",
-        "s_lightindustry_v_SW"
+        "s_lightindustry_v_NE"
     ],
         "bg": [],
         "rotates": true
@@ -34,9 +34,9 @@
     ],
     "fg": [
         "s_lightindustry_h_NW",
-        "s_lightindustry_v_SW",
+        "s_lightindustry_v_NE",
         "s_lightindustry_h_SE",
-        "s_lightindustry_v_NE"
+        "s_lightindustry_v_SW"
         ],
         "bg": [],
         "rotates": true
@@ -48,9 +48,9 @@
     ],
     "fg": [
         "s_lightindustry_h_NE",
-        "s_lightindustry_v_NW",
+        "s_lightindustry_v_SE",
         "s_lightindustry_h_SW",
-        "s_lightindustry_v_SE"
+        "s_lightindustry_v_NW"
     ],
         "bg": [],
         "rotates": true
@@ -62,9 +62,9 @@
     ],
     "fg": [
         "s_lightindustry_road_0_W",
-        "s_lightindustry_road_0_S",
+        "s_lightindustry_road_0_N",
         "s_lightindustry_road_0_E",
-        "s_lightindustry_road_0_N"
+        "s_lightindustry_road_0_S"
     ],
         "bg": [],
         "rotates": true
@@ -76,9 +76,9 @@
     ],
     "fg": [
         "s_lightindustry_road_1_E",
-        "s_lightindustry_road_1_N",
+        "s_lightindustry_road_1_S",
         "s_lightindustry_road_1_W",
-        "s_lightindustry_road_1_S"
+        "s_lightindustry_road_1_N"
     ],
         "bg": [],
         "rotates": true

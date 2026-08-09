@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_wasp_queen_fungus",
+  "fg": [
+    "corpse_mon_wasp_fungus"
+  ],
+  "bg": [],
+  "rotates": false
+}

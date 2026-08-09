@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_remington_870",
   "fg": [
-    "remington_870"
+    "overlay_wielded_remington_870_express"
   ],
   "bg": [],
   "rotates": false

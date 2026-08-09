@@ -1,0 +1,77 @@
+{
+  "id": ["t_alien_meadow_pond_goo"],
+  "fg": [
+    "t_inner_cabins_void_trans"
+  ],
+  "bg": [
+    "t_alien_meadow_grass_center_9"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_inner_cabins_void_trans_center"
+      ],
+      "bg": [
+        "t_alien_meadow_grass_center_9"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_inner_cabins_void_trans_corner_1",
+        "t_inner_cabins_void_trans_corner_4",
+        "t_inner_cabins_void_trans_corner_3",
+        "t_inner_cabins_void_trans_corner_2"
+      ],
+      "bg": [
+        "t_alien_meadow_grass_center_9"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_inner_cabins_void_trans_t_connection_1",
+        "t_inner_cabins_void_trans_t_connection_4",
+        "t_inner_cabins_void_trans_t_connection_3",
+        "t_inner_cabins_void_trans_t_connection_2"
+      ],
+      "bg": [
+        "t_alien_meadow_grass_center_9"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_inner_cabins_void_trans_edge_1",
+        "t_inner_cabins_void_trans_edge_2"
+      ],
+      "bg": [
+        "t_alien_meadow_grass_center_9"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_inner_cabins_void_trans_end_piece_1",
+        "t_inner_cabins_void_trans_end_piece_4",
+        "t_inner_cabins_void_trans_end_piece_3",
+        "t_inner_cabins_void_trans_end_piece_2"
+      ],
+      "bg": [
+        "t_alien_meadow_grass_center_9"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_inner_cabins_void_trans_unconnected"
+      ],
+      "bg": [
+        "t_alien_meadow_grass_center_9"
+      ]
+    }
+  ]
+}

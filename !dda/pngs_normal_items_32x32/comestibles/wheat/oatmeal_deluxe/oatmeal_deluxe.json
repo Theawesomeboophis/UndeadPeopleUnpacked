@@ -3,8 +3,5 @@
   "fg": [
     "oatmeal_deluxe"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
-  "rotates": false
+  "bg": []
 }

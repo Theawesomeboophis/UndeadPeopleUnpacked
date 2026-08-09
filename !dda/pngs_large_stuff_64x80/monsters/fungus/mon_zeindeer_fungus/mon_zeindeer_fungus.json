@@ -1,0 +1,10 @@
+{
+  "id": "mon_zeindeer_fungus",
+  "fg": [
+    "mon_zeindeer_fungus"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

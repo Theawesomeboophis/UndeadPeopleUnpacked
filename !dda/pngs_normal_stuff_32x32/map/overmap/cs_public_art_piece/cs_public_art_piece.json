@@ -1,0 +1,6 @@
+{
+  "id": "cs_public_art_piece",
+  "fg": ["cs_public_art_piece_north", "cs_public_art_piece_east", "cs_public_art_piece_south", "cs_public_art_piece_west"],
+  "bg": [],
+  "rotates": true
+}

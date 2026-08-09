@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_yarn",
   "fg": [
-    "yarn"
+    "overlay_wielded_yarn"
   ],
   "bg": [],
   "rotates": false

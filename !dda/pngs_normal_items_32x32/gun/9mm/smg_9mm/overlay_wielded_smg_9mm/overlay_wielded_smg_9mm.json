@@ -1,5 +1,8 @@
 {
-  "id": "overlay_wielded_smg_9mm",
+  "id": [
+    "overlay_wielded_smg_9mm",
+	"overlay_wielded_smg_9"
+  ],
   "fg": [
     "overlay_wielded_smg_9mm"
   ],

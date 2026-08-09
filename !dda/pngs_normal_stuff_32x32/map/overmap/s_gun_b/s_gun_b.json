@@ -1,0 +1,14 @@
+[
+	{
+	  "id": ["s_gun_b_store"],
+	  "fg": ["s_gun_b_store_1", "s_gun_b_store_4", "s_gun_b_store_3", "s_gun_b_store_2"],
+	  "bg": [],
+	  "rotates": true
+	},
+	{
+	  "id": ["s_gun_b_range"],
+	  "fg": ["s_gun_b_range_1", "s_gun_b_range_4", "s_gun_b_range_3", "s_gun_b_range_2"],
+	  "bg": [],
+	  "rotates": true
+	}
+]

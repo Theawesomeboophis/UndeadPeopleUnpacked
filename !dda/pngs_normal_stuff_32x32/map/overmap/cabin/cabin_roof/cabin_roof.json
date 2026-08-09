@@ -1,18 +1,51 @@
-        {
-          "id": [
-            "cabin_roof",
-            "cabin_roof_1",
-            "cabin_roof_2",
-            "cabin_roof_3",
-            "cabin_roof_4",
-            "cabin_roof_5",
-            "cabin_roof_6",
-            "cabin_roof_7",
-            "cabin_lake_roof",
-            "house_farm_roof",
-            "sugar_house_roof",
-            "farm_2_roof",
-            "hunter_shack_roof",
-            "hunter_shack_roof_1"
-          ],
- "fg": [ "cabin_roof" ], "bg": [ "open_air" ], "rotates": false }
+[
+    {
+	  "id": [
+		"cabin_roof",
+		"cabin_roof_1",
+		"cabin_roof_2",
+		"cabin_roof_3",
+		"cabin_roof_4",
+		"cabin_roof_5",
+		"cabin_roof_6",
+		"cabin_roof_7",
+		"cabin_lake_roof",
+		"house_farm_roof",
+		"sugar_house_roof",
+		"farm_2_roof",
+		"farm_1_apiary_roof",
+		"hunter_shack_roof",
+		"hunter_shack_roof_1",
+		"orchard_stall_roof",
+		"orchard_processing_roof",
+		"cabin_strange_roof",
+		"riverside_dawelling_roof",
+		"riverside_dawelling1_roof",
+		"farm_stells_3_2nd",
+		"farm_stells_7_roof",
+		"farm_stells_3_roof",
+		"2farm_roof_11",
+		"lake_cabin_boathouse_roof"
+	  ],
+
+        "fg": [
+            "cabin_roof"
+        ],
+        "bg": [
+            "open_air"
+        ],
+        "rotates": false
+    },
+    {
+      "id": [
+        "cabin_aban1_roof",
+		"car_corner_aban1_roof",
+		"barn_aban1_roof"
+      ],
+      "fg": [
+        "open_air"
+      ],
+      "bg": [],
+      "rotates": false
+    }
+]

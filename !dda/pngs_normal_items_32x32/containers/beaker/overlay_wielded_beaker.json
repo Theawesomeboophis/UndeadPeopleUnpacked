@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_beaker",
   "fg": [
-    "beaker"
+    "overlay_wielded_beaker"
   ],
   "bg": [],
   "rotates": false

@@ -3,6 +3,8 @@
   "fg": [
     "rid_mon_horse"
   ],
-  "bg": [],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
   "rotates": false
 }
