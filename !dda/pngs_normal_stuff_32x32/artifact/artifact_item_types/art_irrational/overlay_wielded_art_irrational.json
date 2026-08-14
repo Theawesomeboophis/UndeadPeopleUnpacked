@@ -1,0 +1,11 @@
+{
+  "id": "overlay_wielded_art_irrational",
+  "fg": [
+    { "weight": 10, "sprite": "art_irrational" },
+    { "weight": 10, "sprite": "art_irrational1" },
+    { "weight": 10, "sprite": "art_irrational2" }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

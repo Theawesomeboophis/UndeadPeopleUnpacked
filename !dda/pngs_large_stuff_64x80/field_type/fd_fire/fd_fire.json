@@ -1,5 +1,8 @@
 {
-  "id": "fd_fire",
+  "id": [
+    "fd_fire_int3",
+    "fd_fire_int2"
+  ],
   "fg": [
     {
       "weight": 11,

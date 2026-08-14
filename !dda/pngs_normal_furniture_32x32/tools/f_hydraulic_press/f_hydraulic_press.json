@@ -1,5 +1,8 @@
 {
-  "id": "f_hydraulic_press",
+  "id": [
+    "ap_hydraulic_press",
+    "f_hydraulic_press"
+  ],
   "fg": [
     "f_hydraulic_press"
   ],

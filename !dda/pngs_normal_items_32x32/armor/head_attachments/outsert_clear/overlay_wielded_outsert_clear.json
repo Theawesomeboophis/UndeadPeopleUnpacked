@@ -1,0 +1,8 @@
+{
+  "id": [ "overlay_wielded_outsert_clear", "overlay_wielded_outsert_sunlight", "overlay_wielded_outsert_breach", "overlay_wielded_insert_vision_correction" ],
+  "fg": [
+    "lens_small"
+  ],
+  "bg": [],
+  "rotates": false
+}

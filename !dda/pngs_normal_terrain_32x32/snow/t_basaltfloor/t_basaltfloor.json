@@ -49,9 +49,9 @@
       "id": "corner",
       "fg": [
         "t_basaltfloor_corner_1",
-        "t_basaltfloor_corner_2",
+        "t_basaltfloor_corner_4",
         "t_basaltfloor_corner_3",
-        "t_basaltfloor_corner_4"
+        "t_basaltfloor_corner_2"
       ],
       "bg": []
     },
@@ -59,9 +59,9 @@
       "id": "t_connection",
       "fg": [
         "t_basaltfloor_t_connection_1",
-        "t_basaltfloor_t_connection_2",
+        "t_basaltfloor_t_connection_4",
         "t_basaltfloor_t_connection_3",
-        "t_basaltfloor_t_connection_4"
+        "t_basaltfloor_t_connection_2"
       ],
       "bg": []
     },
@@ -77,9 +77,9 @@
       "id": "end_piece",
       "fg": [
         "t_basaltfloor_end_piece_1",
-        "t_basaltfloor_end_piece_2",
+        "t_basaltfloor_end_piece_4",
         "t_basaltfloor_end_piece_3",
-        "t_basaltfloor_end_piece_4"
+        "t_basaltfloor_end_piece_2"
       ],
       "bg": []
     },

@@ -2,6 +2,10 @@
   "id": "mon_broken_cyborg",
   "fg": [
     {
+      "weight": 900,
+      "sprite": "mon_broken_cyborg"
+    },
+    {
       "weight": 1,
       "sprite": "mon_broken_cyborg_1"
     },

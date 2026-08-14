@@ -1,0 +1,175 @@
+------------------------------------------------------------------------------------------
+Missing Terrain:
+
+None
+
+has fakes:
+
+t_nl_mist
+t_nl_door_l
+t_nl_door_c
+t_nl_door_o
+t_nl_metal_wall
+t_nl_metal_wall_edge
+t_nl_scrap_wall
+t_nl_metal_floor
+t_nl_broken_metal_floor
+t_nl_scrap_floor
+t_nl_catwalk
+t_nl_roof
+t_nl_archway
+t_nl_gates_mech_control
+t_nl_stairs_up
+t_nl_stairs_up_false
+t_nl_stairs_down
+t_nl_dirt
+t_nl_grass
+t_nl_grass_long
+t_nl_grass_tall
+t_nl_metal_floor_grass
+t_nl_metal_floor_grass_long
+t_nl_metal_floor_grass_tall
+t_nl_metal_floor_overgrown
+t_nl_metal_wall_overgrown
+t_nl_rock
+t_nl_rock_floor
+t_nl_shrub_glowberries
+t_nl_shrub_glowberries_harvested
+t_nl_soil
+t_nl_obelisk_mission_living_space_1
+t_nl_safehouse_door_metal_corrugated_o
+t_nl_safehouse_door_metal_corrugated_c
+t_nl_safehouse_metal_wall_wired
+t_nl_safehouse_metal_wall_wired_destructable
+t_nl_water_pool
+t_nl_bridge
+t_nl_sewage_pipe
+t_nl_sewage_pipe_edge
+t_nl_archway_scarlet
+t_nl_scrap_wall_scarlet
+t_highlands_conqueror_statue
+t_lixa_wall
+t_folded_wall
+t_unfolded_wall
+t_LIXA_tube
+t_LIXA_portal_pulse
+t_LIXA_unfolded_portal_pulse
+t_LIXA_unfolded_tube
+t_LIXA_unfolded_tube_broken
+t_LIXA_thconc_floor
+t_LIXA_strconc_wall
+t_card_LIXA
+t_card_LIXA_2
+t_card_LIXA_3
+t_card_LIXA_mil
+t_LIXA_laser
+t_nl_obelisk_0
+t_nl_obelisk_1
+t_nl_obelisk_2
+t_nl_obelisk_3
+t_nl_obelisk_mission_utility_space
+t_nl_obelisk_mission_water_cooler
+t_scrap_scaffolding_scarlet
+t_shore_boulder
+t_shore_boulder_oyster
+
+------------------------------------------------------------------------------------------
+Missing Furniture:
+
+None
+
+has fakes:
+
+f_nl_climbing_vine
+f_nl_pipe_plant
+f_steel_kiln
+f_nl_autodoc
+f_nl_autodoc_couch
+f_LIXA_unfold_barrier
+f_LIXA_machinery_electronic
+f_LIXA_electrical_conduit
+f_forge_artisan_0
+f_forge_artisan_1
+f_folding_solar_panel
+f_folding_solar_panel_v2
+f_sample_freezer
+f_chest_minifreezer
+
+------------------------------------------------------------------------------------------
+Missing Items:
+
+None
+
+has fakes:
+
+bot_robofac_hound
+broken_robofac_hound
+bone_dart
+nl_shrub_glowberries
+nl_overgrown_halligan
+nl_safehouse_boiler
+kipple_wrapper
+corpse_void_mummified
+corpse_dermatik_victim
+steel_kiln
+makeshift_steel_kiln
+goggles_chem
+box_large_reinforced
+carton_milk
+wrapping_vacuumed
+oil_extractor_crude
+
+------------------------------------------------------------------------------------------
+Missing Monsters:
+
+None
+
+has fakes:
+
+mon_civilian_panic_robofac_chop_shop
+corpse_mon_civilian_panic_robofac_chop_shop
+mon_civilian_stationary_robofac_chop_shop
+corpse_mon_civilian_stationary_robofac_chop_shop
+mon_civilian_parent_robofac_chop_shop
+corpse_mon_civilian_parent_robofac_chop_shop
+mon_robofac_hound
+mon_ferret
+mon_zombie_strider
+
+------------------------------------------------------------------------------------------
+Missing Vehicle Parts:
+
+None
+
+has fakes:
+
+None
+
+------------------------------------------------------------------------------------------
+Missing Traps:
+
+None
+
+has fakes:
+
+None
+
+------------------------------------------------------------------------------------------
+Missing Fields:
+
+None
+
+has fakes:
+
+fd_scarlet_sea_wave
+
+------------------------------------------------------------------------------------------
+Missing Mutations:
+
+None
+
+has fakes:
+
+None
+
+------------------------------------------------------------------------------------------

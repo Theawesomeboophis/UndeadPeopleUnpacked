@@ -1,6 +1,6 @@
 {
-  "id": ["s_gun", "s_gun_1", "s_gun_2", "s_gun_3", "s_gun_4", "s_gunstore"],
-  "fg": ["s_gun"],
+  "id": ["s_gun", "s_gun_1", "s_gun_2", "s_gun_3", "s_gun_4", "s_gunstore", "s_gun_a"],
+  "fg": ["s_gun", "s_gun_4", "s_gun_3", "s_gun_2"],
   "bg": [],
-  "rotates": false
+  "rotates": true
 }

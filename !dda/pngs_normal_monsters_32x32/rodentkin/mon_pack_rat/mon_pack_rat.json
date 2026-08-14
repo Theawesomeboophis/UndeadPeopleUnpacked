@@ -1,0 +1,16 @@
+{
+  "id": ["mon_pack_rat"],
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_pack_rat"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_pack_rat_1"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

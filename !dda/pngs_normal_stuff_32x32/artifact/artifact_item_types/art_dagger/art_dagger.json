@@ -1,0 +1,8 @@
+{
+  "id": "art_dagger",
+  "fg": "art_dagger",
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,8 +1,6 @@
 {
   "id": "f_dryer",
-  "fg": [
-    "f_dryer"
-  ],
-  "bg": [],
-  "rotates": false
+  "rotates": true,
+  "fg": [ "f_dryer", "f_dryer_2", "f_dryer_3", "f_dryer_4" ],
+  "bg": ""
 }

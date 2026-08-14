@@ -1,0 +1,10 @@
+{
+  "id": "military_explosive_small_grenade",
+  "fg": [
+    "military_explosive_small_grenade"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

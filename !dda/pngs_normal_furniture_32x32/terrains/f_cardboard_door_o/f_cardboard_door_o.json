@@ -1,0 +1,10 @@
+{
+  "id": "f_cardboard_door_o",
+  "fg": [
+    "f_cardboard_door_o"
+  ],
+  "bg": [
+    "f_cardboard_floor"
+  ],
+  "rotates": false
+}

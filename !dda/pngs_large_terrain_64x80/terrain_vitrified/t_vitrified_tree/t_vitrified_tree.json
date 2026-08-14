@@ -1,0 +1,15 @@
+{
+  "id": "t_vitrified_tree",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "t_vitrified_tree_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_vitrified_tree_2"
+    }
+  ],
+  "bg": ["bg_big_vitrified_dirt"],
+  "rotates": false
+}

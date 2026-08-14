@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_glasses_reading",
   "fg": [
-    "glasses_reading"
+    "overlay_wielded_glasses_reading"
   ],
   "bg": [],
   "rotates": false

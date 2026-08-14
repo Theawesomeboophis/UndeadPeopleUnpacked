@@ -3,9 +3,5 @@
     "id": "nodachi_fake",
     "fg": "nodachi_fake",
     "bg": "bg_shadow_item"
-  },
-  {
-    "id": "overlay_wielded_nodachi_fake",
-    "fg": "overlay_wielded_nodachi_fake"
   }
 ]

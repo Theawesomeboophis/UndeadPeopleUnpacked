@@ -1,0 +1,10 @@
+{
+  "id": "HEW_printout_data_void_spider_lair",
+  "fg": [
+    "small_printout_portal_storm_data"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

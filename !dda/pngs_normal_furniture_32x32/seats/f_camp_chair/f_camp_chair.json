@@ -1,8 +1,8 @@
 {
   "id": "f_camp_chair",
   "fg": [
-    "f_camp_chair"
+    "f_camp_chair", "f_camp_chair_w", "f_camp_chair_n", "f_camp_chair_e"
   ],
   "bg": [],
-  "rotates": false
+  "rotates": true
 }

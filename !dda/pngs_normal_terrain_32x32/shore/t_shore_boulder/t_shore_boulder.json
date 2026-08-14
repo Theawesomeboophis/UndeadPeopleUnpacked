@@ -1,0 +1,8 @@
+{
+  "id": "t_shore_boulder",
+  "fg": [
+    "t_shore_boulder"
+  ],
+  "bg": ["t_sand"],
+  "rotates": false
+}

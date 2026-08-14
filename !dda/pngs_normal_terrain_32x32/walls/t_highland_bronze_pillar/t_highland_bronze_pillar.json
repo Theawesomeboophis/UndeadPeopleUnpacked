@@ -1,0 +1,77 @@
+{
+  "id": "t_highland_bronze_pillar",
+  "fg": [
+    "t_highland_bronze_pillar"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_highland_bronze_pillar_center"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_highland_bronze_pillar_corner_1",
+        "t_highland_bronze_pillar_corner_4",
+        "t_highland_bronze_pillar_corner_3",
+        "t_highland_bronze_pillar_corner_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_highland_bronze_pillar_t_connection_1",
+        "t_highland_bronze_pillar_t_connection_4",
+        "t_highland_bronze_pillar_t_connection_3",
+        "t_highland_bronze_pillar_t_connection_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_highland_bronze_pillar_edge_1",
+        "t_highland_bronze_pillar_edge_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_highland_bronze_pillar_end_piece_1",
+        "t_highland_bronze_pillar_end_piece_4",
+        "t_highland_bronze_pillar_end_piece_3",
+        "t_highland_bronze_pillar_end_piece_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_highland_bronze_pillar_unconnected"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": [
+    "ap_robofac_mobile_weather_station",
+	"vp_robofac_mobile_weather_station",
+	"veh_robofac_mobile_weather_station"
+  ],
+  "fg": [
+    "ap_robofac_mobile_weather_station"
+  ],
+  "bg": [],
+  "rotates": false
+}

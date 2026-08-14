@@ -1,0 +1,8 @@
+{
+  "id": ["overlay_wielded_dnd_2", "overlay_wielded_dnd_3"],
+  "fg": [
+    "dnd"
+  ],
+  "bg": [],
+  "rotates": false
+}

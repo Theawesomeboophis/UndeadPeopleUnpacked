@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_combat_exoskeleton_light",
+  "fg": [
+    "combat_exoskeleton_light"
+  ],
+  "bg": [],
+  "rotates": false
+}

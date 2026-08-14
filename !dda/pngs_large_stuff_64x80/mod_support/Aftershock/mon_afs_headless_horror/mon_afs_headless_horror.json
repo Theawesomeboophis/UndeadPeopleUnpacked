@@ -3,6 +3,6 @@
   "fg": [
     "mon_afs_headless_horror"
   ],
-  "bg": [],
+  "bg": ["bg_big_large_shadow"],
   "rotates": false
 }

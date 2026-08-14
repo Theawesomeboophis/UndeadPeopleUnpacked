@@ -1,7 +1,7 @@
 {
   "id": "overlay_worn_chaps_cut_resistant",
   "fg": [
-    "overlay_worn_chaps_leather"
+    "overlay_worn_chaps_cut_resistant"
   ],
   "bg": [],
   "rotates": false

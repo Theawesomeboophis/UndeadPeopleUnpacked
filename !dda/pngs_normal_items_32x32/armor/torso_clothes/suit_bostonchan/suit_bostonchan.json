@@ -1,0 +1,10 @@
+{
+  "id": "suit_bostonchan",
+  "fg": [
+    "suit_bostonchan"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

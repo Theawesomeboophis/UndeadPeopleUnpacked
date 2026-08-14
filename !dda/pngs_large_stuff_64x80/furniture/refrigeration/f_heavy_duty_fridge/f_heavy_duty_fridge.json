@@ -1,0 +1,9 @@
+{
+  "id": [
+    "f_heavy_duty_fridge",
+	"ap_heavy_duty_fridge"
+  ],
+  "rotates": true,
+  "fg": [ "f_heavy_duty_fridge_1", "f_heavy_duty_fridge_2", "f_heavy_duty_fridge_3", "f_heavy_duty_fridge_4" ],
+  "bg": ""
+}

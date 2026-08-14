@@ -1,0 +1,77 @@
+{
+  "id": "t_wall_metal_shipping_container_light_blue",
+  "fg": [
+    "t_wall_metal_shipping_container_blue"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_wall_metal_shipping_container_blue_center"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_wall_metal_shipping_container_blue_corner_1",
+        "t_wall_metal_shipping_container_blue_corner_4",
+        "t_wall_metal_shipping_container_blue_corner_3",
+        "t_wall_metal_shipping_container_blue_corner_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_wall_metal_shipping_container_blue_t_connection_1",
+        "t_wall_metal_shipping_container_blue_t_connection_4",
+        "t_wall_metal_shipping_container_blue_t_connection_3",
+        "t_wall_metal_shipping_container_blue_t_connection_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_wall_metal_shipping_container_blue_edge_1",
+        "t_wall_metal_shipping_container_blue_edge_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_wall_metal_shipping_container_blue_end_piece_1",
+        "t_wall_metal_shipping_container_blue_end_piece_4",
+        "t_wall_metal_shipping_container_blue_end_piece_3",
+        "t_wall_metal_shipping_container_blue_end_piece_2"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_wall_metal_shipping_container_blue_unconnected"
+      ],
+      "bg": [
+        "bg_metal_block"
+      ]
+    }
+  ]
+}

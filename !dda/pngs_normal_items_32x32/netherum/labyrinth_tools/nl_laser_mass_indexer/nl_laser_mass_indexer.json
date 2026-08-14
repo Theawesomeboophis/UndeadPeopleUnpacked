@@ -1,0 +1,10 @@
+{
+  "id": "nl_laser_mass_indexer",
+  "fg": [
+    "nl_laser_mass_indexer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

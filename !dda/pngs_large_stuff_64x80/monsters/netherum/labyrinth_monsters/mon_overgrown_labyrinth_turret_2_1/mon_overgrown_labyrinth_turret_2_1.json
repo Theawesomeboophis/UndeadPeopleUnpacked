@@ -1,0 +1,15 @@
+{
+  "id": "mon_overgrown_labyrinth_turret_2_1",
+  "fg": [
+    {
+      "weight": 101,
+      "sprite": "mon_overgrown_labyrinth_turret_2_1_1"
+    },
+    {
+      "weight": 101,
+      "sprite": "mon_overgrown_labyrinth_turret_2_1_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

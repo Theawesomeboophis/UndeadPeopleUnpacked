@@ -1,0 +1,10 @@
+{
+  "id": "long_speargun",
+  "fg": [
+    "long_speargun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

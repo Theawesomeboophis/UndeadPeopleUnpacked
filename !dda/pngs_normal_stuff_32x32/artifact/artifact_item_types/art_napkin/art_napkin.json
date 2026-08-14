@@ -1,23 +1,6 @@
 {
   "id": "art_napkin",
-  "fg": [
-    {
-      "weight": 60,
-      "sprite": "art_napkin_1"
-    },
-    {
-      "weight": 60,
-      "sprite": "art_napkin_2"
-    },
-    {
-      "weight": 60,
-      "sprite": "art_napkin_3"
-    },   
-	{
-      "weight": 60,
-      "sprite": "art_napkin_4"
-    }
-  ],
+  "fg": "art_napkin",
   "bg": [],
-  "animated": true
+  "rotates": false
 }

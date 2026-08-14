@@ -1,0 +1,10 @@
+{
+  "id": "mon_wood_worm",
+  "fg": [
+    "mon_wood_worm"
+  ],
+  "bg": [
+    "bg_shadow_custom_4"
+  ],
+  "rotates": false
+}

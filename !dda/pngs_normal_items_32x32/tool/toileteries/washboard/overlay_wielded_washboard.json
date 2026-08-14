@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_washboard",
   "fg": [
-    "washboard"
+    "overlay_wielded_washboard"
   ],
   "bg": []
 }

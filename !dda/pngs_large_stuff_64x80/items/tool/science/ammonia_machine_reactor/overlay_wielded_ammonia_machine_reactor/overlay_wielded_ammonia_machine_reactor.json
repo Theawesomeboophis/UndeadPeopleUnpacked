@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_ammonia_machine_reactor",
+  "fg": [
+    "ammonia_machine_reactor"
+  ],
+  "bg": [],
+  "rotates": false
+}

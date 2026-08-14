@@ -1,0 +1,11 @@
+[
+    {
+        "id": "exo_warehouse_1",
+        "fg": "exo_warehouse_1"
+    },
+    {
+        "id": "exo_warehouse_2",
+        "fg": "exo_warehouse_2",
+        "bg": "open_air"
+    }
+]

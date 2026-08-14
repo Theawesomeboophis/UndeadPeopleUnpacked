@@ -1,0 +1,29 @@
+[
+	{
+
+	  "id": ["lab_subway_vent_shaft_surface"],
+	  "fg": [
+		{ "weight": 3, "sprite": "forest_1" },
+		{ "weight": 3, "sprite": "forest_2" },
+		{ "weight": 3, "sprite": "forest_3" }
+	  ],
+	  "bg": [
+		
+	  ],
+	  "rotates": false
+	},
+    {
+        "id": [
+			"lab_subway_vent_shaft-1",
+			"lab_subway_vent_shaft-2",
+			"lab_subway_vent_shaft-3",
+			"lab_subway_vent_shaft-4",
+			"central_lab_shaft"
+        ],
+        "fg": [
+            "lab_stairs"
+        ],
+        "bg": [],
+        "rotates": false
+    }
+]

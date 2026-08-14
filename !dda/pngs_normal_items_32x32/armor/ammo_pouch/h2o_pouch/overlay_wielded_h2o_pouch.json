@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_h2o_pouch",
+  "fg": [
+    "chestpouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

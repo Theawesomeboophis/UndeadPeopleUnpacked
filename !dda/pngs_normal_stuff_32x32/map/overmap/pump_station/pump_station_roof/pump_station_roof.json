@@ -1,0 +1,28 @@
+[
+    {
+        "id": [
+            "pump_station_1_roof"
+        ],
+        "fg": [
+            "pump_station_1_2_roof",
+            "pump_station_1_3_roof",
+            "pump_station_1_4_roof",
+            "pump_station_1_1_roof"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": [
+            "pump_station_2_roof"
+        ],
+        "fg": [
+            "pump_station_2_2_roof",
+            "pump_station_2_3_roof",
+            "pump_station_2_4_roof",
+            "pump_station_2_1_roof"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    }
+]

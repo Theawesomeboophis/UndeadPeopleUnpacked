@@ -1,7 +1,7 @@
 {
   "id": "overlay_worn_optical_cloak_on",
   "fg": [
-    "overlay_worn_optical_cloak"
+    "overlay_worn_optical_cloak_on"
   ],
   "bg": [],
   "rotates": false

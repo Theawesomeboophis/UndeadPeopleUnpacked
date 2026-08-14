@@ -1,0 +1,10 @@
+{
+  "id": "solar_cooker",
+  "fg": [
+    "solar_cooker"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

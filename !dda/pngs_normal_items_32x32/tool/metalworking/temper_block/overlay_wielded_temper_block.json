@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_temper_block",
+  "fg": [
+    "temper_block"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,8 +1,13 @@
 {
-  "id": "smg_9mm",
+  "id": [
+    "smg_9mm",
+	"smg_9"
+  ],
   "fg": [
     "smg_9mm"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

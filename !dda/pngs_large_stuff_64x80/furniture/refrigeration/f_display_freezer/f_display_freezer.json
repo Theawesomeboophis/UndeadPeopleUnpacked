@@ -1,0 +1,9 @@
+{
+  "id": [
+    "f_display_freezer",
+    "ap_display_freezer"
+  ],
+  "rotates": true,
+  "fg": [ "f_display_freezer_1", "f_display_freezer_2", "f_display_freezer_3", "f_display_freezer_4" ],
+  "bg": ""
+}

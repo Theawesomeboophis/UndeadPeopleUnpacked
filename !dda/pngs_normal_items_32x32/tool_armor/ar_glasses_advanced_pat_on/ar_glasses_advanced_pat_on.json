@@ -1,0 +1,10 @@
+{
+  "id": "ar_glasses_advanced_pat_on",
+  "fg": [
+    "ar_glasses_advanced_pat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

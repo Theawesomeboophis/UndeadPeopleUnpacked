@@ -1,0 +1,10 @@
+{
+  "id": "bronze_mag",
+  "fg": [
+    "bronze_mag"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

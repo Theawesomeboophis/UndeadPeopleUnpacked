@@ -1,0 +1,10 @@
+{
+  "id": "t_vitrified_bars",
+  "fg": [
+    "t_vitrified_bars"
+  ],
+  "bg": [
+    "t_vitrified_floor"
+  ],
+  "rotates": false
+}

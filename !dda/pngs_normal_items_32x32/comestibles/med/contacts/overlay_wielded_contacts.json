@@ -1,0 +1,8 @@
+{
+  "id": [ "overlay_wielded_myopia_contacts", "overlay_wielded_myopia_contacts_daily", "overlay_wielded_myopia_transition_contacts_weekly", "overlay_wielded_myopia_transition_contacts_daily", "overlay_wielded_hyperopia_contacts_weekly", "overlay_wielded_hyperopia_transition_contacts_weekly", "overlay_wielded_hyperopia_contacts_daily", "overlay_wielded_hyperopia_transition_contacts_daily", "overlay_wielded_bifocal_contacts_weekly", "overlay_wielded_bifocal_transition_contacts_weekly", "overlay_wielded_plano_transition_contacts_weekly", "overlay_wielded_bifocal_contacts_daily", "overlay_wielded_plano_transition_contacts_daily" ],
+  "fg": [
+    "contacts"
+  ],
+  "bg": [],
+  "rotates": false
+}

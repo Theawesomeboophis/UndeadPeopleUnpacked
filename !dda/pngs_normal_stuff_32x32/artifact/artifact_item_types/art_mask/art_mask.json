@@ -1,0 +1,8 @@
+{
+  "id": "art_mask",
+  "fg": "art_mask",
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

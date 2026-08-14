@@ -1,0 +1,10 @@
+{
+  "id": "wheel_skateboard",
+  "fg": [
+    "wheel_skateboard"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

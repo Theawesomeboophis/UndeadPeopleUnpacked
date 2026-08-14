@@ -1,5 +1,7 @@
 {
-  "id": "robofac_jumpsuit",
+  "id": [
+    "robofac_jumpsuit", "jumpsuit_var_robofac"
+  ],
   "fg": [
     "robofac_jumpsuit"
   ],

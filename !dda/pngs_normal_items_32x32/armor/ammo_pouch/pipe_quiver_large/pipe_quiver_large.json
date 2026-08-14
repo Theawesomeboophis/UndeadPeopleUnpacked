@@ -1,0 +1,10 @@
+{
+  "id": "pipe_quiver_large",
+  "fg": [
+    "pipe_quiver_large"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

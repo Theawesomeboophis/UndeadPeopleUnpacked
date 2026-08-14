@@ -1,0 +1,23 @@
+{
+  "id": "t_highland_mosaic",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "t_highland_mosaic_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "t_highland_mosaic_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "t_highland_mosaic_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "t_highland_mosaic_4"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

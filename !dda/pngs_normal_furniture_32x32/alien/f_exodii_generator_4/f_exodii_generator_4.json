@@ -18,9 +18,9 @@
       "id": "corner",
       "fg": [
         "f_exodii_generator_4_corner_1",
-        "f_exodii_generator_4_corner_2",
+        "f_exodii_generator_4_corner_4",
         "f_exodii_generator_4_corner_3",
-        "f_exodii_generator_4_corner_4"
+        "f_exodii_generator_4_corner_2"
       ],
       "bg": []
     },
@@ -28,9 +28,9 @@
       "id": "t_connection",
       "fg": [
         "f_exodii_generator_4_t_connection_1",
-        "f_exodii_generator_4_t_connection_2",
+        "f_exodii_generator_4_t_connection_4",
         "f_exodii_generator_4_t_connection_3",
-        "f_exodii_generator_4_t_connection_4"
+        "f_exodii_generator_4_t_connection_2"
       ],
       "bg": []
     },
@@ -46,16 +46,17 @@
       "id": "end_piece",
       "fg": [
         "f_exodii_generator_4_end_piece_1",
-        "f_exodii_generator_4_end_piece_2",
+        "f_exodii_generator_4_end_piece_4",
         "f_exodii_generator_4_end_piece_3",
-        "f_exodii_generator_4_end_piece_4"
+        "f_exodii_generator_4_end_piece_2"
       ],
       "bg": []
     },
     {
       "id": "unconnected",
       "fg": [
-        "f_exodii_generator_4_unconnected"
+        "f_exodii_generator_4_unconnected",
+		"f_exodii_generator_4_unconnected"
       ],
       "bg": []
     }

@@ -18,9 +18,9 @@
       "id": "corner",
       "fg": [
         "f_gravelbag_wall_corner_1",
-        "f_gravelbag_wall_corner_2",
+        "f_gravelbag_wall_corner_4",
         "f_gravelbag_wall_corner_3",
-        "f_gravelbag_wall_corner_4"
+        "f_gravelbag_wall_corner_2"
       ],
       "bg": []
     },
@@ -28,9 +28,9 @@
       "id": "t_connection",
       "fg": [
         "f_gravelbag_wall_t_connection_1",
-        "f_gravelbag_wall_t_connection_2",
+        "f_gravelbag_wall_t_connection_4",
         "f_gravelbag_wall_t_connection_3",
-        "f_gravelbag_wall_t_connection_4"
+        "f_gravelbag_wall_t_connection_2"
       ],
       "bg": []
     },
@@ -46,9 +46,9 @@
       "id": "end_piece",
       "fg": [
         "f_gravelbag_wall_end_piece_1",
-        "f_gravelbag_wall_end_piece_2",
+        "f_gravelbag_wall_end_piece_4",
         "f_gravelbag_wall_end_piece_3",
-        "f_gravelbag_wall_end_piece_4"
+        "f_gravelbag_wall_end_piece_2"
       ],
       "bg": []
     },

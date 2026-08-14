@@ -3,6 +3,6 @@
   "fg": [
     "mon_science_bot"
   ],
-  "bg": [],
+  "bg": [ ],
   "rotates": false
 }

@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_sandwich_pb",
   "fg": [
-    "sandwich_pb"
+    "overlay_wielded_sandwich_pb"
   ],
   "bg": []
 }

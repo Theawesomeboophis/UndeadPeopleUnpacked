@@ -3,9 +3,5 @@
     "id": "nodachi_inferior",
     "fg": "nodachi_inferior",
     "bg": "bg_shadow_item"
-  },
-  {
-    "id": "overlay_wielded_nodachi_inferior",
-    "fg": "overlay_wielded_nodachi_inferior"
   }
 ]

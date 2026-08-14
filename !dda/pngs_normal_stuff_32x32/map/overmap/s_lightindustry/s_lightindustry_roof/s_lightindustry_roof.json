@@ -6,9 +6,9 @@
         ],
         "fg": [
             "s_lightindustry_h_roof_SW",
-            "s_lightindustry_v_roof_SE",
+            "s_lightindustry_v_roof_NW",
             "s_lightindustry_h_roof_NE",
-            "s_lightindustry_v_roof_NW"
+            "s_lightindustry_v_roof_SE"
         ],
         "bg": [
             "open_air"
@@ -22,9 +22,9 @@
         ],
         "fg": [
             "s_lightindustry_h_roof_SE",
-            "s_lightindustry_v_roof_NE",
+            "s_lightindustry_v_roof_SW",
             "s_lightindustry_h_roof_NW",
-            "s_lightindustry_v_roof_SW"
+            "s_lightindustry_v_roof_NE"
         ],
         "bg": [
             "open_air"
@@ -38,9 +38,9 @@
         ],
         "fg": [
             "s_lightindustry_h_roof_NW",
-            "s_lightindustry_v_roof_SW",
+            "s_lightindustry_v_roof_NE",
             "s_lightindustry_h_roof_SE",
-            "s_lightindustry_v_roof_NE"
+            "s_lightindustry_v_roof_SW"
         ],
         "bg": [
             "open_air"
@@ -54,9 +54,9 @@
         ],
         "fg": [
             "s_lightindustry_h_roof_NE",
-            "s_lightindustry_v_roof_NW",
+            "s_lightindustry_v_roof_SE",
             "s_lightindustry_h_roof_SW",
-            "s_lightindustry_v_roof_SE"
+            "s_lightindustry_v_roof_NW"
         ],
         "bg": [
             "open_air"

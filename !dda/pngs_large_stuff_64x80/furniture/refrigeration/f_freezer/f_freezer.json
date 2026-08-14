@@ -1,0 +1,9 @@
+{
+  "id": [
+    "f_freezer",
+	"ap_chest_freezer"
+  ],
+  "rotates": true,
+  "fg": [ "f_chest_minifreezer_1", "f_chest_minifreezer_2", "f_chest_minifreezer_3", "f_chest_minifreezer_4" ],
+  "bg": ""
+}

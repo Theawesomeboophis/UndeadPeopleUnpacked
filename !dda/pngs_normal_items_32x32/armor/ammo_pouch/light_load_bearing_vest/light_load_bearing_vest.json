@@ -1,0 +1,10 @@
+{
+  "id": "light_load_bearing_vest",
+  "fg": [
+    "light_load_bearing_vest"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

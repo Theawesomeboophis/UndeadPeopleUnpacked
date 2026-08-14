@@ -1,0 +1,10 @@
+{
+  "id": "mon_inner_cabins_interstice_mutant_ignoring",
+  "fg": [
+    "mon_inner_cabins_interstice_mutant"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

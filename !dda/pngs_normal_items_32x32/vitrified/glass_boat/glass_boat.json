@@ -1,0 +1,10 @@
+{
+  "id": "glass_boat",
+  "fg": [
+    "glass_boat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

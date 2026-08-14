@@ -20,9 +20,9 @@
       "id": "corner",
       "fg": [
         "t_chickenwire_fence_corner_1",
-        "t_chickenwire_fence_corner_2",
+        "t_chickenwire_fence_corner_4",
         "t_chickenwire_fence_corner_3",
-        "t_chickenwire_fence_corner_4"
+        "t_chickenwire_fence_corner_2"
       ],
       "bg": [
         "bg_pavement"
@@ -32,9 +32,9 @@
       "id": "t_connection",
       "fg": [
         "t_chickenwire_fence_t_connection_1",
-        "t_chickenwire_fence_t_connection_2",
+        "t_chickenwire_fence_t_connection_4",
         "t_chickenwire_fence_t_connection_3",
-        "t_chickenwire_fence_t_connection_4"
+        "t_chickenwire_fence_t_connection_2"
       ],
       "bg": [
         "bg_pavement"
@@ -54,9 +54,9 @@
       "id": "end_piece",
       "fg": [
         "t_chickenwire_fence_end_piece_1",
-        "t_chickenwire_fence_end_piece_2",
+        "t_chickenwire_fence_end_piece_4",
         "t_chickenwire_fence_end_piece_3",
-        "t_chickenwire_fence_end_piece_4"
+        "t_chickenwire_fence_end_piece_2"
       ],
       "bg": [
         "bg_pavement"

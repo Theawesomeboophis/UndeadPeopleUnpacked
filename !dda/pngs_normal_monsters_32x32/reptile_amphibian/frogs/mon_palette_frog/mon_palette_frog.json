@@ -1,0 +1,10 @@
+{
+  "id": "mon_palette_frog",
+  "fg": [
+    "mon_palette_frog"
+  ],
+  "bg": [
+    "bg_shadow_custom_4"
+  ],
+  "rotates": false
+}

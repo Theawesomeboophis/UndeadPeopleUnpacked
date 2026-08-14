@@ -1,0 +1,16 @@
+{
+  "id": "mon_halo_tangle",
+  "fg": ["mon_yrax_apeirogon"],
+  "bg": [
+    { "weight": 5, "sprite": "mon_halo_tangle_1" },
+    { "weight": 5, "sprite": "mon_halo_tangle_2" },
+    { "weight": 5, "sprite": "mon_halo_tangle_3" },
+    { "weight": 5, "sprite": "mon_halo_tangle_4" },
+    { "weight": 5, "sprite": "mon_halo_tangle_5" },
+    { "weight": 5, "sprite": "mon_halo_tangle_6" },
+    { "weight": 5, "sprite": "mon_halo_tangle_7" },
+    { "weight": 5, "sprite": "mon_halo_tangle_8" }
+  ],
+  "animated": true,
+  "rotates": false
+}

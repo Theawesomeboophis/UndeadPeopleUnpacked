@@ -1,0 +1,8 @@
+{
+  "id": "f_chair_folding",
+  "fg": [
+    "f_chair_folding_s", "f_chair_folding_w", "f_chair_folding_n", "f_chair_folding_e"
+  ],
+  "bg": [],
+  "rotates": true
+}

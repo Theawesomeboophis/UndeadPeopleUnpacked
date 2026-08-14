@@ -1,0 +1,10 @@
+{
+  "id": "tacjacket_var_tacjacket_ocean",
+  "fg": [
+    "tacjacket_var_tacjacket_ocean"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

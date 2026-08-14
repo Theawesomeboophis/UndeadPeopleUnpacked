@@ -1,0 +1,10 @@
+{
+  "id": "combat_exoskeleton_heavy",
+  "fg": [
+    "combat_exoskeleton_heavy"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

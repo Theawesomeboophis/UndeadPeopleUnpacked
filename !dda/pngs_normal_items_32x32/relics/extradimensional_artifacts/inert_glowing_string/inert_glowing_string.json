@@ -1,0 +1,10 @@
+{
+  "id": "inert_glowing_string",
+  "fg": [
+    "inert_glowing_string"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

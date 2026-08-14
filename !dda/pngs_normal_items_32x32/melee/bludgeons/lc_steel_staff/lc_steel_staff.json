@@ -1,0 +1,10 @@
+{
+  "id": "lc_steel_staff",
+  "fg": [
+    "lc_steel_staff"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

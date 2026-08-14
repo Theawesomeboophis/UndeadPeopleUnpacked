@@ -1,7 +1,7 @@
 {
   "id": "iv_mutagen_troglobite",
   "fg": [
-    "mutagen_temp_green"
+    "iv_mutagen_troglobite"
   ],
   "bg": [],
   "rotates": false

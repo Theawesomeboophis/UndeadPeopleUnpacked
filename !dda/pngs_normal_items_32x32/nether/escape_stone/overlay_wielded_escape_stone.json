@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_escape_stone",
+  "fg": [
+    "escape_stone"
+  ],
+  "bg": [],
+  "rotates": false
+}

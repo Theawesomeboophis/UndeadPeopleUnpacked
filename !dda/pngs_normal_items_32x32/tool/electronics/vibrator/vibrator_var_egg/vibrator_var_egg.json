@@ -1,0 +1,10 @@
+{
+  "id": "vibrator_var_egg",
+  "fg": [
+    "vibrator_var_egg"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

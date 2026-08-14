@@ -1,0 +1,6 @@
+{
+  "id": "f_gas_oven_microwave_combo",
+  "rotates": true,
+  "fg": [ "f_gas_oven_microwave_combo", "f_gas_oven_microwave_combo_2", "f_gas_oven_microwave_combo_3", "f_gas_oven_microwave_combo_4" ],
+  "bg": ""
+}

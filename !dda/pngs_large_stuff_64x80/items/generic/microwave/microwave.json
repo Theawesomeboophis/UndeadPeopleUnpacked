@@ -1,10 +1,11 @@
 {
-  "id": "microwave",
+  "id": [
+    "microwave",
+	"app_microwave"
+  ],
   "fg": [
     "microwave"
   ],
-  "bg": [
-    
-  ],
+  "bg": [],
   "rotates": false
 }

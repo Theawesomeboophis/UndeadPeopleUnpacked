@@ -1,0 +1,11 @@
+{
+  "id": [
+    "electrolyzer_makeshift",
+	"ap_electrolyzer_makeshift"
+  ],
+  "fg": [
+    "electrolyzer_makeshift"
+  ],
+  "bg": [],
+  "rotates": false
+}

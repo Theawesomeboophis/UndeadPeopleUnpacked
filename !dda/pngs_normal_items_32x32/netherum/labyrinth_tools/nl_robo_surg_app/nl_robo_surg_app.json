@@ -1,0 +1,10 @@
+{
+  "id": "nl_robo_surg_app",
+  "fg": [
+    "nl_robo_surg_app"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

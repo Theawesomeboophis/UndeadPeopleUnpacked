@@ -1,0 +1,10 @@
+{
+  "id": "metaprolol",
+  "fg": [
+    "metaprolol"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

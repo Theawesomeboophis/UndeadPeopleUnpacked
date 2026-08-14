@@ -1,0 +1,47 @@
+{
+  "id": "fd_black_incense",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_black_incense_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_black_incense_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_black_incense_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_black_incense_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_black_incense_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_black_incense_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_black_incense_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_black_incense_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_black_incense_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_black_incense_10"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

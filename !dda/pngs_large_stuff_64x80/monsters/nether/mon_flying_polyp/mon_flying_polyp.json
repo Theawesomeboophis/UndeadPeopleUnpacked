@@ -8,8 +8,17 @@
     {
       "weight": 50,
       "sprite": "mon_flying_polyp_2"
+    },
+    {
+      "weight": 50,
+      "sprite": "mon_flying_polyp_3"
+    },
+    {
+      "weight": 50,
+      "sprite": "mon_flying_polyp_4"
     }
   ],
   "bg": [],
-  "animated": true
+  "animated": true,
+  "rotates": false
 }

@@ -1,0 +1,10 @@
+{
+  "id": "xs_armguard_tire",
+  "fg": [
+    "armguard_tire"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,6 @@
+{
+  "id": [ "nursing_home_1", "nursing_home_2", "nursing_home_3", "nursing_home_5", "nursing_home_6", "nursing_home_7", "nursing_home_9", "nursing_home_10", "nursing_home_11", "nursing_home_1_roof", "nursing_home_2_roof", "nursing_home_3_roof", "nursing_home_4_roof", "nursing_home_5_roof", "nursing_home_6_roof" ],
+  "fg": ["generic_hospital"],
+  "bg": [],
+  "rotates": false
+}

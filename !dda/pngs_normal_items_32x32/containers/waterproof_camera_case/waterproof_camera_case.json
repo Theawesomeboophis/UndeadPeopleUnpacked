@@ -1,0 +1,10 @@
+{
+  "id": "waterproof_camera_case",
+  "fg": [
+    "waterproof_camera_case"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

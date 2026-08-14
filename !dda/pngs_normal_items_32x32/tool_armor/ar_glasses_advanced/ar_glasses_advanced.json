@@ -1,0 +1,10 @@
+{
+  "id": "ar_glasses_advanced",
+  "fg": [
+    "ar_glasses_basic"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "abyss_teleport_orb",
+  "fg": [
+    "abyss_teleport_orb"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

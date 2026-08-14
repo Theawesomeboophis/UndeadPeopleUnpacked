@@ -1,0 +1,10 @@
+{
+  "id": "lanyard",
+  "fg": [
+    "lanyard"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

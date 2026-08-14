@@ -12,6 +12,10 @@
     {
       "weight": 10,
       "sprite": "molotov_lit_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "molotov_lit_4"
     }
   ],
   "bg": [

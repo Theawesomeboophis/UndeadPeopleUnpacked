@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_canteen_pouch",
+  "fg": [
+    "canteen_pouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

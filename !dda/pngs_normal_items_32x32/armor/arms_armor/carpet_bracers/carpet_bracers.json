@@ -1,0 +1,10 @@
+{
+  "id": "carpet_bracers",
+  "fg": [
+    "carpet_bracers"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_vitrified_fence_post",
+  "fg": [
+    "t_vitrified_fence_post"
+  ],
+  "bg": [
+    "t_vitrified_dirt"
+  ],
+  "rotates": false
+}

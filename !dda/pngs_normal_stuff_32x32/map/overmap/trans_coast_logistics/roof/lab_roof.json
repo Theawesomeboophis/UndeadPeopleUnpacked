@@ -1,4 +1,4 @@
 {
-    "id": "full_basic_lab_roof",
+    "id": ["full_basic_lab_roof", "full_mutagen_lab_roof"],
     "fg": "lab_roof"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "sunglasses_eye_var_sunglasses_corrective_square",
+  "fg": [
+    "sunglasses"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

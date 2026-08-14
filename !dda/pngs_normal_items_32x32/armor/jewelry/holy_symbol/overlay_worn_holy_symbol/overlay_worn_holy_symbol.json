@@ -3,5 +3,6 @@
   "fg": [
     "overlay_worn_holy_symbol"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }

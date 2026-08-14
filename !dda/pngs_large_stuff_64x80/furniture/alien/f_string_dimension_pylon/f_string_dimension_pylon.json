@@ -1,0 +1,11 @@
+{
+  "id": [
+    "f_string_dimension_pylon", 
+	"f_string_dimension_pylon_inert"
+  ],
+  "fg": [
+    "f_string_dimension_pylon"
+  ],
+  "bg": [],
+  "rotates": false
+}

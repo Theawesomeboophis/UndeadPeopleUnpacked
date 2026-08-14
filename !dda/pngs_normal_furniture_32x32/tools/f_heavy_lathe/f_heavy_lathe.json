@@ -1,5 +1,8 @@
 {
-  "id": "f_heavy_lathe",
+  "id": [
+    "f_heavy_lathe",
+    "ap_lathe"
+  ],
   "fg": [
     "f_heavy_lathe"
   ],

@@ -3,9 +3,9 @@
         "id": "mine_entrance_loading_zone",
         "fg": [
             "mine_entrance_loading_zone_n",
-            "mine_entrance_loading_zone_w",
+            "mine_entrance_loading_zone_e",
             "mine_entrance_loading_zone_s",
-            "mine_entrance_loading_zone_e"
+            "mine_entrance_loading_zone_w"
         ],
         "rotates": true
     },
@@ -13,10 +13,11 @@
         "id": "mine_entrance_loading_zone_roof",
         "fg": [
             "mine_entrance_loading_zone_roof_n",
-            "mine_entrance_loading_zone_roof_w",
+            "mine_entrance_loading_zone_roof_e",
             "mine_entrance_loading_zone_roof_s",
-            "mine_entrance_loading_zone_roof_e"
+            "mine_entrance_loading_zone_roof_w"
         ],
+		"bg": ["open_air"],
         "rotates": true
     },
     {
@@ -25,7 +26,8 @@
     },
     {
         "id": "mine_entrance_roof",
-        "fg": "mine_entrance_roof"
+        "fg": "mine_entrance_roof",
+		"bg": ["open_air"]
     },
     {
         "id": "mine_shaft_middle",
@@ -43,9 +45,9 @@
         "id": "mine_shaft_lower_east",
         "fg": [
             "mine_shaft_lower_east_n",
-            "mine_shaft_lower_east_w",
+            "mine_shaft_lower_east_e",
             "mine_shaft_lower_east_s",
-            "mine_shaft_lower_east_e"
+            "mine_shaft_lower_east_w"
         ],
         "rotates": true
     },
@@ -62,18 +64,18 @@
                 "id": "corner",
                 "fg": [
                     "mine_tunnel_es",
-                    "mine_tunnel_ne",
+                    "mine_tunnel_sw",
                     "mine_tunnel_nw",
-                    "mine_tunnel_sw"
+                    "mine_tunnel_ne"
                 ]
             },
             {
                 "id": "t_connection",
                 "fg": [
                     "mine_tunnel_esw",
-                    "mine_tunnel_nes",
+                    "mine_tunnel_nsw",
                     "mine_tunnel_new",
-                    "mine_tunnel_nsw"
+                    "mine_tunnel_nes"
                 ]
             },
             {
@@ -87,9 +89,9 @@
                 "id": "end_piece",
                 "fg": [
                     "mine_tunnel_s",
-                    "mine_tunnel_e",
+                    "mine_tunnel_w",
                     "mine_tunnel_n",
-                    "mine_tunnel_w"
+                    "mine_tunnel_e"
                 ]
             },
             {
@@ -102,9 +104,9 @@
         "id": "mine_finale",
         "fg": [
             "mine_finale_n",
-            "mine_finale_w",
+            "mine_finale_e",
             "mine_finale_s",
-            "mine_finale_e"
+            "mine_finale_w"
         ],
         "rotates": true
     }

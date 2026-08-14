@@ -1,0 +1,10 @@
+{
+  "id": "microscope_slide",
+  "fg": [
+    "microscope_slide"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "mon_dark_reflection",
+  "fg": [
+    "mon_dark_reflection"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

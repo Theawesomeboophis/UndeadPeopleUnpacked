@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_monolith_brick",
+  "fg": [
+    "monolith_brick"
+  ],
+  "bg": [],
+  "rotates": false
+}

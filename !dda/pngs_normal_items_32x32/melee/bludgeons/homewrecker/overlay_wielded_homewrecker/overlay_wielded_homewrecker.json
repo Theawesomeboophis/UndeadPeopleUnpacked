@@ -1,5 +1,5 @@
 {
-  "id": "overlay_wielded_homewrecker",
+  "id": [ "overlay_wielded_homewrecker", "overlay_wielded_hammer_sledge_crude" ],
   "fg": [
     "overlay_wielded_homewrecker"
   ],

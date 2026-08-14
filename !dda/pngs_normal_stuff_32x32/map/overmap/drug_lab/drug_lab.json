@@ -1,0 +1,11 @@
+[{
+  "id": ["bandit_drug_lab", "drug_lab"],
+  "fg": ["ws_survivor_camp"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": ["drug_lab_roof"],
+  "fg": ["open_air"],
+  "bg": [],
+  "rotates": false
+}]

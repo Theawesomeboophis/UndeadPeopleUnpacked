@@ -1,0 +1,8 @@
+{
+  "id": "art_helm",
+  "fg": "art_helm",
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

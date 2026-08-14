@@ -1,0 +1,10 @@
+{
+  "id": "type99_sniper",
+  "fg": [
+    "type99_sniper"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

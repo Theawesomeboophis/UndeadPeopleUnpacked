@@ -1,0 +1,10 @@
+{
+  "id": "glass_book",
+  "fg": [
+    "glass_book"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

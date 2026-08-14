@@ -1,0 +1,6 @@
+{
+  "id": "cs_public_space",
+  "fg": ["cs_public_space_north", "cs_public_space_east", "cs_public_space_south", "cs_public_space_west"],
+  "bg": [],
+  "rotates": true
+}

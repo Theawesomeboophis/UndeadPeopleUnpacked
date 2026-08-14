@@ -1,0 +1,6 @@
+{
+  "id": [ "lumbermill_0_0_ocu", "lumbermill_0_1_ocu", "lumbermill_1_0_ocu", "lumbermill_1_1_ocu" ],
+  "fg": ["generic_city_building_no_sidewalk"],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_leo_worm",
+  "fg": [
+    "mon_leo_worm"
+  ],
+  "bg": [
+    "bg_shadow_custom_4"
+  ],
+  "rotates": false
+}

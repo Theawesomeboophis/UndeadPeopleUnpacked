@@ -3,8 +3,6 @@
   "fg": [
     "mon_aphid"
   ],
-  "bg": [
-    "bg_shadow_normal"
-  ],
+  "bg": [],
   "rotates": false
 }

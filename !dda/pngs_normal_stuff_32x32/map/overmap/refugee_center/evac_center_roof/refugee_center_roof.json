@@ -17,9 +17,9 @@
         ],
         "fg": [
             "evac_center_roof_7_1",
-            "evac_center_roof_7_4",
+            "evac_center_roof_7_2",
             "evac_center_roof_7_3",
-            "evac_center_roof_7_2"
+            "evac_center_roof_7_4"
         ],
         "bg": [
             "open_air"
@@ -32,9 +32,9 @@
         ],
         "fg": [
             "evac_center_roof_8_1",
-            "evac_center_roof_8_4",
+            "evac_center_roof_8_2",
             "evac_center_roof_8_3",
-            "evac_center_roof_8_2"
+            "evac_center_roof_8_4"
         ],
         "bg": [
             "open_air"
@@ -47,9 +47,9 @@
         ],
         "fg": [
             "evac_center_roof_12_1",
-            "evac_center_roof_12_4",
+            "evac_center_roof_12_2",
             "evac_center_roof_12_3",
-            "evac_center_roof_12_2"
+            "evac_center_roof_12_4"
         ],
         "bg": [
             "open_air"
@@ -62,9 +62,9 @@
         ],
         "fg": [
             "evac_center_roof_17_1",
-            "evac_center_roof_17_4",
+            "evac_center_roof_17_2",
             "evac_center_roof_17_3",
-            "evac_center_roof_17_2"
+            "evac_center_roof_17_4"
         ],
         "bg": [
             "open_air"
@@ -77,9 +77,9 @@
         ],
         "fg": [
             "evac_center_roof_18_1",
-            "evac_center_roof_18_4",
+            "evac_center_roof_18_2",
             "evac_center_roof_18_3",
-            "evac_center_roof_18_2"
+            "evac_center_roof_18_4"
         ],
         "bg": [
             "open_air"
@@ -92,9 +92,9 @@
         ],
         "fg": [
             "evac_center_roof_19_1",
-            "evac_center_roof_19_4",
+            "evac_center_roof_19_2",
             "evac_center_roof_19_3",
-            "evac_center_roof_19_2"
+            "evac_center_roof_19_4"
         ],
         "bg": [
             "open_air"
@@ -107,9 +107,9 @@
         ],
         "fg": [
             "evac_center_roof_14_1",
-            "evac_center_roof_14_4",
+            "evac_center_roof_14_2",
             "evac_center_roof_14_3",
-            "evac_center_roof_14_2"
+            "evac_center_roof_14_4"
         ],
         "bg": [
             "open_air"
@@ -122,13 +122,22 @@
         ],
         "fg": [
             "evac_center_roof_9_1",
-            "evac_center_roof_9_4",
+            "evac_center_roof_9_2",
             "evac_center_roof_9_3",
-            "evac_center_roof_9_2"
+            "evac_center_roof_9_4"
         ],
         "bg": [
             "open_air"
         ],
         "rotates": true
+    },
+    {
+        "id": [
+            "evac_center_12_z2",
+            "evac_center_13_z2",
+            "evac_center_14_z2"
+        ],
+        "fg": ["open_air"],
+        "bg": []
     }
 ]

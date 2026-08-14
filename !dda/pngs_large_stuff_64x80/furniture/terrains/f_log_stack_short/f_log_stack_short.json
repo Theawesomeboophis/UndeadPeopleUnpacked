@@ -1,0 +1,52 @@
+{
+  "id": "f_log_stack_short",
+  "fg": "f_log_stack_short_center",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_log_stack_short_corner"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_log_stack_short_corner",
+        "f_log_stack_short_corner",
+        "f_log_stack_short_center",
+        "f_log_stack_short_center"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_log_stack_short_corner",
+        "f_log_stack_short_corner",
+        "f_log_stack_short_corner",
+        "f_log_stack_short_center"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_log_stack_short_center",
+        "f_log_stack_short_corner"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_log_stack_short_center",
+        "f_log_stack_short_corner",
+        "f_log_stack_short_center",
+        "f_log_stack_short_center"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_log_stack_short_center",
+        "f_log_stack_short_center"
+      ]
+    }
+  ]
+}

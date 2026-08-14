@@ -60,9 +60,9 @@
       "id": "corner",
       "fg" : [
         "t_pavement_corner_1",
-        "t_pavement_corner_2",
+        "t_pavement_corner_4",
         "t_pavement_corner_3",
-        "t_pavement_corner_4"
+        "t_pavement_corner_2"
       ],
       "bg": ["bg_dirt"]
     },

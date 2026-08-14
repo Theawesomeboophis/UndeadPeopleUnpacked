@@ -1,13 +1,42 @@
+[
 {
     "id": [
         "farm_stills_1",
-        "farm_stills_10",
         "farm_stills_2",
         "farm_stills_5",
         "farm_stills_6",
-        "farm_stills_9"
+        "farm_stills_8",
+        "farm_stills_9",
+        "farm_stills_10",
+        "farm_stills_12"
     ],
-    "fg": ["2silos"],
+    "fg": ["generic_pasture"],
+    "bg": [],
+    "rotates": false
+},
+{
+    "id": [
+        "farm_stills_4"
+    ],
+    "fg": ["bg_dirt"],
+    "bg": [],
+    "rotates": false
+},
+{
+    "id": [
+        "farm_stills_11"
+    ],
+    "fg": ["orchard_tree_apple"],
+    "bg": [],
+    "rotates": false
+},
+{
+    "id": [
+        "farm_stills_3",
+        "farm_stills_7"
+    ],
+    "fg": ["cabin"],
     "bg": [],
     "rotates": false
 }
+]

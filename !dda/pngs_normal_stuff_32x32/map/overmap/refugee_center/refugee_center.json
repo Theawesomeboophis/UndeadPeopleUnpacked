@@ -28,9 +28,9 @@
         "id": "refctr_fence_NW",
         "fg": [
             "refugee_center_fence_corner_1",
-            "refugee_center_fence_corner_2",
+            "refugee_center_fence_corner_4",
             "refugee_center_fence_corner_3",
-            "refugee_center_fence_corner_4"
+            "refugee_center_fence_corner_2"
         ],
         "bg": [
             {
@@ -56,9 +56,9 @@
         "id": "refctr_fence_NE",
         "fg": [
             "refugee_center_fence_corner_4",
-            "refugee_center_fence_corner_1",
+            "refugee_center_fence_corner_3",
             "refugee_center_fence_corner_2",
-            "refugee_center_fence_corner_3"
+            "refugee_center_fence_corner_1"
         ],
         "bg": [
             {
@@ -84,9 +84,9 @@
         "id": "refctr_fence_SE",
         "fg": [
             "refugee_center_fence_corner_3",
-            "refugee_center_fence_corner_4",
+            "refugee_center_fence_corner_2",
             "refugee_center_fence_corner_1",
-            "refugee_center_fence_corner_2"
+            "refugee_center_fence_corner_4"
         ],
         "bg": [
             {
@@ -112,9 +112,9 @@
         "id": "refctr_fence_SW",
         "fg": [
             "refugee_center_fence_corner_2",
-            "refugee_center_fence_corner_3",
+            "refugee_center_fence_corner_1",
             "refugee_center_fence_corner_4",
-            "refugee_center_fence_corner_1"
+            "refugee_center_fence_corner_3"
         ],
         "bg": [
             {
@@ -142,9 +142,9 @@
         ],
         "fg": [
             "refugee_center_fence_t_connection_1",
-            "refugee_center_fence_t_connection_2",
+            "refugee_center_fence_t_connection_4",
             "refugee_center_fence_t_connection_3",
-            "refugee_center_fence_t_connection_4"
+            "refugee_center_fence_t_connection_2"
         ],
         "bg": [
             {
@@ -172,9 +172,9 @@
         ],
         "fg": [
             "refugee_center_fence_t_connection_4",
-            "refugee_center_fence_t_connection_1",
+            "refugee_center_fence_t_connection_3",
             "refugee_center_fence_t_connection_2",
-            "refugee_center_fence_t_connection_3"
+            "refugee_center_fence_t_connection_1"
         ],
         "bg": [
             {
@@ -202,9 +202,9 @@
         ],
         "fg": [
             "refugee_center_fence_entrance_L_1",
-            "refugee_center_fence_entrance_L_2",
+            "refugee_center_fence_entrance_L_4",
             "refugee_center_fence_entrance_L_3",
-            "refugee_center_fence_entrance_L_4"
+            "refugee_center_fence_entrance_L_2"
         ],
         "bg": [
             {
@@ -232,9 +232,9 @@
         ],
         "fg": [
             "refugee_center_fence_entrance_R_1",
-            "refugee_center_fence_entrance_R_2",
+            "refugee_center_fence_entrance_R_4",
             "refugee_center_fence_entrance_R_3",
-            "refugee_center_fence_entrance_R_4"
+            "refugee_center_fence_entrance_R_2"
         ],
         "bg": [
             {
@@ -264,9 +264,9 @@
         ],
         "fg": [
             "evac_center_road_edge_2",
-            "evac_center_road_edge_1",
+            "evac_center_road_edge_3",
             "evac_center_road_edge_4",
-            "evac_center_road_edge_3"
+            "evac_center_road_edge_1"
         ],
         "bg": [
             ""
@@ -281,9 +281,9 @@
         ],
         "fg": [
             "evac_center_road_edge_4",
-            "evac_center_road_edge_3",
+            "evac_center_road_edge_1",
             "evac_center_road_edge_2",
-            "evac_center_road_edge_1"
+            "evac_center_road_edge_3"
         ],
         "bg": [
             ""
@@ -298,9 +298,9 @@
         ],
         "fg": [
             "evac_center_road_edge_3",
-            "evac_center_road_edge_2",
+            "evac_center_road_edge_4",
             "evac_center_road_edge_1",
-            "evac_center_road_edge_4"
+            "evac_center_road_edge_2"
         ],
         "bg": [
             ""
@@ -314,9 +314,9 @@
         ],
         "fg": [
             "evac_center_road_edge_1",
-            "evac_center_road_edge_4",
+            "evac_center_road_edge_2",
             "evac_center_road_edge_3",
-            "evac_center_road_edge_2"
+            "evac_center_road_edge_4"
         ],
         "bg": [
             ""
@@ -329,9 +329,9 @@
         ],
         "fg": [
             "evac_center_road_corner_1",
-            "evac_center_road_corner_4",
+            "evac_center_road_corner_2",
             "evac_center_road_corner_3",
-            "evac_center_road_corner_2"
+            "evac_center_road_corner_4"
         ],
         "bg": [
             ""
@@ -344,9 +344,9 @@
         ],
         "fg": [
             "evac_center_road_corner_4",
-            "evac_center_road_corner_3",
+            "evac_center_road_corner_1",
             "evac_center_road_corner_2",
-            "evac_center_road_corner_1"
+            "evac_center_road_corner_3"
         ],
         "bg": [
             ""
@@ -359,9 +359,9 @@
         ],
         "fg": [
             "evac_center_road_corner_3",
-            "evac_center_road_corner_2",
+            "evac_center_road_corner_4",
             "evac_center_road_corner_1",
-            "evac_center_road_corner_4"
+            "evac_center_road_corner_2"
         ],
         "bg": [
             ""
@@ -374,9 +374,9 @@
         ],
         "fg": [
             "evac_center_road_corner_2",
-            "evac_center_road_corner_1",
+            "evac_center_road_corner_3",
             "evac_center_road_corner_4",
-            "evac_center_road_corner_3"
+            "evac_center_road_corner_1"
         ],
         "bg": [
             ""
@@ -389,9 +389,9 @@
         ],
         "fg": [
             "evac_center_entrance_t_connection_1",
-            "evac_center_entrance_t_connection_4",
+            "evac_center_entrance_t_connection_2",
             "evac_center_entrance_t_connection_3",
-            "evac_center_entrance_t_connection_2"
+            "evac_center_entrance_t_connection_4"
         ],
         "bg": [
             ""
@@ -416,9 +416,9 @@
         ],
         "fg": [
             "evac_center_7_1",
-            "evac_center_7_4",
+            "evac_center_7_2",
             "evac_center_7_3",
-            "evac_center_7_2"
+            "evac_center_7_4"
         ],
         "bg": [
             ""
@@ -431,9 +431,9 @@
         ],
         "fg": [
             "evac_center_8_1",
-            "evac_center_8_4",
+            "evac_center_8_2",
             "evac_center_8_3",
-            "evac_center_8_2"
+            "evac_center_8_4"
         ],
         "bg": [
             ""
@@ -446,9 +446,9 @@
         ],
         "fg": [
             "evac_center_12_1",
-            "evac_center_12_4",
+            "evac_center_12_2",
             "evac_center_12_3",
-            "evac_center_12_2"
+            "evac_center_12_4"
         ],
         "bg": [
             ""
@@ -461,9 +461,9 @@
         ],
         "fg": [
             "evac_center_17_1",
-            "evac_center_17_4",
+            "evac_center_17_2",
             "evac_center_17_3",
-            "evac_center_17_2"
+            "evac_center_17_4"
         ],
         "bg": [
             ""
@@ -476,9 +476,9 @@
         ],
         "fg": [
             "evac_center_18_1",
-            "evac_center_18_4",
+            "evac_center_18_2",
             "evac_center_18_3",
-            "evac_center_18_2"
+            "evac_center_18_4"
         ],
         "bg": [
             ""
@@ -491,9 +491,9 @@
         ],
         "fg": [
             "evac_center_19_1",
-            "evac_center_19_4",
+            "evac_center_19_2",
             "evac_center_19_3",
-            "evac_center_19_2"
+            "evac_center_19_4"
         ],
         "bg": [
             ""
@@ -506,9 +506,9 @@
         ],
         "fg": [
             "evac_center_14_1",
-            "evac_center_14_4",
+            "evac_center_14_2",
             "evac_center_14_3",
-            "evac_center_14_2"
+            "evac_center_14_4"
         ],
         "bg": [
             ""
@@ -521,9 +521,9 @@
         ],
         "fg": [
             "evac_center_9_1",
-            "evac_center_9_4",
+            "evac_center_9_2",
             "evac_center_9_3",
-            "evac_center_9_2"
+            "evac_center_9_4"
         ],
         "bg": [
             ""

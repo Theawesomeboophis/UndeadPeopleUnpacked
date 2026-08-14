@@ -18,9 +18,9 @@
       "id": "corner",
       "fg": [
         "f_satellite_corner_1",
-        "f_satellite_corner_2",
+        "f_satellite_corner_4",
         "f_satellite_corner_3",
-        "f_satellite_corner_4"
+        "f_satellite_corner_2"
       ],
       "bg": []
     },

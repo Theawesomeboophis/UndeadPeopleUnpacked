@@ -1,0 +1,10 @@
+{
+  "id": "club_wooden_large_bolted",
+  "fg": [
+    "club_wooden_large_bolted"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

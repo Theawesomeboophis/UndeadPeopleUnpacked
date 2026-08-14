@@ -1,0 +1,10 @@
+{
+  "id": "t_nl_archway_scarlet",
+  "fg": [
+    "t_nl_archway"
+  ],
+  "bg": [
+    "t_nl_metal_floor"
+  ],
+  "rotates": false
+}

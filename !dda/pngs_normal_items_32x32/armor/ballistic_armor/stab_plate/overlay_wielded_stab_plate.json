@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_stab_plate",
+  "fg": [
+    "stab_plate"
+  ],
+  "bg": [],
+  "rotates": false
+}

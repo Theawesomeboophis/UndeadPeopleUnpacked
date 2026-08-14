@@ -1,0 +1,8 @@
+{
+  "id": "tactical_grenade_pouch",
+  "fg": [
+    "chestpouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

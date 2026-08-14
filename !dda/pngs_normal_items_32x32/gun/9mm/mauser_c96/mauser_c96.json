@@ -1,8 +1,10 @@
 {
   "id": "mauser_c96",
   "fg": [
-    "glock_17"
+    "mauser_c96"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

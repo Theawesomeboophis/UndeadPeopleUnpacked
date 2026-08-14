@@ -1,0 +1,10 @@
+{
+  "id": "bodysuit_lycra_var_bondage_suit",
+  "fg": [
+    "bodysuit_bondage"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "butterfly_net_makeshift",
+  "fg": [
+    "butterfly_net_makeshift"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

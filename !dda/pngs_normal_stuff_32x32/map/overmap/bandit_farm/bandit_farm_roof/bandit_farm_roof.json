@@ -1,0 +1,18 @@
+[
+    {
+        "id": [
+            "bandit_farm_3_roof"
+        ],
+        "fg": ["bandit_camp"],
+        "bg": ["open_air"],
+        "rotates": false
+    },
+    {
+        "id": [
+            "bandit_farm_2_roof"
+        ],
+        "fg": ["bandit_camp"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

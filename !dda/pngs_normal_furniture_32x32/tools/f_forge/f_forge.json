@@ -1,5 +1,8 @@
 {
-  "id": "f_forge",
+  "id": [
+    "f_forge",
+    "ap_forge"
+  ],
   "fg": [
     "f_forge"
   ],

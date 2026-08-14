@@ -7,9 +7,9 @@
         "id": "river_cave_nest",
         "fg": [
             "river_cave_nest_n",
-            "river_cave_nest_w",
+            "river_cave_nest_e",
             "river_cave_nest_s",
-            "river_cave_nest_e"
+            "river_cave_nest_w"
         ],
         "rotates": true
     },
@@ -20,9 +20,9 @@
         ],
         "fg": [
             "river_cave_food_n",
-            "river_cave_food_w",
+            "river_cave_food_e",
             "river_cave_food_s",
-            "river_cave_food_e"
+            "river_cave_food_w"
         ],
         "rotates": true
     },
@@ -30,9 +30,9 @@
         "id": "river_cave_kraken",
         "fg": [
             "river_cave_kraken_n",
-            "river_cave_kraken_w",
+            "river_cave_kraken_e",
             "river_cave_kraken_s",
-            "river_cave_kraken_e"
+            "river_cave_kraken_w"
         ],
         "rotates": true
     },
@@ -49,18 +49,18 @@
                 "id": "corner",
                 "fg": [
                     "river_cave_es",
-                    "river_cave_ne",
+                    "river_cave_sw",
                     "river_cave_nw",
-                    "river_cave_sw"
+                    "river_cave_ne"
                 ]
             },
             {
                 "id": "t_connection",
                 "fg": [
                     "river_cave_esw",
-                    "river_cave_nes",
+                    "river_cave_nsw",
                     "river_cave_new",
-                    "river_cave_nsw"
+                    "river_cave_nes"
                 ]
             },
             {
@@ -74,9 +74,9 @@
                 "id": "end_piece",
                 "fg": [
                     "river_cave_s",
-                    "river_cave_e",
+                    "river_cave_w",
                     "river_cave_n",
-                    "river_cave_w"
+                    "river_cave_e"
                 ]
             },
             {

@@ -3,6 +3,6 @@
   "fg": [
     "mon_fleshy_shambler"
   ],
-  "bg": [],
+  "bg": ["bg_big_normal_shadow"],
   "rotates": false
 }

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_screw_press_tool",
+  "fg": [
+    "screw_press_tool"
+  ],
+  "bg": [],
+  "rotates": false
+}

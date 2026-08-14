@@ -1,5 +1,6 @@
 {
   "id": "art_crescent",
-  "fg": ["art_crescent"],
-  "bg": []
+  "fg": "art_crescent",
+  "bg": [],
+  "rotates": false
 }

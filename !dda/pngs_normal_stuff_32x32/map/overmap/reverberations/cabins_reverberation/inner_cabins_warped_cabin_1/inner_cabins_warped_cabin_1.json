@@ -1,0 +1,19 @@
+[
+    {
+        "id": [
+            "inner_cabins_warped_cabin_1",
+			"inner_cabins_warped_cabin_2",
+			"inner_cabins_warped_cabin_3",
+			"inner_cabins_warped_cabin_4",
+			"inner_cabins_warped_cabin_5",
+			"inner_cabins_warped_cabin_6",
+			"inner_cabins_warped_cabin_7",
+			"inner_cabins_warped_cabin_8",
+			"inner_cabins_warped_cabin_9",
+			"inner_cabins_warped_cabin_10"
+        ],
+        "fg": "slimepit_top",
+        "bg": [],
+        "rotates": false
+    }
+]

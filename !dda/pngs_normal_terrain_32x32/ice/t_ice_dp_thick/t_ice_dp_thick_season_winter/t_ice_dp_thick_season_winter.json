@@ -1,0 +1,88 @@
+{
+  "id": "t_ice_dp_thick_season_winter",
+  "fg": [
+    "t_ice_sh_thick"
+  ],
+  "bg": [
+    "bg_dirt_season_winter"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_ice_sh_thick",
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_ice_sh_thick_corner_1",
+        "t_ice_sh_thick_corner_4",
+        "t_ice_sh_thick_corner_3",
+        "t_ice_sh_thick_corner_2"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_ice_sh_thick_t_connection_1",
+        "t_ice_sh_thick_t_connection_4",
+        "t_ice_sh_thick_t_connection_3",
+        "t_ice_sh_thick_t_connection_2"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_ice_sh_thick_edge_1",
+        "t_ice_sh_thick_edge_2"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_ice_sh_thick_end_piece_1",
+        "t_ice_sh_thick_end_piece_4",
+        "t_ice_sh_thick_end_piece_3",
+        "t_ice_sh_thick_end_piece_2"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_ice_sh_thick_unconnected_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_ice_sh_thick_unconnected_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_ice_sh_thick_unconnected_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_ice_sh_thick_unconnected_4"
+        }
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    }
+  ]
+}

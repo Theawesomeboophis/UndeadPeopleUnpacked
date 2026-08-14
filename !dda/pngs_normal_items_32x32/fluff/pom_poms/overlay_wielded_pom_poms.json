@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_pom_poms",
+  "fg": [
+    "overlay_worn_pom_poms"
+  ],
+  "bg": [],
+  "rotates": false
+}

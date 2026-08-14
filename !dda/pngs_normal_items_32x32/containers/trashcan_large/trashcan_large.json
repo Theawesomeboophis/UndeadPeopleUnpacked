@@ -1,0 +1,6 @@
+{
+  "id": "trashcan_large",
+  "fg": "trashcan_large",
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

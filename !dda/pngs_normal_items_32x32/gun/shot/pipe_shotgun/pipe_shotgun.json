@@ -3,5 +3,8 @@
   "fg": [
     "pipe_shotgun"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }

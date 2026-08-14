@@ -1,0 +1,28 @@
+{
+  "id": ["t_scarlet_light"],
+  "fg": [
+    "t_scarlet_light"
+  ],
+  "bg": [
+	{
+	  "weight": 24,
+	  "sprite": "t_sand_scarlet_1"
+	},
+	{
+	  "weight": 24,
+	  "sprite": "t_sand_scarlet_2"
+	},
+	{
+	  "weight": 24,
+	  "sprite": "t_sand_scarlet_3"
+	},
+	{
+	  "weight": 24,
+	  "sprite": "t_sand_scarlet_4"
+	},
+	{
+	  "weight": 4,
+	  "sprite": "t_sand_scarlet_5"
+	}
+  ]
+}

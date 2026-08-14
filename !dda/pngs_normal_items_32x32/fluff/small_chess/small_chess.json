@@ -1,0 +1,8 @@
+{
+  "id": "small_chess",
+  "fg": [
+    "small_checkboard"
+  ],
+  "bg": [],
+  "rotates": false
+}

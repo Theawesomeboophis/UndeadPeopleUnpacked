@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gadget_pouch",
+  "fg": [
+    "chestpouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

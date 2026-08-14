@@ -1,0 +1,10 @@
+{
+  "id": "tacjacket_var_tacjacket_desert",
+  "fg": [
+    "tacjacket_var_tacjacket_desert"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -3,7 +3,7 @@
   "fg": [
     "f_skin_wall"
   ],
-  "bg": [],
+  "bg": ["f_skin_groundsheet"],
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
@@ -12,42 +12,42 @@
       "fg": [
         "f_skin_wall_center"
       ],
-      "bg": []
+      "bg": ["f_skin_groundsheet"]
     },
     {
       "id": "corner",
       "fg": [
         "f_skin_wall_corner"
       ],
-      "bg": []
+      "bg": ["f_skin_groundsheet"]
     },
     {
       "id": "edge",
       "fg": [
         "f_skin_wall_edge"
       ],
-      "bg": []
+      "bg": ["f_skin_groundsheet"]
     },
     {
       "id": "end_piece",
       "fg": [
         "f_skin_wall_end_piece"
       ],
-      "bg": []
+      "bg": ["f_skin_groundsheet"]
     },
     {
       "id": "t_connection",
       "fg": [
         "f_skin_wall_t_connection"
       ],
-      "bg": []
+      "bg": ["f_skin_groundsheet"]
     },
     {
       "id": "unconnected",
       "fg": [
         "f_skin_wall_unconnected"
       ],
-      "bg": []
+      "bg": ["f_skin_groundsheet"]
     }
   ]
 }

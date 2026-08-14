@@ -1,0 +1,10 @@
+{
+  "id": "waist_apron_long_xs",
+  "fg": [
+    "waist_apron_long_var_maid_apron"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

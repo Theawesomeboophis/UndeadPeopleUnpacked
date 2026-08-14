@@ -1,0 +1,897 @@
+[
+    {
+        "id": [
+		    "psi_phavian_lab_block2A0",
+			"psi_phavian_lab_block3A0",
+			"psi_phavian_lab_block4A0",
+			"psi_phavian_lab_block5A0"
+        ],
+        "fg": [
+            "lab_surface_brick_block2A0_north",
+            "open_air",
+            "open_air",
+            "open_air"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": [
+		    "psi_phavian_lab_block2B0",
+			"psi_phavian_lab_block3B0",
+			"psi_phavian_lab_block4B0",
+			"psi_phavian_lab_block5B0"
+        ],
+        "fg": [
+            "lab_surface_brick_block2B0_north",
+            "open_air",
+            "open_air",
+            "open_air"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2C0",
+        "fg": [
+            "lab_surface_brick_block2C0_north",
+            "lab_surface_brick_block2C0_east",
+            "lab_surface_brick_block2C0_south",
+            "lab_surface_brick_block2C0_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": [ 
+		    "psi_phavian_lab_block2C2",
+			"psi_phavian_lab_block3C2",
+			"psi_phavian_lab_block4C2",
+			"psi_phavian_lab_block5C2"
+		],
+        "fg": [
+            "lab_surface_brick_block2C2_north",
+            "open_air",
+            "open_air",
+            "open_air"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": [
+		    "psi_phavian_lab_block2D0",
+			"psi_phavian_lab_block3D0",
+			"psi_phavian_lab_block4D0",
+			"psi_phavian_lab_block5D0"
+        ],
+        "fg": [
+            "lab_surface_brick_block2D0_north",
+            "open_air",
+            "open_air",
+            "open_air"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": [
+		    "psi_phavian_lab_block2E0",
+			"psi_phavian_lab_block3E0",
+			"psi_phavian_lab_block4E0",
+			"psi_phavian_lab_block5E0"
+        ],
+        "fg": [
+            "lab_surface_brick_block2E0_north",
+            "open_air",
+            "open_air",
+            "open_air"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2A1",
+        "fg": [
+            "lab_surface_brick_block2A1_north",
+            "lab_surface_brick_block2A1_east",
+            "lab_surface_brick_block2A1_south",
+            "lab_surface_brick_block2A1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2B1",
+        "fg": [
+            "lab_surface_brick_block2B1_north",
+            "lab_surface_brick_block2B1_east",
+            "lab_surface_brick_block2B1_south",
+            "lab_surface_brick_block2B1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2D1",
+        "fg": [
+            "lab_surface_brick_block2D1_north",
+            "lab_surface_brick_block2D1_east",
+            "lab_surface_brick_block2D1_south",
+            "lab_surface_brick_block2D1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2E1",
+        "fg": [
+            "lab_surface_brick_block2E1_north",
+            "lab_surface_brick_block2E1_east",
+            "lab_surface_brick_block2E1_south",
+            "lab_surface_brick_block2E1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2A2",
+        "fg": [
+            "lab_surface_brick_block2A2_north",
+            "lab_surface_brick_block2A2_east",
+            "lab_surface_brick_block2A2_south",
+            "lab_surface_brick_block2A2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2B2",
+        "fg": [
+            "lab_surface_brick_block2B2_north",
+            "lab_surface_brick_block2B2_east",
+            "lab_surface_brick_block2B2_south",
+            "lab_surface_brick_block2B2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2D2",
+        "fg": [
+            "lab_surface_brick_block2D2_north",
+            "lab_surface_brick_block2D2_east",
+            "lab_surface_brick_block2D2_south",
+            "lab_surface_brick_block2D2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2E2",
+        "fg": [
+            "lab_surface_brick_block2E2_north",
+            "lab_surface_brick_block2E2_east",
+            "lab_surface_brick_block2E2_south",
+            "lab_surface_brick_block2E2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2A3",
+        "fg": [
+            "lab_surface_brick_block2A3_north",
+            "lab_surface_brick_block2A3_east",
+            "lab_surface_brick_block2A3_south",
+            "lab_surface_brick_block2A3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2B3",
+        "fg": [
+            "lab_surface_brick_block2B3_north",
+            "lab_surface_brick_block2B3_east",
+            "lab_surface_brick_block2B3_south",
+            "lab_surface_brick_block2B3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2C3",
+        "fg": [
+            "lab_surface_brick_block2C3_north",
+            "lab_surface_brick_block2C3_east",
+            "lab_surface_brick_block2C3_south",
+            "lab_surface_brick_block2C3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2D3",
+        "fg": [
+            "lab_surface_brick_block2D3_north",
+            "lab_surface_brick_block2D3_east",
+            "lab_surface_brick_block2D3_south",
+            "lab_surface_brick_block2D3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2E3",
+        "fg": [
+            "lab_surface_brick_block2E3_north",
+            "lab_surface_brick_block2E3_east",
+            "lab_surface_brick_block2E3_south",
+            "lab_surface_brick_block2E3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2A4",
+        "fg": [
+            "lab_surface_brick_block2A4_north",
+            "lab_surface_brick_block2A4_east",
+            "lab_surface_brick_block2A4_south",
+            "lab_surface_brick_block2A4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2B4",
+        "fg": [
+            "lab_surface_brick_block2B4_north",
+            "lab_surface_brick_block2B4_east",
+            "lab_surface_brick_block2B4_south",
+            "lab_surface_brick_block2B4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2C4",
+        "fg": [
+            "lab_surface_brick_block2C4_north",
+            "lab_surface_brick_block2C4_east",
+            "lab_surface_brick_block2C4_south",
+            "lab_surface_brick_block2C4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2D4",
+        "fg": [
+            "lab_surface_brick_block2D4_north",
+            "lab_surface_brick_block2D4_east",
+            "lab_surface_brick_block2D4_south",
+            "lab_surface_brick_block2D4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block2E4",
+        "fg": [
+            "lab_surface_brick_block2E4_north",
+            "lab_surface_brick_block2E4_east",
+            "lab_surface_brick_block2E4_south",
+            "lab_surface_brick_block2E4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3A1",
+        "fg": [
+            "lab_surface_brick_block2A1_north",
+            "lab_surface_brick_block2A1_east",
+            "lab_surface_brick_block2A1_south",
+            "lab_surface_brick_block2A1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3B1",
+        "fg": [
+            "lab_surface_brick_block2B1_north",
+            "lab_surface_brick_block2B1_east",
+            "lab_surface_brick_block2B1_south",
+            "lab_surface_brick_block2B1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3D1",
+        "fg": [
+            "lab_surface_brick_block2D1_north",
+            "lab_surface_brick_block2D1_east",
+            "lab_surface_brick_block2D1_south",
+            "lab_surface_brick_block2D1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3E1",
+        "fg": [
+            "lab_surface_brick_block2E1_north",
+            "lab_surface_brick_block2E1_east",
+            "lab_surface_brick_block2E1_south",
+            "lab_surface_brick_block2E1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3A2",
+        "fg": [
+            "lab_surface_brick_block2A2_north",
+            "lab_surface_brick_block2A2_east",
+            "lab_surface_brick_block2A2_south",
+            "lab_surface_brick_block2A2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3B2",
+        "fg": [
+            "lab_surface_brick_block2B2_north",
+            "lab_surface_brick_block2B2_east",
+            "lab_surface_brick_block2B2_south",
+            "lab_surface_brick_block2B2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3D2",
+        "fg": [
+            "lab_surface_brick_block2D2_north",
+            "lab_surface_brick_block2D2_east",
+            "lab_surface_brick_block2D2_south",
+            "lab_surface_brick_block2D2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3E2",
+        "fg": [
+            "lab_surface_brick_block2E2_north",
+            "lab_surface_brick_block2E2_east",
+            "lab_surface_brick_block2E2_south",
+            "lab_surface_brick_block2E2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3A3",
+        "fg": [
+            "lab_surface_brick_block2A3_north",
+            "lab_surface_brick_block2A3_east",
+            "lab_surface_brick_block2A3_south",
+            "lab_surface_brick_block2A3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3B3",
+        "fg": [
+            "lab_surface_brick_block2B3_north",
+            "lab_surface_brick_block2B3_east",
+            "lab_surface_brick_block2B3_south",
+            "lab_surface_brick_block2B3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3C3",
+        "fg": [
+            "lab_surface_brick_block2C3_north",
+            "lab_surface_brick_block2C3_east",
+            "lab_surface_brick_block2C3_south",
+            "lab_surface_brick_block2C3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3D3",
+        "fg": [
+            "lab_surface_brick_block2D3_north",
+            "lab_surface_brick_block2D3_east",
+            "lab_surface_brick_block2D3_south",
+            "lab_surface_brick_block2D3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3E3",
+        "fg": [
+            "lab_surface_brick_block2E3_north",
+            "lab_surface_brick_block2E3_east",
+            "lab_surface_brick_block2E3_south",
+            "lab_surface_brick_block2E3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3A4",
+        "fg": [
+            "lab_surface_brick_block2A4_north",
+            "lab_surface_brick_block2A4_east",
+            "lab_surface_brick_block2A4_south",
+            "lab_surface_brick_block2A4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3B4",
+        "fg": [
+            "lab_surface_brick_block2B4_north",
+            "lab_surface_brick_block2B4_east",
+            "lab_surface_brick_block2B4_south",
+            "lab_surface_brick_block2B4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3C4",
+        "fg": [
+            "lab_surface_brick_block2C4_north",
+            "lab_surface_brick_block2C4_east",
+            "lab_surface_brick_block2C4_south",
+            "lab_surface_brick_block2C4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3D4",
+        "fg": [
+            "lab_surface_brick_block2D4_north",
+            "lab_surface_brick_block2D4_east",
+            "lab_surface_brick_block2D4_south",
+            "lab_surface_brick_block2D4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block3E4",
+        "fg": [
+            "lab_surface_brick_block2E4_north",
+            "lab_surface_brick_block2E4_east",
+            "lab_surface_brick_block2E4_south",
+            "lab_surface_brick_block2E4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4A1",
+        "fg": [
+            "lab_surface_brick_block2A1_north",
+            "lab_surface_brick_block2A1_east",
+            "lab_surface_brick_block2A1_south",
+            "lab_surface_brick_block2A1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4B1",
+        "fg": [
+            "lab_surface_brick_block2B1_north",
+            "lab_surface_brick_block2B1_east",
+            "lab_surface_brick_block2B1_south",
+            "lab_surface_brick_block2B1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4D1",
+        "fg": [
+            "lab_surface_brick_block2D1_north",
+            "lab_surface_brick_block2D1_east",
+            "lab_surface_brick_block2D1_south",
+            "lab_surface_brick_block2D1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4E1",
+        "fg": [
+            "lab_surface_brick_block2E1_north",
+            "lab_surface_brick_block2E1_east",
+            "lab_surface_brick_block2E1_south",
+            "lab_surface_brick_block2E1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4A2",
+        "fg": [
+            "lab_surface_brick_block2A2_north",
+            "lab_surface_brick_block2A2_east",
+            "lab_surface_brick_block2A2_south",
+            "lab_surface_brick_block2A2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4B2",
+        "fg": [
+            "lab_surface_brick_block2B2_north",
+            "lab_surface_brick_block2B2_east",
+            "lab_surface_brick_block2B2_south",
+            "lab_surface_brick_block2B2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4D2",
+        "fg": [
+            "lab_surface_brick_block2D2_north",
+            "lab_surface_brick_block2D2_east",
+            "lab_surface_brick_block2D2_south",
+            "lab_surface_brick_block2D2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4E2",
+        "fg": [
+            "lab_surface_brick_block2E2_north",
+            "lab_surface_brick_block2E2_east",
+            "lab_surface_brick_block2E2_south",
+            "lab_surface_brick_block2E2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4A3",
+        "fg": [
+            "lab_surface_brick_block2A3_north",
+            "lab_surface_brick_block2A3_east",
+            "lab_surface_brick_block2A3_south",
+            "lab_surface_brick_block2A3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4B3",
+        "fg": [
+            "lab_surface_brick_block2B3_north",
+            "lab_surface_brick_block2B3_east",
+            "lab_surface_brick_block2B3_south",
+            "lab_surface_brick_block2B3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4C3",
+        "fg": [
+            "lab_surface_brick_block2C3_north",
+            "lab_surface_brick_block2C3_east",
+            "lab_surface_brick_block2C3_south",
+            "lab_surface_brick_block2C3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4D3",
+        "fg": [
+            "lab_surface_brick_block2D3_north",
+            "lab_surface_brick_block2D3_east",
+            "lab_surface_brick_block2D3_south",
+            "lab_surface_brick_block2D3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4E3",
+        "fg": [
+            "lab_surface_brick_block2E3_north",
+            "lab_surface_brick_block2E3_east",
+            "lab_surface_brick_block2E3_south",
+            "lab_surface_brick_block2E3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4A4",
+        "fg": [
+            "lab_surface_brick_block2A4_north",
+            "lab_surface_brick_block2A4_east",
+            "lab_surface_brick_block2A4_south",
+            "lab_surface_brick_block2A4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4B4",
+        "fg": [
+            "lab_surface_brick_block2B4_north",
+            "lab_surface_brick_block2B4_east",
+            "lab_surface_brick_block2B4_south",
+            "lab_surface_brick_block2B4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4C4",
+        "fg": [
+            "lab_surface_brick_block2C4_north",
+            "lab_surface_brick_block2C4_east",
+            "lab_surface_brick_block2C4_south",
+            "lab_surface_brick_block2C4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4D4",
+        "fg": [
+            "lab_surface_brick_block2D4_north",
+            "lab_surface_brick_block2D4_east",
+            "lab_surface_brick_block2D4_south",
+            "lab_surface_brick_block2D4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block4E4",
+        "fg": [
+            "lab_surface_brick_block2E4_north",
+            "lab_surface_brick_block2E4_east",
+            "lab_surface_brick_block2E4_south",
+            "lab_surface_brick_block2E4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5A1",
+        "fg": [
+            "lab_surface_brick_block2A1_north",
+            "lab_surface_brick_block2A1_east",
+            "lab_surface_brick_block2A1_south",
+            "lab_surface_brick_block2A1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5B1",
+        "fg": [
+            "lab_surface_brick_block2B1_north",
+            "lab_surface_brick_block2B1_east",
+            "lab_surface_brick_block2B1_south",
+            "lab_surface_brick_block2B1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5D1",
+        "fg": [
+            "lab_surface_brick_block2D1_north",
+            "lab_surface_brick_block2D1_east",
+            "lab_surface_brick_block2D1_south",
+            "lab_surface_brick_block2D1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5E1",
+        "fg": [
+            "lab_surface_brick_block2E1_north",
+            "lab_surface_brick_block2E1_east",
+            "lab_surface_brick_block2E1_south",
+            "lab_surface_brick_block2E1_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5A2",
+        "fg": [
+            "lab_surface_brick_block2A2_north",
+            "lab_surface_brick_block2A2_east",
+            "lab_surface_brick_block2A2_south",
+            "lab_surface_brick_block2A2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5B2",
+        "fg": [
+            "lab_surface_brick_block2B2_north",
+            "lab_surface_brick_block2B2_east",
+            "lab_surface_brick_block2B2_south",
+            "lab_surface_brick_block2B2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5D2",
+        "fg": [
+            "lab_surface_brick_block2D2_north",
+            "lab_surface_brick_block2D2_east",
+            "lab_surface_brick_block2D2_south",
+            "lab_surface_brick_block2D2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5E2",
+        "fg": [
+            "lab_surface_brick_block2E2_north",
+            "lab_surface_brick_block2E2_east",
+            "lab_surface_brick_block2E2_south",
+            "lab_surface_brick_block2E2_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5A3",
+        "fg": [
+            "lab_surface_brick_block2A3_north",
+            "lab_surface_brick_block2A3_east",
+            "lab_surface_brick_block2A3_south",
+            "lab_surface_brick_block2A3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5B3",
+        "fg": [
+            "lab_surface_brick_block2B3_north",
+            "lab_surface_brick_block2B3_east",
+            "lab_surface_brick_block2B3_south",
+            "lab_surface_brick_block2B3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5C3",
+        "fg": [
+            "lab_surface_brick_block2C3_north",
+            "lab_surface_brick_block2C3_east",
+            "lab_surface_brick_block2C3_south",
+            "lab_surface_brick_block2C3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5D3",
+        "fg": [
+            "lab_surface_brick_block2D3_north",
+            "lab_surface_brick_block2D3_east",
+            "lab_surface_brick_block2D3_south",
+            "lab_surface_brick_block2D3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5E3",
+        "fg": [
+            "lab_surface_brick_block2E3_north",
+            "lab_surface_brick_block2E3_east",
+            "lab_surface_brick_block2E3_south",
+            "lab_surface_brick_block2E3_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5A4",
+        "fg": [
+            "lab_surface_brick_block2A4_north",
+            "lab_surface_brick_block2A4_east",
+            "lab_surface_brick_block2A4_south",
+            "lab_surface_brick_block2A4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5B4",
+        "fg": [
+            "lab_surface_brick_block2B4_north",
+            "lab_surface_brick_block2B4_east",
+            "lab_surface_brick_block2B4_south",
+            "lab_surface_brick_block2B4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5C4",
+        "fg": [
+            "lab_surface_brick_block2C4_north",
+            "lab_surface_brick_block2C4_east",
+            "lab_surface_brick_block2C4_south",
+            "lab_surface_brick_block2C4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5D4",
+        "fg": [
+            "lab_surface_brick_block2D4_north",
+            "lab_surface_brick_block2D4_east",
+            "lab_surface_brick_block2D4_south",
+            "lab_surface_brick_block2D4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": "psi_phavian_lab_block5E4",
+        "fg": [
+            "lab_surface_brick_block2E4_north",
+            "lab_surface_brick_block2E4_east",
+            "lab_surface_brick_block2E4_south",
+            "lab_surface_brick_block2E4_west"
+        ],
+        "bg": ["open_air"],
+        "rotates": true
+    },
+    {
+        "id": [
+            "psi_phavian_lab_block2C1",
+            "psi_phavian_lab_block3C0",
+            "psi_phavian_lab_block3C1",
+            "psi_phavian_lab_block4C0",
+            "psi_phavian_lab_block4C1",
+            "psi_phavian_lab_block5C0",
+            "psi_phavian_lab_block5C1"
+        ],
+        "fg": ["open_air"]
+    }
+]

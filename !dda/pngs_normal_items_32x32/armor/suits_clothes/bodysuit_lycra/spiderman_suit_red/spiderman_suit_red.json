@@ -1,0 +1,10 @@
+{
+  "id": "bodysuit_lycra_var_spiderman_suit_red",
+  "fg": [
+    "spiderman_suit_red"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

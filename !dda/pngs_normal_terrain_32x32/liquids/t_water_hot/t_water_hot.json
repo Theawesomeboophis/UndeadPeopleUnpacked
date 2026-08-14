@@ -57,9 +57,9 @@
       "id": "corner",
       "fg": [
         "t_water_hot_corner_1", 
-		"t_water_hot_corner_2", 
+		"t_water_hot_corner_4", 
 		"t_water_hot_corner_3", 
-		"t_water_hot_corner_4"        
+		"t_water_hot_corner_2"        
       ],
       "bg": [
         "bg_dirt"
@@ -69,9 +69,9 @@
       "id": "t_connection",
       "fg": [
         "t_water_hot_t_connection_1",
-        "t_water_hot_t_connection_2",
+        "t_water_hot_t_connection_4",
         "t_water_hot_t_connection_3",
-        "t_water_hot_t_connection_4"
+        "t_water_hot_t_connection_2"
       ],
       "bg": [
         "bg_dirt"
@@ -91,9 +91,9 @@
       "id": "end_piece",
       "fg": [
         "t_water_hot_end_piece_1",
-        "t_water_hot_end_piece_2",
+        "t_water_hot_end_piece_4",
         "t_water_hot_end_piece_3",
-        "t_water_hot_end_piece_4"
+        "t_water_hot_end_piece_2"
       ],
       "bg": [
         "bg_dirt"

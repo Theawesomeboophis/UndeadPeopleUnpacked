@@ -1,0 +1,8 @@
+{
+  "id": "art_gloves",
+  "fg": "art_gloves",
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_apron_cut_resistant",
   "fg": [
-    "apron_leather"
+    "apron_cut_resistant"
   ],
   "bg": [],
   "rotates": false

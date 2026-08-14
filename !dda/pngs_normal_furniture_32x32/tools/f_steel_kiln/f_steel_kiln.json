@@ -1,0 +1,11 @@
+{
+  "id": [
+    "ap_steel_kiln",
+    "f_steel_kiln"
+  ],
+  "fg": [
+    "f_kiln"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,52 @@
+  [
+	{
+	  "id": ["f_glassedbody_1", "f_glassedbody_2", "f_glassedbody_3", "f_glassedbody_4", "f_glassedbody_9", "f_glassedbody_10"],
+	  "fg": [
+		{
+		  "weight": 25,
+		  "sprite": "f_glassedbody_1"
+		},
+		{
+		  "weight": 25,
+		  "sprite": "f_glassedbody_2"
+		},
+		{
+		  "weight": 25,
+		  "sprite": "f_glassedbody_3"
+		},
+		{
+		  "weight": 25,
+		  "sprite": "f_glassedbody_4"
+		}
+	  ],
+	  "bg": ["bg_shadow_normal"]
+	},
+	{
+	  "id": ["f_glassedbody_5", "f_glassedbody_6", "f_glassedbody_11"],
+	  "fg": [
+		{
+		  "weight": 50,
+		  "sprite": "f_glassedbody_5"
+		},
+		{
+		  "weight": 50,
+		  "sprite": "f_glassedbody_6"
+		}
+	  ],
+	  "bg": ["bg_shadow_normal"]
+	},
+	{
+	  "id": ["f_glassedbody_7", "f_glassedbody_8"],
+	  "fg": [
+		{
+		  "weight": 50,
+		  "sprite": "f_glassedbody_7"
+		},
+		{
+		  "weight": 50,
+		  "sprite": "f_glassedbody_8"
+		}
+	  ],
+	  "bg": ["bg_shadow_normal"]
+	}
+  ]

@@ -1,0 +1,15 @@
+{
+  "id": "f_vitrified_planter",
+  "fg": [
+		  {
+		    "weight": 50,
+		    "sprite": "f_vitrified_planter_1"
+	  	  },
+		  {
+		    "weight": 50,
+		    "sprite": "f_vitrified_planter_2"
+	  	  }
+	  ],
+  "bg": [],
+  "rotates": false
+}

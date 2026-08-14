@@ -1,0 +1,8 @@
+{
+  "id": ["ap_wall_light", "vp_ap_wall_light"],
+  "fg": [
+    "wall_light"
+  ],
+  "bg": [],
+  "rotates": false
+}

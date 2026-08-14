@@ -1,0 +1,110 @@
+{
+  "id": "t_highland_flower_bed",
+  "fg": [
+    "t_grass_dead"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_highland_flower_bed"
+      ],
+      "bg": [
+        "t_grass_dead_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_highland_flower_bed"
+      ],
+      "bg": [
+        "t_grass_dead_corner_1",
+        "t_grass_dead_corner_4",
+        "t_grass_dead_corner_3",
+        "t_grass_dead_corner_2"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_highland_flower_bed"
+      ],
+      "bg": [
+        "t_grass_dead_t_connection_1",
+        "t_grass_dead_t_connection_4",
+        "t_grass_dead_t_connection_3",
+        "t_grass_dead_t_connection_2"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_highland_flower_bed"
+      ],
+      "bg": [
+        "t_grass_dead_edge_1",
+        "t_grass_dead_edge_2"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_highland_flower_bed"
+      ],
+      "bg": [
+        "t_grass_dead_end_piece_1",
+        "t_grass_dead_end_piece_4",
+        "t_grass_dead_end_piece_3",
+        "t_grass_dead_end_piece_2"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_highland_flower_bed"
+      ],
+      "bg": [
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_grass_dead_unconnected_9"
+        }
+      ]
+    }
+  ]
+}

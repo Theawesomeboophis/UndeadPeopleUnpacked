@@ -22,30 +22,30 @@
       "id": "corner",
       "fg": [
         "f_rubble_rock_corner_1",
-        "f_rubble_rock_corner_2",
+        "f_rubble_rock_corner_4",
         "f_rubble_rock_corner_3",
-        "f_rubble_rock_corner_4"
+        "f_rubble_rock_corner_2"
       ],
       "bg": [
         "bg_f_rubble_rock_corner_1",
-        "bg_f_rubble_rock_corner_2",
+        "bg_f_rubble_rock_corner_4",
         "bg_f_rubble_rock_corner_3",
-        "bg_f_rubble_rock_corner_4"
+        "bg_f_rubble_rock_corner_2"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
         "f_rubble_rock_t_connection_1",
-        "f_rubble_rock_t_connection_2",
+        "f_rubble_rock_t_connection_4",
         "f_rubble_rock_t_connection_3",
-        "f_rubble_rock_t_connection_4"
+        "f_rubble_rock_t_connection_2"
       ],
       "bg": [
         "bg_f_rubble_rock_t_connection_1",
-        "bg_f_rubble_rock_t_connection_2",
+        "bg_f_rubble_rock_t_connection_4",
         "bg_f_rubble_rock_t_connection_3",
-        "bg_f_rubble_rock_t_connection_4"
+        "bg_f_rubble_rock_t_connection_2"
       ]
     },
     {
@@ -63,15 +63,15 @@
       "id": "end_piece",
       "fg": [
         "f_rubble_rock_end_piece_1",
-        "f_rubble_rock_end_piece_2",
+        "f_rubble_rock_end_piece_4",
         "f_rubble_rock_end_piece_3",
-        "f_rubble_rock_end_piece_4"
+        "f_rubble_rock_end_piece_2"
       ],
       "bg": [
         "bg_f_rubble_rock_end_piece_1",
-        "bg_f_rubble_rock_end_piece_2",
+        "bg_f_rubble_rock_end_piece_4",
         "bg_f_rubble_rock_end_piece_3",
-        "bg_f_rubble_rock_end_piece_4"
+        "bg_f_rubble_rock_end_piece_2"
       ]
     },
     {

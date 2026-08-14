@@ -1,7 +1,7 @@
 {
   "id": "iv_mutagen_spider",
   "fg": [
-    "mutagen_temp_green"
+    "iv_mutagen_spider"
   ],
   "bg": [],
   "rotates": false

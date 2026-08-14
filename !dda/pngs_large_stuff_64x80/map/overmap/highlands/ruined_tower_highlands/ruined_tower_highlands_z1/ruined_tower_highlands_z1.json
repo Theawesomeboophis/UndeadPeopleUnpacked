@@ -1,0 +1,8 @@
+[{
+  "id": ["ruined_tower_highlands_z1", "ruined_tower_highlands_z2", "ruined_tower_highlands_z3", "ruined_tower_highlands_z4", "ruined_tower_highlands_z5"],
+  "fg": [
+    "ruined_tower_highlands_z1"
+  ],
+  "bg": ["bg_big_open_air"],
+  "rotates": false
+}]

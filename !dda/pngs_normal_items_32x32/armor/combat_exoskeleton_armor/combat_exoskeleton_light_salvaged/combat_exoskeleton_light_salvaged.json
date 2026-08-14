@@ -1,0 +1,10 @@
+{
+  "id": "combat_exoskeleton_light_salvaged",
+  "fg": [
+    "combat_exoskeleton_light_salvaged"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

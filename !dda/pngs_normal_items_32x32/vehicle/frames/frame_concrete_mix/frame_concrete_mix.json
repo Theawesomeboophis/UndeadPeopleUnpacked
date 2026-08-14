@@ -1,0 +1,10 @@
+{
+  "id": "frame_concrete_mix",
+  "fg": [
+    "frame_concrete_mix"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

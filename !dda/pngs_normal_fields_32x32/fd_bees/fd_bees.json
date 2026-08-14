@@ -1,5 +1,8 @@
 {
-  "id": "fd_bees",
+  "id": [
+    "fd_bees",
+	"fd_bee_swarm"
+  ],
   "fg": [
     "fd_bees"
   ],

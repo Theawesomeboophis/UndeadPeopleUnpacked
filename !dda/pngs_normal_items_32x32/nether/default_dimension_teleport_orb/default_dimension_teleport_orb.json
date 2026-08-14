@@ -1,0 +1,10 @@
+{
+  "id": "default_dimension_teleport_orb",
+  "fg": [
+    "default_dimension_teleport_orb"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

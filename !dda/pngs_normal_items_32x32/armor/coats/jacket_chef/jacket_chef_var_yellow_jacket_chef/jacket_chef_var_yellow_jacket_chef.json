@@ -1,0 +1,10 @@
+{
+  "id": "jacket_chef_var_yellow_jacket_chef",
+  "fg": [
+    "jacket_chef_var_yellow_jacket_chef"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

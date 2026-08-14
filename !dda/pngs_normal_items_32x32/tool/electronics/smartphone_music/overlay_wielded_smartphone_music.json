@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_smartphone_music",
   "fg": [
-    "smartphone_music"
+    "overlay_wielded_smartphone_music"
   ],
   "bg": [],
   "rotates": false

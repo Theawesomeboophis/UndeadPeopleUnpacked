@@ -1,0 +1,8 @@
+{
+  "id": "art_bomorrean",
+  "fg": "art_bomorrean",
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

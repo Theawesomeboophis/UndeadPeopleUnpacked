@@ -1,0 +1,25 @@
+{
+  "id": "mon_zombie_lashing",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_lashing_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_lashing_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_lashing_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_lashing_4"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

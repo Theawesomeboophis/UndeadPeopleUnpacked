@@ -1,0 +1,10 @@
+[
+{
+  "id": [
+    "rural_outbuilding_roof"
+  ],
+  "fg": ["cabin_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+}
+]

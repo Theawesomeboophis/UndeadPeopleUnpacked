@@ -1,0 +1,10 @@
+{
+  "id": "sheriffshirt_var_swat_shirt",
+  "fg": [
+    "sheriffshirt_var_swat_shirt"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

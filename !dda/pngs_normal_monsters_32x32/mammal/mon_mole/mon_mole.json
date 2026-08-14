@@ -1,0 +1,10 @@
+{
+  "id": "mon_mole",
+  "fg": [
+    "mon_mole"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

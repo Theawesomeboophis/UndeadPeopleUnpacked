@@ -1,4 +1,13 @@
 {
     "id": "mon_hallucinator",
-    "fg": "mon_hallucinator"
+  "fg": [
+    {
+      "weight": 50,
+      "sprite": "mon_hallucinator"
+    },
+    {
+      "weight": 50,
+      "sprite": "mon_hallucinator_2"
+    }
+  ]
 }

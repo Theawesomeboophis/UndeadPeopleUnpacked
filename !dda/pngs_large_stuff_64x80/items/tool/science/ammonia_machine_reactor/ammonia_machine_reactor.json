@@ -1,0 +1,11 @@
+{
+  "id": [
+    "ammonia_machine_reactor",
+	"ap_ammonia_machine_reactor"
+  ],
+  "fg": [
+    "ammonia_machine_reactor"
+  ],
+  "bg": [],
+  "rotates": false
+}

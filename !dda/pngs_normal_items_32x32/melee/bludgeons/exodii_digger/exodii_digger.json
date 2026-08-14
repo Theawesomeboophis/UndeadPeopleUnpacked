@@ -1,0 +1,10 @@
+{
+  "id": "exodii_digger",
+  "fg": [
+    "exodii_digger"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "drum_skin",
+  "fg": [
+    "drum_skin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -3,6 +3,8 @@
   "fg": [
     "remington_870"
   ],
-  "bg": [],
+  "bg": [
+    "bg_shadow_item"
+  ],
   "rotates": false
 }

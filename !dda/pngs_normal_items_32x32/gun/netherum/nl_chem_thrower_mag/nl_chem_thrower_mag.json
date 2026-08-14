@@ -1,0 +1,10 @@
+{
+  "id": "nl_chem_thrower_mag",
+  "fg": [
+    "nl_chem_thrower_mag"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

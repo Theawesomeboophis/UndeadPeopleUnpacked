@@ -1,0 +1,10 @@
+{
+  "id": "bodysuit_lycra_var_flag_suit",
+  "fg": [
+    "flag_suit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

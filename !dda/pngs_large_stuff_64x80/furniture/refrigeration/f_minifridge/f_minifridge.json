@@ -1,0 +1,9 @@
+{
+  "id": [
+    "f_minifridge",
+	"ap_minifridge"
+  ],
+  "rotates": true,
+  "fg": [ "f_minifridge_1", "f_minifridge_2", "f_minifridge_3", "f_minifridge_4" ],
+  "bg": ""
+}

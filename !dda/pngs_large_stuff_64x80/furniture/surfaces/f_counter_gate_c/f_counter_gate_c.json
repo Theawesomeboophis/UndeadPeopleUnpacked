@@ -1,8 +1,63 @@
 {
   "id": "f_counter_gate_c",
   "fg": [
-    "f_counter_gate_c"
-  ],
+        "f_counter_gate_c"
+      ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_counter_gate_c_end_piece_1"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_counter_gate_c_edge_2",
+        "f_counter_gate_c_edge_2",
+        "f_counter_gate_c_edge_2",
+        "f_counter_gate_c_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_counter_gate_c_edge_2",
+        "f_counter_gate_c_end_piece_3",
+        "f_counter_gate_c_edge_2",
+        "f_counter_gate_c_end_piece_3"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_counter_gate_c_end_piece_1",
+        "f_counter_gate_c_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_counter_gate_c_end_piece_1",
+        "f_counter_gate_c_edge_2",
+        "f_counter_gate_c_end_piece_3",
+        "f_counter_gate_c_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_counter_gate_c_edge_2", "f_counter_gate_c_edge_2"
+      ],
+      "bg": []
+    }
+  ]
 }

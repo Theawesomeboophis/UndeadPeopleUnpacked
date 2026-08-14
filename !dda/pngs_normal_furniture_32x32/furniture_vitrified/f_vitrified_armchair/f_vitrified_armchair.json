@@ -1,0 +1,8 @@
+{
+  "id": "f_vitrified_armchair",
+  "fg": [
+    "f_vitrified_armchair_rotat_s", "f_vitrified_armchair_rotat_w", "f_vitrified_armchair_rotat_n", "f_vitrified_armchair_rotat_e"
+  ],
+  "bg": [],
+  "rotates": true
+}

@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_toilet_paper",
   "fg": [
-    "toilet_paper"
+    "overlay_wielded_toilet_paper"
   ],
   "bg": [],
   "rotates": false

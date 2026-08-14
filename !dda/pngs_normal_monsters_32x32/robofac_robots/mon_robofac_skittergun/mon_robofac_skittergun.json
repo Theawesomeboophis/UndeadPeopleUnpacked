@@ -1,0 +1,10 @@
+{
+  "id": "mon_robofac_skittergun",
+  "fg": [
+    "mon_robofac_skittergun"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_highland_flower_bed_season_winter",
+  "fg": [
+    "f_flora_temp_season_winter"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

@@ -3,5 +3,6 @@
   "fg": [
     "pemmican"
   ],
-  "bg": []
+  "bg": [],
+  "rotates": false
 }

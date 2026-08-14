@@ -1,0 +1,10 @@
+{
+  "id": "t_alien_meadow_tree_3_harvested_season_spring",
+  "fg": [
+    "t_alien_meadow_tree_3"
+  ],
+  "bg": [
+    "bg_big_alien_meadow"
+  ],
+  "rotates": false
+}

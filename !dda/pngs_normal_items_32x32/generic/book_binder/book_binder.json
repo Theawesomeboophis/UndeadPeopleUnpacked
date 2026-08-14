@@ -1,0 +1,10 @@
+{
+  "id": "book_binder",
+  "fg": [
+    "book_binder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

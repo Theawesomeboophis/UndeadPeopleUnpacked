@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_ruler",
+  "fg": [
+    "ruler"
+  ],
+  "bg": [],
+  "rotates": false
+}

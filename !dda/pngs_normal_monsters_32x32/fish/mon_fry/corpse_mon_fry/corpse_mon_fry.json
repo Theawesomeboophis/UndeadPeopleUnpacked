@@ -1,0 +1,8 @@
+{
+  "id": [ "corpse_mon_fry", "corpse_mon_fry_brown_trout", "corpse_mon_fry_brook_trout", "corpse_mon_fry_lake_trout", "corpse_mon_fry_rainbow_trout", "corpse_mon_fry_salmon", "corpse_mon_fry_kokanee_salmon", "corpse_mon_fry_whitefish", "corpse_mon_fry_whitefish_round", "corpse_mon_fry_sunfish", "corpse_mon_fry_lbass", "corpse_mon_fry_sbass", "corpse_mon_fry_pbass", "corpse_mon_fry_perch", "corpse_mon_fry_walleye", "corpse_mon_fry_bluegill", "corpse_mon_fry_pumpkinseed", "corpse_mon_fry_redbreast", "corpse_mon_fry_green_sunfish", "corpse_mon_fry_rock_bass", "corpse_mon_fry_calico_bass", "corpse_mon_fry_warmouth", "corpse_mon_fry_bullhead", "corpse_mon_fry_bullhead_yellow", "corpse_mon_fry_channel_catfish", "corpse_mon_fry_white_catfish", "corpse_mon_fry_pike", "corpse_mon_fry_pickerel", "corpse_mon_fry_pickerel_american", "corpse_mon_fry_muskellunge", "corpse_mon_fry_white_sucker", "corpse_mon_fry_carp", "corpse_mon_fry_grass_carp", "corpse_mon_fry_goldfish", "corpse_mon_fry_bowfin", "corpse_mon_fry_gar_longnose", "corpse_mon_fry_burbot", "corpse_mon_fry_sturgeon_lake", "corpse_mon_fry_sturgeon_shortnose", "corpse_mon_fry_fallfish", "corpse_mon_fry_crayfish", "corpse_mon_fry_mackerel", "corpse_mon_fry_flounder", "corpse_mon_fry_blackfish", "corpse_mon_fry_porgy", "corpse_mon_fry_bluefish", "corpse_mon_fry_cod", "corpse_mon_fry_haddock", "corpse_mon_fry_bluefin_tuna", "corpse_mon_fry_halibut", "corpse_mon_fry_pollock" ],
+  "fg": [
+    "corpse_mon_fry"
+  ],
+  "bg": [],
+  "rotates": false
+}

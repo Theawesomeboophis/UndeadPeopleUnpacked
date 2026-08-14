@@ -1,0 +1,10 @@
+{
+  "id": "33naval_ball",
+  "fg": [
+    "33naval_ball"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

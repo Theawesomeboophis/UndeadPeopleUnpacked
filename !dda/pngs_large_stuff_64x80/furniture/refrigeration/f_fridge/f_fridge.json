@@ -1,0 +1,13 @@
+{
+  "id": [
+    "f_fridge",
+	"ap_fridge",
+    "ap_apartment_fridge",
+    "ap_apartment_freezer",
+    "ap_big_portable_fridge",
+    "ap_big_portable_freezer"
+  ],
+  "rotates": true,
+  "fg": [ "f_fridge", "f_fridge_2", "f_fridge_3", "f_fridge_4" ],
+  "bg": ""
+}

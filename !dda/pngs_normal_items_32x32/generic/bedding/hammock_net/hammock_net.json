@@ -1,0 +1,10 @@
+{
+  "id": "hammock_net",
+  "fg": [
+    "hammock_net"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

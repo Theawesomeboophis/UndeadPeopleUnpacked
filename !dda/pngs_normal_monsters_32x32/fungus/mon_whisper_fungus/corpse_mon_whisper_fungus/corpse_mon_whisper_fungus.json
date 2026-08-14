@@ -1,0 +1,10 @@
+{
+  "id": "corpse_mon_whisper_fungus",
+  "fg": [
+    "mon_fungal_hedgerow"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

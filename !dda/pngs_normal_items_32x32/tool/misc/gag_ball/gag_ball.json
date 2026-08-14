@@ -1,0 +1,10 @@
+{
+  "id": "gag_ball",
+  "fg": [
+    "gag_ball"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

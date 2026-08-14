@@ -1,7 +1,7 @@
 {
   "id": "overlay_wielded_waterskin2",
   "fg": [
-    "waterskin2"
+    "overlay_wielded_waterskin2"
   ],
   "bg": [],
   "rotates": false

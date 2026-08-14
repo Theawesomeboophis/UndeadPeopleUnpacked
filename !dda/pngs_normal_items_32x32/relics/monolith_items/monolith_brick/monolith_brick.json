@@ -1,0 +1,10 @@
+{
+  "id": "monolith_brick",
+  "fg": [
+    "monolith_brick"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "mon_strange_megafrog",
+  "fg": [
+    "mon_strange_megafrog"
+  ],
+  "bg": ["bg_big_huge_shadow"],
+  "rotates": false
+}

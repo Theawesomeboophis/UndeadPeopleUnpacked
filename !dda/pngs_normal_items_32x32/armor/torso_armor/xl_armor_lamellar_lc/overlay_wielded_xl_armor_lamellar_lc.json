@@ -1,0 +1,11 @@
+{
+  "id": [
+    "overlay_wielded_xl_armor_lamellar_ch",
+	"overlay_wielded_xl_armor_lamellar_lc"
+  ],
+  "fg": [
+    "armor_lamellar_lc"
+  ],
+  "bg": [],
+  "rotates": false
+}

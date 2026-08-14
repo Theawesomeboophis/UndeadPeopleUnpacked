@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_oven_stovetop",
+  "fg": [
+    "oven_stovetop"
+  ],
+  "bg": [],
+  "rotates": false
+}

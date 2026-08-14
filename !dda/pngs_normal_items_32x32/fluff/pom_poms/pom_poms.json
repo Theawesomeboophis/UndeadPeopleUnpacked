@@ -1,0 +1,10 @@
+{
+  "id": "pom_poms",
+  "fg": [
+    "pom_poms"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

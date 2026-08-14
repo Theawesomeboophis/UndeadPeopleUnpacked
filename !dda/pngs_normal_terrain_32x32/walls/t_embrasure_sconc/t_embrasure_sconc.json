@@ -11,18 +11,18 @@
       "id": "corner",
       "fg": [
         "t_embrasure_sconc_corner_nw",
-        "t_embrasure_sconc_corner_sw",
+        "t_embrasure_sconc_corner_ne",
         "t_embrasure_sconc_corner_se",
-        "t_embrasure_sconc_corner_ne"
+        "t_embrasure_sconc_corner_sw"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
         "t_embrasure_sconc_t_connection_n",
-        "t_embrasure_sconc_t_connection_w",
+        "t_embrasure_sconc_t_connection_e",
         "t_embrasure_sconc_t_connection_s",
-        "t_embrasure_sconc_t_connection_e"
+        "t_embrasure_sconc_t_connection_w"
       ]
     },
     {
@@ -36,9 +36,9 @@
       "id": "end_piece",
       "fg": [
         "t_embrasure_sconc_end_piece_n",
-        "t_embrasure_sconc_end_piece_w",
+        "t_embrasure_sconc_end_piece_e",
         "t_embrasure_sconc_end_piece_s",
-        "t_embrasure_sconc_end_piece_e"
+        "t_embrasure_sconc_end_piece_w"
       ]
     },
     {

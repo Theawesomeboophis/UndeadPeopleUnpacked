@@ -1,0 +1,27 @@
+{
+  "id": ["alien_meadow_core", "alien_meadow_join"],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "alien_meadow_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "alien_meadow_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "alien_meadow_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "alien_meadow_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "alien_meadow_5"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

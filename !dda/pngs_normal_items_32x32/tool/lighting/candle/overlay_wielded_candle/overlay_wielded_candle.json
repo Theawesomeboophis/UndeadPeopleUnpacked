@@ -3,8 +3,6 @@
   "fg": [
     "overlay_wielded_candle"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ],
+  "bg": [],
   "rotates": false
 }

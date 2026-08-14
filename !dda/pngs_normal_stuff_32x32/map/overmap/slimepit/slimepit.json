@@ -1,10 +1,11 @@
 [{
-  "id": "slimepit_top",
+  "id": ["slimepit_top", "slimepit_z0"],
   "fg": ["slimepit_top"],
   "bg": [],
   "rotates": false
 },{
   "id": [
+    "slimepit_z-1",
     "slimepit_bottom",
     "slimepit_down",
     "slimepit"

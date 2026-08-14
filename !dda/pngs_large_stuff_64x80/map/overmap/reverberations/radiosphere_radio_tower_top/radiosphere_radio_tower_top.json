@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "radiosphere_radio_tower_top" ],
+    "fg": [ "radio_tower_roof" ],
+    "bg": ["bg_big_open_air"],
+    "rotates": false
+  }
+]

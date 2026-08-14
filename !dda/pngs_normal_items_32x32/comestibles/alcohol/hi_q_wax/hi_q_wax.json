@@ -1,7 +1,10 @@
 {
   "id": "hi_q_wax",
   "fg": [
-    "honey_gold"
+    "hi_q_wax"
   ],
-  "bg": []
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
 }

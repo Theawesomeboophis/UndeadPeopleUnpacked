@@ -1,0 +1,10 @@
+{
+  "id": "makeshift_crutches",
+  "fg": [
+    "makeshift_crutches"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,11 @@
+{
+    "id": [
+        "bandit_camp_1_roof",
+        "bandit_camp_2_roof",
+        "bandit_camp_3_roof",
+        "bandit_camp_4_roof"
+    ],
+    "fg": ["bandit_camp"],
+    "bg": ["open_air"],
+    "rotates": false
+}

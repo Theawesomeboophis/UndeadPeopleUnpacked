@@ -22,9 +22,9 @@
       "id": "corner",
       "fg": [
         "t_carpet_purple_corner_1",
-        "t_carpet_purple_corner_2",
+        "t_carpet_purple_corner_4",
         "t_carpet_purple_corner_3",
-        "t_carpet_purple_corner_4"
+        "t_carpet_purple_corner_2"
       ],
       "bg": [
         "t_thconc_floor"
@@ -34,9 +34,9 @@
       "id": "t_connection",
       "fg": [
         "t_carpet_purple_t_connection_1",
-        "t_carpet_purple_t_connection_2",
+        "t_carpet_purple_t_connection_4",
         "t_carpet_purple_t_connection_3",
-        "t_carpet_purple_t_connection_4"
+        "t_carpet_purple_t_connection_2"
       ],
       "bg": [
         "t_thconc_floor"
@@ -56,9 +56,9 @@
       "id": "end_piece",
       "fg": [
         "t_carpet_purple_end_piece_1",
-        "t_carpet_purple_end_piece_2",
+        "t_carpet_purple_end_piece_4",
         "t_carpet_purple_end_piece_3",
-        "t_carpet_purple_end_piece_4"
+        "t_carpet_purple_end_piece_2"
       ],
       "bg": [
         "t_thconc_floor"

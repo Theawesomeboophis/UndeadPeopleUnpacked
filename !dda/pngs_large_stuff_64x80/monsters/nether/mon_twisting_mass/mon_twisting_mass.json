@@ -1,0 +1,23 @@
+{
+  "id": "mon_twisting_mass",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_mass_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_mass_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_mass_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_twisting_mass_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

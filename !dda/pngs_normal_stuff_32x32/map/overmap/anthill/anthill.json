@@ -10,9 +10,9 @@
     ],
     "fg": [
       "ants_larvae_n",
-      "ants_larvae_w",
+      "ants_larvae_e",
       "ants_larvae_s",
-      "ants_larvae_e"
+      "ants_larvae_w"
     ],
     "rotates": true
   },
@@ -23,9 +23,9 @@
     ],
     "fg": [
       "ants_food_n",
-      "ants_food_w",
+      "ants_food_e",
       "ants_food_s",
-      "ants_food_e"
+      "ants_food_w"
     ],
     "rotates": true
   },
@@ -33,9 +33,9 @@
     "id": "ants_queen",
     "fg": [
       "ants_queen_n",
-      "ants_queen_w",
+      "ants_queen_e",
       "ants_queen_s",
-      "ants_queen_e"
+      "ants_queen_w"
     ],
     "rotates": true
   },
@@ -43,9 +43,9 @@
     "id": "acid_ants_queen",
     "fg": [
       "acid_ants_queen_n",
-      "acid_ants_queen_w",
+      "acid_ants_queen_e",
       "acid_ants_queen_s",
-      "acid_ants_queen_e"
+      "acid_ants_queen_w"
     ],
     "rotates": true
   },
@@ -65,18 +65,18 @@
         "id": "corner",
         "fg": [
           "ants_es",
-          "ants_ne",
+          "ants_sw",
           "ants_nw",
-          "ants_sw"
+          "ants_ne"
         ]
       },
       {
         "id": "t_connection",
         "fg": [
           "ants_esw",
-          "ants_nes",
+          "ants_nsw",
           "ants_new",
-          "ants_nsw"
+          "ants_nes"
         ]
       },
       {
@@ -90,9 +90,9 @@
         "id": "end_piece",
         "fg": [
           "ants_s",
-          "ants_e",
+          "ants_w",
           "ants_n",
-          "ants_w"
+          "ants_e"
         ]
       },
       {

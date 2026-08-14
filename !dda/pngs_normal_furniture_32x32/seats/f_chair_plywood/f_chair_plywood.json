@@ -1,0 +1,8 @@
+{
+  "id": "f_chair_plywood",
+  "fg": [
+    "f_chair_plywood_s", "f_chair_plywood_w", "f_chair_plywood_n", "f_chair_plywood_e"
+  ],
+  "bg": [],
+  "rotates": true
+}

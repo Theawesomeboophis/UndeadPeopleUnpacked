@@ -1,0 +1,50 @@
+{
+  "id": "t_distortion_floor",
+  "fg": [
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_1"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_2"
+    },  
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_3"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_4"
+    },   
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_5"
+    },
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_6"
+    },
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_5"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_4"
+    },  
+	{
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_3"
+    },
+    {
+      "weight": 15,
+      "sprite": "fd_hot_air_sauna_2"
+    }
+  ],
+  "bg": [
+    "t_highland_bronze_floor"
+  ],
+  "rotates": false,
+  "animated": true
+}

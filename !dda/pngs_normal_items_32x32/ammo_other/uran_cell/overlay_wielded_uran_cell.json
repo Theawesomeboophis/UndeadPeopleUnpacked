@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_uran_cell",
+  "fg": [
+    "uran_cell"
+  ],
+  "bg": [],
+  "rotates": false
+}

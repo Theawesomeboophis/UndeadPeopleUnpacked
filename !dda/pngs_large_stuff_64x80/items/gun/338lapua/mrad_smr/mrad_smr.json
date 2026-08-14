@@ -1,0 +1,10 @@
+{
+  "id": "mrad_smr",
+  "fg": [
+    "mrad_smr"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": ["overlay_wielded_block_and_tackle"],
+  "fg": [
+    "block_and_tackle"
+  ],
+  "bg": [],
+  "rotates": false
+}
