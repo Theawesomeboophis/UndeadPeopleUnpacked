@@ -1,0 +1,16 @@
+{
+  "id": "mon_feral_human_telekin3",
+  "fg": [
+    { "weight": 10, "sprite": "mon_feral_human_telekin3_1" },
+    { "weight": 10, "sprite": "mon_feral_human_telekin3_2" },
+    { "weight": 10, "sprite": "mon_feral_human_telekin3_3" },
+    { "weight": 10, "sprite": "mon_feral_human_telekin3_4" },
+    { "weight": 10, "sprite": "mon_feral_human_telekin3_5" },
+    { "weight": 10, "sprite": "mon_feral_human_telekin3_6" },
+    { "weight": 10, "sprite": "mon_feral_human_telekin3_7" },
+    { "weight": 10, "sprite": "mon_feral_human_telekin3_8" }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

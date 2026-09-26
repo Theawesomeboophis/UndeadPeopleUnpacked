@@ -1,0 +1,10 @@
+{
+  "id": "abjuration_stone",
+  "fg": [
+    "abjuration_stone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

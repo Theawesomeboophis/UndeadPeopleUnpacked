@@ -1,0 +1,5 @@
+{
+  "id": "grenade_anti_psi_expended",
+  "fg": ["grenade_anti_psi_expended"],
+  "bg": ["bg_shadow_item"]
+}

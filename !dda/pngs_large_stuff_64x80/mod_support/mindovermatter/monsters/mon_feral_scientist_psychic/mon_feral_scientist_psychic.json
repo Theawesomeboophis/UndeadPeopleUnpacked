@@ -1,0 +1,16 @@
+{
+  "id": "mon_feral_scientist_psychic",
+  "fg": [
+    { "weight": 10, "sprite": "mon_feral_scientist_psychic_1" },
+    { "weight": 10, "sprite": "mon_feral_scientist_psychic_2" },
+    { "weight": 10, "sprite": "mon_feral_scientist_psychic_3" },
+    { "weight": 10, "sprite": "mon_feral_scientist_psychic_4" },
+    { "weight": 10, "sprite": "mon_feral_scientist_psychic_5" },
+    { "weight": 10, "sprite": "mon_feral_scientist_psychic_6" },
+    { "weight": 10, "sprite": "mon_feral_scientist_psychic_7" },
+    { "weight": 10, "sprite": "mon_feral_scientist_psychic_8" }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

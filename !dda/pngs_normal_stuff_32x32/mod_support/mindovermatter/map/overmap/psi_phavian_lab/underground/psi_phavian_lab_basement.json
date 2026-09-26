@@ -11,7 +11,7 @@
         "rotates": true
     },
     {
-        "id": "psi_phavian_lab_basementD1_hidden_psi_lab_stairs",
+        "id": "psi_phavian_lab_basementD1_hidden_lab_stairs",
         "fg": [
             "lab_surface_brick_basementD1_hidden_lab_stairs_south",
             "lab_surface_brick_basementD1_hidden_lab_stairs_west",

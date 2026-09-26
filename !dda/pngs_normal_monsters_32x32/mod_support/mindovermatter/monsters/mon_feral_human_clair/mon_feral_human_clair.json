@@ -1,0 +1,50 @@
+{
+  "id": ["mon_feral_human_clair"],
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_clair_10"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mon_zombie_nullpsi",
+  "fg": [
+	{"weight": 10, "sprite": "mon_zombie_nullpsi_1"}, 
+	{"weight": 10, "sprite": "mon_zombie_nullpsi_2"},
+	{"weight": 10, "sprite": "mon_zombie_nullpsi_3"}
+		 ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "animated": true,
+  "rotates": false
+}

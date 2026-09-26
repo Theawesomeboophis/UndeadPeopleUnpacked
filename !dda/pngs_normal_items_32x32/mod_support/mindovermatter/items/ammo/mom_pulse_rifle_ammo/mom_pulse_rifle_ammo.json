@@ -1,0 +1,10 @@
+{
+  "id": "mom_pulse_rifle_ammo",
+  "fg": [
+    "mom_pulse_rifle_ammo"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
