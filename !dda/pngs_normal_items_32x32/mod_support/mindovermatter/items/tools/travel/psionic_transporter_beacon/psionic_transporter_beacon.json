@@ -1,0 +1,10 @@
+{
+  "id": "psionic_transporter_beacon",
+  "fg": [
+    "psionic_transporter_beacon"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

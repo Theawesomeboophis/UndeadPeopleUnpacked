@@ -1,0 +1,10 @@
+{
+  "id": "trenchcoat_steampunk",
+  "fg": [
+    "trenchcoat_steampunk"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

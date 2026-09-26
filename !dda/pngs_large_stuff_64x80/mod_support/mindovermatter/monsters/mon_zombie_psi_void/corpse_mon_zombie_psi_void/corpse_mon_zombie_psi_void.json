@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_zombie_psi_void",
+  "fg": [
+    "corpse_mon_amigara_horror"
+  ],
+  "bg": [],
+  "rotates": false
+}

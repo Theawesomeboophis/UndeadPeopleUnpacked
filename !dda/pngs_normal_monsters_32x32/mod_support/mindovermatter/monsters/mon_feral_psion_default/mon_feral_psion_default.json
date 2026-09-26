@@ -1,0 +1,17 @@
+{
+  "id": ["mon_feral_psion_default"],
+  "fg": [
+    { "weight": 1, "sprite": "mon_feral_psion_default_1" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_2" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_3" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_4" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_5" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_6" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_7" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_8" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_9" },
+    { "weight": 1, "sprite": "mon_feral_psion_default_10" }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

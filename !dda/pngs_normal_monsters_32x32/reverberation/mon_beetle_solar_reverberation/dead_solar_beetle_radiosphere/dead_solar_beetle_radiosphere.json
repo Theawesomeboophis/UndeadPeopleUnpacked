@@ -1,0 +1,11 @@
+{
+  "id": [
+    "dead_solar_beetle_radiosphere",
+    "corpse_mon_beetle_solar_reverberation"
+  ],
+  "fg": [
+    "dead_solar_beetle_radiosphere"
+  ],
+  "bg": [],
+  "rotates": false
+}

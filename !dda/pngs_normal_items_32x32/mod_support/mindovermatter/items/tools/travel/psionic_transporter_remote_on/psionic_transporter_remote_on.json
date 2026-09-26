@@ -1,0 +1,10 @@
+{
+  "id": "psionic_transporter_remote_on",
+  "fg": [
+    "psionic_transporter_remote_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,5 @@
+{
+  "id": "grenade_inferno_makeshift",
+  "fg": ["grenade_inc"],
+  "bg": ["bg_shadow_item"]
+}

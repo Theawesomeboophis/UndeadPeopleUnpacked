@@ -1,0 +1,10 @@
+{
+  "id": "xs_duster_fur",
+  "fg": [
+    "duster_fur"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

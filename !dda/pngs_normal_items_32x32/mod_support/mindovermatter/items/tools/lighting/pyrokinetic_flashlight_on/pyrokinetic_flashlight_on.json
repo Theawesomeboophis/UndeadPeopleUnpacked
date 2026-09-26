@@ -1,0 +1,8 @@
+{
+  "id": "pyrokinetic_flashlight_on",
+  "fg": ["pyrokinetic_flashlight_on"],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

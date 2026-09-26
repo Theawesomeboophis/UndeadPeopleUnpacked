@@ -1,0 +1,34 @@
+{
+  "id": ["mon_feral_human_vita"],
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_vita_6"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

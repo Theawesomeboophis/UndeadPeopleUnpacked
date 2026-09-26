@@ -1,0 +1,10 @@
+{
+  "id": "translation_stone",
+  "fg": [
+    "translation_stone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

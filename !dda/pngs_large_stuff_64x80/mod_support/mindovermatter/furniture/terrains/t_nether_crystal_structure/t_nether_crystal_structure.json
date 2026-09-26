@@ -3,6 +3,6 @@
   "fg": [
     "t_nether_crystal_structure"
   ],
-  "bg": ["bg_big_vitrified_floor"],
+  "bg": [],
   "rotates": false
 }

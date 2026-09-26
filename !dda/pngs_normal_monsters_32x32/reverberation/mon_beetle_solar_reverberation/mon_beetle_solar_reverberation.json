@@ -1,0 +1,8 @@
+{
+  "id": "mon_beetle_solar_reverberation",
+  "fg": [
+    "mon_beetle_solar_reverberation"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

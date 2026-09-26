@@ -1,0 +1,10 @@
+{
+  "id": "pyrokinetic_lamp_on",
+  "fg": [
+    "pyrokinetic_lamp_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

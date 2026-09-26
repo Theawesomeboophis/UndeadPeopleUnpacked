@@ -1,9 +1,7 @@
 {
   "id": "overlay_wielded_sleeveless_trenchcoat",
   "fg": [
-    "overlay_wielded_sleeveless_trenchcoat"
+    "sleeveless_trenchcoat"
   ],
-  "bg": [
-    "bg_shadow_item"
-  ]
+  "bg": []
 }

@@ -1,0 +1,10 @@
+{
+  "id": "coat_light_winter",
+  "fg": [
+    "coat_light_winter"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

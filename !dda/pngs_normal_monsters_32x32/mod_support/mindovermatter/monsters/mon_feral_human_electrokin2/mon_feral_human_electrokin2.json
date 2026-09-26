@@ -1,0 +1,14 @@
+{
+  "id": ["mon_feral_human_electrokin2"],
+  "fg": [
+	{"weight": 10, "sprite": "mon_feral_human_electrokin2_1"}, 
+	{"weight": 10, "sprite": "mon_feral_human_electrokin2_2"},
+	{"weight": 10, "sprite": "mon_feral_human_electrokin2_3"}, 
+	{"weight": 10, "sprite": "mon_feral_human_electrokin2_4"},
+	{"weight": 10, "sprite": "mon_feral_human_electrokin2_5"},
+	{"weight": 10, "sprite": "mon_feral_human_electrokin2_6"}
+		 ],
+  "bg": ["bg_shadow_normal"],
+  "animated": true,
+  "rotates": false
+}

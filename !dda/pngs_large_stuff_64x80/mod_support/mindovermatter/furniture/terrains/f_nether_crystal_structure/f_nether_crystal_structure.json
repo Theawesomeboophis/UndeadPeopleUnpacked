@@ -4,5 +4,60 @@
     "f_nether_crystal_structure"
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_nether_crystal_structure"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure",
+        "f_nether_crystal_structure"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_nether_crystal_structure"
+      ],
+      "bg": []
+    }
+  ]
 }

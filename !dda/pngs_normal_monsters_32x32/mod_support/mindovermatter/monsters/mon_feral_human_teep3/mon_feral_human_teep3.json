@@ -1,0 +1,50 @@
+{
+  "id": ["mon_feral_human_teep3"],
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_teep_10"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}
