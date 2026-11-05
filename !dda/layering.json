@@ -2,11 +2,37 @@
   "variants": [
     {
       "context": "f_firering",
-      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_firering", "weight": 2 } ] } ]
+      "item_variants": [
+        { "item": "log", "sprite": [{"id": "firering_wood", "weight": 1}], "layer": 90 },
+        { "item": "2x4", "sprite": [{"id": "firering_wood", "weight": 1}], "layer": 90 },
+        { "item": "wood_block", "sprite": [{"id": "firering_wood", "weight": 1}], "layer": 90 },
+        { "item": "stick", "sprite": [{"id": "firering_wood", "weight": 1}], "layer": 90 },
+        { "item": "stick_long", "sprite": [{"id": "firering_wood", "weight": 1}], "layer": 90 },
+        { "item": "splinter", "sprite": [{"id": "firering_wood", "weight": 1}], "layer": 90 },
+        { "item": "tinder", "sprite": [{"id": "firering_wood", "weight": 1}], "layer": 90 },
+        { "item": "ash", "sprite": [{"id": "firering_ember", "weight": 1}], "layer": 80 },
+        { "item": "corpse_ash", "sprite": [{"id": "firering_ember", "weight": 1}], "layer": 80 }
+      ],
+      "field_variants": [
+        { "field": "fd_fire", "sprite": [{"id": "fd_fire_firering", "weight": 3}] }
+      ]
     },
     {
       "context": "f_brazier",
-      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_brazier", "weight": 2 } ] } ]
+      "item_variants": [
+        { "item": "log", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
+        { "item": "2x4", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
+        { "item": "wood_block", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
+        { "item": "stick", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
+        { "item": "stick_long", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
+        { "item": "splinter", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
+        { "item": "tinder", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
+        { "item": "ash", "sprite": [{"id": "brazier_ember", "weight": 1}], "layer": 80 },
+        { "item": "corpse_ash", "sprite": [{"id": "brazier_ember", "weight": 1}], "layer": 80 }
+      ],
+      "field_variants": [
+        { "field": "fd_fire", "sprite": [{"id": "fd_fire_brazier", "weight": 3}] }
+      ]
     },
     {
       "context": "f_woodstove",
@@ -18,11 +44,19 @@
     },
     {
       "context": "f_55gal_firebarrel",
-      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_brazier", "weight": 2 } ], "offset_x": 0, "offset_y": -14 } ]
+      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_55gal_firebarrel", "weight": 2 } ] } ]
     },
     {
       "context": "f_30gal_firebarrel",
-      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_brazier", "weight": 2 } ], "offset_x": 0, "offset_y": -14 } ]
+      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_30gal_firebarrel", "weight": 2 } ] } ]
+    },
+    {
+      "context": "f_makeshift_brazier",
+      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_makeshift_brazier", "weight": 2 } ] } ]
+    },
+    {
+      "context": "f_hobo_stove",
+      "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "fd_fire_hobo_stove", "weight": 2 } ] } ]
     },
     {
       "context": "f_flagpole",

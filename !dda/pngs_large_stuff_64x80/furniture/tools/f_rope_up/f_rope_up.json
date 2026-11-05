@@ -1,8 +1,16 @@
 {
   "id": "f_rope_up",
   "fg": [
-    "f_rope_up"
+    {
+      "weight": 25,
+      "sprite": "f_rope_up_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "f_rope_up_2"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }

@@ -1,0 +1,32 @@
+{
+  "id": "fd_fire_hobo_stove",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "fd_fire_hobo_stove_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_hobo_stove_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_hobo_stove_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_hobo_stove_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_hobo_stove_5"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_hobo_stove_6"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}
