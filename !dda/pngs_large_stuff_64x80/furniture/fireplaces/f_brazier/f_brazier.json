@@ -1,8 +1,26 @@
-{
-  "id": "f_brazier",
-  "fg": [
-    "f_brazier"
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+	{
+	  "id": "f_brazier",
+	  "fg": [
+		"f_brazier"
+	  ],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": "brazier_wood",
+	  "fg": [
+		"brazier_wood"
+	  ],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": "brazier_ember",
+	  "fg": [
+		"brazier_ember"
+	  ],
+	  "bg": [],
+	  "rotates": false
+	}
+]

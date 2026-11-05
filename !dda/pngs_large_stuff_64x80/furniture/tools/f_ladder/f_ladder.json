@@ -1,8 +1,16 @@
 {
   "id": "f_ladder",
   "fg": [
-    "f_ladder"
+    {
+      "weight": 25,
+      "sprite": "f_ladder_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "f_ladder_2"
+    }
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "animated": true
 }

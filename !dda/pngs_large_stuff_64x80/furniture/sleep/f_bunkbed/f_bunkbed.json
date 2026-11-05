@@ -4,5 +4,60 @@
     "f_bunkbed"
   ],
   "bg": [],
-  "rotates": false
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_bunkbed_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_bunkbed_corner_1",
+        "f_bunkbed_corner_4",
+        "f_bunkbed_corner_3",
+        "f_bunkbed_corner_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_bunkbed_t_connection_1",
+        "f_bunkbed_t_connection_4",
+        "f_bunkbed_t_connection_3",
+        "f_bunkbed_t_connection_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_bunkbed_edge_1",
+        "f_bunkbed_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_bunkbed_end_piece_1",
+        "f_bunkbed_end_piece_4",
+        "f_bunkbed_end_piece_3",
+        "f_bunkbed_end_piece_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [],
+      "bg": [
+        "f_bunkbed_unconnected"
+      ]
+    }
+  ]
 }

@@ -1,8 +1,26 @@
-{
-  "id": "f_firering",
-  "fg": [
-    "f_firering"
-  ],
-  "bg": [],
-  "rotates": false
-}
+[
+	{
+	  "id": "f_firering",
+	  "fg": [
+		"f_firering"
+	  ],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": "firering_wood",
+	  "fg": [
+		"firering_wood"
+	  ],
+	  "bg": [],
+	  "rotates": false
+	},
+	{
+	  "id": "firering_ember",
+	  "fg": [
+		"firering_ember"
+	  ],
+	  "bg": [],
+	  "rotates": false
+	}
+]
